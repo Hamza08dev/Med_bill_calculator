@@ -1,0 +1,36 @@
+,Code,Description,Relative Value,FUD,PC/TC Split
+,73565,"Radiologic examination, knee; both knees, standing, anteroposterior",1.4,XXX,40/60
+,73580,"Radiologic examination, knee, arthrography, radiological supervision and interpre- tation",5.66,XXX,35/65
+,73590,"Radiologic examination; tibia and fibula, 2 views",1.53,XXX,40/60
+,73592,"Radiologic examination; lower extremity, infant, minimum of 2 views",1.53,XXX,40/60
+,73600,"Radiologic examination, ankle; 2 views",1.38,XXX,40/60
+,73610,"Radiologic examination, ankle; complete, minimum of 3 views",1.48,XXX,40/60
+,73615,"Radiologic examination, ankle, arthrography, radiological supervision and inter- pretation",4.69,XXX,35/65
+,73620,"Radiologic examination, foot; 2 views",1.43,XXX,40/60
+,73630,"Radiologic examination, foot; complete, minimum of 3 views",1.48,XXX,40/60
+,73650,"Radiologic examination; calcaneus, minimum of 2 views",1.28,XXX,40/60
+,73660,"Radiologic examination; toe(s), minimum of 2 views",1.12,XXX,40/60
+,73700,"Computed tomography, lower extremity; without contrast material",9.2,XXX,25/75
+,73701,"Computed tomography, lower extremity; with contrast material(s)",10.59,XXX,25/75
+,73702,"Computed tomography, lower extremity; without contrast material, followed by contrast material(s) and further sections",12.71,XXX,25/75
+,73706,"Computed tomographic angiography, lower extremity, with contrast material(s), including noncontrast images, if performed, and image postprocessing",16.13,XXX,25/75
+,73718,"Magnetic resonance (eg, proton) imaging, lower extremity other than joint; with- out contrast material(s)",17.04,XXX,20/80
+,73719,"Magnetic resonance (eg, proton) imaging, lower extremity other than joint; with contrast material(s)",19.6,XXX,20/80
+,73720,"Magnetic resonance (eg, proton) imaging, lower extremity other than joint; with- out contrast material(s), followed by contrast material(s) and further sequences",23.51,XXX,20/80
+,73721,"Magnetic resonance (eg, proton) imaging, any joint of lower extremity; without contrast material",16.61,XXX,20/80
+,73722,"Magnetic resonance (eg, proton) imaging, any joint of lower extremity; with con- trast material(s)",19.11,XXX,20/80
+,73723,"Magnetic resonance (eg, proton) imaging, any joint of lower extremity; without contrast material(s), followed by contrast material(s) and further sequences",22.94,XXX,20/80
+,73725,"Magnetic resonance angiography, lower extremity, with or without contrast mate- rial(s)",18.45,XXX,20/80
+,74018,"Radiologic examination, abdomen; 1 view",1.33,XXX,40/60
+,74019,"Radiologic examination, abdomen; 2 views",1.39,XXX,35/65
+,74021,"Radiologic examination, abdomen; 3 or more views",1.62,XXX,35/65
+,74022,"Radiologic examination, abdomen; complete acute abdomen series, including supine, erect, and/or decubitus views, single view chest",2.55,XXX,40/60
+,74150,"Computed tomography, abdomen; without contrast material",10.25,XXX,25/75
+,74160,"Computed tomography, abdomen; with contrast material(s)",11.8,XXX,25/75
+,74170,"Computed tomography, abdomen; without contrast material, followed by contrast material(s) and further sections",14.15,XXX,25/75
+,74174,"Computed tomographic angiography, abdomen and pelvis, with contrast mate- rial(s), including noncontrast images, if performed, and image postprocessing",21.13,XXX,19/81
+,74175,"Computed tomographic angiography, abdomen, with contrast material(s), includ- ing noncontrast images, if performed, and image postprocessing",17.57,XXX,25/75
+,74176,"Computed tomography, abdomen and pelvis; without contrast material",7.06,XXX,37/63
+,74177,"Computed tomography, abdomen and pelvis; with contrast material(s)",10.82,XXX,24/76
+,74178,"Computed tomography, abdomen and pelvis; without contrast material in one or both body regions, followed by contrast material(s) and further sections in one or both body regions",14.13,XXX,21/79
+,74181,"Magnetic resonance (eg, proton) imaging, abdomen; without contrast material(s)",17.01,XXX,20/80

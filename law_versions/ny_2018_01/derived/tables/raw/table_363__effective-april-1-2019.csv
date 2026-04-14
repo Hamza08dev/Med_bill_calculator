@@ -1,0 +1,23 @@
+,Code,Description,Relative Value,FUD,PC/TC Split
+,0462T,"Programming device evaluation (in person) with iterative adjustment of the implantable mechano-electrical skin interface and/or external driver to test the function of the device and select optimal permanent programmed values with analysis, including review and report, implantable aortic counterpulsation ventric- ular assist system, per day",BR,YYY,
+,0463T,"Interrogation device evaluation (in person) with analysis, review and report, includes connection, recording and disconnection per patient encounter, implant- able aortic counterpulsation ventricular assist system, per day",BR,YYY,
+,0464T,"Visual evoked potential, testing for glaucoma, with interpretation and report",BR,YYY,
+,0465T,Suprachoroidal injection of a pharmacologic agent (does not include supply of medication),BR,YYY,
+ +,0466T,"Insertion of chest wall respiratory sensor electrode or electrode array, including connection to pulse generator (List separately in addition to code for primary pro- cedure)",BR,YYY,
+,0467T,"Revision or replacement of chest wall respiratory sensor electrode or electrode array, including connection to existing pulse generator",BR,YYY,
+,0468T,Removal of chest wall respiratory sensor electrode or electrode array,BR,YYY,
+,0469T,"Retinal polarization scan, ocular screening with on-site automated results, bilat- eral",BR,XXX,
+,0470T,"Optical coherence tomography (OCT) for microstructural and morphological imag- ing of skin, image acquisition, interpretation, and report; first lesion",3.23,XXX,40/60
+ +,0471T,"Optical coherence tomography (OCT) for microstructural and morphological imag- ing of skin, image acquisition, interpretation, and report; each additional lesion (List separately in addition to code for primary procedure)",1.11,XXX,40/60
+,0472T,"Device evaluation, interrogation, and initial programming of intraocular retinal electrode array (eg, retinal prosthesis), in person, with iterative adjustment of the implantable device to test functionality, select optimal permanent programmed values with analysis, including visual training, with review and report by a quali- fied health care professional",9.44,XXX,
+,0473T,"Device evaluation and interrogation of intraocular retinal electrode array (eg, reti- nal prosthesis), in person, including reprogramming and visual training, when per- formed, with review and report by a qualified health care professional",7.39,XXX,
+,0474T,"Insertion of anterior segment aqueous drainage device, with creation of intraocu- lar reservoir, internal approach, into the supraciliary space",3.34,XXX,
+,0475T,"Recording of fetal magnetic cardiac signal using at least 3 channels; patient recording and storage, data scanning with signal extraction, technical analysis and result, as well as supervision, review, and interpretation of report by a physi- cian or other qualified health care professional",5.90,XXX,
+,0476T,"Recording of fetal magnetic cardiac signal using at least 3 channels; patient recording, data scanning, with raw electronic signal transfer of data and storage",2.29,XXX,
+,0477T,"Recording of fetal magnetic cardiac signal using at least 3 channels; signal extraction, technical analysis, and result",10.60,XXX,
+,0478T,"Recording of fetal magnetic cardiac signal using at least 3 channels; review, inter- pretation, report by physician or other qualified health care professional",8.82,XXX,
+,0479T,"Fractional ablative laser fenestration of burn and traumatic scars for functional improvement; first 100 cm2 or part thereof, or 1% of body surface area of infants and children",1.01,000,
+ +,0480T,"Fractional ablative laser fenestration of burn and traumatic scars for functional improvement; each additional 100 cm2, or each additional1%of body surface area of infants and children, or part thereof (List separately in addition to code for pri- mary procedure)",0.48,ZZZ,
+,0481T,"Injection(s), autologous white blood cell concentrate (autologous protein solu- tion), any site, including image guidance, harvesting and preparation, when per- formed",BR,000,
+ +,0482T,"Absolute quantitation of myocardial blood flow, positron emission tomography (PET), rest and stress (List separately in addition to code for primary procedure)",7.45,ZZZ,9/91
+,0483T,"Transcatheter mitral valve implantation/replacement (TMVI) with prosthetic valve; percutaneous approach, including transseptal puncture, when performed",11.75,000,

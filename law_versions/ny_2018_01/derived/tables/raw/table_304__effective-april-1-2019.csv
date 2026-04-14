@@ -1,0 +1,31 @@
+,Code,Description,Relative Value,FUD,PC/TC Split
+,88152,"Cytopathology, slides, cervical or vaginal; with manual screening and com- puter-assisted rescreening under physician supervision",11.00,XXX,0/100
+,88153,"Cytopathology, slides, cervical or vaginal; with manual screening and rescreening under physician supervision",11.52,XXX,0/100
++,88155,"Cytopathology, slides, cervical or vaginal, definitive hormonal evaluation (eg, mat- uration index, karyopyknotic index, estrogenic index) (List separately in addition to code[s] for other technical and interpretation services)",11.55,XXX,0/100
+,88160,"Cytopathology, smears, any other source; screening and interpretation",21.56,XXX,80/20
+,88161,"Cytopathology, smears, any other source; preparation, screening and interpreta- tion",24.64,XXX,70/30
+,88162,"Cytopathology, smears, any other source; extended study involving over 5 slides and/or multiple stains",41.28,XXX,70/30
+,88164,"Cytopathology, slides, cervical or vaginal (the Bethesda System); manual screen- ing under physician supervision",10.47,XXX,0/100
+,88165,"Cytopathology, slides, cervical or vaginal (the Bethesda System); with manual screening and rescreening under physician supervision",11.52,XXX,0/100
+,88166,"Cytopathology, slides, cervical or vaginal (the Bethesda System); with manual screening and computer-assisted rescreening under physician supervision",11.00,XXX,0/100
+,88167,"Cytopathology, slides, cervical or vaginal (the Bethesda System); with manual screening and computer-assisted rescreening using cell selection and review under physician supervision",12.04,XXX,0/100
+,88172,"Cytopathology, evaluation of fine needle aspirate; immediate cytohistologic study to determine adequacy for diagnosis, first evaluation episode, each site",44.36,XXX,
+,88173,"Cytopathology, evaluation of fine needle aspirate; interpretation and report",57.91,XXX,85/15
+,88174,"Cytopathology, cervical or vaginal (any reporting system), collected in preserva- tive fluid, automated thin layer preparation; screening by automated system, under physician supervision",11.09,XXX,0/100
+,88175,"Cytopathology, cervical or vaginal (any reporting system), collected in preserva- tive fluid, automated thin layer preparation; with screening by automated system and manual rescreening or review, under physician supervision",12.01,XXX,0/100
++,88177,"Cytopathology, evaluation of fine needle aspirate; immediate cytohistologic study to determine adequacy for diagnosis, each separate additional evaluation epi- sode, same site (List separately in addition to code for primary procedure)",8.63,ZZZ,75/25
+,88182,"Flow cytometry, cell cycle or DNA analysis",156.49,XXX,20/80
+,88184,"Flow cytometry, cell surface, cytoplasmic, or nuclear marker, technical compo- nent only; first marker",67.16,XXX,0/100
++,88185,"Flow cytometry, cell surface, cytoplasmic, or nuclear marker, technical compo- nent only; each additional marker (List separately in addition to code for first marker)",33.27,ZZZ,0/100
+,88187,"Flow cytometry, interpretation; 2 to 8 markers",49.29,XXX,
+,88188,"Flow cytometry, interpretation; 9 to 15 markers",61.61,XXX,
+,88189,"Flow cytometry, interpretation; 16 or more markers",81.33,XXX,
+,88199,Unlisted cytopathology procedure,BR,XXX,
+,88230,Tissue culture for non-neoplastic disorders; lymphocyte,66.54,XXX,0/100
+,88233,Tissue culture for non-neoplastic disorders; skin or other solid tissue biopsy,25.26,XXX,0/100
+,88235,Tissue culture for non-neoplastic disorders; amniotic fluid or chorionic villus cells,141.70,XXX,0/100
+,88237,"Tissue culture for neoplastic disorders; bone marrow, blood cells",109.05,XXX,0/100
+,88239,Tissue culture for neoplastic disorders; solid tumor,43.13,XXX,0/100
+,88240,"Cryopreservation, freezing and storage of cells, each cell line",61.61,XXX,0/100
+,88241,"Thawing and expansion of frozen cells, each aliquot",67.77,XXX,0/100
+,88245,Chromosome analysis for breakage syndromes; baseline Sister Chromatid,83.17,XXX,0/100

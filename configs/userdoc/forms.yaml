@@ -1,0 +1,40 @@
+# configs/userdoc/forms.yaml
+forms:
+  nf3:
+    score: 3
+    markers:
+      - "(^|\\b)NYS\\s*FORM\\s*NF[- ]?3(\\b|$)"
+      - "REPORT OF SERVICES RENDERED"
+      - "VERIFICATION OF TREATMENT"
+  cms1500:
+    score: 3
+    markers:
+      - "(^|\\b)CMS[- ]?1500(\\b|$)"
+      - "HEALTH INSURANCE CLAIM FORM"
+      - "HCFA\\s*1500"
+  ar1:
+    score: 2
+    markers:
+      - "Arbitration Request"
+      - "New York Motor Vehicle No-Fault Insurance Law Arbitration Request"
+      - "(^|\\b)AR[- ]?1(\\b|$)"
+  eob:
+    score: 2
+    markers:
+      - "Explanation of (Benefits|Review)"
+      - "(^|\\b)EOB(\\b|$)"
+      - "(^|\\b)EOR(\\b|$)"
+  nf10:
+    score: 2
+    markers:
+      - "(^|\\b)NF[- ]?10(\\b|$)"
+  progress_note:
+    score: 2
+    markers:
+      - "PROGRESS NOTE"
+      - "CPT\\s*Codes:"
+      - "HCPC\\s*Codes:"
+unknown:
+  score_threshold: 2       # page needs >=2 total marker hits to be classified
+window_merge:
+  max_gap_pages: 1         # merge same-type pages separated by ≤1 page gap

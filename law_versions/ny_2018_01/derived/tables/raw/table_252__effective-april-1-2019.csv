@@ -1,0 +1,26 @@
+,Code,Description,Relative Value,FUD,PC/TC Split
+,76642,"Ultrasound, breast, unilateral, real time with image documentation, including axilla when performed; limited",3.7,XXX,39/61
+,76700,"Ultrasound, abdominal, real time with image documentation; complete",5.1,XXX,45/55
+,76705,"Ultrasound, abdominal, real time with image documentation; limited (eg, single organ, quadrant, follow-up)",3.83,XXX,45/55
+,76706,"Ultrasound, abdominal aorta, real time with image documentation, screening study for abdominal aortic aneurysm (AAA)",3.97,XXX,29/71
+,76770,"Ultrasound, retroperitoneal (eg, renal, aorta, nodes), real time with image docu- mentation; complete",4.87,XXX,45/55
+,76775,"Ultrasound, retroperitoneal (eg, renal, aorta, nodes), real time with image docu- mentation; limited",3.14,XXX,45/55
+,76776,"Ultrasound, transplanted kidney, real time and duplex Doppler with image docu- mentation",4.9,XXX,30/70
+,76800,"Ultrasound, spinal canal and contents",5.56,XXX,45/55
+,76801,"Ultrasound, pregnant uterus, real time with image documentation, fetal and mater- nal evaluation, first trimester (< 14 weeks 0 days), transabdominal approach; sin- gle or first gestation",4.51,XXX,45/55
++,76802,"Ultrasound, pregnant uterus, real time with image documentation, fetal and mater- nal evaluation, first trimester (< 14 weeks 0 days), transabdominal approach; each additional gestation (List separately in addition to code for primary procedure)",2.26,ZZZ,45/55
+,76805,"Ultrasound, pregnant uterus, real time with image documentation, fetal and mater- nal evaluation, after first trimester (> or = 14 weeks 0 days), transabdominal approach; single or first gestation",4.51,XXX,45/55
++,76810,"Ultrasound, pregnant uterus, real time with image documentation, fetal and mater- nal evaluation, after first trimester (> or = 14 weeks 0 days), transabdominal approach; each additional gestation (List separately in addition to code for pri- mary procedure)",6.58,ZZZ,45/55
+,76811,"Ultrasound, pregnant uterus, real time with image documentation, fetal and mater- nal evaluation plus detailed fetal anatomic examination, transabdominal approach; single or first gestation",5.42,XXX,45/55
++,76812,"Ultrasound, pregnant uterus, real time with image documentation, fetal and mater- nal evaluation plus detailed fetal anatomic examination, transabdominal approach; each additional gestation (List separately in addition to code for pri- mary procedure)",2.7,ZZZ,45/55
+,76813,"Ultrasound, pregnant uterus, real time with image documentation, first trimester fetal nuchal translucency measurement, transabdominal or transvaginal approach; single or first gestation",4.21,XXX,45/55
++,76814,"Ultrasound, pregnant uterus, real time with image documentation, first trimester fetal nuchal translucency measurement, transabdominal or transvaginal approach; each additional gestation (List separately in addition to code for pri- mary procedure)",2.81,XXX,57/43
+,76815,"Ultrasound, pregnant uterus, real time with image documentation, limited (eg, fetal heart beat, placental location, fetal position and/or qualitative amniotic fluid vol- ume), 1 or more fetuses",3.32,XXX,45/55
+,76816,"Ultrasound, pregnant uterus, real time with image documentation, follow-up (eg, re-evaluation of fetal size by measuring standard growth parameters and amniotic fluid volume, re-evaluation of organ system(s) suspected or confirmed to be abnormal on a previous scan), transabdominal approach, per fetus",2.91,XXX,45/55
+,76817,"Ultrasound, pregnant uterus, real time with image documentation, transvaginal",4.51,XXX,45/55
+,76818,Fetal biophysical profile; with non-stress testing,4.74,XXX,45/55
+,76819,Fetal biophysical profile; without non-stress testing,4.72,XXX,45/55
+,76820,"Doppler velocimetry, fetal; umbilical artery",3.49,XXX,30/70
+,76821,"Doppler velocimetry, fetal; middle cerebral artery",3.88,XXX,35/65
+,76825,"Echocardiography, fetal, cardiovascular system, real time with image documenta- tion (2D), with or without M-mode recording;",5.99,XXX,45/55
+,76826,"Echocardiography, fetal, cardiovascular system, real time with image documenta- tion (2D), with or without M-mode recording; follow-up or repeat study",3.6,XXX,45/55

@@ -1,0 +1,30 @@
+,Code,Description,Relative Value,FUD,PC/TC Split
+76827,,"Doppler echocardiography, fetal, pulsed wave and/or continuous wave with spec- tral display; complete",3.83,XXX,45/55
+76828,,"Doppler echocardiography, fetal, pulsed wave and/or continuous wave with spec- tral display; follow-up or repeat study",2.30,XXX,45/55
+,76830,"Ultrasound, transvaginal",5.10,XXX,45/55
+76831,,"Saline infusion sonohysterography (SIS), including color flow Doppler, when per- formed",5.89,XXX,45/55
+76856,,"Ultrasound, pelvic (nonobstetric), real time with image documentation; complete",4.46,XXX,45/55
+76857,,"Ultrasound, pelvic (nonobstetric), real time with image documentation; limited or follow-up (eg, for follicles)",4.08,XXX,45/55
+76870,,"Ultrasound, scrotum and contents",3.83,XXX,45/55
+76872,,"Ultrasound, transrectal;",5.46,XXX,45/55
+76873,,"Ultrasound, transrectal; prostate volume study for brachytherapy treatment plan- ning (separate procedure)",4.59,XXX,45/55
+76881,,"Ultrasound, complete joint (ie, joint space and peri-articular soft tissue structures) real-time with image documentation",4.46,XXX,25/75
+76882,,"Ultrasound, limited, joint or other nonvascular extremity structure(s) (eg, joint space, peri-articular tendon[s], muscle[s], nerve[s], other soft tissue structure[s], or soft tissue mass[es]), real-time with image documentation",1.28,XXX,69/31
+76885,,"Ultrasound, infant hips, real time with imaging documentation; dynamic (requiring physician or other qualified health care professional manipulation)",4.59,XXX,45/55
+76886,,"Ultrasound, infant hips, real time with imaging documentation; limited, static (not requiring physician or other qualified health care professional manipulation)",4.02,XXX,45/55
+76930,,"Ultrasonic guidance for pericardiocentesis, imaging supervision and interpreta- tion",3.83,XXX,45/55
+76932,,"Ultrasonic guidance for endomyocardial biopsy, imaging supervision and interpre- tation",4.41,YYY,45/55
+76936,,"Ultrasound guided compression repair of arterial pseudoaneurysm or arteriove- nous fistulae (includes diagnostic ultrasound evaluation, compression of lesion and imaging)",13.54,XXX,20/80
+76937,,"Ultrasound guidance for vascular access requiring ultrasound evaluation of potential access sites, documentation of selected vessel patency, concurrent realtime ultrasound visualization of vascular needle entry, with permanent record- ing and reporting (List separately in addition to code for primary procedure)",1.51,ZZZ,20/80
+76940,,"Ultrasound guidance for, and monitoring of, parenchymal tissue ablation",4.49,YYY,20/80
+76941,,"Ultrasonic guidance for intrauterine fetal transfusion or cordocentesis, imaging supervision and interpretation",3.70,XXX,45/55
+76942,,"Ultrasonic guidance for needle placement (eg, biopsy, aspiration, injection, local- ization device), imaging supervision and interpretation",4.97,XXX,45/55
+76945,,"Ultrasonic guidance for chorionic villus sampling, imaging supervision and inter- pretation",3.70,XXX,45/55
+76946,,"Ultrasonic guidance for amniocentesis, imaging supervision and interpretation",4.13,XXX,45/55
+76948,,"Ultrasonic guidance for aspiration of ova, imaging supervision and interpretation",4.72,XXX,45/55
+,76965,Ultrasonic guidance for interstitial radioelement application,4.59,XXX,45/55
+76970,,Ultrasound study follow-up (specify),2.99,XXX,45/55
+76975,,"Gastrointestinal endoscopic ultrasound, supervision and interpretation",6.68,XXX,45/55
+76977,,"Ultrasound bone density measurement and interpretation, peripheral site(s), any method",2.09,XXX,31/69
+,76998,"Ultrasonic guidance, intraoperative",2.79,XXX,
+76999,,"Unlisted ultrasound procedure (eg, diagnostic, interventional)",BR,XXX,

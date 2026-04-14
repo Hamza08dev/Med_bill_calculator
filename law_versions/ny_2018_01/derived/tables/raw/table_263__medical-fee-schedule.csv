@@ -1,0 +1,46 @@
+,Code,Description,Relative Value,FUD,PC/TC Split
+ 80047,"Basic metabolic panel (Calcium, ionized)",,14.79,XXX,0/100
+ 80048,"Basic metabolic panel (Calcium, total)",,12.94,XXX,0/100
+80050,General health panel,,33.89,XXX,0/100
+80051,Electrolyte panel,,10.47,XXX,0/100
+80053,Comprehensive metabolic panel,17.87,,XXX,0/100
+80055,Obstetric panel,,38.81,XXX,0/100
+80061,Lipid panel,,23.72,XXX,0/100
+80069,Renal function panel,14.17,,XXX,0/100
+80074,Acute hepatitis panel,57.91,,XXX,0/100
+80076,Hepatic function panel,12.32,,XXX,0/100
+ 80081,Obstetric panel (includes HIV testing),,83.06,XXX,0/100
+80150,Amikacin,27.72,,XXX,0/100
+ 80155,Caffeine,,34.58,XXX,0/100
+80156,Carbamazepine; total,24.64,,XXX,0/100
+80157,Carbamazepine; free,24.64,,XXX,0/100
+80158,Cyclosporine,36.97,,XXX,0/100
+ 80159,Clozapine,20.36,,XXX,0/100
+ 80162,Digoxin;,total,23.41,XXX,0/100
+ 80163,Digoxin; free,14.87,,XXX,0/100
+ 80164,Valproic acid (dipropylacetic acid);,total,24.64,XXX,0/100
+ 80165,Valproic acid (dipropylacetic acid); free,14.87,,XXX,0/100
+80168,,Ethosuximide,27.72,XXX,0/100
+ 80169,,Everolimus,15.19,XXX,0/100
+80170,,Gentamicin,24.64,XXX,0/100
+ 80171,"Gabapentin, whole blood, serum, or plasma",,19.39,XXX,0/100
+80173,Haloperidol,,30.81,XXX,0/100
+ 80175,,Lamotrigine,14.54,XXX,0/100
+80176,,Lidocaine,24.64,XXX,0/100
+ 80177,Levetiracetam,,14.54,XXX,0/100
+80178,,Lithium,14.17,XXX,0/100
+ 80180,Mycophenolate (mycophenolic,acid),20.04,XXX,0/100
+ 80183,,Oxcarbazepine,14.54,XXX,0/100
+80184,Phenobarbital,,24.64,XXX,0/100
+80185,Phenytoin;,total,23.41,XXX,0/100
+80186,Phenytoin; free,,24.64,XXX,0/100
+80188,Primidone,,24.64,XXX,0/100
+80190,,Procainamide;,24.64,XXX,0/100
+80192,"Procainamide; with metabolites (eg, n-acetyl procainamide)",,33.89,XXX,0/100
+80194,Quinidine,,24.64,XXX,0/100
+80195,Sirolimus,,33.89,XXX,0/100
+80197,Tacrolimus,,36.97,XXX,0/100
+80198,Theophylline,,23.41,XXX,0/100
+ 80199,Tiagabine,,24.24,XXX,0/100
+80200,Tobramycin,27.72,,XXX,0/100
+80201,Topiramate,,24.64,XXX,0/100

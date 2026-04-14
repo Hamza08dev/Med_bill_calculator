@@ -1,0 +1,29 @@
+# Canonical sections we care about + common heading cues
+# configs/sections.yaml
+sections:
+  eM:
+    aliases: ["evaluation and management", "e/m", "e m"]
+  anesthesia:
+    aliases: ["anesthesia"]
+  surgery:
+    aliases: ["surgery"]
+  radiology:
+    aliases: ["radiology", "diagnostic ultrasound", "nuclear medicine"]
+  pathology:
+    aliases: ["pathology and laboratory", "laboratory"]
+  medicine:
+    aliases: ["medicine"]
+  PhysicalMedicine:
+    aliases: ["physical medicine", "physical medicine/rehabilitation", "pm&r"]
+  category3:
+    aliases: ["category iii codes", "category iii"]
+
+special_tables:
+  conversion_factors:
+    match:
+      any_heading_contains: ["conversion factor", "conversion factors"]
+    output: "Section_conversion.csv"
+  zip_regions:
+    match:
+      any_heading_contains: ["postal zip codes by region", "region i", "region ii", "region iii", "region iv"]
+    output: "Zip_regions.csv"

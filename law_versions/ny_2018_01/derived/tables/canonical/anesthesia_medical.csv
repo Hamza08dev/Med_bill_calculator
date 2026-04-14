@@ -1,0 +1,157 @@
+code,description,rvu,fud,pctc_split,is_addon,is_mod51_exempt,is_state_specific,is_altered_cpt,is_br
+99100,Anesthesia for patient of extreme age: under one year and over seventy (List sep- arately in addition to code for primary anesthesia procedure),,,,False,False,False,False,False
+99116,Anesthesia complicated by utilization of total body hypothermia (List separately in addition to code for primary anesthesia procedure),,,,False,False,False,False,False
+99135,Anesthesia complicated by utilization of controlled hypotension (List separately in addition to code for primary anesthesia procedure),,,,False,False,False,False,False
+99140,Anesthesia complicated by emergency conditions (specify) (List separately in addition to code for primary anesthesia procedure) (An emergency is defined as existing when delay in treatment of the patient would lead to a significant increase in the threat to life or body part.),,,,False,False,False,False,False
+00100,"Anesthesia for procedures on salivary glands, including biopsy",,,,False,False,False,False,False
+00102,Anesthesia for procedures involving plastic repair of cleft lip,,,,False,False,False,False,False
+00103,"Anesthesia for reconstructive procedures of eyelid (eg, blepharoplasty, ptosis surgery)",,,,False,False,False,False,False
+00104,Anesthesia for electroconvulsive therapy,,,,False,False,False,False,False
+00120,"Anesthesia for procedures on external, middle, and inner ear including biopsy; not otherwise specified",,,,False,False,False,False,False
+00124,"Anesthesia for procedures on external, middle, and inner ear including biopsy; otoscopy",,,,False,False,False,False,False
+00126,"Anesthesia for procedures on external, middle, and inner ear including biopsy; tympanotomy",,,,False,False,False,False,False
+00140,Anesthesia for procedures on eye; not otherwise specified,,,,False,False,False,False,False
+00142,Anesthesia for procedures on eye; lens surgery,,,,False,False,False,False,False
+00144,Anesthesia for procedures on eye; corneal transplant,,,,False,False,False,False,False
+00145,Anesthesia for procedures on eye; vitreoretinal surgery,,,,False,False,False,False,False
+00147,Anesthesia for procedures on eye; iridectomy,,,,False,False,False,False,False
+00148,Anesthesia for procedures on eye; ophthalmoscopy,,,,False,False,False,False,False
+00160,Anesthesia for procedures on nose and accessory sinuses; not otherwise specified,,,,False,False,False,False,False
+00162,Anesthesia for procedures on nose and accessory sinuses; radical surgery,,,,False,False,False,False,False
+00164,"Anesthesia for procedures on nose and accessory sinuses; biopsy, soft tissue",,,,False,False,False,False,False
+00170,"Anesthesia for intraoral procedures, including biopsy; not otherwise specified",,,,False,False,False,False,False
+00172,"Anesthesia for intraoral procedures, including biopsy; repair of cleft palate",,,,False,False,False,False,False
+00174,"Anesthesia for intraoral procedures, including biopsy; excision of retropharyngeal tumor",,,,False,False,False,False,False
+00176,"Anesthesia for intraoral procedures, including biopsy; radical surgery",,,,False,False,False,False,False
+00190,Anesthesia for procedures on facial bones or skull; not otherwise specified,,,,False,False,False,False,False
+00192,Anesthesia for procedures on facial bones or skull; radical surgery (including prognathism),,,,False,False,False,False,False
+00210,Anesthesia for intracranial procedures; not otherwise specified,,,,False,False,False,False,False
+00211,Anesthesia for intracranial procedures; craniotomy or craniectomy for evacuation of hematoma,,,,False,False,False,False,False
+00212,Anesthesia for intracranial procedures; subdural taps,,,,False,False,False,False,False
+00214,"Anesthesia for intracranial procedures; burr holes, including ventriculography",,,,False,False,False,False,False
+00215,"Anesthesia for intracranial procedures; cranioplasty or elevation of depressed skull fracture, extradural (simple or compound)",,,,False,False,False,False,False
+00216,Anesthesia for intracranial procedures; vascular procedures,,,,False,False,False,False,False
+00218,Anesthesia for intracranial procedures; procedures in sitting position,,,,False,False,False,False,False
+00220,Anesthesia for intracranial procedures; cerebrospinal fluid shunting procedures,,,,False,False,False,False,False
+00222,Anesthesia for intracranial procedures; electrocoagulation of intracranial nerve,,,,False,False,False,False,False
+00300,"Anesthesia for all procedures on the integumentary system, muscles and nerves of head, neck, and poste- rior trunk, not otherwise specified",,,,False,False,False,False,False
+00320,"Anesthesia for all procedures on esophagus, thyroid, larynx, trachea and lymphatic system of neck; not otherwise specified, age 1 year or older",,,,False,False,False,False,False
+00322,"Anesthesia for all procedures on esophagus, thyroid, larynx, trachea and lymphatic system of neck; needle biopsy of thyroid",,,,False,False,False,False,False
+00326,Anesthesia for all procedures on the larynx and trachea in children younger than 1 year of age,,,,False,False,False,False,False
+00350,Anesthesia for procedures on major vessels of neck; not otherwise specified,,,,False,False,False,False,False
+00352,Anesthesia for procedures on major vessels of neck; simple ligation,,,,False,False,False,False,False
+00400,"Anesthesia for procedures on the integumentary system on the extremities, anterior trunk and perineum; not otherwise specified",,,,False,False,False,False,False
+00402,"Anesthesia for procedures on the integumentary system on the extremities, anterior trunk and perineum; reconstructive procedures on breast (eg, reduction or augmentation mammoplasty, muscle flaps)",,,,False,False,False,False,False
+00404,"Anesthesia for procedures on the integumentary system on the extremities, anterior trunk and perineum; radical or modified radical procedures on breast",,,,False,False,False,False,False
+00630,Anesthesia for procedures in lumbar region; not otherwise specified,,,,False,False,False,False,False
+00632,Anesthesia for procedures in lumbar region; lumbar sympathectomy,,,,False,False,False,False,False
+00635,Anesthesia for procedures in lumbar region; diagnostic or therapeutic lumbar puncture,,,,False,False,False,False,False
+00640,"Anesthesia for manipulation of the spine or for closed procedures on the cervical, thoracic or lumbar spine",,,,False,False,False,False,False
+00670,"Anesthesia for extensive spine and spinal cord procedures (eg, spinal instrumentation or vascular proce- dures)",,,,False,False,False,False,False
+00700,Anesthesia for procedures on upper anterior abdominal wall; not otherwise specified,,,,False,False,False,False,False
+00702,Anesthesia for procedures on upper anterior abdominal wall; percutaneous liver biopsy,,,,False,False,False,False,False
+00730,Anesthesia for procedures on upper posterior abdominal wall,,,,False,False,False,False,False
+00731,"Anesthesia for upper gastrointestinal endoscopic procedures, endoscope introduced proximal to duode- num; not otherwise specified",,,,False,False,False,False,False
+00732,"Anesthesia for upper gastrointestinal endoscopic procedures, endoscope introduced proximal to duode- num; endoscopic retrograde cholangiopancreatography (ER C P)",,,,False,False,False,False,False
+00750,Anesthesia for hernia repairs in upper abdomen; not otherwise specified,,,,False,False,False,False,False
+00752,Anesthesia for hernia repairs in upper abdomen; lumbar and ventral (incisional) hernias and/or wound dehiscence,,,,False,False,False,False,False
+00754,Anesthesia for hernia repairs in upper abdomen; omphalocele,,,,False,False,False,False,False
+00756,Anesthesia for hernia repairs in upper abdomen; transabdominal repair of diaphragmatic hernia,,,,False,False,False,False,False
+00770,Anesthesia for all procedures on major abdominal blood vessels,,,,False,False,False,False,False
+00790,Anesthesia for intraperitoneal procedures in upper abdomen including laparoscopy; not otherwise speci- fied,,,,False,False,False,False,False
+00792,Anesthesia for intraperitoneal procedures in upper abdomen including laparoscopy; partial hepatectomy or management of liver hemorrhage (excluding liver biopsy),,,,False,False,False,False,False
+00794,"Anesthesia for intraperitoneal procedures in upper abdomen including laparoscopy; pancreatectomy, par- tial or total (eg, Whipple procedure)",,,,False,False,False,False,False
+00796,Anesthesia for intraperitoneal procedures in upper abdomen including laparoscopy; liver transplant (recip- ient),,,,False,False,False,False,False
+00797,Anesthesia for intraperitoneal procedures in upper abdomen including laparoscopy; gastric restrictive pro- cedure for morbid obesity,,,,False,False,False,False,False
+00800,Anesthesia for procedures on lower anterior abdominal wall; not otherwise specified,,,,False,False,False,False,False
+00802,Anesthesia for procedures on lower anterior abdominal wall; panniculectomy,,,,False,False,False,False,False
+00811,"Anesthesia for lower intestinal endoscopic procedures, endoscope introduced distal to duodenum; not otherwise specified",,,,False,False,False,False,False
+00812,"Anesthesia for lower intestinal endoscopic procedures, endoscope introduced distal to duodenum; screening colonoscopy",,,,False,False,False,False,False
+00813,"Anesthesia for combined upper and lower gastrointestinal endoscopic procedures, endoscope introduced both proximal to and distal to the duodenum",,,,False,False,False,False,False
+00820,Anesthesia for procedures on lower posterior abdominal wall,,,,False,False,False,False,False
+00830,Anesthesia for hernia repairs in lower abdomen; not otherwise specified,,,,False,False,False,False,False
+00832,Anesthesia for hernia repairs in lower abdomen; ventral and incisional hernias,,,,False,False,False,False,False
+00834,"Anesthesia for hernia repairs in the lower abdomen not otherwise specified, younger than 1 year of age",,,,False,False,False,False,False
+00836,"Anesthesia for hernia repairs in the lower abdomen not otherwise specified, infants younger than 37 weeks gestational age at birth and younger than 50 weeks gestational age at time of surgery",,,,False,False,False,False,False
+00840,Anesthesia for intraperitoneal procedures in lower abdomen including laparoscopy; not otherwise speci- fied,,,,False,False,False,False,False
+00842,Anesthesia for intraperitoneal procedures in lower abdomen including laparoscopy; amniocentesis,,,,False,False,False,False,False
+00844,Anesthesia for intraperitoneal procedures in lower abdomen including laparoscopy; abdominoperineal resection,,,,False,False,False,False,False
+00846,Anesthesia for intraperitoneal procedures in lower abdomen including laparoscopy; radical hysterectomy,,,,False,False,False,False,False
+00848,Anesthesia for intraperitoneal procedures in lower abdomen including laparoscopy; pelvic exenteration,,,,False,False,False,False,False
+00851,Anesthesia for intraperitoneal procedures in lower abdomen including laparoscopy; tubal ligation/transec- tion,,,,False,False,False,False,False
+00948,"Anesthesia for vaginal procedures (including biopsy of labia, vagina, cervix or endometrium); cervical cer- clage",,,,False,False,False,False,False
+00950,"Anesthesia for vaginal procedures (including biopsy of labia, vagina, cervix or endometrium); culdoscopy",,,,False,False,False,False,False
+00952,"Anesthesia for vaginal procedures (including biopsy of labia, vagina, cervix or endometrium); hysteroscopy and/or hysterosalpingography",,,,False,False,False,False,False
+01112,"Anesthesia for bone marrow aspiration and/or biopsy, anterior or posterior iliac crest",,,,False,False,False,False,False
+01120,Anesthesia for procedures on bony pelvis,,,,False,False,False,False,False
+01130,Anesthesia for body cast application or revision,,,,False,False,False,False,False
+01140,Anesthesia for interpelviabdominal (hindquarter) amputation,,,,False,False,False,False,False
+01150,"Anesthesia for radical procedures for tumor of pelvis, except hindquarter amputation",,,,False,False,False,False,False
+01160,Anesthesia for closed procedures involving symphysis pubis or sacroiliac joint,,,,False,False,False,False,False
+01170,Anesthesia for open procedures involving symphysis pubis or sacroiliac joint,,,,False,False,False,False,False
+01173,Anesthesia for open repair of fracture disruption of pelvis or column fracture involving acetabulum,,,,False,False,False,False,False
+01200,Anesthesia for all closed procedures involving hip joint,,,,False,False,False,False,False
+01202,Anesthesia for arthroscopic procedures of hip joint,,,,False,False,False,False,False
+01210,Anesthesia for open procedures involving hip joint; not otherwise specified,,,,False,False,False,False,False
+01212,Anesthesia for open procedures involving hip joint; hip disarticulation,,,,False,False,False,False,False
+01214,Anesthesia for open procedures involving hip joint; total hip arthroplasty,,,,False,False,False,False,False
+01215,Anesthesia for open procedures involving hip joint; revision of total hip arthroplasty,,,,False,False,False,False,False
+01220,Anesthesia for all closed procedures involving upper two-thirds of femur,,,,False,False,False,False,False
+01230,Anesthesia for open procedures involving upper two-thirds of femur; not otherwise specified,,,,False,False,False,False,False
+01232,Anesthesia for open procedures involving upper two-thirds of femur; amputation,,,,False,False,False,False,False
+01234,Anesthesia for open procedures involving upper two-thirds of femur; radical resection,,,,False,False,False,False,False
+01250,"Anesthesia for all procedures on nerves, muscles, tendons, fascia, and bursae of upper leg",,,,False,False,False,False,False
+01260,"Anesthesia for all procedures involving veins of upper leg, including exploration",,,,False,False,False,False,False
+01270,"Anesthesia for procedures involving arteries of upper leg, including bypass graft; not otherwise specified",,,,False,False,False,False,False
+01272,"Anesthesia for procedures involving arteries of upper leg, including bypass graft; femoral artery ligation",,,,False,False,False,False,False
+01274,"Anesthesia for procedures involving arteries of upper leg, including bypass graft; femoral artery embolec- tomy",,,,False,False,False,False,False
+01320,"Anesthesia for all procedures on nerves, muscles, tendons, fascia, and bursae of knee and/or popliteal area",,,,False,False,False,False,False
+01340,Anesthesia for all closed procedures on lower one-third of femur,,,,False,False,False,False,False
+01360,Anesthesia for all open procedures on lower one-third of femur,,,,False,False,False,False,False
+01380,Anesthesia for all closed procedures on knee joint,,,,False,False,False,False,False
+01382,Anesthesia for diagnostic arthroscopic procedures of knee joint,,,,False,False,False,False,False
+01390,"Anesthesia for all closed procedures on upper ends of tibia, fibula, and/or patella",,,,False,False,False,False,False
+01392,"Anesthesia for all open procedures on upper ends of tibia, fibula, and/or patella",,,,False,False,False,False,False
+01400,Anesthesia for open or surgical arthroscopic procedures on knee joint; not otherwise specified,,,,False,False,False,False,False
+01402,Anesthesia for open or surgical arthroscopic procedures on knee joint; total knee arthroplasty,,,,False,False,False,False,False
+01404,Anesthesia for open or surgical arthroscopic procedures on knee joint; disarticulation at knee,,,,False,False,False,False,False
+01420,"Anesthesia for all cast applications, removal, or repair involving knee joint",,,,False,False,False,False,False
+01430,Anesthesia for procedures on veins of knee and popliteal area; not otherwise specified,,,,False,False,False,False,False
+01432,Anesthesia for procedures on veins of knee and popliteal area; arteriovenous fistula,,,,False,False,False,False,False
+01440,Anesthesia for procedures on arteries of knee and popliteal area; not otherwise specified,,,,False,False,False,False,False
+01442,"Anesthesia for procedures on arteries of knee and popliteal area; popliteal thromboendarterectomy, with or without patch graft",,,,False,False,False,False,False
+01444,Anesthesia for procedures on arteries of knee and popliteal area; popliteal excision and graft or repair for occlusion or aneurysm,,,,False,False,False,False,False
+01756,Anesthesia for open or surgical arthroscopic procedures of the elbow; radical procedures,,,,False,False,False,False,False
+01758,Anesthesia for open or surgical arthroscopic procedures of the elbow; excision of cyst or tumor of humerus,,,,False,False,False,False,False
+01760,Anesthesia for open or surgical arthroscopic procedures of the elbow; total elbow replacement,,,,False,False,False,False,False
+01770,Anesthesia for procedures on arteries of upper arm and elbow; not otherwise specified,,,,False,False,False,False,False
+01772,Anesthesia for procedures on arteries of upper arm and elbow; embolectomy,,,,False,False,False,False,False
+01780,Anesthesia for procedures on veins of upper arm and elbow; not otherwise specified,,,,False,False,False,False,False
+01782,Anesthesia for procedures on veins of upper arm and elbow; phleborrhaphy,,,,False,False,False,False,False
+01810,"Anesthesia for all procedures on nerves, muscles, tendons, fascia, and bursae of forearm, wrist, and hand",,,,False,False,False,False,False
+01820,"Anesthesia for all closed procedures on radius, ulna, wrist, or hand bones",,,,False,False,False,False,False
+01829,Anesthesia for diagnostic arthroscopic procedures on the wrist,,,,False,False,False,False,False
+01830,"Anesthesia for open or surgical arthroscopic/endoscopic procedures on distal radius, distal ulna, wrist, hand joints; not otherwise specified",,,,False,False,False,False,False
+01832,"Anesthesia for open or surgical arthroscopic/endoscopic procedures on distal radius, distal ulna, wrist, hand joints; total wrist replacement",,,,False,False,False,False,False
+01840,"Anesthesia for procedures on arteries of forearm, wrist, and hand; not otherwise specified",,,,False,False,False,False,False
+01842,"Anesthesia for procedures on arteries of forearm, wrist, and hand; embolectomy",,,,False,False,False,False,False
+01844,"Anesthesia for vascular shunt, or shunt revision, any type (eg, dialysis)",,,,False,False,False,False,False
+01850,"Anesthesia for procedures on veins of forearm, wrist, and hand; not otherwise specified",,,,False,False,False,False,False
+01852,"Anesthesia for procedures on veins of forearm, wrist, and hand; phleborrhaphy",,,,False,False,False,False,False
+01860,"Anesthesia for forearm, wrist, or hand cast application, removal, or repair",,,,False,False,False,False,False
+01916,Anesthesia for diagnostic arteriography/venography,,,,False,False,False,False,False
+01920,Anesthesia for cardiac catheterization including coronary angiography and ventriculography (not to include S wan-Ganz catheter),,,,False,False,False,False,False
+01922,Anesthesia for non-invasive imaging or radiation therapy,,,,False,False,False,False,False
+01924,Anesthesia for therapeutic interventional radiological procedures involving the arterial system; not other- wise specified,,,,False,False,False,False,False
+01925,Anesthesia for therapeutic interventional radiological procedures involving the arterial system; carotid coronary,,,,False,False,False,False,False
+01926,"Anesthesia for therapeutic interventional radiological procedures involving the arterial system; intracra- nial, intracardiac, or aortic",,,,False,False,False,False,False
+01930,Anesthesia for therapeutic interventional radiological procedures involving the venous/lymphatic system (not to include access to the central circulation); not otherwise specified,,,,False,False,False,False,False
+01931,"Anesthesia for therapeutic interventional radiological procedures involving the venous/lymphatic system (not to include access to the central circulation); intrahepatic or portal circulation (eg, transvenous intra- hepatic portosystemic shunt[s] [TIP S ])",,,,False,False,False,False,False
+01932,Anesthesia for therapeutic interventional radiological procedures involving the venous/lymphatic system (not to include access to the central circulation); intrathoracic or jugular,,,,False,False,False,False,False
+01933,Anesthesia for therapeutic interventional radiological procedures involving the venous/lymphatic system (not to include access to the central circulation); intracranial,,,,False,False,False,False,False
+01935,Anesthesia for percutaneous image guided procedures on the spine and spinal cord; diagnostic,,,,False,False,False,False,False
+01936,Anesthesia for percutaneous image guided procedures on the spine and spinal cord; therapeutic,,,,False,False,False,False,False
+01951,"Anesthesia for second- and third-degree burn excision or debridement with or without skin grafting, any site, for total body surface area (TB S A) treated during anesthesia and surgery; less than 4% total body sur- face area",,,,False,False,False,False,False
+01952,"Anesthesia for second- and third-degree burn excision or debridement with or without skin grafting, any site, for total body surface area (TB S A) treated during anesthesia and surgery; between 4%and 9%of total body surface area",,,,False,False,False,False,False
+01953,"Anesthesia for second- and third-degree burn excision or debridement with or without skin grafting, any site, for total body surface area (TB S A) treated during anesthesia and surgery; each additional 9% total body surface area or part thereof (List separately in addition to code for primary procedure)",,,,False,False,False,False,False
+01958,Anesthesia for external cephalic version procedure,,,,False,False,False,False,False

@@ -1,0 +1,24 @@
+,Code,Description,Relative Value,FUD,PC/TC Split
+,95924,Testing of autonomic nervous system function; combined parasympathetic and sympathetic adrenergic function testing with at least 5 minutes of passive tilt,29.35,XXX,59/41
+,95925,"Short-latency somatosensory evoked potential study, stimulation of any/all periph- eral nerves or skin sites, recording from the central nervous system; in upper limbs",35.76,XXX,80/20
+,95926,"Short-latency somatosensory evoked potential study, stimulation of any/all periph- eral nerves or skin sites, recording from the central nervous system; in lower limbs",35.76,XXX,80/20
+,95927,"Short-latency somatosensory evoked potential study, stimulation of any/all periph- eral nerves or skin sites, recording from the central nervous system; in the trunk or head",35.76,XXX,80/20
+,95928,Central motor evoked potential study (transcranial motor stimulation); upper limbs,92.67,XXX,50/50
+,95929,Central motor evoked potential study (transcranial motor stimulation); lower limbs,96.56,XXX,45/55
+,95930,"Visual evoked potential (VEP) checkerboard or flash testing, central nervous sys- tem except glaucoma, with interpretation and report",16.91,XXX,50/50
+,95933,"Orbicularis oculi (blink) reflex, by electrodiagnostic testing",14.37,XXX,80/20
+,95937,"Neuromuscular junction testing (repetitive stimulation, paired stimuli), each nerve, any 1 method",13.36,XXX,80/20
+,95938,"Short-latency somatosensory evoked potential study, stimulation of any/all periph- eral nerves or skin sites, recording from the central nervous system; in upper and lower limbs",61.77,XXX,15/85
+,95939,Central motor evoked potential study (transcranial motor stimulation); in upper and lower limbs,96.66,XXX,25/75
+,95940,"Continuous intraoperative neurophysiology monitoring in the operating room, one on one monitoring requiring personal attendance, each 15 minutes (List separately in addition to code for primary procedure)",6.66,XXX,
+,95941,"Continuous intraoperative neurophysiology monitoring, from outside the operating room (remote or nearby) or for monitoring of more than one case while in the oper- ating room, per hour (List separately in addition to code for primary procedure)",BR,XXX,
+,95943,"Simultaneous, independent, quantitative measures of both parasympathetic func- tion and sympathetic function, based on time-frequency analysis of heart rate variability concurrent with time-frequency analysis of continuous respiratory activity, with mean heart rate and blood pressure measures, during rest, paced (deep) breathing, Valsalva maneuvers, and head-up postural change",24.56,XXX,57/43
+,95950,"Monitoring for identification and lateralization of cerebral seizure focus, electro- encephalographic (eg, 8 channel EEG) recording and interpretation, each 24 hours",67.64,XXX,40/60
+,95951,"Monitoring for localization of cerebral seizure focus by cable or radio, 16 or more channel telemetry, combined electroencephalographic (EEG) and video recording and interpretation (eg, for presurgical localization), each 24 hours",86.92,XXX,40/60
+,95953,"Monitoring for localization of cerebral seizure focus by computerized portable 16 or more channel EEG, electroencephalographic (EEG) recording and interpreta- tion, each 24 hours, unattended",78.12,XXX,40/60
+,95954,"Pharmacological or physical activation requiring physician or other qualified health care professional attendance during EEG recording of activation phase (eg, thiopental activation test)",16.91,XXX,90/10
+,95955,"Electroencephalogram (EEG) during nonintracranial surgery (eg, carotid surgery)",30.44,XXX,95/05
+,95956,"Monitoring for localization of cerebral seizure focus by cable or radio, 16 or more channel telemetry, electroencephalographic (EEG) recording and interpretation, each 24 hours, attended by a technologist or nurse",78.12,XXX,40/60
+,95957,"Digital analysis of electroencephalogram (EEG) (eg, for epileptic spike analysis)",32.65,XXX,0/100
+,95958,"Wadaactivation test for hemispheric function, including electroencephalographic (EEG) monitoring",48.19,XXX,80/20
+,95961,"Functional cortical and subcortical mapping by stimulation and/or recording of electrodes on brain surface, or of depth electrodes, to provoke seizures or identify vital brain structures; initial hour of attendance by a physician or other qualified health care professional",50.73,XXX,80/20

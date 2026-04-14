@@ -1,0 +1,41 @@
+,Code,Description,Relative Value,FUD,PC/TC Split
+,82777,Galectin-3,39.75,XXX,0/100
+,82784,"Gammaglobulin (immunoglobulin); IgA, IgD, IgG, IgM, each",20.95,XXX,0/100
+,82785,Gammaglobulin (immunoglobulin); IgE,26.49,XXX,0/100
+,82787,"Gammaglobulin (immunoglobulin); immunoglobulin subclasses (eg, IgG1, 2, 3, or 4), each",65.92,XXX,0/100
+,82800,"Gases, blood, pH only",16.02,XXX,0/100
+,82803,"Gases, blood, any combination of pH, pCO2, pO2, CO2, HCO3 (including calculated O2 saturation);",31.42,XXX,0/100
+,82805,"Gases, blood, any combination of pH, pCO2, pO2, CO2, HCO3 (including calculated O2 saturation); with O2 saturation, by direct measurement, except pulse oximetry",33.89,XXX,0/100
+,82810,"Gases, blood, O2 saturation only, by direct measurement, except pulse oximetry",17.25,XXX,0/100
+,82820,Hemoglobin-oxygen affinity (pO2 for 50% hemoglobin saturation with oxygen),21.56,XXX,0/100
+,82930,"Gastric acid analysis, includes pH if performed, each specimen",10.47,XXX,0/100
+,82938,Gastrin after secretin stimulation,30.19,XXX,0/100
+,82941,Gastrin,30.19,XXX,0/100
+,82943,Glucagon,36.35,XXX,0/100
+,82945,"Glucose, body fluid, other than blood",26.49,XXX,0/100
+,82946,Glucagon tolerance test,20.33,XXX,0/100
+,82947,"Glucose; quantitative, blood (except reagent strip)",8.01,XXX,0/100
+,82948,"Glucose; blood, reagent strip",6.16,XXX,0/100
+,82950,Glucose; post glucose dose (includes glucose),10.47,XXX,0/100
+,82951,"Glucose; tolerance test (GTT), 3 specimens (includes glucose)",22.8,XXX,0/100
++,82952,"Glucose; tolerance test, each additional beyond 3 specimens (List separately in addition to code for primary procedure)",6.16,XXX,0/100
+,82955,Glucose-6-phosphate dehydrogenase (G6PD); quantitative,23.41,XXX,0/100
+,82960,Glucose-6-phosphate dehydrogenase (G6PD); screen,12.32,XXX,0/100
+,82962,"Glucose, blood by glucose monitoring device(s) cleared by the FDA specifically for home use",6.16,XXX,0/100
+,82963,"Glucosidase, beta",30.81,XXX,0/100
+,82965,Glutamate dehydrogenase,8.63,XXX,0/100
+,82977,"Glutamyltransferase, gamma (GGT)",8.01,XXX,0/100
+,82978,Glutathione,21.56,XXX,0/100
+,82979,"Glutathione reductase, RBC",15.4,XXX,0/100
+,82985,Glycated protein,12.94,XXX,0/100
+,83001,Gonadotropin; follicle stimulating hormone (FSH),30.81,XXX,0/100
+,83002,Gonadotropin; luteinizing hormone (LH),30.81,XXX,0/100
+,83003,"Growth hormone, human (HGH) (somatotropin)",30.81,XXX,0/100
+,83006,"Growth stimulation expressed gene 2 (ST2, Interleukin 1 receptor like-1)",67.87,XXX,0/100
+,83009,"Helicobacter pylori, blood test analysis for urease activity, non-radioactive isotope (eg, C-13)",88.07,XXX,0/100
+,83010,Haptoglobin; quantitative,22.8,XXX,0/100
+,83012,Haptoglobin; phenotypes,24.64,XXX,0/100
+,83013,"Helicobacter pylori; breath test analysis for urease activity, non-radioactive iso- tope (eg, C-13)",88.07,XXX,0/100
+,83014,Helicobacter pylori; drug administration,10.38,XXX,0/100
+,83015,"Heavy metal (eg, arsenic, barium, beryllium, bismuth, antimony, mercury); qualita- tive, any number of analytes",40.66,XXX,0/100
+,83018,"Heavy metal (eg, arsenic, barium, beryllium, bismuth, antimony, mercury); quanti-",43.13,XXX,0/100

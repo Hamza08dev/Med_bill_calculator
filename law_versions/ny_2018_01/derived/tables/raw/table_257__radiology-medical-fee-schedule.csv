@@ -1,0 +1,36 @@
+,Code,Description Relative Value,FUD,PC/TC Split
+ 77771,"Remote afterloading high dose rate radionuclide interstitial or intracavitary brachytherapy, includes basic dosimetry, when performed; 2-12 channels",20.27,XXX,29/71
+ 77772,"Remote afterloading high dose rate radionuclide interstitial or intracavitary brachytherapy, includes basic dosimetry, when performed; over 12 channels",30.14,XXX,30/70
+ 77778,"Interstitial radiation source application, complex, includes supervision, handling, loading of radiation source, when performed",31.88,000,80/20
+ 77789,Surface application of low dose rate radionuclide source,2.63,000,80/20
+77790,"Supervision, handling, loading of radiation source",3.32,XXX,80/20
+77799,"Unlisted procedure, clinical brachytherapy",BR,XXX,
+ 78012,"Thyroid uptake, single or multiple quantitative measurement(s) (including stimula- tion, suppression, or discharge, when performed)",3.50,XXX,11/89
+ 78013,"Thyroid imaging (including vascular flow, when performed);",8.30,XXX,9/91
+ 78014,"Thyroid imaging (including vascular flow, when performed); with single or multiple uptake(s) quantitative measurement(s) (including stimulation, suppression, or dis- charge, when performed)",10.44,XXX,10/90
+78015,"Thyroid carcinoma metastases imaging; limited area (eg, neck and chest only)",5.74,XXX,30/70
+78016,"Thyroid carcinoma metastases imaging; with additional studies (eg, urinary recov- ery)",6.09,XXX,30/70
+78018,Thyroid carcinoma metastases imaging; whole body,9.56,XXX,30/70
++ 78020,Thyroid carcinoma metastases uptake (List separately in addition to code for mary procedure),pri- 1.91,ZZZ,30/70
+ 78070,"Parathyroid planar imaging (including subtraction, when performed);",2.55,XXX,30/70
+,78071,"Parathyroid planar imaging (including subtraction, when performed); with tomo- graphic (SPECT) 15.46",XXX,16/84
+ 78072,"Parathyroid planar imaging (including subtraction, when performed); with tomo- graphic (SPECT), and concurrently acquired computed tomography (CT) for ana- tomical localization",17.90,XXX,18/82
+78075,"Adrenal imaging, cortex and/or medulla",3.83,XXX,30/70
+78099,"Unlisted endocrine procedure, diagnostic nuclear medicine",BR,XXX,
+78102,Bone marrow imaging; limited area,4.46,XXX,25/75
+78103,Bone marrow imaging; multiple areas,7.01,XXX,25/75
+78104,Bone marrow imaging; whole body,7.65,XXX,25/75
+78110,"Plasma volume, radiopharmaceutical volume-dilution technique (separate proce- dure); single sampling",2.55,XXX,25/75
+78111,"Plasma volume, radiopharmaceutical volume-dilution technique (separate proce- dure); multiple samplings",3.83,XXX,25/75
+78120,Red cell volume determination (separate procedure); single sampling,2.81,XXX,25/75
+78121,Red cell volume determination (separate procedure); multiple samplings,4.72,XXX,25/75
+78122,"Whole blood volume determination, including separate measurement of plasma volume and red cell volume (radiopharmaceutical volume-dilution technique)",7.14,XXX,25/75
+78130,Red cell survival study;,5.74,XXX,25/75
+78135,"Red cell survival study; differential organ/tissue kinetics (eg, splenic and/or hepatic sequestration)",6.22,XXX,25/75
+78140,"Labeled red cell sequestration, differential organ/tissue (eg, splenic and/or hepatic)",5.64,XXX,25/75
+78185,"Spleen imaging only, with or without vascular flow",4.34,XXX,25/75
+78191,Platelet survival study,8.19,XXX,25/75
+78195,Lymphatics and lymph nodes imaging,7.06,XXX,25/75
+78199,"Unlisted hematopoietic, reticuloendothelial and lymphatic procedure, diagnostic nuclear medicine",BR,XXX,
+78201,Liver imaging; static only,5.10,XXX,25/75
+78202,Liver imaging; with vascular flow,5.61,XXX,25/75

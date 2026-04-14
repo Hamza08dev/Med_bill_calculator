@@ -1,0 +1,41 @@
+Rating,Description
+P-RHE,Rheumatology
+P-SM,Sports Medicine
+PA,Pathology
+PA-AP,Anatomic Pathology
+PA-BB,Blood Banking
+PA-CB,Clinical Bacteriology
+PA-CC,Clinical Chemistry
+PA-CLP,Clinical Pathology
+PA-CM,Clinical Microbiology
+PA-CP,Chemical Pathology
+PA-CY,Cytopathology
+PA-DP,Dermatopathology
+PA-FOP,Forensic Pathology
+PA-HEM,Hematology
+PA-IP,Immunology
+PA-MC,Medical Chemistry
+PA-MGP,Molecular Genetic Pathology
+PA-MMB,Medical Microbiology
+PA-NP,Neuropathology
+PA-PA,Pathologic Anatomy
+PA-PDP,Pediatric Pathology
+PA-RP,Radioisotopic
+PM,Preventive Medicine
+PM-AM,Aerospace Medicine
+PM-GPM,General Preventive Medicine
+PM-MT,Medical Toxicology
+PM-OM,Occupational Medicine
+PM-PH,Public Health
+PM-UHM,Undersea and Hyperbaric Medicine
+PMR,Physical Medicine/Rehabilitation
+PMR-PM,Pain Management
+PMR-SCINI,Spinal Cord Injury Medicine
+PN,Psychiatry/Neurology
+PN-ADP,Addiction Psychiatry
+PN-CHAP,Child and Adolescent Psychiatry
+PN-CHN,Child Neurology
+PN-CHP,Child Psychiatry
+PN-CNPH,Clinical Neurophysiology
+PN-FPSY,Forensic Psychiatry
+PN-GER,Geriatric Psychiatry

@@ -1,0 +1,41 @@
+Code,Description,Basic Unit
+00100,"Anesthesia for procedures on salivary glands, including biopsy",5
+00102,Anesthesia for procedures involving plastic repair of cleft lip,6
+00103,"Anesthesia for reconstructive procedures of eyelid (eg, blepharoplasty, ptosis surgery)",5
+00104,Anesthesia for electroconvulsive therapy,4
+00120,"Anesthesia for procedures on external, middle, and inner ear including biopsy; not otherwise specified",5
+00124,"Anesthesia for procedures on external, middle, and inner ear including biopsy; otoscopy",4
+00126,"Anesthesia for procedures on external, middle, and inner ear including biopsy; tympanotomy",4
+00140,Anesthesia for procedures on eye; not otherwise specified,5
+00142,Anesthesia for procedures on eye; lens surgery,4
+00144,Anesthesia for procedures on eye; corneal transplant,6
+00145,Anesthesia for procedures on eye; vitreoretinal surgery,6
+00147,Anesthesia for procedures on eye; iridectomy,6
+00148,Anesthesia for procedures on eye; ophthalmoscopy,4
+00160,Anesthesia for procedures on nose and accessory sinuses; not otherwise specified,5
+00162,Anesthesia for procedures on nose and accessory sinuses; radical surgery,7
+00164,"Anesthesia for procedures on nose and accessory sinuses; biopsy, soft tissue",4
+00170,"Anesthesia for intraoral procedures, including biopsy; not otherwise specified",5
+00172,"Anesthesia for intraoral procedures, including biopsy; repair of cleft palate",6
+00174,"Anesthesia for intraoral procedures, including biopsy; excision of retropharyngeal tumor",6
+00176,"Anesthesia for intraoral procedures, including biopsy; radical surgery",7
+00190,Anesthesia for procedures on facial bones or skull; not otherwise specified,5
+00192,Anesthesia for procedures on facial bones or skull; radical surgery (including prognathism),7
+00210,Anesthesia for intracranial procedures; not otherwise specified,11
+00211,Anesthesia for intracranial procedures; craniotomy or craniectomy for evacuation of hematoma,10
+00212,Anesthesia for intracranial procedures; subdural taps,5
+00214,"Anesthesia for intracranial procedures; burr holes, including ventriculography",9
+00215,"Anesthesia for intracranial procedures; cranioplasty or elevation of depressed skull fracture, extradural (simple or compound)",9
+00216,Anesthesia for intracranial procedures; vascular procedures,15
+00218,Anesthesia for intracranial procedures; procedures in sitting position,13
+00220,Anesthesia for intracranial procedures; cerebrospinal fluid shunting procedures,10
+00222,Anesthesia for intracranial procedures; electrocoagulation of intracranial nerve,6
+00300,"Anesthesia for all procedures on the integumentary system, muscles and nerves of head, neck, and poste- rior trunk, not otherwise specified",5
+00320,"Anesthesia for all procedures on esophagus, thyroid, larynx, trachea and lymphatic system of neck; not otherwise specified, age 1 year or older",6
+00322,"Anesthesia for all procedures on esophagus, thyroid, larynx, trachea and lymphatic system of neck; needle biopsy of thyroid",3
+00326,Anesthesia for all procedures on the larynx and trachea in children younger than 1 year of age,8
+00350,Anesthesia for procedures on major vessels of neck; not otherwise specified,10
+00352,Anesthesia for procedures on major vessels of neck; simple ligation,5
+00400,"Anesthesia for procedures on the integumentary system on the extremities, anterior trunk and perineum; not otherwise specified",3
+00402,"Anesthesia for procedures on the integumentary system on the extremities, anterior trunk and perineum; reconstructive procedures on breast (eg, reduction or augmentation mammoplasty, muscle flaps)",5
+00404,"Anesthesia for procedures on the integumentary system on the extremities, anterior trunk and perineum; radical or modified radical procedures on breast",5

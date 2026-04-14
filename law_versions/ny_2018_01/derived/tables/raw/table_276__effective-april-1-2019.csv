@@ -1,0 +1,26 @@
+,Code,Description,Relative Value,FUD,PC/TC Split
+,81519,"Oncology (breast), mRNA, gene expression profiling by real-time RT-PCR of 21 genes, utilizing formalin-fixed paraffin embedded tissue, algorithm reported as recurrence score",0,XXX,0/100
+,81520,"Oncology (breast), mRNA gene expression profiling by hybrid capture of 58 genes (50 content and 8 housekeeping), utilizing formalin-fixed paraffin-embedded tis- sue, algorithm reported as a recurrence risk score",0,XXX,0/100
+,81521,"Oncology (breast), mRNA, microarray gene expression profiling of 70 content genes and 465 housekeeping genes, utilizing fresh frozen or formalin-fixed paraf- fin-embedded tissue, algorithm reported as index related to risk of distant metas- tasis",0,XXX,0/100
+,81525,"Oncology (colon), mRNA, gene expression profiling by real-time RT-PCR of 12 genes (7 content and 5 housekeeping), utilizing formalin-fixed paraffin-embedded tissue, algorithm reported as a recurrence score",0,XXX,0/100
+,81528,"Oncology (colorectal) screening, quantitative real-time target and signal amplifi- cation of 10 DNA markers (KRAS mutations, promoter methylation of NDRG4 and BMP3) and fecal hemoglobin, utilizing stool, algorithm reported as a positive or negative result",0,XXX,0/100
+,81535,"Oncology (gynecologic), live tumor cell culture and chemotherapeutic response by DAPI stain and morphology, predictive algorithm reported as a drug response score; first single drug or drug combination",0,XXX,0/100
+ +,81536,"Oncology (gynecologic), live tumor cell culture and chemotherapeutic response by DAPI stain and morphology, predictive algorithm reported as a drug response score; each additional single drug or drug combination (List separately in addition to code for primary procedure)",0,XXX,0/100
+,81538,"Oncology (lung), mass spectrometric 8-protein signature, including amyloid A, uti- lizing serum, prognostic and predictive algorithm reported as good versus poor overall survival",0,XXX,0/100
+,81539,"Oncology (high-grade prostate cancer), biochemical assay of four proteins (Total PSA, Free PSA, Intact PSA, and human kallikrein-2 [hK2]), utilizing plasma or serum, prognostic algorithm reported as a probability score",0,XXX,0/100
+,81540,"Oncology (tumor of unknown origin), mRNA,geneexpression profiling by real-time RT-PCR of 92 genes (87 content and 5 housekeeping) to classify tumor into main cancer type and subtype, utilizing formalin-fixed paraffin-embedded tissue, algo- rithm reported as a probability of a predicted main cancer type and subtype",0,XXX,0/100
+,81541,"Oncology (prostate), mRNA gene expression profiling by real-time RT-PCR of 46 genes (31 content and 15 housekeeping), utilizing formalin-fixed paraffin-embed- ded tissue, algorithm reported as a disease-specific mortality risk score",0,XXX,0/100
+,81545,"Oncology (thyroid), gene expression analysis of 142 genes, utilizing fine needle aspirate, algorithm reported as a categorical result (eg, benign or suspicious)",0,XXX,0/100
+,81551,"Oncology (prostate), promoter methylation profiling by real-time PCR of 3 genes (GSTP1, APC, RASSF1), utilizing formalin-fixed paraffin-embedded tissue, algo- rithm reported as a likelihood of prostate cancer detection on repeat biopsy",0,XXX,
+,81595,"Cardiology (heart transplant), mRNA, gene expression profiling by real-time quan- titative PCR of 20 genes (11 content and 9 housekeeping), utilizing subfraction of peripheral blood, algorithm reported as a rejection risk score",0,XXX,0/100
+,81599,Unlisted multianalyte assay with algorithmic analysis,0,XXX,
+,82009,"Ketone body(s) (eg, acetone, acetoacetic acid, beta-hydroxybutyrate); qualitative",6.16,XXX,0/100
+,82010,"Ketone body(s) (eg, acetone, acetoacetic acid, beta-hydroxybutyrate); quantita- tive",12.32,XXX,0/100
+,82013,Acetylcholinesterase,24.64,XXX,0/100
+,82016,"Acylcarnitines; qualitative, each specimen",34.5,XXX,0/100
+,82017,"Acylcarnitines; quantitative, each specimen",27.11,XXX,0/100
+82024,,Adrenocorticotropic hormone (ACTH),55.45,XXX,0/100
+82030,,"Adenosine, 5-monophosphate, cyclic (cyclic AMP)",43.13,XXX,0/100
+,82040,"Albumin; serum, plasma or whole blood",8.01,XXX,0/100
+,82042,"Albumin; other source, quantitative, each specimen",9.86,XXX,0/100
+,82043,"Albumin; urine (eg, microalbumin), quantitative",21.56,XXX,0/100

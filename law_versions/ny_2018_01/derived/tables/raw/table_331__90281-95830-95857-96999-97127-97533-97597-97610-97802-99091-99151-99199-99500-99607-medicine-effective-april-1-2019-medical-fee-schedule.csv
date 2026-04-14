@@ -1,0 +1,29 @@
+,Code,Description,Relative Value,FUD,PC/TC Split
+,94012,"Measurement of spirometric forced expiratory flows, before and after bronchodi- lator, in an infant or child through 2 years of age",38.89,XXX,
+,94013,"Measurement of lung volumes (ie, functional residual capacity [FRC], forced vital capacity [FVC], and expiratory reserve volume [ERV]) in an infant or child through 2 years of age",8.46,XXX,
+,94014,"Patient-initiated spirometric recording per 30-day period of time; includes rein- forced education, transmission of spirometric tracing, data capture, analysis of transmitted data, periodic recalibration and review and interpretation by a physi- cian or other qualified health care professional",11.84,XXX,40/60
+,94015,"Patient-initiated spirometric recording per 30-day period of time; recording (includes hook-up, reinforced education, data transmission, data capture, trend analysis, and periodic recalibration)",5.92,XXX,0/100
+,94016,Patient-initiated spirometric recording per 30-day period of time; review and inter- pretation only by a physician or other qualified health care professional,7.44,XXX,
+,94060,"Bronchodilation responsiveness, spirometry as in 94010, pre- and post-bronchodi- lator administration",13.11,XXX,40/60
+,94070,"Bronchospasm provocation evaluation, multiple spirometric determinations as in 94010, with administered agents (eg, antigen[s], cold air, methacholine)",27.06,XXX,40/60
+,94150,"Vital capacity, total (separate procedure)",2.79,XXX,40/60
+,94200,"Maximum breathing capacity, maximal voluntary ventilation",6.59,XXX,20/80
+,94250,"Expired gas collection, quantitative, single procedure (separate procedure)",2.54,XXX,20/80
+,94375,Respiratory flow volume loop,10.15,XXX,20/80
+,94400,Breathing response to CO2 (CO2 response curve),20.29,XXX,20/80
+,94450,Breathing response to hypoxia (hypoxia response curve),16.23,XXX,20/80
+,94452,"High altitude simulation test (HAST), with interpretation and report by a physician or other qualified health care professional;",20.46,XXX,30/70
+,94453,"High altitude simulation test (HAST), with interpretation and report by a physician or other qualified health care professional; with supplemental oxygen titration",29.25,XXX,30/70
+*,94610,Intrapulmonary surfactant administration by a physician or other qualified health care professional through endotracheal tube,17.59,XXX,
+,94617,"Exercise test for bronchospasm, including pre- and post-spirometry, electrocar- diographic recording(s), and pulse oximetry",18.47,XXX,35/65
+,94618,"Pulmonary stress testing (eg, 6-minute walk test), including measurement of heart rate, oximetry, and oxygen titration, when performed",32.38,XXX,20/80
+,94621,"Cardiopulmonary exercise testing, including measurements of minute ventilation, CO2 production, O2 uptake, and electrocardiographic recordings",38.05,XXX,20/80
+,94640,"Pressurized or nonpressurized inhalation treatment for acute airway obstruction for therapeutic purposes and/or for diagnostic purposes such as sputum induction with an aerosol generator, nebulizer, metered dose inhaler or intermittent positive pressure breathing (IPPB) device",3.55,XXX,
+,94642,Aerosol inhalation of pentamidine for pneumocystis carinii pneumonia treatment or prophylaxis,15.81,XXX,
+,94644,Continuous inhalation treatment with aerosol medication for acute airway obstruction; first hour,9.3,XXX,
++,94645,Continuous inhalation treatment with aerosol medication for acute airway obstruction; each additional hour (List separately in addition to code for primary procedure),3.55,XXX,
+,94660,"Continuous positive airway pressure ventilation (CPAP), initiation and manage- ment",19.45,XXX,
+,94662,"Continuous negative pressure ventilation (CNP), initiation and management",12.68,XXX,
+,94664,"Demonstration and/or evaluation of patient utilization of an aerosol generator, nebulizer, metered dose inhaler or IPPB device",4.23,XXX,
+,94667,"Manipulation chest wall, such as cupping, percussing, and vibration to facilitate lung function; initial demonstration and/or evaluation",5.07,XXX,
+,94668,"Manipulation chest wall, such as cupping, percussing, and vibration to facilitate lung function; subsequent",4.06,XXX,

@@ -1,0 +1,24 @@
+Code,Description,Relative Value,FUD,PC/TC Split
+ 81311,"NRAS (neuroblastoma RAS viral [v-ras] oncogene homolog) (eg, colorectal carci- noma), gene analysis, variants in exon 2 (eg, codons 12 and 13) and exon 3 (eg, codon 61)",0,XXX,0/100
+ 81313,"PCA3/KLK3 (prostate cancer antigen 3 [non-protein coding]/kallikrein-related pep- tidase 3 [prostate specific antigen]) ratio (eg, prostate cancer)",0,XXX,0/100
+ 81314,"PDGFRA (platelet-derived growth factor receptor, alpha polypeptide) (eg, gastro- intestinal stromal tumor [GIST]), gene analysis, targeted sequence analysis (eg, exons 12, 18)",0,XXX,0/100
+81315,"PML/RARalpha, (t(15;17)), (promyelocytic leukemia/retinoic acid receptor alpha) (eg, promyelocytic leukemia) translocation analysis; common breakpoints (eg, intron 3 and intron 6), qualitative or quantitative",0,XXX,
+81316,"PML/RARalpha, (t(15;17)), (promyelocytic leukemia/retinoic acid receptor alpha) (eg, promyelocytic leukemia) translocation analysis; single breakpoint (eg, intron 3, intron 6 or exon 6), qualitative or quantitative",0,XXX,
+81317,"PMS2 (postmeiotic segregation increased 2 [S. cerevisiae]) (eg, hereditary non-polyposis colorectal cancer, Lynch syndrome) gene analysis; full sequence analysis",0,XXX,
+81318,"PMS2 (postmeiotic segregation increased 2 [S. cerevisiae]) (eg, hereditary non-polyposis colorectal cancer, Lynch syndrome) gene analysis; known familial variants",0,XXX,
+81319,"PMS2 (postmeiotic segregation increased 2 [S. cerevisiae]) (eg, hereditary non-polyposis colorectal cancer, Lynch syndrome) gene analysis; duplica- tion/deletion variants",0,XXX,
+ 81321,"PTEN (phosphatase and tensin homolog) (eg, Cowden syndrome, PTEN hamar- toma tumor syndrome) gene analysis; full sequence analysis",0,XXX,0/100
+ 81322,"PTEN (phosphatase and tensin homolog) (eg, Cowden syndrome, PTEN hamar- toma tumor syndrome) gene analysis; known familial variant",0,XXX,0/100
+ 81323,"PTEN (phosphatase and tensin homolog) (eg, Cowden syndrome, PTEN hamar- toma tumor syndrome) gene analysis; duplication/deletion variant",0,XXX,0/100
+ 81324,"PMP22 (peripheral myelin protein 22) (eg, Charcot-Marie-Tooth, hereditary neu- ropathy with liability to pressure palsies) gene analysis; duplication/deletion anal- ysis",0,XXX,0/100
+ 81325,"PMP22 (peripheral myelin protein 22) (eg, Charcot-Marie-Tooth, hereditary neu- ropathy with liability to pressure palsies) gene analysis; full sequence analysis",0,XXX,0/100
+ 81326,"PMP22 (peripheral myelin protein 22) (eg, Charcot-Marie-Tooth, hereditary neu- ropathy with liability to pressure palsies) gene analysis; known familial variant",0,XXX,0/100
+ 81327,"SEPT9 (Septin9) (eg, colorectal cancer) methylation analysis",0,XXX,
+ 81328,"SLCO1B1 (solute carrier organic anion transporter family, member 1B1) (eg, adverse drug reaction), gene analysis, common variant(s) (eg, *5)",0,XXX,0/100
+81330,"SMPD1(sphingomyelin phosphodiesterase 1, acid lysosomal) (eg, Niemann-Pick disease, Type A) gene analysis, common variants (eg, R496L, L302P, fsP330)",0,XXX,
+81331,"SNRPN/UBE3A (small nuclear ribonucleoprotein polypeptideN and ubiquitin pro- tein ligase E3A) (eg, Prader-Willi syndrome and/or Angelman syndrome), methyla- tion analysis",0,XXX,
+81332,"SERPINA1 (serpin peptidase inhibitor, clade A, alpha-1 antiproteinase, antitrypsin, member 1) (eg, alpha-1-antitrypsin deficiency), gene analysis, common variants (eg, *S and *Z)",0,XXX,
+ 81334,"RUNX1 (runt related transcription factor 1) (eg, acute myeloid leukemia, familial platelet disorder with associated myeloid malignancy), gene analysis, targeted sequence analysis (eg, exons 3-8)",0,XXX,0/100
+ 81335,"TPMT (thiopurine S-methyltransferase) (eg, drug metabolism), gene analysis, common variants (eg, *2, *3)",0,XXX,0/100
+81340,"TRB@ (T cell antigen receptor, beta) (eg, leukemia and lymphoma), gene rear- rangement analysis to detect abnormal clonal population(s); using amplification methodology (eg, polymerase chain reaction)",0,XXX,
+81341,"TRB@ (T cell antigen receptor, beta) (eg, leukemia and lymphoma), gene rear- rangement analysis to detect abnormal clonal population(s); using direct probe methodology (eg, Southern blot)",0,XXX,

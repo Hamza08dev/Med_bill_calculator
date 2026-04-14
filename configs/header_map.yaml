@@ -1,0 +1,9 @@
+# configs/header_map.yaml
+code_header_map:
+  code: ["code", "cpt", "cpt code", "cpt/state-specific codes"]
+  description: ["description", "cpt description", "service description"]
+  rvu: ["relative value", "rvu", "ny2018 rvu", "ny 2018 rvu", "ny 2018 rvu.", "ny 2012 rvu (old)"]
+  fud: ["fud", "ny 2018 fud", "follow-up days", "global days"]
+  pctc_split: ["pc/tc split", "ny2018 pc/tc split", "pc / tc split", "pc tc split", "ny 2018 pc/tc split"]
+  symbols: ["icons", "flags", "symbol", "notes"]
+  other: []

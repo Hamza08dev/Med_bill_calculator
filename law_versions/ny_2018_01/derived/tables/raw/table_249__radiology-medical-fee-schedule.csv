@@ -1,0 +1,28 @@
+,Code,Description,Relative Value,FUD,PC/TC Split
+,75574,"Computed tomographic angiography, heart, coronary arteries and bypass grafts (when present), with contrast material, including 3D image postprocessing (including evaluation of cardiac structure and morphology, assessment of cardiac function, and evaluation of venous structures, if performed)",22.34,XXX,20/80
+,75600,"Aortography, thoracic, without serialography, radiological supervision and inter- pretation",16.54,XXX,10/90
+,75605,"Aortography, thoracic, by serialography, radiological supervision and interpreta- tion",19.22,XXX,15/85
+,75625,"Aortography, abdominal, by serialography, radiological supervision and interpre- tation",19.37,XXX,15/85
+,75630,"Aortography, abdominal plus bilateral iliofemoral lower extremity, catheter, by serialography, radiological supervision and interpretation",20.45,XXX,15/85
+,75635,"Computed tomographic angiography, abdominal aorta and bilateral iliofemoral lower extremity runoff, with contrast material(s), including noncontrast images, if performed, and image postprocessing",42.99,XXX,25/75
+,75705,"Angiography, spinal, selective, radiological supervision and interpretation",18.62,XXX,20/80
+,75710,"Angiography, extremity, unilateral, radiological supervision and interpretation",16.79,XXX,15/85
+,75716,"Angiography, extremity, bilateral, radiological supervision and interpretation",20.76,XXX,15/85
+,75726,"Angiography, visceral, selective or supraselective (with or without flush aorto- gram), radiological supervision and interpretation",20.58,XXX,15/85
+,75731,"Angiography, adrenal, unilateral, selective, radiological supervision and interpre- tation",11.42,XXX,15/85
+,75733,"Angiography, adrenal, bilateral, selective, radiological supervision and interpreta- tion",15.63,XXX,15/85
+,75736,"Angiography, pelvic, selective or supraselective, radiological supervision and interpretation",19.51,XXX,15/85
+,75741,"Angiography, pulmonary, unilateral, selective, radiological supervision and inter- pretation",19.17,XXX,15/85
+,75743,"Angiography, pulmonary, bilateral, selective, radiological supervision and inter- pretation",20.16,XXX,15/85
+,75746,"Angiography, pulmonary, by nonselective catheter or venous injection, radiologi- cal supervision and interpretation",16.52,XXX,15/85
+,75756,"Angiography, internal mammary, radiological supervision and interpretation",18.75,XXX,15/85
++,75774,"Angiography, selective, each additional vessel studied after basic examination, radiological supervision and interpretation (List separately in addition to code for primary procedure)",4.05,ZZZ,10/90
+,75801,"Lymphangiography, extremity only, unilateral, radiological supervision and inter- pretation",10.07,XXX,20/80
+,75803,"Lymphangiography, extremity only, bilateral, radiological supervision and interpre- tation",12.14,XXX,20/80
+,75805,"Lymphangiography, pelvic/abdominal, unilateral, radiological supervision and interpretation",13.08,XXX,20/80
+,75807,"Lymphangiography, pelvic/abdominal, bilateral, radiological supervision and inter- pretation",14.03,XXX,20/80
+,75809,"Shuntogram for investigation of previously placed indwelling nonvascular shunt (eg, LeVeen shunt, ventriculoperitoneal shunt, indwelling infusion pump), radiolog- ical supervision and interpretation",4.34,XXX,35/65
+,75810,"Splenoportography, radiological supervision and interpretation",19.44,XXX,15/85
+,75820,"Venography, extremity, unilateral, radiological supervision and interpretation",4.59,XXX,35/65
+,75822,"Venography, extremity, bilateral, radiological supervision and interpretation",6.91,XXX,35/65
+,75825,"Venography, caval, inferior, with serialography, radiological supervision and inter- pretation",19.44,XXX,15/85

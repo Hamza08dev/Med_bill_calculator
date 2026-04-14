@@ -1,0 +1,42 @@
+Code,Description,Relative Value,FUD,PC/TC Split
+86155,"Chemotaxis assay, specify method",16.63,XXX,0/100
+86156,Cold agglutinin; screen,11.09,XXX,0/100
+86157,Cold agglutinin; titer,14.17,XXX,0/100
+86160,"Complement; antigen, each component",27.11,XXX,0/100
+86161,"Complement; functional activity, each component",27.11,XXX,0/100
+86162,Complement; total hemolytic (CH50),38.2,XXX,0/100
+86171,"Complement fixation tests, each antigen",17.87,XXX,0/100
+86200,"Cyclic citrullinated peptide (CCP), antibody",24.64,XXX,0/100
+86215,"Deoxyribonuclease, antibody",24.03,XXX,0/100
+86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,26.49,XXX,0/100
+86226,Deoxyribonucleic acid (DNA) antibody; single stranded,26.49,XXX,0/100
+86235,"Extractable nuclear antigen, antibody to, any method (eg, nRNP, SS-A, SS-B, Sm, RNP, Sc170, J01), each antibody",23.41,XXX,0/100
+86255,"Fluorescent noninfectious agent antibody; screen, each antibody",21.56,XXX,0/100
+86256,"Fluorescent noninfectious agent antibody; titer, each antibody",26.49,XXX,0/100
+86277,"Growth hormone, human (HGH), antibody",21.56,XXX,0/100
+86280,Hemagglutination inhibition test (HAI),17.87,XXX,0/100
+86294,"Immunoassay for tumor antigen, qualitative or semiquantitative (eg, bladder tumor antigen)",32.04,XXX,0/100
+86300,"Immunoassay for tumor antigen, quantitative; CA 15-3 (27.29)",32.04,XXX,0/100
+86301,"Immunoassay for tumor antigen, quantitative; CA 19-9",32.04,XXX,0/100
+86304,"Immunoassay for tumor antigen, quantitative; CA 125",32.04,XXX,0/100
+86305,Human epididymis protein 4 (HE4),27.36,XXX,0/100
+86308,Heterophile antibodies; screening,10.47,XXX,0/100
+86309,Heterophile antibodies; titer,13.55,XXX,0/100
+86310,Heterophile antibodies; titers after absorption with beef cells and guinea pig kid- ney,15.4,XXX,0/100
+86316,"Immunoassay for tumor antigen, other antigen, quantitative (eg, CA 50, 72-4, 549), each",32.04,XXX,0/100
+86317,"Immunoassay for infectious agent antibody, quantitative, not otherwise specified",14.79,XXX,0/100
+86318,"Immunoassay for infectious agent antibody, qualitative or semiquantitative, single step method (eg, reagent strip)",14.79,XXX,0/100
+86320,Immunoelectrophoresis; serum,38.81,XXX,20/80
+86325,"Immunoelectrophoresis; other fluids (eg, urine, cerebrospinal fluid) with concen- tration",40.05,XXX,20/80
+86327,Immunoelectrophoresis; crossed (2-dimensional assay),30.81,XXX,20/80
+86329,Immunodiffusion; not elsewhere specified,29.57,XXX,0/100
+86331,"Immunodiffusion; gel diffusion, qualitative (Ouchterlony), each antigen or antibody",27.72,XXX,0/100
+86332,Immune complex assay,35.12,XXX,0/100
+86334,Immunofixation electrophoresis; serum,33.27,XXX,20/80
+86335,"Immunofixation electrophoresis; other fluids with concentration (eg, urine, CSF)",33.27,XXX,20/80
+86336,Inhibin A,30.81,XXX,0/100
+86337,Insulin antibodies,38.81,XXX,0/100
+86340,Intrinsic factor antibodies,27.11,XXX,0/100
+86341,Islet cell antibody,21.56,XXX,0/100
+86343,Leukocyte histamine release test (LHR),26.49,XXX,0/100
+86344,Leukocyte phagocytosis,15.4,XXX,0/100

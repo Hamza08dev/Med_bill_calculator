@@ -1,0 +1,27 @@
+Code,Description,Relative Value,FUD,PC/TC Split
+ 99155,"Moderate sedation services provided by a physician or other qualified health care professional other than the physician or other qualified health care professional performing the diagnostic or therapeutic service that the sedation supports; initial 15 minutes of intraservice time, patient younger than 5 years of age",19.61,XXX,
+ 99156,"Moderate sedation services provided by a physician or other qualified health care professional other than the physician or other qualified health care professional performing the diagnostic or therapeutic service that the sedation supports; initial 15 minutes of intraservice time, patient age 5 years or older",15.39,XXX,
+ + 99157,Moderate sedation services provided by a physician or other qualified health care professional other than the physician or other qualified health care professional performing the diagnostic or therapeutic service that the sedation supports; each additional 15 minutes intraservice time (List separately in addition to code for pri- mary service),11.74,ZZZ,
+ 99170,"Anogenital examination, magnified, in childhood for suspected trauma, including image recording when performed",25.70,000,
+99172,"Visual function screening, automated or semi-automated bilateral quantitative determination of visual acuity, ocular alignment, color vision by pseudoisochro- matic plates, and field of vision (may include all or some screening of the determi- nation[s] for contrast sensitivity, vision under glare)",4.57,XXX,20/80
+99173,"Screening test of visual acuity, quantitative, bilateral",2.28,XXX,
+ 99174,"Instrument-based ocular screening (eg, photoscreening, automated-refraction), bilateral; with remote analysis and report",2.54,XXX,
+99175,Ipecac or similar administration for individual emesis and continued observation until stomach adequately emptied of poison,6.43,XXX,
+ 99177,"Instrument-based ocular screening (eg, photoscreening, automated-refraction), bilateral; with on-site analysis",0.96,XXX,
+ 99183,"Physician or other qualified health care professional attendance and supervision of hyperbaric oxygen therapy, per session",37.20,XXX,
+ 99184,"Initiation of selective head or total body hypothermia in the critically ill neonate, includes appropriate patient selection by review of clinical, imaging and labora- tory data, confirmation of esophageal temperature probe location, evaluation of amplitude EEG, supervision of controlled hypothermia, and assessment of patient tolerance of cooling",45.23,XXX,
+ 99188,Application of topical fluoride varnish by a physician or other qualified health care professional,2.39,XXX,
+99190,Assembly and operation of pump with oxygenator or heat exchanger (with or with- out ECG and/or pressure monitoring); each hour,NC,XXX,0/100
+99191,Assembly and operation of pump with oxygenator or heat exchanger (with or with- out ECG and/or pressure monitoring); 45 minutes,NC,XXX,0/100
+99192,Assembly and operation of pump with oxygenator or heat exchanger (with or with- out ECG and/or pressure monitoring); 30 minutes,NC,XXX,0/100
+99195,"Phlebotomy, therapeutic (separate procedure)",6.76,XXX,
+99199,"Unlisted special service, procedure or report",BR,XXX,
+99500,"Home visit for prenatal monitoring and assessment to include fetal heart rate, non-stress test, uterine monitoring, and gestational diabetes monitoring",NC,XXX,
+99501,Home visit for postnatal assessment and follow-up care,NC,XXX,
+99502,Home visit for newborn care and assessment,NC,XXX,
+99503,"Home visit for respiratory therapy care (eg, bronchodilator, oxygen therapy, respi- ratory assessment, apnea evaluation)",NC,XXX,
+99504,Home visit for mechanical ventilation care,NC,XXX,
+99505,Home visit for stoma care and maintenance including colostomy and cystostomy,NC,XXX,
+99506,Home visit for intramuscular injections,NC,XXX,
+99507,"Home visit for care and maintenance of catheter(s) (eg, urinary, drainage, and enteral)",NC,XXX,
+99509,Home visit for assistance with activities of daily living and personal care,NC,XXX,

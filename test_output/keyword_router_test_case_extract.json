@@ -1,0 +1,17 @@
+{
+  "law_version_id": "ny_2018_01",
+  "service_region_zip": "11757",
+  "provider_type": "medical",
+  "designation": "Selena LA Franca",
+  "lines": [
+    {
+      "code": "99214",
+      "modifiers": [],
+      "units": 1,
+      "dos_from": "08/01/23",
+      "dos_to": "08/01/23",
+      "place_of_service": "11",
+      "billed_amount": 127.41
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+Description,Relative Value,FUD,PC/TC Split
+"End-stage renal disease (ESRD) related services monthly, for patients 12-19 years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents; with 2-3 face-to-face visits by a phy- sician or other qualified health care professional per month",56.65,XXX,
+"End-stage renal disease (ESRD) related services monthly, for patients 12-19 years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents; with 1 face-to-face visit by a physi- cian or other qualified health care professional per month",37.20,XXX,
+"End-stage renal disease (ESRD) related services monthly, for patients 20 years of age and older; with 4 or more face-to-face visits by a physician or other qualified health care professional per month",42.28,XXX,
+"End-stage renal disease (ESRD) related services monthly, for patients 20 years of age and older; with 2-3 face-to-face visits by a physician or other qualified health care professional per month",33.82,XXX,
+"End-stage renal disease (ESRD) related services monthly, for patients 20 years of age and older; with 1 face-to-face visit by a physician or other qualified health care professional per month",24.52,XXX,
+"End-stage renal disease (ESRD) related services for home dialysis per full month, for patients younger than 2 years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents",72.71,XXX,
+"End-stage renal disease (ESRD) related services for home dialysis per full month, for patients 2-11 years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents",60.54,XXX,
+"End-stage renal disease (ESRD) related services for home dialysis per full month, for patients 12-19 years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents",56.65,XXX,
+"End-stage renal disease (ESRD) related services for home dialysis per full month, for patients 20 years of age and older",29.59,XXX,
+"End-stage renal disease (ESRD) related services for dialysis less than a full month of service, per day; for patients younger than 2 years of age",2.71,XXX,
+"End-stage renal disease (ESRD) related services for dialysis less than a full month of service, per day; for patients 2-11 years of age",2.20,XXX,
+"End-stage renal disease (ESRD) related services for dialysis less than a full month of service, per day; for patients 12-19 years of age",1.52,XXX,
+"End-stage renal disease (ESRD) related services for dialysis less than a full month of service, per day; for patients 20 years of age and older",1.10,XXX,
+"Dialysis training, patient, including helper where applicable, any mode, completed course",77.28,XXX,
+"Dialysis training, patient, including helper where applicable, any mode, course not completed, per training session",13.02,XXX,
+"Hemoperfusion (eg, with activated charcoal or resin)",32.13,000,
+"Unlisted dialysis procedure, inpatient or outpatient",BR,XXX,
+Esophageal motility (manometric study of the esophagus and/or gastroesophageal junction) study with interpretation and report;,35.17,000,80/20
+"Esophageal motility (manometric study of the esophagus and/or gastroesophageal junction) study with interpretation and report; with stimulation or perfusion (eg, stimulant, acid or alkali perfusion) (List separately in addition to code for primary procedure) Gastric motility (manometric) studies",3.04 29.59,ZZZ 000,39/61 80/20
+Duodenal motility (manometric) study,22.15,000,35/65
+"Esophagus, acid perfusion (Bernstein) test for esophagitis",16.06,,
+"Esophagus, gastroesophageal reflux test; with nasal catheter pH electrode(s)",37.20,000 000,90/10 20/80
+"Esophagus, gastroesophageal reflux test; with mucosal attached telemetry pH electrode placement, recording, analysis and interpretation",73.90,000,20/80
+"Esophageal function test, gastroesophageal reflux test with nasal catheter minal impedance electrode(s) placement, recording, analysis and interpretation;",23.67,,
+intralu-,,000,35/65

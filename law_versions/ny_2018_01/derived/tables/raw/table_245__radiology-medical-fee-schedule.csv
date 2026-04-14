@@ -1,0 +1,37 @@
+,Code,Description Relative Value,FUD,PC/TC Split
+73050,"Radiologic examination; acromioclavicular joints, bilateral, with or without weighted distraction",1.58,XXX 40/60,
+73060,"Radiologic examination; humerus, minimum of 2 views",1.48,XXX,40/60
+73070,"Radiologic examination, elbow; 2 views",1.33,XXX,40/60
+73080,"Radiologic examination, elbow; complete, minimum of 3 views",1.48,XXX,40/60
+73085,"Radiologic examination, elbow, arthrography, radiological supervision and inter- pretation",4.69,XXX,35/65
+73090,"Radiologic examination; forearm, 2 views",1.28,XXX,40/60
+73092,"Radiologic examination; upper extremity, infant, minimum of 2 views",1.35,XXX,40/60
+73100,"Radiologic examination, wrist; 2 views",1.17,XXX,40/60
+73110,"Radiologic examination, wrist; complete, minimum of 3 views",1.33,XXX,40/60
+73115,"Radiologic examination, wrist, arthrography, radiological supervision and interpre- tation",3.37,XXX,35/65
+73120,"Radiologic examination, hand; 2 views",1.20,XXX,40/60
+73130,"Radiologic examination, hand; minimum of 3 views",1.33,XXX,40/60
+73140,"Radiologic examination, finger(s), minimum of 2 views",1.01,XXX,40/60
+73200,"Computed tomography, upper extremity; without contrast material",9.20,XXX,25/75
+73201,"Computed tomography, upper extremity; with contrast material(s)",10.59,XXX,25/75
+73202,"Computed tomography, upper extremity; without contrast material, followed by contrast material(s) and further sections",12.71,XXX,25/75
+73206,"Computed tomographic angiography, upper extremity, with contrast material(s), including noncontrast images, if performed, and image postprocessing",16.13,XXX,25/75
+73218,"Magnetic resonance (eg, proton) imaging, upper extremity, other than joint; with- out contrast material(s)",14.48,XXX,20/80
+73219,"Magnetic resonance (eg, proton) imaging, upper extremity, other than joint; with contrast material(s)",17.04,XXX,20/80
+73220,"Magnetic resonance (eg, proton) imaging, upper extremity, other than joint; with- out contrast material(s), followed by contrast material(s) and further sequences",20.45,XXX,20/80
+73221,"Magnetic resonance (eg, proton) imaging, any joint of upper extremity; without contrast material(s)",16.61,XXX,20/80
+73222,"Magnetic resonance (eg, proton) imaging, any joint of upper extremity; with con- trast material(s)",19.11,XXX,20/80
+73223,"Magnetic resonance (eg, proton) imaging, any joint of upper extremity; without contrast material(s), followed by contrast material(s) and further sequences",22.94,XXX,20/80
+73225,"Magnetic resonance angiography, upper extremity, with or without contrast mate- rial(s)",17.96,XXX,20/80
+73501,"Radiologic examination, hip, unilateral, with pelvis when performed; 1 view",1.25,XXX,32/68
+73502,"Radiologic examination, hip, unilateral, with pelvis when performed; 2-3 views",1.73,XXX,27/73
+73503,"Radiologic examination, hip, unilateral, with pelvis when performed; minimum of views",4 2.15,XXX,28/72
+73521,"Radiologic examination, hips, bilateral, with pelvis when performed; 2 views",1.56,XXX,30/70
+73522,"Radiologic examination, hips, bilateral, with pelvis when performed; 3-4 views",2.04,XXX,31/69
+73523,"Radiologic examination, hips, bilateral, with pelvis when performed; minimum of views",5 2.36,XXX,29/71
+73525,"Radiologic examination, hip, arthrography, radiological supervision and interpreta- tion",4.77,XXX,35/65
+73551,"Radiologic examination, femur; 1 view",1.17,XXX,30/70
+73552,"Radiologic examination, femur; minimum 2 views",1.37,XXX,29/71
+73560 73562,"Radiologic examination, knee; 1 or 2 views",1.40,XXX,40/60
+,"Radiologic examination, knee; 3 views",1.66,XXX,40/60
+73564,"Radiologic examination, knee; complete, 4 or more views",1.86,XXX,40/60

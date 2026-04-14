@@ -1,0 +1,14 @@
+{
+  "neo4j": {
+    "uri": "bolt://localhost:7687",
+    "user": "neo4j",
+    "password": "YOUR_NEO4J_PASSWORD_HERE"
+  },
+  "gemini": {
+    "api_key": "YOUR_GEMINI_API_KEY_HERE"
+  },
+  "data": {
+    "directory": "law_versions/ny_2018_01/Hamza_Manual_CSV/"
+  }
+}
+

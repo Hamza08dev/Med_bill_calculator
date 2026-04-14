@@ -1,0 +1,30 @@
+,Code,Description,Relative Value,FUD,PC/TC Split
+,78452,"Myocardial perfusion imaging, tomographic (SPECT) (including attenuation cor- rection, qualitative or quantitative wall motion, ejection fraction by first pass or gated technique, additional quantification, when performed); multiple studies, at rest and/or stress (exercise or pharmacologic) and/or redistribution and/or rest reinjection",14.28,XXX,21/79
+,78453,"Myocardial perfusion imaging, planar (including qualitative or quantitative wall motion, ejection fraction by first pass or gated technique, additional quantification, when performed); single study, at rest or stress (exercise or pharmacologic)",7.40,XXX,15/85
+,78454,"Myocardial perfusion imaging, planar (including qualitative or quantitative wall motion, ejection fraction by first pass or gated technique, additional quantification, when performed); multiple studies, at rest and/or stress (exercise or pharmaco- logic) and/or redistribution and/or rest reinjection",7.27,XXX,34/66
+,78456,"Acute venous thrombosis imaging, peptide",12.37,XXX,13/87
+,78457,"Venous thrombosis imaging, venogram; unilateral",5.25,XXX,30/70
+,78458,"Venous thrombosis imaging, venogram; bilateral",8.19,XXX,30/70
+,78459,"Myocardial imaging, positron emission tomography (PET), metabolic evaluation",5.89,XXX,30/70
+,78466,"Myocardial imaging, infarct avid, planar; qualitative or quantitative",7.93,XXX,30/70
+,78468,"Myocardial imaging, infarct avid, planar; with ejection fraction by first pass tech- nique",7.27,XXX,30/70
+,78469,"Myocardial imaging, infarct avid, planar; tomographic SPECT with or without quantification",8.49,XXX,20/80
+,78472,"Cardiac blood pool imaging, gated equilibrium; planar, single study at rest or stress (exercise and/or pharmacologic), wall motion study plus ejection fraction, with or without additional quantitative processing",8.31,XXX,30/70
+,78473,"Cardiac blood pool imaging, gated equilibrium; multiple studies, wall motion study plus ejection fraction, at rest and stress (exercise and/or pharmacologic), with or without additional quantification",14.97,XXX,30/70
+,78481,"Cardiac blood pool imaging (planar), first pass technique; single study, at rest or with stress (exercise and/or pharmacologic), wall motion study plus ejection frac- tion, with or without quantification",8.80,XXX,30/70
+,78483,"Cardiac blood pool imaging (planar), first pass technique; multiple studies, at rest and with stress (exercise and/or pharmacologic), wall motion study plus ejection fraction, with or without quantification",18.11,XXX,30/70
+,78491,"Myocardial imaging, positron emission tomography (PET), perfusion; single study at rest or stress",17.01,XXX,16/84
+,78492,"Myocardial imaging, positron emission tomography (PET), perfusion; multiple studies at rest and/or stress",21.45,XXX,16/84
+,78494,"Cardiac blood pool imaging, gated equilibrium, SPECT, at rest, wall motion study plus ejection fraction, with or without quantitative processing",14.13,XXX,30/70
++,78496,"Cardiac blood pool imaging, gated equilibrium, single study, at rest, with right ven- tricular ejection fraction by first pass technique (List separately in addition to code for primary procedure)",2.78,ZZZ,30/70
+,78499,"Unlisted cardiovascular procedure, diagnostic nuclear medicine",BR,XXX,
+,78579,"Pulmonary ventilation imaging (eg, aerosol or gas)",7.51,XXX,13/87
+,78580,"Pulmonary perfusion imaging (eg, particulate)",6.43,XXX,25/75
+,78582,"Pulmonary ventilation (eg, aerosol or gas) and perfusion imaging",13.84,XXX,16/84
+,78597,"Quantitative differential pulmonary perfusion, including imaging when performed",8.46,XXX,17/83
+,78598,"Quantitative differential pulmonary perfusion and ventilation (eg, aerosol or gas), including imaging when performed",12.99,XXX,13/87
+,78599,"Unlisted respiratory procedure, diagnostic nuclear medicine",BR,XXX,25/75
+,78600,"Brain imaging, less than 4 static views;",5.05,XXX,25/75
+,78601,"Brain imaging, less than 4 static views; with vascular flow",6.38,XXX,25/75
+,78605,"Brain imaging, minimum 4 static views;",6.25,XXX,25/75
+,78606,"Brain imaging, minimum 4 static views; with vascular flow",7.17,XXX,25/75

@@ -1,0 +1,42 @@
+,Code,Description,Relative Value,FUD,PC/TC Split
+86732,Antibody; mucormycosis,24.64,XXX,,0/100
+86735,Antibody; mumps,24.64,,XXX,0/100
+86738,Antibody; mycoplasma,24.64,,XXX,0/100
+86741,Antibody; Neisseria meningitidis,,24.64,XXX,0/100
+86744,Antibody; Nocardia,,24.64,XXX,0/100
+86747,Antibody; parvovirus,,30.81,XXX,0/100
+86750,Antibody; Plasmodium (malaria),,24.64,XXX,0/100
+86753,"Antibody; protozoa, not elsewhere specified",,33.89,XXX,0/100
+86756,Antibody; respiratory syncytial virus,,24.64,XXX,0/100
+86757,Antibody; Rickettsia,,24.64,XXX,0/100
+86759,Antibody; rotavirus,,24.64,XXX,0/100
+86762,Antibody; rubella,,14.17,XXX,0/100
+86765,Antibody; rubeola,30.81,,XXX,0/100
+86768,Antibody; Salmonella,,24.64,XXX,0/100
+86771,Antibody; Shigella,24.64,,XXX,0/100
+86774,Antibody; tetanus,,30.81,XXX,0/100
+86777,Antibody; Toxoplasma,23.41,,XXX,0/100
+86778,"Antibody; Toxoplasma, IgM",28.96,,XXX,0/100
+86780,Antibody; Treponema pallidum,,20.95,XXX,0/100
+86784,Antibody;,Trichinella,24.64,XXX,0/100
+86787,Antibody;,varicella-zoster,27.11,XXX,0/100
+86788,"Antibody; West Nile virus, IgM",,27.72,XXX,0/100
+86789,Antibody; West Nile virus,,27.72,XXX,0/100
+86790,Antibody;,"virus, not elsewhere specified",33.89,XXX,0/100
+86793,Antibody; Yersinia,,24.64,XXX,0/100
+ 86794,Antibody;,"Zika virus, IgM",18.75,XXX,0/100
+86800,Thyroglobulin,antibody,26.49,XXX,0/100
+86803,Hepatitis,C antibody;,30.19,XXX,0/100
+86804,"Hepatitis C antibody; confirmatory test (eg, immunoblot)",,43.13,XXX,0/100
+86805,"Lymphocytotoxicity assay, visual crossmatch; with titration",91.18,,XXX,0/100
+86806,"Lymphocytotoxicity assay, visual crossmatch; without titration",,30.19,XXX,0/100
+86807,Serum screening for cytotoxic percent reactive antibody (PRA); standard,method 30.19,,XXX,0/100
+86808,Serum screening for cytotoxic percent reactive antibody (PRA); quick method,,33.89,XXX,0/100
+86812,"HLA typing; A, B, or C (eg, A10, B7, B27), single antigen",43.13,,XXX,0/100
+86813,"HLA typing; A, B, or C, multiple antigens",61.61,,XXX,0/100
+86816,"HLA typing; DR/DQ, single antigen",,58.53,XXX,0/100
+86817,"HLA typing; DR/DQ, multiple antigens",,168.20,XXX,0/100
+86821,HLA,"typing; lymphocyte culture, mixed (MLC)",131.23,XXX,0/100
+86825,"Human leukocyte antigen (HLA) crossmatch, non-cytotoxic (eg, using flow cytom-",105.05,,XXX,0/100
++ 86826,"Human leukocyte antigen (HLA) crossmatch, non-cytotoxic (eg, using flow etry); each additional serum sample or sample dilution (List separately in to primary procedure)",cytom- addition,34.91,XXX,0/100
+ 86828,"Antibody to human leukocyte antigens (HLA), solid phase assays spheres or beads, ELISA, flow cytometry); qualitative assessment of","(eg, micro- the presence or absence of antibody(ies) to HLA Class I and Class II HLA antigens",57.53,XXX,0/100

@@ -1,0 +1,913 @@
+code,description,rvu,fud,pctc_split,is_addon,is_mod51_exempt,is_state_specific,is_altered_cpt,is_br
+90281,"Immune globulin (Ig), human, for intramuscular use",,XXX,,False,False,False,False,True
+90283,"Immune globulin (IgIV), human, for intravenous use",,XXX,,False,False,False,False,True
+90284,"Immune globulin (SCIg), human, for use in subcutaneous infusions, 100 mg, each",,XXX,,False,False,False,False,True
+90287,"Botulinum antitoxin, equine, any route",,XXX,,False,False,False,False,True
+90288,"Botulism immune globulin, human, for intravenous use",,XXX,,False,False,False,False,True
+90291,"Cytomegalovirus immune globulin (CMV-IgIV), human, for intravenous use",,XXX,,False,False,False,False,True
+90296,"Diphtheria antitoxin, equine, any route",,XXX,,False,False,False,False,True
+90371,"Hepatitis B immune globulin (HBIg), human, for intramuscular use",57.03,XXX,,False,True,False,False,False
+90375,"Rabies immune globulin (RIg), human, for intramuscular and/or subcutaneous use",74.66,XXX,,False,False,False,False,False
+90376,"Rabies immune globulin, heat-treated (RIg-HT), human, for intramuscular and/or subcutaneous use",74.66,XXX,,False,False,False,False,False
+90378,"Respiratory syncytial virus, monoclonal antibody, recombinant, for intramuscular use, 50 mg, each",,XXX,,False,False,False,False,True
+90384,"Rho(D) immune globulin (RhIg), human, full-dose, for intramuscular use",11.84,XXX,,False,False,False,False,False
+90385,"Rho(D) immune globulin (RhIg), human, mini-dose, for intramuscular use",5.41,XXX,,False,False,False,False,False
+90386,"Rho(D) immune globulin (RhIgIV), human, for intravenous use",12.68,XXX,,False,False,False,False,False
+90389,"Tetanus immune globulin (TIg), human, for intramuscular use",6.55,XXX,,False,False,False,False,False
+90393,"Vaccinia immune globulin, human, for intramuscular use",,XXX,,False,False,False,False,True
+90396,"Varicella-zoster immune globulin, human, for intramuscular use",12.18,XXX,,False,False,False,False,False
+90399,Unlisted immune globulin,,XXX,,False,False,False,False,True
+90460,"Immunization administration through 18 years of age via any route of administra- tion, with counseling by physician or other qualified health care professional; first or only component of each vaccine or toxoid administered",2.54,XXX,,False,False,False,False,False
+90461,"Immunization administration through 18 years of age via any route of administra- tion, with counseling by physician or other qualified health care professional; each additional vaccine or toxoid component administered (List separately in addition to code for primary procedure)",1.52,ZZZ,,False,False,False,False,False
+90471,"Immunization administration (includes percutaneous, intradermal, subcutaneous, or intramuscular injections); 1 vaccine (single or combination vaccine/toxoid)",2.20,XXX,,False,False,False,False,False
+90472,"Immunization administration (includes percutaneous, intradermal, subcutaneous, or intramuscular injections); each additional vaccine (single or combination vac- cine/toxoid) (List separately in addition to code for primary procedure)",2.20,ZZZ,,False,False,False,False,False
+90473,Immunization administration by intranasal or oral route; 1 vaccine (single or com- bination vaccine/toxoid),2.20,XXX,,False,False,False,False,False
+90474,Immunization administration by intranasal or oral route; each additional vaccine (single or combination vaccine/toxoid) (List separately in addition to code for pri- mary procedure),2.20,ZZZ,,False,False,False,False,False
+90476,"Adenovirus vaccine, type 4, live, for oral use",,XXX,,False,False,False,False,True
+90477,"Adenovirus vaccine, type 7, live, for oral use",,XXX,,False,False,False,False,True
+90581,"Anthrax vaccine, for subcutaneous or intramuscular use",14.08,XXX,,False,False,False,False,False
+90585,"Bacillus Calmette-Guerin vaccine (BCG) for tuberculosis, live, for percutaneous use",16.28,XXX,,False,False,False,False,False
+90586,"Bacillus Calmette-Guerin vaccine (BCG) for bladder cancer, live, for intravesical use",18.52,XXX,,False,False,False,False,False
+90587,"Dengue vaccine, quadrivalent, live, 3 dose schedule, for subcutaneous use",,XXX,,False,False,False,False,True
+90620,"Meningococcal recombinant protein and outer membrane vesicle vaccine, sero- group B (MenB-4C), 2 dose schedule, for intramuscular use",,XXX,,False,True,False,False,True
+90621,"Meningococcal recombinant lipoprotein vaccine, serogroup B (MenB-FHbp), 2 or 3 dose schedule, for intramuscular use",,XXX,,False,True,False,False,True
+90625,"Cholera vaccine, live, adult dosage, 1 dose schedule, for oral use",,XXX,,False,False,False,False,True
+B 90630,"Influenza virus vaccine, quadrivalent (IIV4), split virus, preservative free, for intra- dermal use",3.90,XXX,,False,False,False,False,False
+90632,"Hepatitis A vaccine (HepA), adult dosage, for intramuscular use",6.21,XXX,,False,False,False,False,False
+90633,"Hepatitis A vaccine (HepA), pediatric/adolescent dosage-2 dose schedule, for intramuscular use",3.00,XXX,,False,False,False,False,False
+90634,"Hepatitis A vaccine (HepA), pediatric/adolescent dosage-3 dose schedule, for intramuscular use",3.00,XXX,,False,False,False,False,False
+90636,"Hepatitis A and hepatitis B vaccine (HepA-HepB), adult dosage, for intramuscular use",9.30,XXX,,False,True,False,False,False
+B 90644,"Meningococcal conjugate vaccine, serogroups C &YandHaemophilus influenzae type b vaccine (Hib-MenCY), 4 dose schedule, when administered to children 6 weeks-18 months of age, for intramuscular use",2.71,XXX,,False,False,False,False,False
+B 90647,"Haemophilus influenzae type b vaccine (Hib), PRP-OMP conjugate, 3 dose sched- ule, for intramuscular use",2.45,XXX,,False,False,False,False,False
+B 90648,"Haemophilus influenzae type b vaccine (Hib), PRP-T conjugate, 4 dose schedule, for intramuscular use",1.86,XXX,,False,False,False,False,False
+90649,"Human Papillomavirus vaccine, types 6, 11, 16, 18, quadrivalent (4vHPV), 3 dose schedule, for intramuscular use",12.85,XXX,,False,False,False,False,False
+B 90650,"HumanPapillomavirus vaccine, types 16, 18, bivalent (2vHPV), 3 dose schedule, for intramuscular use",,XXX,,False,False,False,False,True
+90651,"Human Papillomavirus vaccine types 6, 11, 16, 18, 31, 33, 45, 52, 58, nonavalent (9vHPV), 2 or 3 dose schedule, for intramuscular use",,XXX,,False,False,False,False,True
+B 90653,"Influenza vaccine, inactivated (IIV), subunit, adjuvanted, for intramuscular use",9.51,XXX,,False,False,False,False,False
+B 90654,"Influenza virus vaccine, trivalent (IIV3), split virus, preservative-free, for intrader- mal use",3.84,XXX,,False,False,False,False,False
+B 90655,"Influenza virus vaccine, trivalent (IIV3), split virus, preservative free, 0.25 mL dos- age, for intramuscular use",1.56,XXX,,False,False,False,False,False
+B 90656,"Influenza virus vaccine, trivalent (IIV3), split virus, preservative free, 0.5 mL dos- age, for intramuscular use",1.56,XXX,,False,False,False,False,False
+B 90657,"Influenza virus vaccine, trivalent (IIV3), split virus, 0.25 mL dosage, for intramuscu- lar use",1.14,XXX,,False,False,False,False,False
+90658,"Influenza virus vaccine, trivalent (IIV3), split virus, 0.5 mL dosage, for intramuscu- lar use",1.14,XXX,,False,False,False,False,False
+90660,"Influenza virus vaccine, trivalent, live (LAIV3), for intranasal use",2.03,XXX,,False,False,False,False,False
+90661,"Influenza virus vaccine, trivalent (ccIIV3), derived from cell cultures, subunit, pre- servative and antibiotic free, 0.5 mL dosage, for intramuscular use",,XXX,,False,False,False,False,True
+90662,"Influenza virus vaccine (IIV), split virus, preservative free, enhanced immunoge- nicity via increased antigen content, for intramuscular use",6.47,XXX,,False,False,False,False,False
+90664,"Influenza virus vaccine, live (LAIV), pandemic formulation, for intranasal use",,XXX,,False,False,False,False,True
+90666,"Influenza virus vaccine (IIV), pandemic formulation, split virus, preservative free, for intramuscular use",,XXX,,False,False,False,False,True
+90667,"Influenza virus vaccine (IIV), pandemic formulation, split virus, adjuvanted, for intramuscular use",,XXX,,False,False,False,False,True
+90668,"Influenza virus vaccine (IIV), pandemic formulation, split virus, for intramuscular use",,XXX,,False,False,False,False,True
+90670,"Pneumococcal conjugate vaccine, 13 valent (PCV13), for intramuscular use",10.52,XXX,,False,False,False,False,False
+B 90672,"Influenza virus vaccine, quadrivalent, live (LAIV4), for intranasal use",,XXX,,False,False,False,False,True
+B 90673,"Influenza virus vaccine, trivalent (RIV3), derived from recombinant DNA, hemag- glutinin (HA) protein only, preservative and antibiotic free, for intramuscular use",7.73,XXX,,False,False,False,False,False
+B 90674,"Influenza virus vaccine, quadrivalent (ccIIV4), derived from cell cultures, subunit, preservative and antibiotic free, 0.5 mL dosage, for intramuscular use",4.58,XXX,,False,False,False,False,False
+90675,"Rabies vaccine, for intramuscular use",14.58,XXX,,False,False,False,False,False
+90676,"Rabies vaccine, for intradermal use",,XXX,,False,False,False,False,True
+90680,"Rotavirus vaccine, pentavalent (RV5), 3 dose schedule, live, for oral use",5.07,XXX,,False,False,False,False,False
+90681,"Rotavirus vaccine, human, attenuated (RV1), 2 dose schedule, live, for oral use",7.61,XXX,,False,False,False,False,False
+90682,"Influenza virus vaccine, quadrivalent (RIV4), derived from recombinant DNA, hem- agglutinin (HA) protein only, preservative and antibiotic free, for intramuscular use",8.82,XXX,,False,False,False,False,False
+90685,"Influenza virus vaccine, quadrivalent (IIV4), split virus, preservative free, 0.25 mL, for intramuscular use",4.04,XXX,,False,False,False,False,False
+90686,"Influenza virus vaccine, quadrivalent (IIV4), split virus, preservative free, 0.5 mL dosage, for intramuscular use",3.63,XXX,,False,False,False,False,False
+90687,"Influenza virus vaccine, quadrivalent (IIV4), split virus, 0.25 mL dosage, for intra- muscular use",1.78,XXX,,False,False,False,False,False
+90688,"Influenza virus vaccine, quadrivalent (IIV4), split virus, 0.5 mL dosage, for intra- muscular use",3.42,XXX,,False,False,False,False,False
+90690,"Typhoid vaccine, live, oral",3.21,XXX,,False,False,False,False,False
+90691,"Typhoid vaccine, Vi capsular polysaccharide (ViCPs), for intramuscular use",3.89,XXX,,False,False,False,False,False
+90696,"Diphtheria, tetanus toxoids, acellular pertussis vaccine and inactivated poliovirus vaccine (DTaP-IPV), when administered to children 4 through 6 years of age, for intramuscular use",,XXX,,False,False,False,False,True
+90697,"Diphtheria, tetanus toxoids, acellular pertussis vaccine, inactivated poliovirus vaccine, Haemophilus influenzae type b PRP-OMP conjugate vaccine, and hepati- tis B vaccine (DTaP-IPV-Hib-HepB), for intramuscular use",,XXX,,False,True,False,False,True
+90698,"Diphtheria, tetanus toxoids, acellular pertussis vaccine, Haemophilus influenzae type b, and inactivated poliovirus vaccine, (DTaP-IPV/Hib), for intramuscular use",7.61,XXX,,False,False,False,False,False
+90700,"Diphtheria, tetanus toxoids, and acellular pertussis vaccine (DTaP), when adminis- tered to individuals younger than 7 years, for intramuscular use",2.96,XXX,,False,False,False,False,False
+90702,"Diphtheria and tetanus toxoids adsorbed (DT) when administered to individuals younger than 7 years, for intramuscular use",1.40,XXX,,False,False,False,False,False
+90707,"Measles, mumps and rubella virus vaccine (MMR), live, for subcutaneous use",4.86,XXX,,False,False,False,False,False
+90710,"Measles, mumps, rubella, and varicella vaccine (MMRV), live, for subcutaneous use",13.53,XXX,,False,False,False,False,False
+90713,"Poliovirus vaccine, inactivated (IPV), for subcutaneous or intramuscular use",3.38,XXX,,False,False,False,False,False
+90714,"Tetanus and diphtheria toxoids adsorbed (Td), preservative free, when adminis- tered to individuals 7 years or older, for intramuscular use",2.54,XXX,,False,False,False,False,False
+90715,"Tetanus, diphtheria toxoids and acellular pertussis vaccine (Tdap), when adminis- tered to individuals 7 years or older, for intramuscular use",2.28,XXX,,False,False,False,False,False
+90716,"Varicella virus vaccine (VAR), live, for subcutaneous use",5.79,XXX,,False,False,False,False,False
+90717,"Yellow fever vaccine, live, for subcutaneous use",6.64,XXX,,False,False,False,False,False
+90723,"Diphtheria, tetanus toxoids, acellular pertussis vaccine, hepatitis B, and inacti- vated poliovirus vaccine (DTaP-HepB-IPV), for intramuscular use",7.44,XXX,,False,False,False,False,False
+90732,"Pneumococcal polysaccharide vaccine, 23-valent (PPSV23), adult or immunosup- pressed patient dosage, when administered to individuals 2 years or older, for sub- cutaneous or intramuscular use",2.41,XXX,,False,False,False,False,False
+90733,"Meningococcal polysaccharide vaccine, serogroups A, C, Y, W-135, quadrivalent (MPSV4), for subcutaneous use",10.10,XXX,,False,False,False,False,False
+90734,"Meningococcal conjugate vaccine, serogroups A, C, Y and W-135, quadrivalent (MCV4 or MenACWY), for intramuscular use",9.64,XXX,,False,False,False,False,False
+90736,"Zoster (shingles) vaccine (HZV), live, for subcutaneous injection",16.23,XXX,,False,False,False,False,False
+90738,"Japanese encephalitis virus vaccine, inactivated, for intramuscular use",6.71,XXX,,False,False,False,False,False
+90739,"Hepatitis B vaccine (HepB), adult dosage, 2 dose schedule, for intramuscular use",24.90,XXX,,False,True,False,False,False
+,"Hepatitis B vaccine (HepB), adolescent, 2 dose schedule, for intramuscular",,,,False,True,False,False,False
+90743,use,2.71,XXX,,False,False,False,False,False
+90744,"Hepatitis B vaccine (HepB), pediatric/adolescent dosage, 3 dose schedule, for intramuscular use",2.71,XXX,,False,True,False,False,False
+90746,"Hepatitis B vaccine (HepB), adult dosage, 3 dose schedule, for intramuscular use",5.50,XXX,,False,True,False,False,False
+90747,"Hepatitis B vaccine (HepB), dialysis or immunosuppressed patient dosage, 4 dose schedule, for intramuscular use",19.15,XXX,,False,True,False,False,False
+90748,"Hepatitis B and Haemophilus influenzae type b vaccine (Hib-HepB), for intramus- cular use",5.20,XXX,,False,True,False,False,False
+90749,Unlisted vaccine/toxoid,,XXX,,False,False,False,False,True
+90750,"Zoster (shingles) vaccine (HZV), recombinant, subunit, adjuvanted, for intramus- cular use",,XXX,,False,False,False,False,True
+90756,"Influenza virus vaccine, quadrivalent (ccIIV4), derived from cell cultures, subunit, antibiotic free, 0.5mL dosage, for intramuscular use",4.31,XXX,,False,False,False,False,False
+90785,Interactive complexity (List separately in addition to the code for primary proce- dure),2.80,ZZZ,,False,False,False,False,False
+90791,Psychiatric diagnostic evaluation,25.84,XXX,,False,False,False,False,False
+90792,Psychiatric diagnostic evaluation with medical services,27.75,XXX,,False,False,False,False,False
+90832,"Psychotherapy, 30 minutes with patient",12.59,XXX,,False,False,False,False,False
+90833,"Psychotherapy, 30 minutes with patient when performed with an evaluation and management service (List separately in addition to the code for primary proce- dure)",13.13,ZZZ,,False,False,False,False,False
+90834,"Psychotherapy, 45 minutes with patient",16.83,XXX,,False,False,False,False,False
+90836,"Psychotherapy, 45 minutes with patient when performed with an evaluation and management service (List separately in addition to the code for primary proce- dure)",16.55,ZZZ,,False,False,False,False,False
+90837,"Psychotherapy, 60 minutes with patient",25.24,XXX,,False,False,False,False,False
+90838,"Psychotherapy, 60 minutes with patient when performed with an evaluation and management service (List separately in addition to the code for primary proce- dure)",21.89,ZZZ,,False,False,False,False,False
+90839,Psychotherapy for crisis; first 60 minutes,26.34,XXX,,False,False,False,False,False
+90840,Psychotherapy for crisis; each additional 30 minutes (List separately in addition to code for primary service),12.59,ZZZ,,False,False,False,False,False
+90845,Psychoanalysis,16.43,XXX,,False,False,False,False,False
+90846,"Family psychotherapy (without the patient present), 50 minutes",16.91,XXX,,False,False,False,False,False
+90847,"Family psychotherapy (conjoint psychotherapy) (with patient present), 50 minutes",20.42,XXX,,False,False,False,False,False
+90849,Multiple-family group psychotherapy,5.42,XXX,,False,False,False,False,False
+90853,Group psychotherapy (other than of a multiple-family group),5.42,XXX,,False,False,False,False,False
+90863,"Pharmacologic management, including prescription and review of medication, when performed with psychotherapy services (List separately in addition to the code for primary procedure)",5.06,XXX,,False,False,False,False,False
+90865,"Narcosynthesis for psychiatric diagnostic and therapeutic purposes (eg, sodium amobarbital (Amytal) interview)",26.16,XXX,,False,False,False,False,False
+90867,"Therapeutic repetitive transcranial magnetic stimulation (TMS) treatment; initial, including cortical mapping, motor threshold determination, delivery and manage- ment",37.94,000,,False,False,False,False,False
+90868,"Therapeutic repetitive transcranial magnetic stimulation (TMS) treatment; subse- quent delivery and management, per session",5.21,000,,False,False,False,False,False
+90869,Therapeutic repetitive transcranial magnetic stimulation (TMS) treatment; subse- quent motor threshold re-determination with delivery and management,25.29,000,,False,False,False,False,False
+90870,Electroconvulsive therapy (includes necessary monitoring),26.72,000,,False,False,False,False,False
+90875,"Individual psychophysiological therapy incorporating biofeedback training by any modality (face-to-face with the patient), with psychotherapy (eg, insight oriented, behavior modifying or supportive psychotherapy); 30 minutes",11.01,XXX,,False,False,False,False,False
+90876,"Individual psychophysiological therapy incorporating biofeedback training by any modality (face-to-face with the patient), with psychotherapy (eg, insight oriented, behavior modifying or supportive psychotherapy); 45 minutes",17.55,XXX,,False,False,False,False,False
+90880,Hypnotherapy,20.26,XXX,,False,False,False,False,False
+90882,"Environmental intervention for medical management purposes on a psychiatric patient's behalf with agencies, employers, or institutions",13.36,XXX,,False,False,False,False,False
+90885,"Psychiatric evaluation of hospital records, other psychiatric reports, psychometric and/or projective tests, and other accumulated data for medical diagnostic pur- poses",8.93,XXX,,False,False,False,False,False
+90887,"Interpretation or explanation of results of psychiatric, other medical examinations and procedures, or other accumulated data to family or other responsible per- sons, or advising them how to assist patient",13.72,XXX,,False,False,False,False,False
+90889,"Preparation of report of patient's psychiatric status, history, treatment, or prog- ress (other than for legal or consultative purposes) for other individuals, agencies, or insurance carriers",NC,XXX,,False,False,False,False,False
+90899,Unlisted psychiatric service or procedure,,XXX,,False,False,False,False,True
+90901,Biofeedback training by any modality,9.81,000,,False,False,False,False,False
+90911,"Biofeedback training, perineal muscles, anorectal or urethral sphincter, including EMG and/or manometry",16.91,000,,False,False,False,False,False
+90935,Hemodialysis procedure with single evaluation by a physician or other qualified health care professional,28.75,000,,False,False,False,False,False
+90937,Hemodialysis procedure requiring repeated evaluation(s) with or without substan- tial revision of dialysis prescription,45.66,000,,False,False,False,False,False
+90940,Hemodialysis access flow study to determine blood flow in grafts and arteriove- nous fistulae by an indicator method,11.84,XXX,40/60,False,False,False,False,False
+90945,"Dialysis procedure other than hemodialysis (eg, peritoneal dialysis, hemofiltration, or other continuous renal replacement therapies), with single evaluation by a phy- sician or other qualified health care professional",16.91,000,,False,False,False,False,False
+90947,"Dialysis procedure other than hemodialysis (eg, peritoneal dialysis, hemofiltration, or other continuous renal replacement therapies) requiring repeated evaluations by a physician or other qualified health care professional, with or without substan- tial revision of dialysis prescription",27.06,000,,False,False,False,False,False
+90951,"End-stage renal disease (ESRD) related services monthly, for patients younger than 2 years of age to include monitoring for the adequacy of nutrition, assess- ment of growth and development, and counseling of parents; with 4 or more face-to-face visits by a physician or other qualified health care professional per month",126.83,XXX,,False,False,False,False,False
+90952,"End-stage renal disease (ESRD) related services monthly, for patients younger than 2 years of age to include monitoring for the adequacy of nutrition, assess- ment of growth and development, and counseling of parents; with 2-3 face-to-face visits by a physician or other qualified health care professional per month",101.46,XXX,,False,False,False,False,False
+90953,"End-stage renal disease (ESRD) related services monthly, for patients younger than 2 years of age to include monitoring for the adequacy of nutrition, assess- ment of growth and development, and counseling of parents; with 1 face-to-face visit by a physician or other qualified health care professional per month",67.64,XXX,,False,False,False,False,False
+90954,"End-stage renal disease (ESRD) related services monthly, for patients 2-11 years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents; with 4 or more face-to-face visits by a physician or other qualified health care professional per month",107.38,XXX,,False,False,False,False,False
+90955,"End-stage renal disease (ESRD) related services monthly, for patients 2-11 years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents; with 2-3 face-to-face visits by a phy- sician or other qualified health care professional per month",60.03,XXX,,False,False,False,False,False
+90956,"End-stage renal disease (ESRD) related services monthly, for patients 2-11 years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents; with 1 face-to-face visit by a physi- cian or other qualified health care professional per month",42.28,XXX,,False,False,False,False,False
+90957,"End-stage renal disease (ESRD) related services monthly, for patients 12-19 years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents; with 4 or more face-to-face visits by a physician or other qualified health care professional per month",84.55,XXX,,False,False,False,False,False
+,"End-stage renal disease (ESRD) related services monthly, for patients 12-19 years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents; with 2-3 face-to-face visits by a phy- sician or other qualified health care professional per month",56.65,XXX,,False,False,False,False,False
+,"End-stage renal disease (ESRD) related services monthly, for patients 12-19 years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents; with 1 face-to-face visit by a physi- cian or other qualified health care professional per month",37.20,XXX,,False,False,False,False,False
+,"End-stage renal disease (ESRD) related services monthly, for patients 20 years of age and older; with 4 or more face-to-face visits by a physician or other qualified health care professional per month",42.28,XXX,,False,False,False,False,False
+,"End-stage renal disease (ESRD) related services monthly, for patients 20 years of age and older; with 2-3 face-to-face visits by a physician or other qualified health care professional per month",33.82,XXX,,False,False,False,False,False
+,"End-stage renal disease (ESRD) related services monthly, for patients 20 years of age and older; with 1 face-to-face visit by a physician or other qualified health care professional per month",24.52,XXX,,False,False,False,False,False
+,"End-stage renal disease (ESRD) related services for home dialysis per full month, for patients younger than 2 years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents",72.71,XXX,,False,False,False,False,False
+,"End-stage renal disease (ESRD) related services for home dialysis per full month, for patients 2-11 years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents",60.54,XXX,,False,False,False,False,False
+,"End-stage renal disease (ESRD) related services for home dialysis per full month, for patients 12-19 years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents",56.65,XXX,,False,False,False,False,False
+,"End-stage renal disease (ESRD) related services for home dialysis per full month, for patients 20 years of age and older",29.59,XXX,,False,False,False,False,False
+,"End-stage renal disease (ESRD) related services for dialysis less than a full month of service, per day; for patients younger than 2 years of age",2.71,XXX,,False,False,False,False,False
+,"End-stage renal disease (ESRD) related services for dialysis less than a full month of service, per day; for patients 2-11 years of age",2.20,XXX,,False,False,False,False,False
+,"End-stage renal disease (ESRD) related services for dialysis less than a full month of service, per day; for patients 12-19 years of age",1.52,XXX,,False,False,False,False,False
+,"End-stage renal disease (ESRD) related services for dialysis less than a full month of service, per day; for patients 20 years of age and older",1.10,XXX,,False,False,False,False,False
+,"Dialysis training, patient, including helper where applicable, any mode, completed course",77.28,XXX,,False,False,False,False,False
+,"Dialysis training, patient, including helper where applicable, any mode, course not completed, per training session",13.02,XXX,,False,False,False,False,False
+,"Hemoperfusion (eg, with activated charcoal or resin)",32.13,000,,False,False,False,False,False
+,"Unlisted dialysis procedure, inpatient or outpatient",,XXX,,False,False,False,False,True
+,Esophageal motility (manometric study of the esophagus and/or gastroesophageal junction) study with interpretation and report;,35.17,000,80/20,False,False,False,False,False
+,"Esophageal motility (manometric study of the esophagus and/or gastroesophageal junction) study with interpretation and report; with stimulation or perfusion (eg, stimulant, acid or alkali perfusion) (List separately in addition to code for primary procedure) Gastric motility (manometric) studies",3.04 29.59,ZZZ 000,39/61 80/20,False,False,False,False,False
+,Duodenal motility (manometric) study,22.15,000,35/65,False,False,False,False,False
+,"Esophagus, acid perfusion (Bernstein) test for esophagitis",16.06,,,False,False,False,False,False
+,"Esophagus, gastroesophageal reflux test; with nasal catheter pH electrode(s)",37.20,000 000,90/10 20/80,False,False,False,False,False
+,"Esophagus, gastroesophageal reflux test; with mucosal attached telemetry pH electrode placement, recording, analysis and interpretation",73.90,000,20/80,False,False,False,False,False
+,"Esophageal function test, gastroesophageal reflux test with nasal catheter minal impedance electrode(s) placement, recording, analysis and interpretation;",23.67,,,False,False,False,False,False
+,intralu-,,000,35/65,False,False,False,False,False
+"Esophageal function test, gastroesophageal reflux test with nasal catheter intralu- minal impedance electrode(s) placement, recording, analysis and interpretation; prolonged (greater than 1 hour, up to 24 hours)",91038,000,,45/55,False,False,False,False,False
+"Esophageal balloon distension study, diagnostic, with provocation when per- formed",91040,,000,10/90,False,False,False,False,False
+"Breath hydrogen or methane test (eg, for detection of lactase deficiency, intolerance, bacterial overgrowth, or oro-cecal gastrointestinal transit)",91065,9.30,000,20/80,False,False,False,False,False
+"Gastrointestinal tract imaging, intraluminal (eg, capsule endoscopy), esophagus through ileum, with interpretation and report",91110,,XXX,15/85,False,False,False,False,False
+"Gastrointestinal tract imaging, intraluminal (eg, capsule endoscopy), with interpretation and report",91111,84.55,XXX,8/92,False,False,False,False,False
+"Gastrointestinal transit and pressure measurement, stomach through colon, wire- less capsule, with interpretation and report",91112,,XXX,10/90,False,False,False,False,False
+"Colon motility (manometric) study, minimum 6 hours continuous recording ing provocation tests, eg, meal, intracolonic balloon distension, pharmacologic agents, if performed), with interpretation and report",91117,19.78,000,,False,False,False,False,False
+"Rectal sensation, tone, and compliance test (ie, response to graded balloon dis- tention)",91120,,XXX,10/90,False,False,False,False,False
+Anorectal,91122,30.61,000,80/20,False,False,False,False,False
+,91132,4.06,XXX,65/35,False,False,False,False,False
+91133,,4.06,XXX,65/35,False,False,False,False,False
+91200,,7.80,XXX,35/65,False,False,False,False,False
+,91299,,XXX,,False,False,False,False,True
+,92002,6.93,XXX,,False,False,False,False,False
+,92004,9.13,XXX,,False,False,False,False,False
+92012,~,6.59,XXX,,False,False,False,False,False
+92014,~,8.12,XXX,,False,False,False,False,False
+,92015,2.28,XXX,,False,False,False,False,False
+"Ophthalmological examination and evaluation, under general anesthesia, with or without manipulation of globe for passive range of motion or other manipulation to",92018,23.67,XXX,,False,False,False,False,False
+"Ophthalmological examination and evaluation, under general anesthesia, with or without manipulation of globe for passive range of motion or other manipulation to",92019,10.99,XXX,,False,False,False,False,False
+Gonioscopy,92020,4.57,XXX,,False,False,False,False,False
+"Computerized corneal topography, unilateral or bilateral, with interpretation and report",92025,3.55,XXX,59/41,False,False,False,False,False
+"Sensorimotor examination with multiple measurements of ocular deviation (eg, restrictive or paretic muscle with diplopia) with interpretation and report (sepa-",92060,6.76,XXX,,False,False,False,False,False
+"Orthoptic and/or pleoptic training, with continuing medical direction and evalua- tion",92065,5.48,XXX,,False,False,False,False,False
+Fitting of contact lens for treatment of ocular surface disease,92071,7.82,XXX,,False,False,False,False,False
+"Fitting of contact lens for management of keratoconus, initial",92072,24.95,XXX,,False,False,False,False,False
+"Visual field examination, unilateral or bilateral, with interpretation and report; ited",92081,4.57,XXX,20/80,False,False,False,False,False
+92082,"Visual field examination, unilateral or bilateral, with interpretation and report; intermediate examination (eg, at least 2 isopters on Goldmann perimeter, or semi- quantitative, automated suprathreshold screening program, Humphrey suprath- reshold automatic diagnostic test, Octopus program 33)",7.78,XXX,20/80,False,False,False,False,False
+92083,"Visual field examination, unilateral or bilateral, with interpretation and report; extended examination (eg, Goldmann visual fields with at least 3 isopters plotted and static determination within the central 30 degrees or quantitative, automated threshold perimetry, Octopus program G-1, 32 or 42, Humphrey visual field ana- lyzer full threshold programs 30-2, 24-2, or 30/60-2)",11.84,XXX,20/80,False,False,False,False,False
+92100,"Serial tonometry (separate procedure) with multiple measurements of intraocular pressure over an extended time period with interpretation and report, same day (eg, diurnal curve or medical treatment of acute elevation of intraocular pressure)",4.23,XXX,,False,False,False,False,False
+92132,"Scanning computerized ophthalmic diagnostic imaging, anterior segment, with interpretation and report, unilateral or bilateral",4.73,XXX,55/45,False,False,False,False,False
+92133,"Scanning computerized ophthalmic diagnostic imaging, posterior segment, with interpretation and report, unilateral or bilateral; optic nerve",5.75,XXX,64/36,False,False,False,False,False
+92134,"Scanning computerized ophthalmic diagnostic imaging, posterior segment, with interpretation and report, unilateral or bilateral; retina",5.75,XXX,64/36,False,False,False,False,False
+92136,Ophthalmic biometry by partial coherence interferometry with intraocular lens power calculation,8.96,XXX,20/80,False,False,False,False,False
+92145,"Corneal hysteresis determination, by air impulse stimulation, unilateral or bilateral, with interpretation and report",3.42,XXX,54/46,False,False,False,False,False
+92225,"Ophthalmoscopy, extended, with retinal drawing (eg, for retinal detachment, mela- noma), with interpretation and report; initial",7.27,XXX,,False,False,False,False,False
+92226,"Ophthalmoscopy, extended, with retinal drawing (eg, for retinal detachment, mela- noma), with interpretation and report; subsequent",6.26,XXX,,False,False,False,False,False
+92227,"Remote imaging for detection of retinal disease (eg, retinopathy in a patient with diabetes) with analysis and report under physician supervision, unilateral or bilat- eral",2.54,XXX,,False,False,False,False,False
+92228,"Remote imaging for monitoring and management of active retinal disease (eg, dia- betic retinopathy) with physician review, interpretation and report, unilateral or bilateral",5.41,XXX,60/40,False,False,False,False,False
+92230,Fluorescein angioscopy with interpretation and report,8.79,XXX,,False,False,False,False,False
+92235,"Fluorescein angiography (includes multiframe imaging) with interpretation and report, unilateral or bilateral",23,XXX,30/70,False,False,False,False,False
+92240,"Indocyanine-green angiography (includes multiframe imaging) with interpretation and report, unilateral or bilateral",23,XXX,30/70,False,False,False,False,False
+92242,"Fluorescein angiography and indocyanine-green angiography (includes multi- frame imaging) performed at the same patient encounter with interpretation and report, unilateral or bilateral",44.33,XXX,24/76,False,False,False,False,False
+92250,Fundus photography with interpretation and report,7.27,XXX,30/70,False,False,False,False,False
+92260,Ophthalmodynamometry,8.46,XXX,,False,False,False,False,False
+92265,"Needle oculoelectromyography, 1 or more extraocular muscles, 1 or both eyes, with interpretation and report",16.91,XXX,40/60,False,False,False,False,False
+92270,Electro-oculography with interpretation and report,16.91,XXX,40/60,False,False,False,False,False
+92275,Electroretinography with interpretation and report,16.91,XXX,40/60,False,False,False,False,False
+92283,"Color vision examination, extended, eg, anomaloscope or equivalent",6.26,XXX,,False,False,False,False,False
+92284,Dark adaptation examination with interpretation and report,8.96,XXX,,False,False,False,False,False
+92285,"External ocular photography with interpretation and report for documentation of medical progress (eg, close-up photography, slit lamp photography, goniophotog- raphy, stereo-photography)",4.9,XXX,90/10,False,False,False,False,False
+92286,Anterior segment imaging with interpretation and report; with specular micros- copy and endothelial cell analysis,23.67,XXX,20/80,False,False,False,False,False
+92287,Anterior segment imaging with interpretation and report; with fluorescein angiog- raphy,29.59,XXX,30/70,False,False,False,False,False
+"Prescription of optical and physical characteristics of and fitting of contact lens, with medical supervision of adaptation; corneal lens, both eyes, except for apha- kia",14.88,,,,False,False,False,False,False
+"Prescription of optical and physical characteristics of and fitting of contact lens, with medical supervision of adaptation; corneal lens for aphakia, 1 eye",12.85,,,,False,False,False,False,False
+"Prescription of optical and physical characteristics of and fitting of contact lens, with medical supervision of adaptation; corneal lens for aphakia, both eyes",16.91,,,,False,False,False,False,False
+"Prescription of optical and physical characteristics of and fitting of contact lens, with medical supervision of adaptation; corneoscleral lens",21.31,,,,False,False,False,False,False
+"Prescription of optical and physical characteristics of contact lens, with medical supervision of adaptation and direction of fitting by independent technician; cor- neal lens, both eyes except for aphakia",15.22,,,,False,False,False,False,False
+"Prescription of optical and physical characteristics of contact lens, with medical supervision of adaptation and direction of fitting by independent technician; cor- neal lens for aphakia, 1 eye",14.20,,,,False,False,False,False,False
+"Prescription of optical and physical characteristics of contact lens, with medical supervision of adaptation and direction of fitting by independent technician; cor- neal lens for aphakia, both eyes",23.50,,,,False,False,False,False,False
+"Prescription of optical and physical characteristics of contact lens, with medical supervision of adaptation and direction of fitting by independent technician; cor- neoscleral lens",15.22,,,,False,False,False,False,False
+"Modification of contact lens (separate procedure), with medical supervision of adaptation",8.03,,,,False,False,False,False,False
+Replacement of contact lens,8.79,,,,False,False,False,False,False
+"Fitting of spectacles, except for aphakia; monofocal",8.71,,,,False,False,False,False,False
+"Fitting of spectacles, except for aphakia; bifocal",9.47,,,,False,False,False,False,False
+"Fitting of spectacles, except for aphakia; multifocal, other than bifocal",13.02,,,,False,False,False,False,False
+Fitting of spectacle prosthesis for aphakia; monofocal,3.89,,,,False,False,False,False,False
+Fitting of spectacle prosthesis for aphakia; multifocal,4.23,,,,False,False,False,False,False
+Fitting of spectacle mounted low vision aid; single element system,63.23,,,,False,False,False,False,False
+Fitting of spectacle mounted low vision aid; telescopic or other compound lens system,30.65,,,,False,False,False,False,False
+"Prosthesis service for aphakia, temporary (disposable or loan, including materials)",7.18,,,,False,False,False,False,False
+Repair and refitting spectacles; except for aphakia,12.68,,,,False,False,False,False,False
+Repair and refitting spectacles; spectacle prosthesis for aphakia,20.97,,,,False,False,False,False,False
+Unlisted ophthalmological service or procedure,BR,,,,False,False,False,False,False
+Otolaryngologic examination under general anesthesia,29.09,,,,False,False,False,False,False
+Binocular microscopy (separate diagnostic procedure),4.31,,,,False,False,False,False,False
+"Treatment of speech, language, voice, communication, and/or auditory processing disorder; individual",7.78,,,,False,False,False,False,False
+"Treatment of speech, language, voice, communication, and/or auditory processing disorder; group, 2 or more individuals",5.92,,,,False,False,False,False,False
+Nasopharyngoscopy with endoscope (separate procedure),16.91,,,,False,False,False,False,False
+"Nasal function studies (eg, rhinomanometry)",12.18,,,,False,False,False,False,False
+"Facial nerve function studies (eg, electroneuronography)",13.36,,,,False,False,False,False,False
+"Laryngeal function studies (ie, aerodynamic testing and acoustic testing)",26.21,,,,False,False,False,False,False
+"Evaluation of speech fluency (eg, stuttering, cluttering)",22.10,,,,False,False,False,False,False
+"Evaluation of speech sound production (eg, articulation, phonological process, apraxia, dysarthria);",17.79,,,,False,False,False,False,False
+"Evaluation of speech sound production (eg, articulation, phonological process, apraxia, dysarthria); with evaluation of language comprehension and expression (eg, receptive and expressive language)",38.31,,,,False,False,False,False,False
+Behavioral and qualitative analysis of voice and resonance,17.03,,,,False,False,False,False,False
+Treatment of swallowing dysfunction and/or oral function for feeding,12.60,,XXX,,False,False,False,False,False
+"Spontaneous nystagmus, including gaze",,3.89,XXX,,False,False,False,False,False
+Positional nystagmus test,,4.57,XXX,,False,False,False,False,False
+"Caloric vestibular test, each irrigation (binaural, bithermal stimulation constitutes 4 tests)",7.27,,XXX,,False,False,False,False,False
+Optokinetic nystagmus test,,3.21,XXX,,False,False,False,False,False
+"Caloric vestibular test with recording, bilateral; bithermal (ie, one warm and one cool irrigation in each ear for a total of four irrigations)",7.87,,XXX,78/22,False,False,False,False,False
+"Caloric vestibular test with recording, bilateral; monothermal (ie, one irrigation each ear for a total of two irrigations)",in 4.04,,XXX,76/24,False,False,False,False,False
+"Basic vestibular evaluation, includes spontaneous nystagmus test with eccentric gaze fixation nystagmus, with recording, positional nystagmus test, minimum of 4 positions, with recording, optokinetic nystagmus test, bidirectional foveal and peripheral stimulation, with recording, and oscillating tracking test, with recording",12.68,,XXX,83/17,False,False,False,False,False
+"Spontaneous nystagmus test, including gaze and fixation nystagmus, with record- ing",9.64,,XXX,80/20,False,False,False,False,False
+"Positional nystagmus test, minimum of 4 positions, with recording",8.62,,XXX,80/20,False,False,False,False,False
+"Optokinetic nystagmus test, bidirectional, foveal or peripheral stimulation, with recording",5.24,,XXX,80/20,False,False,False,False,False
+"Oscillating tracking test, with recording",5.24,,XXX,80/20,False,False,False,False,False
+Sinusoidal vertical axis rotational testing,8.29,,XXX,80/20,False,False,False,False,False
+Use of vertical electrodes (List separately in addition to code for primary dure),proce-,5.07,ZZZ,80/20,False,False,False,False,False
+Computerized dynamic,posturography,16.91,XXX,24/76,False,False,False,False,False
+Tympanometry and reflex threshold measurements,3.72,,XXX,,False,False,False,False,False
+"Screening test, pure tone, air only",,2.20,XXX,,False,False,False,False,False
+Pure tone audiometry (threshold); air,only,3.21,XXX,,False,False,False,False,False
+Pure,tone audiometry (threshold); air and bone,4.90,XXX,,False,False,False,False,False
+Speech audiometry,threshold;,2.54,XXX,,False,False,False,False,False
+Speech audiometry threshold; with speech recognition,,4.23,XXX,,False,False,False,False,False
+Comprehensive audiometry threshold evaluation and speech recognition (92553 and 92556 combined),8.62,,XXX,,False,False,False,False,False
+"Evoked otoacoustic emissions, screening (qualitative measurement of distortion product or transient evoked otoacoustic emissions), automated analysis",,1.99,XXX,0/100,False,False,False,False,False
+Audiometric testing of groups,,7.10,XXX,,False,False,False,False,False
+Bekesy audiometry; screening,,4.23,XXX,,False,False,False,False,False
+Bekesy audiometry; diagnostic,,8.46,XXX,,False,False,False,False,False
+Loudness,"balance test, alternate binaural or monaural",2.11,XXX,,False,False,False,False,False
+Tone decay,test,3.72,XXX,,False,False,False,False,False
+Short increment sensitivity index (SISI),,3.72,XXX,,False,False,False,False,False
+"Stenger test, pure",tone,3.04,XXX,,False,False,False,False,False
+Tympanometry (impedance testing),,3.38,XXX,,False,False,False,False,False
+"Acoustic reflex testing,",threshold,2.87,XXX,,False,False,False,False,False
+"Acoustic immittance testing, includes tympanometry (impedance testing), acous- tic reflex threshold testing, and acoustic reflex decay testing",,5.58,XXX,,False,False,False,False,False
+Filtered speech test,,4.57,XXX,,False,False,False,False,False
+Staggered spondaic,word test,3.72,XXX,,False,False,False,False,False
+Sensorineural,acuity level test,3.72,XXX,,False,False,False,False,False
+Synthetic sentence identification,test,3.38,XXX,,False,False,False,False,False
+Stenger,"test, speech",3.04,XXX,,False,False,False,False,False
+92579,Visual reinforcement audiometry (VRA),5.92,XXX,,False,False,False,False,False
+92582,Conditioning play audiometry,6.43,XXX,,False,False,False,False,False
+92583,Select picture audiometry,4.23,XXX,,False,False,False,False,False
+92584,Electrocochleography,24.86,XXX,,False,False,False,False,False
+92585,Auditory evoked potentials for evoked response audiometry and/or testing of the central nervous system; comprehensive,29.09,XXX,50/50,False,False,False,False,False
+92586,Auditory evoked potentials for evoked response audiometry and/or testing of the central nervous system; limited,18.60,XXX,,False,False,False,False,False
+92587,"Distortion product evoked otoacoustic emissions; limited evaluation (to confirm the presence or absence of hearing disorder, 3-6 frequencies) or transient evoked otoacoustic emissions, with interpretation and report",6.09,XXX,,False,False,False,False,False
+92588,"Distortion product evoked otoacoustic emissions; comprehensive diagnostic eval- uation (quantitative analysis of outer hair cell function by cochlear mapping, mini- mum of 12 frequencies), with interpretation and report",8.62,XXX,,False,False,False,False,False
+92590,Hearing aid examination and selection; monaural,NC,XXX,,False,False,False,False,False
+92591,Hearing aid examination and selection; binaural,NC,XXX,,False,False,False,False,False
+92592,Hearing aid check; monaural,NC,XXX,,False,False,False,False,False
+92593,Hearing aid check; binaural,NC,XXX,,False,False,False,False,False
+92594,Electroacoustic evaluation for hearing aid; monaural,NC,XXX,,False,False,False,False,False
+92595,Electroacoustic evaluation for hearing aid; binaural,NC,XXX,,False,False,False,False,False
+92596,Ear protector attenuation measurements,NC,XXX,,False,False,False,False,False
+92597,Evaluation for use and/or fitting of voice prosthetic device to supplement oral speech,NC,XXX,,False,False,False,False,False
+92601,"Diagnostic analysis of cochlear implant, patient younger than 7 years of age; with programming",27.06,XXX,,False,False,False,False,False
+92602,"Diagnostic analysis of cochlear implant, patient younger than 7 years of age; sub- sequent reprogramming",19.78,XXX,,False,False,False,False,False
+92603,"Diagnostic analysis of cochlear implant, age 7 years or older; with programming",16.91,XXX,,False,False,False,False,False
+92604,"Diagnostic analysis of cochlear implant, age 7 years or older; subsequent repro- gramming",11.50,XXX,,False,False,False,False,False
+92605,"Evaluation for prescription of non-speech-generating augmentative and alterna- tive communication device, face-to-face with the patient; first hour",18.98,XXX,,False,False,False,False,False
+92606,"Therapeutic service(s) for the use of non-speech-generating device, including programming and modification",16.92,XXX,,False,False,False,False,False
+92607,"Evaluation for prescription for speech-generating augmentative and alternative communication device, face-to-face with the patient; first hour",23.84,XXX,,False,False,False,False,False
+92608,"Evaluation for prescription for speech-generating augmentative and alternative communication device, face-to-face with the patient; each additional 30 minutes (List separately in addition to code for primary procedure)",4.90,ZZZ,,False,False,False,False,False
+92609,"Therapeutic services for the use of speech-generating device, including program- ming and modification",12.34,XXX,,False,False,False,False,False
+92610,Evaluation of oral and pharyngeal swallowing function,25.03,XXX,,False,False,False,False,False
+92611,Motion fluoroscopic evaluation of swallowing function by cine or video recording,26.21,XXX,,False,False,False,False,False
+92612,Flexible endoscopic evaluation of swallowing by cine or video recording;,32.64,XXX,,False,False,False,False,False
+92613,Flexible endoscopic evaluation of swallowing by cine or video recording; interpre- tation and report only,8.54,XXX,,False,False,False,False,False
+92614,"Flexible endoscopic evaluation, laryngeal sensory testing by cine or video record- ing;",28.75,XXX,,False,False,False,False,False
+92615,"Flexible endoscopic evaluation, laryngeal sensory testing by cine or video record- ing; interpretation and report only",7.78,XXX,,False,False,False,False,False
+92616,Flexible endoscopic evaluation of swallowing and laryngeal sensory testing by cine or video recording;,42.95,XXX,,False,False,False,False,False
+92617,Flexible endoscopic evaluation of swallowing and laryngeal sensory testing by cine or video recording; interpretation and report only,10.32,XXX,,False,False,False,False,False
+92618,"Evaluation for prescription of non-speech-generating augmentative and alterna- tive communication device, face-to-face with the patient; each additional 30 min- utes (List separately in addition to code for primary procedure)",6.82,ZZZ,,False,False,False,False,False
+92620,"Evaluation of central auditory function, with report; initial 60 minutes",8.79,XXX,,False,False,False,False,False
+92621,"Evaluation of central auditory function, with report; each additional 15 minutes (List separately in addition to code for primary procedure)",2.37,ZZZ,,False,False,False,False,False
+92625,"Assessment of tinnitus (includes pitch, loudness matching, and masking)",13.70,XXX,,False,False,False,False,False
+92626,Evaluation of auditory rehabilitation status; first hour,4.23,XXX,,False,False,False,False,False
+92627,Evaluation of auditory rehabilitation status; each additional 15 minutes (List sepa- rately in addition to code for primary procedure),4.23,ZZZ,,False,False,False,False,False
+92630,Auditory rehabilitation; prelingual hearing loss,,XXX,,False,False,False,False,True
+92633,Auditory rehabilitation; postlingual hearing loss,,XXX,,False,False,False,False,True
+92640,"Diagnostic analysis with programming of auditory brainstem implant, per hour",10.82,XXX,,False,False,False,False,False
+92700,Unlisted otorhinolaryngological service or procedure,,XXX,,False,False,False,False,True
+92920,Percutaneous transluminal coronary angioplasty; single major coronary artery or branch,110.72,000,,False,False,False,False,False
+92921,Percutaneous transluminal coronary angioplasty; each additional branch of a major coronary artery (List separately in addition to code for primary procedure),,ZZZ,,False,False,False,False,True
+92924,"Percutaneous transluminal coronary atherectomy, with coronary angioplasty when performed; single major coronary artery or branch",131.98,000,,False,False,False,False,False
+92925,"Percutaneous transluminal coronary atherectomy, with coronary angioplasty when performed; each additional branch of a major coronary artery (List sepa- rately in addition to code for primary procedure)",,ZZZ,,False,False,False,False,True
+92928,"Percutaneous transcatheter placement of intracoronary stent(s), with coronary angioplasty when performed; single major coronary artery or branch",123.17,000,,False,False,False,False,False
+92929,"Percutaneous transcatheter placement of intracoronary stent(s), with coronary angioplasty when performed; each additional branch of a major coronary artery (List separately in addition to code for primary procedure)",,ZZZ,,False,False,False,False,True
+92933,"Percutaneous transluminal coronary atherectomy, with intracoronary stent, with coronary angioplasty when performed; single major coronary artery or branch",138.06,000,,False,False,False,False,False
+92934,"Percutaneous transluminal coronary atherectomy, with intracoronary stent, with coronary angioplasty when performed; each additional branch of a major coro- nary artery (List separately in addition to code for primary procedure)",,ZZZ,,False,False,False,False,True
+92937,"Percutaneous transluminal revascularization of or through coronary artery bypass graft (internal mammary, free arterial, venous), any combination of intracoronary stent, atherectomy and angioplasty, including distal protection when performed; single vessel",123.03,000,,False,False,False,False,False
+92938,"Percutaneous transluminal revascularization of or through coronary artery bypass graft (internal mammary, free arterial, venous), any combination of intracoronary stent, atherectomy and angioplasty, including distal protection when performed; each additional branch subtended by the bypass graft (List separately in addition to code for primary procedure)",,ZZZ,,False,False,False,False,True
+92941,"Percutaneous transluminal revascularization of acute total/subtotal occlusion during acute myocardial infarction, coronary artery or coronary artery bypass graft, any combination of intracoronary stent, atherectomy and angioplasty, including aspiration thrombectomy when performed, single vessel",138.34,000,,False,False,False,False,False
+92943,"Percutaneous transluminal revascularization of chronic total occlusion, coronary artery, coronary artery branch, or coronary artery bypass graft, any combination of intracoronary stent, atherectomy and angioplasty; single vessel",138.34,000,,False,False,False,False,False
+92944,"Percutaneous transluminal revascularization of chronic total occlusion, coronary artery, coronary artery branch, or coronary artery bypass graft, any combination of intracoronary stent, atherectomy and angioplasty; each additional coronary artery, coronary artery branch, or bypass graft (List separately in addition to code for primary procedure)",,ZZZ,,False,False,False,False,True
+92950,"Cardiopulmonary resuscitation (eg, in cardiac arrest)",45.66,000,,False,False,False,False,False
+92953,Temporary transcutaneous pacing,12.68,000,,False,False,False,False,False
+92960,"Cardioversion, elective, electrical conversion of arrhythmia; external",38.05,000,,False,False,False,False,False
+92961,"Cardioversion, elective, electrical conversion of arrhythmia; internal (separate procedure)",118.37,000,,False,False,False,False,False
+92970,Cardioassist-method of circulatory assist; internal,42.28,000,,False,False,False,False,False
+92971,Cardioassist-method of circulatory assist; external,12.68,000,,False,False,False,False,False
+92973,Percutaneous transluminal coronary thrombectomy mechanical (List separately in addition to code for primary procedure),150.08,ZZZ,,False,False,False,False,False
+92974,Transcatheter placement of radiation delivery device for subsequent coronary intravascular brachytherapy (List separately in addition to code for primary proce- dure),168.68,ZZZ,,False,False,False,False,False
+92975,"Thrombolysis, coronary; by intracoronary infusion, including selective coronary angiography",139,000,,False,False,False,False,False
+92977,"Thrombolysis, coronary; by intravenous infusion",70.51,XXX,,False,False,False,False,False
+92978,"Endoluminal imaging of coronary vessel or graft using intravascular ultrasound (IVUS) or optical coherence tomography (OCT) during diagnostic evaluation and/or therapeutic intervention including imaging supervision, interpretation and report; initial vessel (List separately in addition to code for primary procedure)",143.27,ZZZ,,False,False,False,False,False
+92979,"Endoluminal imaging of coronary vessel or graft using intravascular ultrasound (IVUS) or optical coherence tomography (OCT) during diagnostic evaluation and/or therapeutic intervention including imaging supervision, interpretation and report; each additional vessel (List separately in addition to code for primary pro- cedure)",63.24,ZZZ,46/54,False,False,False,False,False
+92986,Percutaneous balloon valvuloplasty; aortic valve,287.47,090,,False,False,False,False,False
+92987,Percutaneous balloon valvuloplasty; mitral valve,316.22,090,,False,False,False,False,False
+92990,Percutaneous balloon valvuloplasty; pulmonary valve,236.74,090,,False,False,False,False,False
+92992,"Atrial septectomy or septostomy; transvenous method, balloon (eg, Rashkind type) (includes cardiac catheterization)",444.56,090,,False,False,False,False,False
+92993,Atrial septectomy or septostomy; blade method (Park septostomy) (includes car- diac catheterization),311.48,090,,False,False,False,False,False
+92997,Percutaneous transluminal pulmonary artery balloon angioplasty; single vessel,300.15,000,,False,False,False,False,False
+92998,Percutaneous transluminal pulmonary artery balloon angioplasty; each additional vessel (List separately in addition to code for primary procedure),150.08,ZZZ,,False,False,False,False,False
+93000,"Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",6.59,XXX,40/60,False,False,False,False,False
+93005,"Electrocardiogram, routine ECG with at least 12 leads; tracing only, without inter- pretation and report",4.9,XXX,0/100,False,False,False,False,False
+93010,"Electrocardiogram, routine ECG with at least 12 leads; interpretation and report only",3.3,XXX,,False,False,False,False,False
+93015,"Cardiovascular stress test using maximal or submaximal treadmill or bicycle exer- cise, continuous electrocardiographic monitoring, and/or pharmacological stress; with supervision, interpretation and report",38.05,XXX,,False,False,False,False,False
+93016,"Cardiovascular stress test using maximal or submaximal treadmill or bicycle exer- cise, continuous electrocardiographic monitoring, and/or pharmacological stress; supervision only, without interpretation and report",9.51,XXX,,False,False,False,False,False
+93017,"Cardiovascular stress test using maximal or submaximal treadmill or bicycle exer- cise, continuous electrocardiographic monitoring, and/or pharmacological stress; tracing only, without interpretation and report",19.02,XXX,0/100,False,False,False,False,False
+93018,"Cardiovascular stress test using maximal or submaximal treadmill or bicycle exer- cise, continuous electrocardiographic monitoring, and/or pharmacological stress; interpretation and report only",9.51,XXX,,False,False,False,False,False
+93024,Ergonovine provocation test,35.34,XXX,60/40,False,False,False,False,False
+93025,Microvolt T-wave alternans for assessment of ventricular arrhythmias,45.66,XXX,,False,False,False,False,False
+93040,"Rhythm ECG, 1-3 leads; with interpretation and report",4.06,XXX,65/35,False,False,False,False,False
+93041,"Rhythm ECG, 1-3 leads; tracing only without interpretation and report",2.03,XXX,0/100,False,False,False,False,False
+93042,"Rhythm ECG, 1-3 leads; interpretation and report only",2.71,XXX,,False,False,False,False,False
+93050,"Arterial pressure waveform analysis for assessment of central arterial pressures, includes obtaining waveform(s), digitization and application of nonlinear mathe- matical transformations to determine central arterial pressures and augmentation index, with interpretation and report, upper extremity artery, non-invasive",3.22,XXX,51/49,False,False,False,False,False
+93224,"External electrocardiographic recording up to 48 hours by continuous rhythm recording and storage; includes recording, scanning analysis with report, review and interpretation by a physician or other qualified health care professional",42.11,XXX,40/60,False,False,False,False,False
+,"External electrocardiographic recording up to 48 hours by continuous rhythm recording and storage; recording (includes connection, recording, and disconnec- tion)",13.7,XXX,0/100,False,False,False,False,False
+electrocardiographic,External recording up to 48 hours by continuous rhythm recording and storage; scanning analysis with report,15.22,XXX,0/100,False,False,False,False,False
+93227,External electrocardiographic recording up to 48 hours by continuous rhythm recording and storage; review and interpretation by a physician or other qualified health care professional,16.06,XXX,,False,False,False,False,False
+93228,"External mobile cardiovascular telemetry with electrocardiographic recording, concurrent computerized real time data analysis and greater than 24 hours of accessible ECG data storage (retrievable with query) with ECG triggered and patient selected events transmitted to a remote attended surveillance center for up to 30 days; review and interpretation with report by a physician or other quali- fied health care professional",7.27,XXX,,False,False,False,False,False
+93229,"External mobile cardiovascular telemetry with electrocardiographic recording, concurrent computerized real time data analysis and greater than 24 hours of accessible ECG data storage (retrievable with query) with ECG triggered and patient selected events transmitted to a remote attended surveillance center for up to 30 days; technical support for connection and patient instructions for use, attended surveillance, analysis and transmission of daily and emergent data reports as prescribed by a physician or other qualified health care professional",144.92,XXX,,False,False,False,False,False
+93260,"Programming device evaluation (in person) with iterative adjustment of the implantable device to test the function of the device and select optimal permanent programmed values with analysis, review and report by a physician or other quali- fied health care professional; implantable subcutaneous lead defibrillator system",12.66,XXX,66/34,False,False,False,False,False
+93261,"Interrogation device evaluation (in person) with analysis, review and report by a physician or other qualified health care professional, includes connection, record- ing and disconnection per patient encounter; implantable subcutaneous lead defibrillator system",11.49,XXX,64/36,False,False,False,False,False
+93268,"External patient and, when performed, auto activated electrocardiographic rhythm derived event recording with symptom-related memory loop with remote download capability up to 30 days, 24-hour attended monitoring; includes trans- mission, review and interpretation by a physician or other qualified health care professional",36.69,XXX,,False,False,False,False,False
+93270,"External patient and, when performed, auto activated electrocardiographic rhythm derived event recording with symptom-related memory loop with remote download capability up to 30 days, 24-hour attended monitoring; recording (includes connection, recording, and disconnection)",7.27,XXX,0/100,False,False,False,False,False
+,"External patient and, when performed, auto activated electrocardiographic rhythm derived event recording with symptom-related memory loop with remote download capability up to 30 days, 24-hour attended monitoring; transmission and analysis",14.71,XXX,0/100,False,False,False,False,False
+93272,"External patient and, when performed, auto activated electrocardiographic rhythm derived event recording with symptom-related memory loop with remote download capability up to 30 days, 24-hour attended monitoring; review and inter- pretation by a physician or other qualified health care professional",14.71,XXX,,False,False,False,False,False
+93278,"Signal-averaged electrocardiography (SAECG), with or without ECG",21.48,XXX,40/60,False,False,False,False,False
+93279,"Programming device evaluation (in person) with iterative adjustment of the implantable device to test the function of the device and select optimal permanent programmed values with analysis, review and report by a physician or other quali- fied health care professional; single lead pacemaker system",16.06,XXX,65/35,False,False,False,False,False
+93280,"Programming device evaluation (in person) with iterative adjustment of the implantable device to test the function of the device and select optimal permanent programmed values with analysis, review and report by a physician or other quali- fied health care professional; dual lead pacemaker system",18.94,XXX,66/34,False,False,False,False,False
+93281,"Programming device evaluation (in person) with iterative adjustment of the implantable device to test the function of the device and select optimal permanent programmed values with analysis, review and report by a physician or other quali- fied health care professional; multiple lead pacemaker system",22.32,XXX,65/35,False,False,False,False,False
+93282,"Programming device evaluation (in person) with iterative adjustment of the implantable device to test the function of the device and select optimal permanent programmed values with analysis, review and report by a physician or other quali- fied health care professional; single lead transvenous implantable defibrillator system",20.63,XXX,66/34,False,False,False,False,False
+93283,"Programming device evaluation (in person) with iterative adjustment of the implantable device to test the function of the device and select optimal permanent programmed values with analysis, review and report by a physician or other quali- fied health care professional; dual lead transvenous implantable defibrillator sys- tem",25.03,XXX,68/32,False,False,False,False,False
+93284,"Programming device evaluation (in person) with iterative adjustment of the implantable device to test the function of the device and select optimal permanent programmed values with analysis, review and report by a physician or other quali- fied health care professional; multiple lead transvenous implantable defibrillator system",31.28,XXX,70/30,False,False,False,False,False
+93285,"Programming device evaluation (in person) with iterative adjustment of the implantable device to test the function of the device and select optimal permanent programmed values with analysis, review and report by a physician or other quali- fied health care professional; implantable loop recorder system",14.04,XXX,61/39,False,False,False,False,False
+93286,"Peri-procedural device evaluation (in person) and programming of device system parameters before or after a surgery, procedure, or test with analysis, review and report by a physician or other qualified health care professional; single, dual, or multiple lead pacemaker system",7.27,XXX,55/45,False,False,False,False,False
+93287,"Peri-procedural device evaluation (in person) and programming of device system parameters before or after a surgery, procedure, or test with analysis, review and report by a physician or other qualified health care professional; single, dual, or multiple lead implantable defibrillator system",11.84,XXX,61/39,False,False,False,False,False
+93288,"Interrogation device evaluation (in person) with analysis, review and report by a physician or other qualified health care professional, includes connection, record- ing and disconnection per patient encounter; single, dual, or multiple lead pace- maker system",12.51,XXX,56/44,False,False,False,False,False
+93289,"Interrogation device evaluation (in person) with analysis, review and report by a physician or other qualified health care professional, includes connection, record- ing and disconnection per patient encounter; single, dual, or multiple lead transve- nous implantable defibrillator system, including analysis of heart rhythm derived data elements",19.11,XXX,66/34,False,False,False,False,False
+93290,"Interrogation device evaluation (in person) with analysis, review and report by a physician or other qualified health care professional, includes connection, record- ing and disconnection per patient encounter; implantable cardiovascular monitor system, including analysis of 1 or more recorded physiologic cardiovascular data elements from all internal and external sensors",10.15,XXX,66/34,False,False,False,False,False
+93291,"Interrogation device evaluation (in person) with analysis, review and report by a physician or other qualified health care professional, includes connection, record- ing and disconnection per patient encounter; implantable loop recorder system, including heart rhythm derived data analysis",12.01,XXX,59/41,False,False,False,False,False
+93292,"Interrogation device evaluation (in person) with analysis, review and report by a physician or other qualified health care professional, includes connection, record- ing and disconnection per patient encounter; wearable defibrillator system",12.34,XXX,64/36,False,False,False,False,False
+93293,"Transtelephonic rhythm strip pacemaker evaluation(s) single, dual, or multiple lead pacemaker system, includes recording with and without magnet application with analysis, review and report(s) by a physician or other qualified health care professional, up to 90 days",17.25,XXX,28/72,False,False,False,False,False
+ 93294,"Interrogation device evaluation(s) (remote), up to 90 days; single, dual, or multiple lead pacemaker system with interim analysis, review(s) and report(s) by a physi- cian or other qualified health care professional",12.18,XXX,,False,False,False,False,False
+ 93295,"Interrogation device evaluation(s) (remote), up to 90 days; single, dual, or multiple lead implantable defibrillator system with interim analysis, review(s) and report(s) by a physician or other qualified health care professional",19.11,XXX,,False,False,False,False,False
+ 93296,"Interrogation device evaluation(s) (remote), up to 90 days; single, dual, or multiple lead pacemaker system or implantable defibrillator system, remote data acquisi- tion(s), receipt of transmissions and technician review, technical support and dis- tribution of results",12.01,XXX,,False,False,False,False,False
+ 93297,"Interrogation device evaluation(s), (remote) up to 30 days; implantable cardiovas- cular monitor system, including analysis of 1 or more recorded physiologic cardio- vascular data elements from all internal and external sensors, analysis, review(s) and report(s) by a physician or other qualified health care professional",7.10,XXX,,False,False,False,False,False
+ 93298,"Interrogation device evaluation(s), (remote) up to 30 days; implantable loop recorder system, including analysis of recorded heart rhythm data, analysis, review(s) and report(s) by a physician or other qualified health care professional",9.64,XXX,,False,False,False,False,False
+93299,"Interrogation device evaluation(s), (remote) up to 30 days; implantable cardiovas- cular monitor system or implantable loop recorder system, remote data acquisi- tion(s), receipt of transmissions and technician review, technical support and distribution of results",,XXX,,False,False,False,False,True
+93303,Transthoracic echocardiography for congenital cardiac anomalies; complete,48.02,XXX,40/60,False,False,False,False,False
+93304,Transthoracic echocardiography for congenital cardiac anomalies; follow-up or limited study,26.80,XXX,40/60,False,False,False,False,False
+93306,"Echocardiography, transthoracic, real-time with image documentation (2D), includes M-mode recording, when performed, complete, with spectral Doppler echocardiography, and with color flow Doppler echocardiography",71.02,XXX,27/73,False,False,False,False,False
+93307,"Echocardiography, transthoracic, real-time with image documentation (2D), includes M-mode recording, when performed, complete, without spectral or color Doppler echocardiography",43.63,XXX,40/60,False,False,False,False,False
+93308,"Echocardiography, transthoracic, real-time with image documentation (2D), includes M-mode recording, when performed, follow-up or limited study",24.35,XXX,40/60,False,False,False,False,False
+93312,"Echocardiography, transesophageal, real-time with image documentation (2D) (with or without M-mode recording); including probe placement, image acquisi- tion, interpretation and report",62.57,XXX,45/55,False,False,False,False,False
+93313,"Echocardiography, transesophageal, real-time with image documentation (2D) (with or without M-mode recording); placement of transesophageal probe only",21.64,XXX,,False,False,False,False,False
+93314,"Echocardiography, transesophageal, real-time with image documentation (2D) (with or without M-mode recording); image acquisition, interpretation and report only",44.47,XXX,40/60,False,False,False,False,False
+93315,"Transesophageal echocardiography for congenital cardiac anomalies; including probe placement, image acquisition, interpretation and report",68.82,XXX,45/55,False,False,False,False,False
+93316,Transesophageal echocardiography for congenital cardiac anomalies; placement of transesophageal probe only,23.84,XXX,,False,False,False,False,False
+93317,"Transesophageal echocardiography for congenital cardiac anomalies; image acquisition, interpretation and report only",48.95,XXX,40/60,False,False,False,False,False
+93318,"Echocardiography, transesophageal (TEE) for monitoring purposes, including probe placement, real time 2-dimensional image acquisition and interpretation leading to ongoing (continuous) assessment of (dynamically changing) cardiac pumping function and to therapeutic measures on an immediate time basis",62.57,XXX,45/55,False,False,False,False,False
++ 93320,"Doppler echocardiography, pulsed wave and/or continuous wave with spectral display (List separately in addition to codes for echocardiographic imaging); com- plete",26.72,ZZZ,40/60,False,False,False,False,False
++ 93321,"Doppler echocardiography, pulsed wave and/or continuous wave with spectral display (List separately in addition to codes for echocardiographic imaging); fol- low-up or limited study (List separately in addition to codes for echocardiographic imaging)",16.03,ZZZ,40/60,False,False,False,False,False
++ 93325,Doppler echocardiography color flow velocity mapping (List separately in addition to codes for echocardiography),18.94,ZZZ,40/60,False,False,False,False,False
+93350,"Echocardiography, transthoracic, real-time with image documentation (2D), includes M-mode recording, when performed, during rest and cardiovascular stress test using treadmill, bicycle exercise and/or pharmacologically induced stress, with interpretation and report;",77.79,XXX,40/60,False,False,False,False,False
+93351,"Echocardiography, transthoracic, real-time with image documentation (2D), includes M-mode recording, when performed, during rest and cardiovascular stress test using treadmill, bicycle exercise and/or pharmacologically induced stress, with interpretation and report; including performance of continuous elec- trocardiographic monitoring, with supervision by a physician or other qualified health care professional",71.02,XXX,,False,False,False,False,False
+93352,Use of echocardiographic contrast agent during stress echocardiography (List separately in addition to code for primary procedure),10.15,ZZZ,,False,False,False,False,False
+93355,"Echocardiography, transesophageal (TEE) for guidance of a transcatheter intrac- ardiac or great vessel(s) structural intervention(s) (eg,TAVR, transcatheter pulmo- nary valve replacement, mitral valve repair, paravalvular regurgitation repair, left atrial appendage occlusion/closure, ventricular septal defect closure) (peri-and intra-procedural), real-time image acquisition and documentation, guidance with quantitative measurements, probe manipulation, interpretation, and report, includ- ing diagnostic transesophageal echocardiography and, when performed, adminis- tration of ultrasound contrast, Doppler, color flow, and 3D",46.45,XXX,,False,False,False,False,False
+93451,"Right heart catheterization including measurement(s) of oxygen saturation and cardiac output, when performed",93.01,000,18/82,False,False,False,False,False
+93452,"Left heart catheterization including intraprocedural injection(s) for left ventricu- lography, imaging supervision and interpretation, when performed",103.32,000,29/71,False,False,False,False,False
+93453,"Combined right and left heart catheterization including intraprocedural injection(s) for left ventriculography, imaging supervision and interpretation, when performed",135.28,000,29/71,False,False,False,False,False
+93454,"Catheter placement in coronary artery(s) for coronary angiography, including intraprocedural injection(s) for coronary angiography, imaging supervision and interpretation;",103.32,000,28/72,False,False,False,False,False
+93455,"Catheter placement in coronary artery(s) for coronary angiography, including intraprocedural injection(s) for coronary angiography, imaging supervision and interpretation; with catheter placement(s) in bypass graft(s) (internal mammary, free arterial, venous grafts) including intraprocedural injection(s) for bypass graft angiography",123.95,000,28/72,False,False,False,False,False
+93456,"Catheter placement in coronary artery(s) for coronary angiography, including intraprocedural injection(s) for coronary angiography, imaging supervision and interpretation; with right heart catheterization",133.59,000,29/71,False,False,False,False,False
+93457,"Catheter placement in coronary artery(s) for coronary angiography, including intraprocedural injection(s) for coronary angiography, imaging supervision and interpretation; with catheter placement(s) in bypass graft(s) (internal mammary, free arterial, venous grafts) including intraprocedural injection(s) for bypass graft angiography and right heart catheterization",148.81,000,29/71,False,False,False,False,False
+93458,"Catheter placement in coronary artery(s) for coronary angiography, including intraprocedural injection(s) for coronary angiography, imaging supervision and interpretation; with left heart catheterization including intraprocedural injection(s) for left ventriculography, when performed",128.01,000,29/71,False,False,False,False,False
+93459,"Catheter placement in coronary artery(s) for coronary angiography, including intraprocedural injection(s) for coronary angiography, imaging supervision and interpretation; with left heart catheterization including intraprocedural injection(s) for left ventriculography, when performed, catheter placement(s) in bypass graft(s) (internal mammary, free arterial, venous grafts) with bypass graft angiog- raphy",142.04,000,29/71,False,False,False,False,False
+93460,"Catheter placement in coronary artery(s) for coronary angiography, including intraprocedural injection(s) for coronary angiography, imaging supervision and interpretation; with right and left heart catheterization including intraprocedural injection(s) for left ventriculography, when performed",152.19,000,31/69,False,False,False,False,False
+93461,"Catheter placement in coronary artery(s) for coronary angiography, including intraprocedural injection(s) for coronary angiography, imaging supervision and interpretation; with right and left heart catheterization including intraprocedural injection(s) for left ventriculography, when performed, catheter placement(s) in bypass graft(s) (internal mammary, free arterial, venous grafts) with bypass graft angiography",174,000,29/71,False,False,False,False,False
+93462,Left heart catheterization by transseptal puncture through intact septum or by transapical puncture (List separately in addition to code for primary procedure),24.69,ZZZ,,False,False,False,False,False
+93463,"Pharmacologic agent administration (eg, inhaled nitric oxide, intravenous infusion of nitroprusside, dobutamine, milrinone, or other agent) including assessing hemo- dynamic measurements before, during, after and repeat pharmacologic agent administration, when performed (List separately in addition to code for primary procedure)",13.02,ZZZ,,False,False,False,False,False
+93464,"Physiologic exercise study (eg, bicycle or arm ergometry) including assessing hemodynamic measurements before and after (List separately in addition to code for primary procedure)",30.61,ZZZ,35/65,False,False,False,False,False
+93503,"Insertion and placement of flow directed catheter (eg, Swan-Ganz) for monitoring purposes",57.83,000,,False,False,False,False,False
+93505,Endomyocardial biopsy,93.01,000,55/45,False,False,False,False,False
+93530,"Right heart catheterization, for congenital cardiac anomalies",131.9,000,45/55,False,False,False,False,False
+93531,"Combined right heart catheterization and retrograde left heart catheterization, for congenital cardiac anomalies",304.38,000,45/55,False,False,False,False,False
+93532,"Combined right heart catheterization and transseptal left heart catheterization through intact septum with or without retrograde left heart catheterization, for congenital cardiac anomalies",313.17,000,45/55,False,False,False,False,False
+93533,"Combined right heart catheterization and transseptal left heart catheterization through existing septal opening, with or without retrograde left heart catheteriza- tion, for congenital cardiac anomalies",278.68,000,45/55,False,False,False,False,False
+93561,"Indicator dilution studies such as dye or thermodilution, including arterial and/or venous catheterization; with cardiac output measurement (separate procedure)",47.86,000,40/60,False,False,False,False,False
+93562,"Indicator dilution studies such as dye or thermodilution, including arterial and/or venous catheterization; subsequent measurement of cardiac output",23.5,000,40/60,False,False,False,False,False
+93563,"Injection procedure during cardiac catheterization including imaging supervision, interpretation, and report; for selective coronary angiography during congenital heart catheterization (List separately in addition to code for primary procedure)",6.76,ZZZ,,False,False,False,False,False
+93564,"Injection procedure during cardiac catheterization including imaging supervision, interpretation, and report; for selective opacification of aortocoronary venous or arterial bypass graft(s) (eg, aortocoronary saphenous vein, free radial artery, or free mammary artery graft) to one or more coronary arteries and in situ arterial conduits (eg, internal mammary), whether native or used for bypass to one or more coronary arteries during congenital heart catheterization, when performed (List separately in addition to code for primary procedure)",6.76,ZZZ,,False,False,False,False,False
+93565,"Injection procedure during cardiac catheterization including imaging supervision, interpretation, and report; for selective left ventricular or left atrial angiography (List separately in addition to code for primary procedure)",5.24,ZZZ,,False,False,False,False,False
+93566,"Injection procedure during cardiac catheterization including imaging supervision, interpretation, and report; for selective right ventricular or right atrial angiography (List separately in addition to code for primary procedure)",20.63,ZZZ,,False,False,False,False,False
+93567,"Injection procedure during cardiac catheterization including imaging supervision, interpretation, and report; for supravalvular aortography (List separately in addi- tion to code for primary procedure)",16.91,ZZZ,,False,False,False,False,False
+93568,"Injection procedure during cardiac catheterization including imaging supervision, interpretation, and report; for pulmonary angiography (List separately in addition to code for primary procedure)",18.6,ZZZ,,False,False,False,False,False
+93571,Intravascular Doppler velocity and/or pressure derived coronary flow reserve measurement (coronary vessel or graft) during coronary angiography including pharmacologically induced stress; initial vessel (List separately in addition to code for primary procedure),32.81,ZZZ,35/65,False,False,False,False,False
++ 93572,Intravascular Doppler velocity and/or pressure derived coronary flow reserve measurement (coronary vessel or graft) during coronary angiography including pharmacologically induced stress; each additional vessel (List separately in addi- tion to code for primary procedure),20.12,ZZZ,47/53,False,False,False,False,False
+93580,"Percutaneous transcatheter closure of congenital interatrial communication (ie, Fontan fenestration, atrial septal defect) with implant 489.04",,000,,False,False,False,False,False
+93581,Percutaneous transcatheter closure of a congenital ventricular septal defect with implant,489.04,000,,False,False,False,False,False
+ 93582,Percutaneous transcatheter closure of patent ductus arteriosus,138.56,000,,False,False,False,False,False
+ 93583,"Percutaneous transcatheter septal reduction therapy (eg, alcohol septal ablation) including temporary pacemaker insertion when performed",154.66,000,,False,False,False,False,False
+ 93590,"Percutaneous transcatheter closure of paravalvular leak; initial occlusion device, mitral valve",222.37,000,,False,False,False,False,False
+ 93591,"Percutaneous transcatheter closure of paravalvular leak; initial occlusion device, aortic valve",184.65,000,,False,False,False,False,False
+ + 93592,Percutaneous transcatheter closure of paravalvular leak; each additional occlu- sion device (List separately in addition to code for primary procedure),81.23,ZZZ,,False,False,False,False,False
+* 93600,Bundle of His recording,63.58,000,55/45,False,False,False,False,False
+* 93602,Intra-atrial recording,36.19,000,55/45,False,False,False,False,False
+* 93603,Right ventricular recording,41.09,000,55/45,False,False,False,False,False
++ 93609,Intraventricular and/or intra-atrial mapping of tachycardia site(s) with catheter manipulation to record from multiple sites to identify origin of tachycardia (List separately in addition to code for primary procedure),142.89,ZZZ,55/45,False,False,False,False,False
+* 93610,Intra-atrial pacing,45.66,000,55/45,False,False,False,False,False
+* 93612,Intraventricular pacing,53.60,000,55/45,False,False,False,False,False
++ 93613,Intracardiac electrophysiologic 3-dimensional mapping (List separately in addition to code for primary procedure),145.09,ZZZ,72/28,False,False,False,False,False
+* 93615,Esophageal recording of atrial electrogram with or without ventricular electro- gram(s);,5.92,000,55/45,False,False,False,False,False
+* 93616,Esophageal recording of atrial electrogram with or without ventricular electro- gram(s); with pacing,26.21,000,55/45,False,False,False,False,False
+* 93618,Induction of arrhythmia by electrical pacing,152.19,000,55/45,False,False,False,False,False
+93619,"Comprehensive electrophysiologic evaluation with right atrial pacing and record- ing, right ventricular pacing and recording, His bundle recording, including inser- tion and repositioning of multiple electrode catheters, without induction or attempted induction of arrhythmia",247.90,000,55/45,False,False,False,False,False
+93620,"Comprehensive electrophysiologic evaluation including insertion and reposition- ing of multiple electrode catheters with induction or attempted induction of arrhythmia; with right atrial pacing and recording, right ventricular pacing and recording, His bundle recording",315.88,000,55/45,False,False,False,False,False
++ 93621,Comprehensive electrophysiologic evaluation including insertion and reposition- ing of multiple electrode catheters with induction or attempted induction of arrhythmia; with left atrial pacing and recording from coronary sinus or left atrium (List separately in addition to code for primary procedure),89.83,ZZZ,55/45,False,False,False,False,False
++ 93622,Comprehensive electrophysiologic evaluation including insertion and reposition- ing of multiple electrode catheters with induction or attempted induction of arrhythmia; with left ventricular pacing and recording (List separately in addition to code for primary procedure),89.83,ZZZ,55/45,False,False,False,False,False
++ 93623,Programmed stimulation and pacing after intravenous drug infusion (List sepa- rately in addition to code for primary procedure),81.51,ZZZ,55/45,False,False,False,False,False
+93624,"Electrophysiologic follow-up study with pacing and recording to test effectiveness of therapy, including induction or attempted induction of arrhythmia",199.03,000,55/45,False,False,False,False,False
+* 93631,Intra-operative epicardial and endocardial pacing and mapping to localize the site,152.45,000,55/45,False,False,False,False,False
+93640,"Electrophysiologic evaluation of single or dual chamber pacing cardio- verter-defibrillator leads including defibrillation threshold evaluation (induction of arrhythmia, evaluation of sensing and pacing for arrhythmia termination) at time of initial implantation or replacement;",167.92,000,55/45,False,False,False,False,False
+93641,"Electrophysiologic evaluation of single or dual chamber pacing cardio- verter-defibrillator leads including defibrillation threshold evaluation (induction of arrhythmia, evaluation of sensing and pacing for arrhythmia termination) at time of initial implantation or replacement; with testing of single or dual chamber pacing cardioverter-defibrillator pulse generator",207.15,000,55/45,False,False,False,False,False
+93642,"Electrophysiologic evaluation of single or dual chamber transvenous pacing car- dioverter-defibrillator (includes defibrillation threshold evaluation, induction of arrhythmia, evaluation of sensing and pacing for arrhythmia termination, and pro- gramming or reprogramming of sensing or therapeutic parameters)",249.59,000,55/45,False,False,False,False,False
+93644,"Electrophysiologic evaluation of subcutaneous implantable defibrillator (includes defibrillation threshold evaluation, induction of arrhythmia, evaluation of sensing for arrhythmia termination, and programming or reprogramming of sensing or therapeutic parameters)",39.74,000,73/27,False,False,False,False,False
+93650,"Intracardiac catheter ablation of atrioventricular node function, atrioventricular conduction for creation of complete heart block, with or without temporary pace- maker placement",389.78,000,55/45,False,False,False,False,False
+93653,"Comprehensive electrophysiologic evaluation including insertion and reposition- ing of multiple electrode catheters with induction or attempted induction of an arrhythmia with right atrial pacing and recording, right ventricular pacing and recording (when necessary), and His bundle recording (when necessary) with int- racardiac catheter ablation of arrhythmogenic focus; with treatment of supraven- tricular tachycardia by ablation of fast or slow atrioventricular pathway, accessory atrioventricular connection, cavo-tricuspid isthmus or other single atrial focus or source of atrial re-entry",174.13,000,,False,False,False,False,False
+93654,"Comprehensive electrophysiologic evaluation including insertion and reposition- ing of multiple electrode catheters with induction or attempted induction of an arrhythmia with right atrial pacing and recording, right ventricular pacing and recording (when necessary), and His bundle recording (when necessary) with int- racardiac catheter ablation of arrhythmogenic focus; with treatment of ventricular tachycardia or focus of ventricular ectopy including intracardiac electrophysio- logic 3D mapping, when performed, and left ventricular pacing and recording, when performed",233.25,000,,False,False,False,False,False
+93655,"Intracardiac catheter ablation of a discrete mechanism of arrhythmia which is dis- tinct from the primary ablated mechanism, including repeat diagnostic maneuvers, to treat a spontaneous or induced arrhythmia (List separately in addition to code for primary procedure)",88.75,ZZZ,,False,False,False,False,False
+93656,"Comprehensive electrophysiologic evaluation including transseptal catheteriza- tions, insertion and repositioning of multiple electrode catheters with induction or attempted induction of an arrhythmia including left or right atrial pacing/recording when necessary, right ventricular pacing/recording when necessary, and His bun- dle recording when necessary with intracardiac catheter ablation of atrial fibrilla- tion by pulmonary vein isolation",233.89,000,,False,False,False,False,False
+93657,Additional linear or focal intracardiac catheter ablation of the left or right atrium for treatment of atrial fibrillation remaining after completion of pulmonary vein iso- lation (List separately in addition to code for primary procedure),88.68,ZZZ,,False,False,False,False,False
+93660,"Evaluation of cardiovascular function with tilt table evaluation, with continuous ECG monitoring and intermittent blood pressure monitoring, with or without phar- macological intervention",50.73,000,60/40,False,False,False,False,False
+93662,"Intracardiac echocardiography during therapeutic/diagnostic intervention, includ- ing imaging supervision and interpretation (List separately in addition to code for primary procedure)",172.48,ZZZ,55/45,False,False,False,False,False
+93668,"Peripheral arterial disease (PAD) rehabilitation, per session",19.02,XXX,0/100,False,False,False,False,False
+93701,Bioimpedance-derived physiologic cardiovascular analysis,10.99,XXX,28/72,False,False,False,False,False
+93702,"Bioimpedance spectroscopy (BIS), extracellular fluid analysis for lymphedema assessment(s)",23.94,XXX,,False,False,False,False,False
+93724,"Electronic analysis of antitachycardia pacemaker system (includes electrocardio- graphic recording, programming of device, induction and termination of tachycar- dia via implanted pacemaker, and interpretation of recordings)",106.87,000,60/40,False,False,False,False,False
+93740,Temperature gradient studies,16.91,XXX,75/25,False,False,False,False,False
+93745,"Initial set-up and programming by a physician or other qualified health care pro- fessional of wearable cardioverter-defibrillator includes initial programming of system, establishing baseline electronic ECG, transmission of data to data reposi- tory, patient instruction in wearing system and patient reporting of problems or events",,XXX,65/35,False,False,False,False,True
+93750,"Interrogation of ventricular assist device (VAD), in person, with physician or other qualified health care professional analysis of device parameters (eg, drivelines, alarms, power surges), review of device function (eg, flow and volume status, sep- tum status, recovery), with programming, if performed, and report",12.68,XXX,,False,False,False,False,False
+93770,Determination of venous pressure,2.54,XXX,90/10,False,False,False,False,False
+93784,"Ambulatory blood pressure monitoring, utilizing a system such as magnetic tape and/or computer disk, for 24 hours or longer; including recording, scanning analy- sis, interpretation and report",41.43,XXX,40/60,False,False,False,False,False
+93786,"Ambulatory blood pressure monitoring, utilizing a system such as magnetic tape and/or computer disk, for 24 hours or longer; recording only",6.17,XXX,0/100,False,False,False,False,False
+93788,"Ambulatory blood pressure monitoring, utilizing a system such as magnetic tape and/or computer disk, for 24 hours or longer; scanning analysis with report",18.60,XXX,0/100,False,False,False,False,False
+93790,"Ambulatory blood pressure monitoring, utilizing a system such as magnetic tape and/or computer disk, for 24 hours or longer; review with interpretation and report",18.09,XXX,,False,False,False,False,False
+93792,"Patient/caregiver training for initiation of homeinternational normalized ratio (INR) monitoring under the direction of a physician or other qualified health care profes- sional, face-to-face, including use and care of the INR monitor, obtaining blood sample, instructions for reporting home INR test results, and documentation of patient's/caregiver's ability to perform testing and report results",10.47,XXX,,False,False,False,False,False
+93793,"Anticoagulant management for a patient taking warfarin, must include review and interpretation of a newhome, office, or lab international normalized ratio (INR) test result, patient instructions, dosage adjustment (as needed), and scheduling of additional test(s), when performed",2.33,XXX,,False,False,False,False,False
+93797,Physician or other qualified health care professional services for outpatient car- diac rehabilitation; without continuous ECG monitoring (per session),6.76,000,,False,False,False,False,False
+93798,Physician or other qualified health care professional services for outpatient car- diac rehabilitation; with continuous ECG monitoring (per session),8.62,000,,False,False,False,False,False
+93799,Unlisted cardiovascular service or procedure,,XXX,,False,False,False,False,True
+93880,Duplex scan of extracranial arteries; complete bilateral study,41.43,XXX,40/60,False,False,False,False,False
+93882,Duplex scan of extracranial arteries; unilateral or limited study,29.76,XXX,40/60,False,False,False,False,False
+93886,Transcranial Doppler study of the intracranial arteries; complete study,45.83,XXX,40/60,False,False,False,False,False
+93888,Transcranial Doppler study of the intracranial arteries; limited study,27.39,XXX,40/60,False,False,False,False,False
+93890,Transcranial Doppler study of the intracranial arteries; vasoreactivity study,49.72,XXX,25/75,False,False,False,False,False
+93892,Transcranial Doppler study of the intracranial arteries; emboli detection without intravenous microbubble injection,52.76,XXX,25/75,False,False,False,False,False
+93893,Transcranial Doppler study of the intracranial arteries; emboli detection with intra- venous microbubble injection,49.38,XXX,25/75,False,False,False,False,False
+93895,"Quantitative carotid intima media thickness and carotid atheroma evaluation, bilateral",,XXX,,False,False,False,False,True
+93922,"Limited bilateral noninvasive physiologic studies of upper or lower extremity arter- ies, (eg, for lower extremity: ankle/brachial indices at distal posterior tibial and anterior tibial/dorsalis pedis arteries plus bidirectional, Doppler waveform record- ing and analysis at 1-2 levels, or ankle/brachial indices at distal posterior tibial and anterior tibial/dorsalis pedis arteries plus volume plethysmography at 1-2 levels, or ankle/brachial indices at distal posterior tibial and anterior tibial/dorsalis pedis arteries with, transcutaneous oxygen tension measurement at 1-2 levels)",26.21,XXX,40/60,False,False,False,False,False
+"Complete bilateral noninvasive physiologic studies of upper or lower extremity arteries, 3 or more levels (eg, for lower extremity: ankle/brachial indices at distal posterior tibial and anterior tibial/dorsalis pedis arteries plus segmental blood pressure measurements with bidirectional Doppler waveform recording and anal- ysis, at 3 or more levels, or ankle/brachial indices at distal posterior tibial and anterior tibial/dorsalis pedis arteries plus segmental volume plethysmography at 3 or more levels, or ankle/brachial indices at distal posterior tibial and anterior tib- ial/dorsalis pedis arteries plus segmental transcutaneous oxygen tension mea- surements at 3 or more levels), or single level study with provocative functional maneuvers (eg, measurements with postural provocative tests, or measurements with reactive hyperemia)",,,XXX,40/60,False,False,False,False,False
+"Noninvasive physiologic studies of lower extremity arteries, at rest and following treadmill stress testing, (ie, bidirectional Doppler waveform or volume plethys- mography recording and analysis at rest with ankle/brachial indices immediately after and at timed intervals following performance of a standardized protocol on a motorized treadmill plus recording of time of onset of claudication or other symp- toms, maximal walking time, and time to recovery) complete bilateral study",,,XXX,40/60,False,False,False,False,False
+Duplex scan of lower extremity arteries or arterial bypass grafts; complete bilat- eral study,,,XXX,40/60,False,False,False,False,False
+Duplex scan of lower extremity arteries or arterial bypass grafts; unilateral or lim- ited study,,,XXX,40/60,False,False,False,False,False
+Duplex scan of upper extremity arteries or arterial bypass grafts; complete bilat- eral study,,,XXX,40/60,False,False,False,False,False
+Duplex scan of upper extremity arteries or arterial bypass grafts; unilateral or lim- ited study,,,XXX,40/60,False,False,False,False,False
+Duplex scan of extremity veins including responses to compression and other maneuvers; complete bilateral study,,,XXX,40/60,False,False,False,False,False
+Duplex scan of extremity veins including responses to compression and other maneuvers; unilateral or limited study,,,XXX,40/60,False,False,False,False,False
+"Duplex scan of arterial inflow and venous outflow of abdominal, pelvic, scrotal contents and/or retroperitoneal organs; complete study",,,XXX,40/60,False,False,False,False,False
+"Duplex scan of arterial inflow and venous outflow of abdominal, pelvic, scrotal contents and/or retroperitoneal organs; limited study",,,XXX,40/60,False,False,False,False,False
+"Duplex scan of aorta, inferior vena cava, iliac vasculature, or bypass grafts; com- plete study",,,XXX,40/60,False,False,False,False,False
+"Duplex scan of aorta, inferior vena cava, iliac vasculature, or bypass grafts; unilat- eral or limited study",,,XXX,40/60,False,False,False,False,False
+Duplex scan of arterial inflow and venous outflow of penile vessels; complete study,,,XXX,40/60,False,False,False,False,False
+Duplex scan of arterial inflow and venous outflow of penile vessels; follow-up or limited study,,,XXX,40/60,False,False,False,False,False
+"Duplex scan of hemodialysis access (including arterial inflow, body of access and venous outflow)",,,XXX,40/60,False,False,False,False,False
+Unlisted noninvasive vascular diagnostic study,,,XXX,,False,False,False,False,False
+"Ventilation assist and management, initiation of pressure or volume preset ventila- tors for assisted or controlled breathing; hospital inpatient/observation, initial day",,,XXX,,False,False,False,False,False
+"Ventilation assist and management, initiation of pressure or volume preset ventila- tors for assisted or controlled breathing; hospital inpatient/observation, each sub- sequent day",,,XXX,,False,False,False,False,False
+"Ventilation assist and management, initiation of pressure or volume preset ventila- tors for assisted or controlled breathing; nursing facility, per day",,,XXX,,False,False,False,False,False
+"Home ventilator management care plan oversight of a patient (patient not present) in home, domiciliary or rest home (eg, assisted living) requiring review of status, review of laboratories and other studies and revision of orders and respiratory care plan (as appropriate), within a calendar month, 30 minutes or more",,,XXX,,False,False,False,False,False
+"Spirometry, including graphic record, total and timed vital capacity, expiratory flow rate measurement(s), with or without maximal voluntary ventilation",,,XXX,40/60,False,False,False,False,False
+Measurement of spirometric forced expiratory flows in an infant or child through years of age,,,XXX,,False,False,False,False,False
+94012,"Measurement of spirometric forced expiratory flows, before and after bronchodi- lator, in an infant or child through 2 years of age",38.89,XXX,,False,False,False,False,False
+94013,"Measurement of lung volumes (ie, functional residual capacity [FRC], forced vital capacity [FVC], and expiratory reserve volume [ERV]) in an infant or child through 2 years of age",8.46,XXX,,False,False,False,False,False
+94014,"Patient-initiated spirometric recording per 30-day period of time; includes rein- forced education, transmission of spirometric tracing, data capture, analysis of transmitted data, periodic recalibration and review and interpretation by a physi- cian or other qualified health care professional",11.84,XXX,40/60,False,False,False,False,False
+94015,"Patient-initiated spirometric recording per 30-day period of time; recording (includes hook-up, reinforced education, data transmission, data capture, trend analysis, and periodic recalibration)",5.92,XXX,0/100,False,False,False,False,False
+94016,Patient-initiated spirometric recording per 30-day period of time; review and inter- pretation only by a physician or other qualified health care professional,7.44,XXX,,False,False,False,False,False
+94060,"Bronchodilation responsiveness, spirometry as in 94010, pre- and post-bronchodi- lator administration",13.11,XXX,40/60,False,False,False,False,False
+94070,"Bronchospasm provocation evaluation, multiple spirometric determinations as in 94010, with administered agents (eg, antigen[s], cold air, methacholine)",27.06,XXX,40/60,False,False,False,False,False
+94150,"Vital capacity, total (separate procedure)",2.79,XXX,40/60,False,False,False,False,False
+94200,"Maximum breathing capacity, maximal voluntary ventilation",6.59,XXX,20/80,False,False,False,False,False
+94250,"Expired gas collection, quantitative, single procedure (separate procedure)",2.54,XXX,20/80,False,False,False,False,False
+94375,Respiratory flow volume loop,10.15,XXX,20/80,False,False,False,False,False
+94400,Breathing response to CO2 (CO2 response curve),20.29,XXX,20/80,False,False,False,False,False
+94450,Breathing response to hypoxia (hypoxia response curve),16.23,XXX,20/80,False,False,False,False,False
+94452,"High altitude simulation test (HAST), with interpretation and report by a physician or other qualified health care professional;",20.46,XXX,30/70,False,False,False,False,False
+94453,"High altitude simulation test (HAST), with interpretation and report by a physician or other qualified health care professional; with supplemental oxygen titration",29.25,XXX,30/70,False,False,False,False,False
+94610,Intrapulmonary surfactant administration by a physician or other qualified health care professional through endotracheal tube,17.59,XXX,,False,False,False,False,False
+94617,"Exercise test for bronchospasm, including pre- and post-spirometry, electrocar- diographic recording(s), and pulse oximetry",18.47,XXX,35/65,False,False,False,False,False
+94618,"Pulmonary stress testing (eg, 6-minute walk test), including measurement of heart rate, oximetry, and oxygen titration, when performed",32.38,XXX,20/80,False,False,False,False,False
+94621,"Cardiopulmonary exercise testing, including measurements of minute ventilation, CO2 production, O2 uptake, and electrocardiographic recordings",38.05,XXX,20/80,False,False,False,False,False
+94640,"Pressurized or nonpressurized inhalation treatment for acute airway obstruction for therapeutic purposes and/or for diagnostic purposes such as sputum induction with an aerosol generator, nebulizer, metered dose inhaler or intermittent positive pressure breathing (IPPB) device",3.55,XXX,,False,False,False,False,False
+94642,Aerosol inhalation of pentamidine for pneumocystis carinii pneumonia treatment or prophylaxis,15.81,XXX,,False,False,False,False,False
+94644,Continuous inhalation treatment with aerosol medication for acute airway obstruction; first hour,9.3,XXX,,False,False,False,False,False
+94645,Continuous inhalation treatment with aerosol medication for acute airway obstruction; each additional hour (List separately in addition to code for primary procedure),3.55,XXX,,False,False,False,False,False
+94660,"Continuous positive airway pressure ventilation (CPAP), initiation and manage- ment",19.45,XXX,,False,False,False,False,False
+94662,"Continuous negative pressure ventilation (CNP), initiation and management",12.68,XXX,,False,False,False,False,False
+94664,"Demonstration and/or evaluation of patient utilization of an aerosol generator, nebulizer, metered dose inhaler or IPPB device",4.23,XXX,,False,False,False,False,False
+94667,"Manipulation chest wall, such as cupping, percussing, and vibration to facilitate lung function; initial demonstration and/or evaluation",5.07,XXX,,False,False,False,False,False
+94668,"Manipulation chest wall, such as cupping, percussing, and vibration to facilitate lung function; subsequent",4.06,XXX,,False,False,False,False,False
+94669,"Mechanical chest wall oscillation to facilitate lung function, per session",6.36,XXX,,False,False,False,False,False
+94680,"Oxygen uptake, expired gas analysis; rest and exercise, direct, simple",13.53,XXX,40/60,False,False,False,False,False
+94681,"Oxygen uptake, expired gas analysis; including CO2 output, percentage oxygen extracted",25.37,XXX,40/60,False,False,False,False,False
+94690,"Oxygen uptake, expired gas analysis; rest, indirect (separate procedure)",5.07,XXX,40/60,False,False,False,False,False
+94726,"Plethysmography for determination of lung volumes and, when performed, airway resistance",11.23,XXX,23/77,False,False,False,False,False
+94727,"Gas dilution or washout for determination of lung volumes and, when performed, distribution of ventilation and closing volumes",8.81,XXX,29/71,False,False,False,False,False
+94728,Airway resistance by impulse oscillometry,8.81,XXX,29/71,False,False,False,False,False
+94729,"Diffusing capacity (eg, carbon monoxide, membrane) (List separately in addition to code for primary procedure)",11.16,ZZZ,15/85,False,False,False,False,False
+94750,"Pulmonary compliance study (eg, plethysmography, volume and pressure mea- surements)",15.56,XXX,40/60,False,False,False,False,False
+94760,Noninvasive ear or pulse oximetry for oxygen saturation; single determination,3.55,XXX,0/100,False,False,False,False,False
+94761,"Noninvasive ear or pulse oximetry for oxygen saturation; multiple determinations (eg, during exercise)",5.92,XXX,0/100,False,False,False,False,False
+94762,Noninvasive ear or pulse oximetry for oxygen saturation; by continuous overnight monitoring (separate procedure),7.44,XXX,0/100,False,False,False,False,False
+94770,"Carbon dioxide, expired gas determination by infrared analyzer",10.15,XXX,40/60,False,False,False,False,False
+94772,"Circadian respiratory pattern recording (pediatric pneumogram), 12-24 hour con- tinuous recording, infant",,XXX,40/60,False,False,False,False,True
+94774,"Pediatric home apnea monitoring event recording including respiratory rate, pat- tern and heart rate per 30-day period of time; includes monitor attachment, down- load of data, review, interpretation, and preparation of a report by a physician or other qualified health care professional",,YYY,,False,False,False,False,True
+94775,"Pediatric home apnea monitoring event recording including respiratory rate, pat- tern and heart rate per 30-day period of time; monitor attachment only (includes hook-up, initiation of recording and disconnection)",,YYY,,False,False,False,False,True
+94776,"Pediatric home apnea monitoring event recording including respiratory rate, pat- tern and heart rate per 30-day period of time; monitoring, download of information, receipt of transmission(s) and analyses by computer only",,YYY,,False,False,False,False,True
+94777,"Pediatric home apnea monitoring event recording including respiratory rate, pat- tern and heart rate per 30-day period of time; review, interpretation and prepara- tion of report only by a physician or other qualified health care professional",,YYY,,False,False,False,False,True
+94780,"Car seat/bed testing for airway integrity, neonate, with continual nursing observa- tion and continuous recording of pulse oximetry, heart rate and respiratory rate, with interpretation and report; 60 minutes",10.59,XXX,,False,False,False,False,False
+94781,"Car seat/bed testing for airway integrity, neonate, with continual nursing observa- tion and continuous recording of pulse oximetry, heart rate and respiratory rate, with interpretation and report; each additional full 30 minutes (List separately in addition to code for primary procedure)",4.12,ZZZ,,False,False,False,False,False
+94799,Unlisted pulmonary service or procedure,,XXX,,False,False,False,False,True
+95004,"Percutaneous tests (scratch, puncture, prick) with allergenic extracts, immediate type reaction, including test interpretation and report, specify number of tests",0.42,XXX,,False,False,False,False,False
+95012,Nitric oxide expired gas determination,3.21,XXX,,False,False,False,False,False
+95017,"Allergy testing, any combination of percutaneous (scratch, puncture, prick) and intracutaneous (intradermal), sequential and incremental, with venoms, immedi- ate type reaction, including test interpretation and report, specify number of tests",0.64,XXX,,False,False,False,False,False
+95018,"Allergy testing, any combination of percutaneous (scratch, puncture, prick) and intracutaneous (intradermal), sequential and incremental, with drugs or biologi- cals, immediate type reaction, including test interpretation and report, specify number of tests",1.18,XXX,,False,False,False,False,False
+95024,"Intracutaneous (intradermal) tests with allergenic extracts, immediate type reac- tion, including test interpretation and report, specify number of tests",0.72,XXX,,False,False,False,False,False
+ 95027,"Intracutaneous (intradermal) tests, sequential and incremental, with allergenic extracts for airborne allergens, immediate type reaction, including test interpreta- tion and report, specify number of tests",0.72,XXX,,False,False,False,False,False
+95028,"Intracutaneous (intradermal) tests with allergenic extracts, delayed type reaction, including reading, specify number of tests",1.23,XXX,,False,False,False,False,False
+95044,Patch or application test(s) (specify number of tests),1.65,XXX,,False,False,False,False,False
+95052,Photo patch test(s) (specify number of tests),2.2,XXX,,False,False,False,False,False
+95056,Photo tests,0.59,XXX,,False,False,False,False,False
+95060,Ophthalmic mucous membrane tests,2.54,XXX,,False,False,False,False,False
+95065,Direct nasal mucous membrane test,2.11,XXX,,False,False,False,False,False
+95070,"Inhalation bronchial challenge testing (not including necessary pulmonary func- tion tests); with histamine, methacholine, or similar compounds",16.91,XXX,,False,False,False,False,False
+95071,"Inhalation bronchial challenge testing (not including necessary pulmonary func- tion tests); with antigens or gases, specify",16.91,XXX,,False,False,False,False,False
+ 95076,"Ingestion challenge test (sequential and incremental ingestion of test items, eg, food, drug or other substance); initial 120 minutes of testing",23.19,XXX,,False,False,False,False,False
+ + 95079,"Ingestion challenge test (sequential and incremental ingestion of test items, eg, food, drug or other substance); each additional 60 minutes of testing (List sepa- rately in addition to code for primary procedure)",16.28,ZZZ,,False,False,False,False,False
+95115,Professional services for allergen immunotherapy not including provision of aller- genic extracts; single injection,1.35,XXX,,False,False,False,False,False
+95117,Professional services for allergen immunotherapy not including provision of aller- genic extracts; 2 or more injections,2.03,XXX,,False,False,False,False,False
+ 95120,"Professional services for allergen immunotherapy in the office or institution of the prescribing physician or other qualified health care professional, including provi- sion of allergenic extract; single injection",1.86,XXX,,False,False,False,False,False
+ 95125,"Professional services for allergen immunotherapy in the office or institution of the prescribing physician or other qualified health care professional, including provi- sion of allergenic extract; 2 or more injections",2.28,XXX,,False,False,False,False,False
+ 95130,"Professional services for allergen immunotherapy in the office or institution of the prescribing physician or other qualified health care professional, including provi- sion of allergenic extract; single stinging insect venom",3.21,XXX,,False,False,False,False,False
+ 95131,"Professional services for allergen immunotherapy in the office or institution of the prescribing physician or other qualified health care professional, including provi- sion of allergenic extract; 2 stinging insect venoms",4.06,XXX,,False,False,False,False,False
+ 95132,"Professional services for allergen immunotherapy in the office or institution of the prescribing physician or other qualified health care professional, including provi- sion of allergenic extract; 3 stinging insect venoms",4.9,XXX,,False,False,False,False,False
+ 95133,"Professional services for allergen immunotherapy in the office or institution of the prescribing physician or other qualified health care professional, including provi- sion of allergenic extract; 4 stinging insect venoms",5.92,XXX,,False,False,False,False,False
+ 95134,"Professional services for allergen immunotherapy in the office or institution of the prescribing physician or other qualified health care professional, including provi- sion of allergenic extract; 5 stinging insect venoms",7.1,XXX,,False,False,False,False,False
+95144,"Professional services for the supervision of preparation and provision of antigens for allergen immunotherapy, single dose vial(s) (specify number of vials)",4.9,XXX,,False,False,False,False,False
+95145,Professional services for the supervision of preparation and provision of antigens for allergen immunotherapy (specify number of doses); single stinging insect venom,3.72,XXX,,False,False,False,False,False
+95146,Professional services for the supervision of preparation and provision of antigens for allergen immunotherapy (specify number of doses); 2 single stinging insect venoms,4.57,XXX,,False,False,False,False,False
+95147,Professional services for the supervision of preparation and provision of antigens for allergen immunotherapy (specify number of doses); 3 single stinging insect,5.41,XXX,,False,False,False,False,False
+Professional services for the supervision of preparation and provision of antigens for allergen immunotherapy (specify number of doses); 4 single stinging insect venoms,6.43,,XXX,,False,False,False,False,False
+Professional services for the supervision of preparation and provision of antigens for allergen immunotherapy (specify number of doses); 5 single stinging insect venoms,7.61,,XXX,,False,False,False,False,False
+Professional services for the supervision of preparation and provision of antigens for allergen immunotherapy; single or multiple antigens (specify number of doses),2.70,,XXX,,False,False,False,False,False
+Professional services for the supervision of preparation and provision of antigens for allergen immunotherapy; whole body extract of biting insect or other arthropod (specify number of doses),1.99,,XXX,,False,False,False,False,False
+"Rapid desensitization procedure, each hour (eg, insulin, penicillin, equine serum)",18.26,,XXX,,False,False,False,False,False
+Unlisted allergy/clinical immunologic service or procedure,BR,,XXX,,False,False,False,False,False
+"Ambulatory continuous glucose monitoring of interstitial tissue fluid via a subcuta- neous sensor for a minimum of 72 hours; patient-provided equipment, sensor placement, hook-up, calibration of monitor, patient training, and printout of record- ing",10.67,,XXX,,False,False,False,False,False
+"Ambulatory continuous glucose monitoring of interstitial tissue fluid via a subcuta- neous sensor for a minimum of 72 hours; physician or other qualified health care professional (office) provided equipment, sensor placement, hook-up, calibration of monitor, patient training, removal of sensor, and printout of recording",23.67,XXX,,0/100,False,False,False,False,False
+"Ambulatory continuous glucose monitoring of interstitial tissue fluid via a subcuta- neous sensor for a minimum of 72 hours; analysis, interpretation and report",4.23,,XXX,,False,False,False,False,False
+"Polysomnography; younger than 6 years, sleep staging with 4 or more additional parameters of sleep, attended by a technologist",177.79,,XXX,14/86,False,False,False,False,False
+"Polysomnography; younger than 6 years, sleep staging with 4 or more additional parameters of sleep, with initiation of continuous positive airway pressure therapy or bi-level ventilation, attended by a technologist",189.62,,XXX,14/86,False,False,False,False,False
+"Sleep study, unattended, simultaneous recording; heart rate, oxygen saturation, respiratory analysis (eg, by airflow or peripheral arterial tone), and sleep time",175.02,,XXX,31/69,False,False,False,False,False
+"Sleep study, unattended, simultaneous recording; minimum of heart rate, oxygen saturation, and respiratory analysis (eg, by airflow or peripheral arterial tone)",296.09,,XXX,56/44,False,False,False,False,False
+"Actigraphy testing, recording, analysis, interpretation, and report (minimum of 72 hours to 14 consecutive days of recording)",34.16,,XXX,27/73,False,False,False,False,False
+"Multiple sleep latency or maintenance of wakefulness testing, recording, analysis and interpretation of physiological measurements of sleep during multiple trials to assess sleepiness",60.03,,XXX,40/60,False,False,False,False,False
+"Sleep study, unattended, simultaneous recording of, heart rate, oxygen saturation, respiratory airflow, and respiratory effort (eg, thoracoabdominal movement)",67.64,,XXX,50/50,False,False,False,False,False
+"Sleep study, simultaneous recording of ventilation, respiratory effort, ECG or heart rate, and oxygen saturation, attended by a technologist",84.89,,XXX,40/60,False,False,False,False,False
+"Polysomnography; any age, sleep staging with 1-3 additional parameters of sleep, attended by a technologist",53.44,,XXX,40/60,False,False,False,False,False
+"Polysomnography; age 6 years or older, sleep staging with 4 or more additional parameters of sleep, attended by a technologist",57.32,,XXX,40/60,False,False,False,False,False
+"Polysomnography; age 6 years or older, sleep staging with 4 or more additional parameters of sleep, with initiation of continuous positive airway pressure therapy or bilevel ventilation, attended by a technologist",105.01,,XXX,40/60,False,False,False,False,False
+Electroencephalogram (EEG) extended monitoring; 41-60 minutes,32.97,XXX,,40/60,False,False,False,False,False
+Electroencephalogram (EEG) extended monitoring; greater than 1 hour,45.41,,XXX,40/60,False,False,False,False,False
+Electroencephalogram (EEG); including recording awake and drowsy,26.38,,XXX,40/60,False,False,False,False,False
+Electroencephalogram (EEG); including recording awake and asleep,26.38,,XXX,40/60,False,False,False,False,False
+Electroencephalogram (EEG); recording in coma or sleep only,26.38,,XXX,40/60,False,False,False,False,False
+Electroencephalogram (EEG); cerebral death evaluation only,37.50,,XXX,40/60,False,False,False,False,False
+Electroencephalogram (EEG); all night recording,33.82,,XXX,40/60,False,False,False,False,False
+Electrocorticogram at surgery (separate procedure),54.96,,XXX,95/05,False,False,False,False,False
+95830,Insertion by physician or other qualified health care professional of sphenoidal electrodes for electroencephalographic (EEG) recording,19.62,XXX,,False,False,False,False,False
+,"For codes 95831-95852, please see the Physical Medicine section.",,,,False,False,False,False,False
+95857,Cholinesterase inhibitor challenge test for myasthenia gravis,10.99,XXX,,False,False,False,False,False
+95860,Needle electromyography; 1 extremity with or without related paraspinal areas,21.98,XXX,80/20,False,False,False,False,False
+95861,Needle electromyography; 2 extremities with or without related paraspinal areas,28.58,XXX,80/20,False,False,False,False,False
+95863,Needle electromyography; 3 extremities with or without related paraspinal areas,37.20,XXX,80/20,False,False,False,False,False
+95864,Needle electromyography; 4 extremities with or without related paraspinal areas,48.36,XXX,80/20,False,False,False,False,False
+95865,Needle electromyography; larynx,32.97,XXX,75/25,False,False,False,False,False
+95866,Needle electromyography; hemidiaphragm,22.83,XXX,90/10,False,False,False,False,False
+95867,"Needle electromyography; cranial nerve supplied muscle(s), unilateral",22.83,XXX,80/20,False,False,False,False,False
+95868,"Needle electromyography; cranial nerve supplied muscles, bilateral",39.91,XXX,80/20,False,False,False,False,False
+95869,Needle electromyography; thoracic paraspinal muscles (excluding T1 or T12),16.91,XXX,80/20,False,False,False,False,False
+95870,"Needle electromyography; limited study of muscles in 1 extremity or non-limb (axial) muscles (unilateral or bilateral), other than thoracic paraspinal, cranial nerve supplied muscles, or sphincters",16.91,XXX,80/20,False,False,False,False,False
+95872,"Needle electromyography using single fiber electrode, with quantitative measure- ment of jitter, blocking and/or fiber density, any/all sites of each muscle studied",39.06,XXX,80/20,False,False,False,False,False
+95873,Electrical stimulation for guidance in conjunction with chemodenervation (List separately in addition to code for primary procedure),9.13,ZZZ,71/29,False,False,False,False,False
+95874,Needle electromyography for guidance in conjunction with chemodenervation (List separately in addition to code for primary procedure),9.30,ZZZ,72/28,False,False,False,False,False
+95875,Ischemic limb exercise test with serial specimen(s) acquisition for muscle(s) metabolite(s),7.78,XXX,70/30,False,False,False,False,False
+95885,"Needle electromyography, each extremity, with related paraspinal areas, when performed, done with nerve conduction, amplitude and latency/velocity study; lim- ited (List separately in addition to code for primary procedure)",11.66,ZZZ,32/68,False,False,False,False,False
+95886,"Needle electromyography, each extremity, with related paraspinal areas, when performed, done with nerve conduction, amplitude and latency/velocity study; complete, five or more muscles studied, innervated by three or more nerves or four or more spinal levels (List separately in addition to code for primary proce- dure)",18.27,ZZZ,54/46,False,False,False,False,False
+95887,"Needle electromyography, non-extremity (cranial nerve supplied or axial) mus- cle(s) done with nerve conduction, amplitude and latency/velocity study (List sep- arately in addition to code for primary procedure)",16.28,ZZZ,48/52,False,False,False,False,False
+95905,"Motor and/or sensory nerve conduction, using preconfigured electrode array(s), amplitude and latency/velocity study, each limb, includes F-wave study when per- formed, with interpretation and report",24.52,XXX,4/96,False,False,False,False,False
+95907,Nerve conduction studies; 1-2 studies,19.02,XXX,55/45,False,False,False,False,False
+95908,Nerve conduction studies; 3-4 studies,24.63,XXX,54/46,False,False,False,False,False
+95909,Nerve conduction studies; 5-6 studies,29.35,XXX,54/46,False,False,False,False,False
+95910,Nerve conduction studies; 7-8 studies,38.65,XXX,54/46,False,False,False,False,False
+95911,Nerve conduction studies; 9-10 studies,46.11,XXX,57/43,False,False,False,False,False
+95912,Nerve conduction studies; 11-12 studies,51.17,XXX,61/39,False,False,False,False,False
+95913,Nerve conduction studies; 13 or more studies,59.03,XXX,62/38,False,False,False,False,False
+95921,"Testing of autonomic nervous system function; cardiovagal innervation (parasym- pathetic function), including 2 or more of the following: heart rate response to deep breathing with recorded R-R interval, Valsalva ratio, and 30:15 ratio",NC,XXX,53/47,False,False,False,False,False
+95922 95923,"Testing of autonomic nervous system function; vasomotor adrenergic innervation (sympathetic adrenergic function), including beat-to-beat blood pressure and R-R interval changes during Valsalva maneuver and at least 5 minutes of passive tilt Testing of autonomic nervous system function; sudomotor, including 1 or more of",NC,XXX,45/55,False,False,False,False,False
+,"the following: quantitative sudomotor axon reflex test (QSART), silastic sweat imprint, thermoregulatory sweat test, and changes in sympathetic skin potential",20.29,XXX,29/71,False,False,False,False,False
+95924,Testing of autonomic nervous system function; combined parasympathetic and sympathetic adrenergic function testing with at least 5 minutes of passive tilt,29.35,XXX,59/41,False,False,False,False,False
+95925,"Short-latency somatosensory evoked potential study, stimulation of any/all periph- eral nerves or skin sites, recording from the central nervous system; in upper limbs",35.76,XXX,80/20,False,False,False,False,False
+95926,"Short-latency somatosensory evoked potential study, stimulation of any/all periph- eral nerves or skin sites, recording from the central nervous system; in lower limbs",35.76,XXX,80/20,False,False,False,False,False
+95927,"Short-latency somatosensory evoked potential study, stimulation of any/all periph- eral nerves or skin sites, recording from the central nervous system; in the trunk or head",35.76,XXX,80/20,False,False,False,False,False
+95928,Central motor evoked potential study (transcranial motor stimulation); upper limbs,92.67,XXX,50/50,False,False,False,False,False
+95929,Central motor evoked potential study (transcranial motor stimulation); lower limbs,96.56,XXX,45/55,False,False,False,False,False
+95930,"Visual evoked potential (VEP) checkerboard or flash testing, central nervous sys- tem except glaucoma, with interpretation and report",16.91,XXX,50/50,False,False,False,False,False
+95933,"Orbicularis oculi (blink) reflex, by electrodiagnostic testing",14.37,XXX,80/20,False,False,False,False,False
+95937,"Neuromuscular junction testing (repetitive stimulation, paired stimuli), each nerve, any 1 method",13.36,XXX,80/20,False,False,False,False,False
+95938,"Short-latency somatosensory evoked potential study, stimulation of any/all periph- eral nerves or skin sites, recording from the central nervous system; in upper and lower limbs",61.77,XXX,15/85,False,False,False,False,False
+95939,Central motor evoked potential study (transcranial motor stimulation); in upper and lower limbs,96.66,XXX,25/75,False,False,False,False,False
+95940,"Continuous intraoperative neurophysiology monitoring in the operating room, one on one monitoring requiring personal attendance, each 15 minutes (List separately in addition to code for primary procedure)",6.66,XXX,,False,False,False,False,False
+95941,"Continuous intraoperative neurophysiology monitoring, from outside the operating room (remote or nearby) or for monitoring of more than one case while in the oper- ating room, per hour (List separately in addition to code for primary procedure)",,XXX,,False,False,False,False,True
+95943,"Simultaneous, independent, quantitative measures of both parasympathetic func- tion and sympathetic function, based on time-frequency analysis of heart rate variability concurrent with time-frequency analysis of continuous respiratory activity, with mean heart rate and blood pressure measures, during rest, paced (deep) breathing, Valsalva maneuvers, and head-up postural change",24.56,XXX,57/43,False,False,False,False,False
+95950,"Monitoring for identification and lateralization of cerebral seizure focus, electro- encephalographic (eg, 8 channel EEG) recording and interpretation, each 24 hours",67.64,XXX,40/60,False,False,False,False,False
+95951,"Monitoring for localization of cerebral seizure focus by cable or radio, 16 or more channel telemetry, combined electroencephalographic (EEG) and video recording and interpretation (eg, for presurgical localization), each 24 hours",86.92,XXX,40/60,False,False,False,False,False
+95953,"Monitoring for localization of cerebral seizure focus by computerized portable 16 or more channel EEG, electroencephalographic (EEG) recording and interpreta- tion, each 24 hours, unattended",78.12,XXX,40/60,False,False,False,False,False
+95954,"Pharmacological or physical activation requiring physician or other qualified health care professional attendance during EEG recording of activation phase (eg, thiopental activation test)",16.91,XXX,90/10,False,False,False,False,False
+95955,"Electroencephalogram (EEG) during nonintracranial surgery (eg, carotid surgery)",30.44,XXX,95/05,False,False,False,False,False
+95956,"Monitoring for localization of cerebral seizure focus by cable or radio, 16 or more channel telemetry, electroencephalographic (EEG) recording and interpretation, each 24 hours, attended by a technologist or nurse",78.12,XXX,40/60,False,False,False,False,False
+95957,"Digital analysis of electroencephalogram (EEG) (eg, for epileptic spike analysis)",32.65,XXX,0/100,False,False,False,False,False
+95958,"Wadaactivation test for hemispheric function, including electroencephalographic (EEG) monitoring",48.19,XXX,80/20,False,False,False,False,False
+95961,"Functional cortical and subcortical mapping by stimulation and/or recording of electrodes on brain surface, or of depth electrodes, to provoke seizures or identify vital brain structures; initial hour of attendance by a physician or other qualified health care professional",50.73,XXX,80/20,False,False,False,False,False
+95962,"Functional cortical and subcortical mapping by stimulation and/or recording of electrodes on brain surface, or of depth electrodes, to provoke seizures or identify vital brain structures; each additional hour of attendance by a physician or other qualified health care professional (List separately in addition to code for primary procedure)",33.82,ZZZ,80/20,False,False,False,False,False
+95965,"Magnetoencephalography (MEG), recording and analysis; for spontaneous brain magnetic activity (eg, epileptic cerebral cortex localization)",432.85,XXX,20/80,False,False,False,False,False
+95966,"Magnetoencephalography (MEG), recording and analysis; for evoked magnetic fields, single modality (eg, sensory, motor, language, or visual cortex localization)",216.07,XXX,20/80,False,False,False,False,False
+95967,"Magnetoencephalography (MEG), recording and analysis; for evoked magnetic fields, each additional modality (eg, sensory, motor, language, or visual cortex localization) (List separately in addition to code for primary procedure)",188.35,ZZZ,20/80,False,False,False,False,False
+95970,"Electronic analysis of implanted neurostimulator pulse generator system (eg, rate, pulse amplitude, pulse duration, configuration of wave form, battery status, elec- trode selectability, output modulation, cycling, impedance and patient compliance measurements); simple or complex brain, spinal cord, or peripheral (ie, cranial nerve, peripheral nerve, sacral nerve, neuromuscular) neurostimulator pulse gen- erator/transmitter, without reprogramming",10.91,XXX,,False,False,False,False,False
+95971,"Electronic analysis of implanted neurostimulator pulse generator system (eg, rate, pulse amplitude, pulse duration, configuration of wave form, battery status, elec- trode selectability, output modulation, cycling, impedance and patient compliance measurements); simple spinal cord, or peripheral (ie, peripheral nerve, sacral nerve, neuromuscular) neurostimulator pulse generator/transmitter, with intraop- erative or subsequent programming",16.4,XXX,,False,False,False,False,False
+95972,"Electronic analysis of implanted neurostimulator pulse generator system (eg, rate, pulse amplitude, pulse duration, configuration of wave form, battery status, elec- trode selectability, output modulation, cycling, impedance and patient compliance measurements); complex spinal cord, or peripheral (ie, peripheral nerve, sacral nerve, neuromuscular) (except cranial nerve) neurostimulator pulse genera- tor/transmitter, with intraoperative or subsequent programming",32.72,XXX,,False,False,False,False,False
+95974,"Electronic analysis of implanted neurostimulator pulse generator system (eg, rate, pulse amplitude, pulse duration, configuration of wave form, battery status, elec- trode selectability, output modulation, cycling, impedance and patient compliance measurements); complex cranial nerve neurostimulator pulse generator/transmit- ter, with intraoperative or subsequent programming, with or without nerve inter- face testing, first hour",65.44,XXX,,False,False,False,False,False
+95975,"Electronic analysis of implanted neurostimulator pulse generator system (eg, rate, pulse amplitude, pulse duration, configuration of wave form, battery status, elec- trode selectability, output modulation, cycling, impedance and patient compliance measurements); complex cranial nerve neurostimulator pulse generator/transmit- ter, with intraoperative or subsequent programming, each additional 30 minutes after first hour (List separately in addition to code for primary procedure)",32.72,ZZZ,,False,False,False,False,False
+95978,"Electronic analysis of implanted neurostimulator pulse generator system (eg, rate, pulse amplitude and duration, battery status, electrode selectability and polarity, impedance and patient compliance measurements), complex deep brain neuro- stimulator pulse generator/transmitter, with initial or subsequent programming; first hour",71.87,XXX,,False,False,False,False,False
+95979,"Electronic analysis of implanted neurostimulator pulse generator system (eg, rate, pulse amplitude and duration, battery status, electrode selectability and polarity, impedance and patient compliance measurements), complex deep brain neuro- stimulator pulse generator/transmitter, with initial or subsequent programming; each additional 30 minutes after first hour (List separately in addition to code for primary procedure)",35.51,ZZZ,,False,False,False,False,False
+95980,"Electronic analysis of implanted neurostimulator pulse generator system (eg, rate, pulse amplitude and duration, configuration of wave form, battery status, elec- trode selectability, output modulation, cycling, impedance and patient measure- ments) gastric neurostimulator pulse generator/transmitter; intraoperative, with programming",14.37,XXX,,False,False,False,False,False
+"Electronic analysis of implanted neurostimulator pulse generator system (eg, rate, pulse amplitude and duration, configuration of wave form, battery status, elec- trode selectability, output modulation, cycling, impedance and patient measure- ments) gastric neurostimulator pulse generator/transmitter; subsequent, without reprogramming",10.15,,,,False,False,False,False,False
+"Electronic analysis of implanted neurostimulator pulse generator system (eg, rate, pulse amplitude and duration, configuration of wave form, battery status, elec- trode selectability, output modulation, cycling, impedance and patient measure- ments) gastric neurostimulator pulse generator/transmitter; subsequent, with reprogramming",14.88,,,,False,False,False,False,False
+"Refilling and maintenance of implantable pump or reservoir for drug delivery, spi- nal (intrathecal, epidural) or brain (intraventricular), includes electronic analysis of pump, when performed;",7.61,,,,False,False,False,False,False
+"Refilling and maintenance of implantable pump or reservoir for drug delivery, spi- nal (intrathecal, epidural) or brain (intraventricular), includes electronic analysis of pump, when performed; requiring skill of a physician or other qualified health",7.61,,,,False,False,False,False,False
+"Canalith repositioning procedure(s) (eg, Epley maneuver, Semont maneuver), per day",14.37,,,*,False,False,False,False,False
+Unlisted neurological or neuromuscular diagnostic procedure,BR,,,,False,False,False,False,False
+Comprehensive computer-based motion analysis by video-taping and 3D kinemat- ics;,0.00,,,0/100,False,False,False,False,False
+Comprehensive computer-based motion analysis by video-taping and 3D kinemat- ics; with dynamic plantar pressure measurements during walking,0.00,,,0/100,False,False,False,False,False
+"Dynamic surface electromyography, during walking or other functional activities, 1-12 muscles",0.00,,,0/100,False,False,False,False,False
+"Dynamic fine wire electromyography, during walking or other functional activities, 1 muscle",,,,0/100,False,False,False,False,False
+"Review and interpretation by physician or other qualified health care professional of comprehensive computer-based motion analysis, dynamic plantar pressure measurements, dynamic surface tional activities, and dynamic fine wire","during walking or other func- electromyography, with written report 0.00",,,electromyography,False,False,False,False,False
+"Neurofunctional testing selection and administration during noninvasive imaging functional brain mapping, with test administered entirely by a physician or other qualified health care professional (ie, psychologist), with review of test results and report",BR,,,96020 0/100,False,False,False,False,False
+"Medical genetics and genetic counseling services, each 30 minutes face-to-face with patient/family",9.67,,,,False,False,False,False,False
+"Psychological testing (includes psychodiagnostic assessment of emotionality, intellectual abilities, personality and psychopathology, eg, MMPI, Rorschach, WAIS), per hour of the psychologist's or physician's time, both face-to-face time administering tests to the patient and time interpreting these test results and pre- paring the report",24.52,,,,False,False,False,False,False
+"Psychological testing (includes psychodiagnostic assessment of emotionality, intellectual abilities, personality and psychopathology, eg, MMPI and WAIS), with qualified health care professional interpretation and report, administered by tech- nician, per hour of technician time, face-to-face",11.16,,,96102,False,False,False,False,False
+"Psychological testing (includes psychodiagnostic assessment of emotionality, intellectual abilities, personality and psychopathology, eg, MMPI), administered by a computer, with qualified health care professional interpretation and report",7.10,,,,False,False,False,False,False
+"Assessment of aphasia (includes assessment of expressive and receptive speech and language function, language comprehension, speech production ability, read- ing, spelling, writing, eg, by Boston Diagnostic Aphasia Examination) with inter- pretation and report, per hour",18.50,,,,False,False,False,False,False
+"Developmental screening (eg, developmental milestone survey, speech and lan- guage delay screen), with scoring and documentation, per standardized instru- ment",17.00,,,,False,False,False,False,False
+"Developmental testing, (includes assessment of motor, language, social, adaptive, and/or cognitive functioning by standardized developmental instruments) with interpretation and report",19.87,,,,False,False,False,False,False
+96116,"Neurobehavioral status exam (clinical assessment of thinking, reasoning and judgment, eg, acquired knowledge, attention, language, memory, planning and problem solving, and visual spatial abilities), per hour of the psychologist's or phy- sician's time, both face-to-face time with the patient and time interpreting test results and preparing the report",27.39,XXX,,False,False,False,False,False
+96118,"Neuropsychological testing (eg, Halstead-Reitan Neuropsychological Battery, Wechsler Memory Scales and Wisconsin Card Sorting Test), per hour of the psy- chologist's or physician's time, both face-to-face time administering tests to the patient and time interpreting these test results and preparing the report",29.59,XXX,,False,False,False,False,False
+96119,"Neuropsychological testing (eg, Halstead-Reitan Neuropsychological Battery, Wechsler Memory Scales and Wisconsin Card Sorting Test), with qualified health care professional interpretation and report, administered by technician, per hour of technician time, face-to-face",16.57,XXX,,False,False,False,False,False
+96120,"Neuropsychological testing (eg, Wisconsin Card Sorting Test), administered by a computer, with qualified health care professional interpretation and report",12.18,XXX,,False,False,False,False,False
+96125,"Standardized cognitive performance testing (eg, Ross Information Processing Assessment) per hour of a qualified health care professional's time, both face-to-face time administering tests to the patient and time interpreting these test results and preparing the report",23.84,XXX,,False,False,False,False,False
+96127,"Brief emotional/behavioral assessment (eg, depression inventory, attention-defi- cit/hyperactivity disorder [ADHD] scale), with scoring and documentation, per standardized instrument",1.23,XXX,,False,False,False,False,False
+96150,"Health and behavior assessment (eg, health-focused clinical interview, behavioral observations, psychophysiological monitoring, health-oriented questionnaires), each 15 minutes face-to-face with the patient; initial assessment",5.92,XXX,,False,False,False,False,False
+96151,"Health and behavior assessment (eg, health-focused clinical interview, behavioral observations, psychophysiological monitoring, health-oriented questionnaires), each 15 minutes face-to-face with the patient; re-assessment",2.96,XXX,,False,False,False,False,False
+96152,"Health and behavior intervention, each 15 minutes, face-to-face; individual",2.96,XXX,,False,False,False,False,False
+96153,"Health and behavior intervention, each 15 minutes, face-to-face; group (2 or more patients)",4.23,XXX,,False,False,False,False,False
+96154,"Health and behavior intervention, each 15 minutes, face-to-face; family (with the patient present)",4.23,XXX,,False,False,False,False,False
+96155,"Health and behavior intervention, each 15 minutes, face-to-face; family (without the patient present)",4.23,XXX,,False,False,False,False,False
+96160,"Administration of patient-focused health risk assessment instrument (eg, health hazard appraisal) with scoring and documentation, per standardized instrument",0.75,ZZZ,,False,False,False,False,False
+96161,"Administration of caregiver-focused health risk assessment instrument (eg, depression inventory) for the benefit of the patient, with scoring and documenta- tion, per standardized instrument",0.75,ZZZ,,False,False,False,False,False
+96360,"Intravenous infusion, hydration; initial, 31 minutes to 1 hour",9.64,XXX,,False,False,False,False,False
+96361,"Intravenous infusion, hydration; each additional hour (List separately in addition to code for primary procedure)",4.06,ZZZ,,False,False,False,False,False
+96365,"Intravenous infusion, for therapy, prophylaxis, or diagnosis (specify substance or drug); initial, up to 1 hour",10.99,XXX,,False,False,False,False,False
+96366,"Intravenous infusion, for therapy, prophylaxis, or diagnosis (specify substance or drug); each additional hour (List separately in addition to code for primary proce- dure)",5.07,ZZZ,,False,False,False,False,False
+96367,"Intravenous infusion, for therapy, prophylaxis, or diagnosis (specify substance or drug); additional sequential infusion of a new drug/substance, up to 1 hour (List separately in addition to code for primary procedure)",7.27,ZZZ,,False,False,False,False,False
+96368,"Intravenous infusion, for therapy, prophylaxis, or diagnosis (specify substance or drug); concurrent infusion (List separately in addition to code for primary proce- dure)",4.23,ZZZ,,False,False,False,False,False
+96369,"Subcutaneous infusion for therapy or prophylaxis (specify substance or drug); ini- tial, up to 1 hour, including pump set-up and establishment of subcutaneous infu- sion site(s)",24.52,XXX,,False,False,False,False,False
+96370,Subcutaneous infusion for therapy or prophylaxis (specify substance or drug); each additional hour (List separately in addition to code for primary procedure),2.87,ZZZ,,False,False,False,False,False
+96371,Subcutaneous infusion for therapy or prophylaxis (specify substance or drug); additional pump set-up with establishment of new subcutaneous infusion site(s) (List separately in addition to code for primary procedure),10.15,ZZZ,,False,False,False,False,False
+96372,"Therapeutic, prophylactic, or diagnostic injection (specify substance or drug); subcutaneous or intramuscular",2.71,XXX,,False,False,False,False,False
+96373,"Therapeutic, prophylactic, or diagnostic injection (specify substance or drug); intra-arterial",2.54,XXX,,False,False,False,False,False
+96374,"Therapeutic, prophylactic, or diagnostic injection (specify substance or drug); intravenous push, single or initial substance/drug",7.78,XXX,,False,False,False,False,False
+96375,"Therapeutic, prophylactic, or diagnostic injection (specify substance or drug); each additional sequential intravenous push of a new substance/drug (List sepa- rately in addition to code for primary procedure)",4.73,ZZZ,,False,False,False,False,False
+96376,"Therapeutic, prophylactic, or diagnostic injection (specify substance or drug); each additional sequential intravenous push of the same substance/drug provided in a facility (List separately in addition to code for primary procedure)",2.03,ZZZ,,False,False,False,False,False
+96377,Application of on-body injector (includes cannula insertion) for timed subcutane- ous injection,3.97,XXX,,False,False,False,False,False
+96379,"Unlisted therapeutic, prophylactic, or diagnostic intravenous or intra-arterial injection or infusion",,XXX,,False,False,False,False,True
+96401,"Chemotherapy administration, subcutaneous or intramuscular; non-hormonal anti-neoplastic",5.58,XXX,,False,False,False,False,False
+96402,"Chemotherapy administration, subcutaneous or intramuscular; hormonal anti-neoplastic",3.04,XXX,,False,False,False,False,False
+96405,"Chemotherapy administration; intralesional, up to and including 7 lesions",10.65,000,,False,False,False,False,False
+96406,"Chemotherapy administration; intralesional, more than 7 lesions",12.68,000,,False,False,False,False,False
+96409,"Chemotherapy administration; intravenous, push technique, single or initial sub- stance/drug",10.32,XXX,,False,False,False,False,False
+96411,"Chemotherapy administration; intravenous, push technique, each additional sub- stance/drug (List separately in addition to code for primary procedure)",5.92,ZZZ,,False,False,False,False,False
+96413,"Chemotherapy administration, intravenous infusion technique; up to 1 hour, single or initial substance/drug",14.88,XXX,,False,False,False,False,False
+96415,"Chemotherapy administration, intravenous infusion technique; each additional hour (List separately in addition to code for primary procedure)",3.38,ZZZ,,False,False,False,False,False
+96416,"Chemotherapy administration, intravenous infusion technique; initiation of pro- longed chemotherapy infusion (more than 8 hours), requiring use of a portable or implantable pump",15.90,XXX,,False,False,False,False,False
+96417,"Chemotherapy administration, intravenous infusion technique; each additional sequential infusion (different substance/drug), up to 1 hour (List separately in addition to code for primary procedure)",7.10,ZZZ,,False,False,False,False,False
+96420,"Chemotherapy administration, intra-arterial; push technique",11.33,XXX,,False,False,False,False,False
+96422,"Chemotherapy administration, intra-arterial; infusion technique, up to 1 hour",16.74,XXX,,False,False,False,False,False
+96423,"Chemotherapy administration, intra-arterial; infusion technique, each additional hour (List separately in addition to code for primary procedure)",6.76,ZZZ,,False,False,False,False,False
+96425,"Chemotherapy administration, intra-arterial; infusion technique, initiation of pro- longed infusion (more than 8 hours), requiring the use of a portable or implantable pump",20.12,XXX,,False,False,False,False,False
+96440,"Chemotherapy administration into pleural cavity, requiring and including thora- centesis",29.59,000,,False,False,False,False,False
+96446,Chemotherapy administration into the peritoneal cavity via indwelling port or cath- eter,21.98,XXX,,False,False,False,False,False
+96450,"Chemotherapy administration, into CNS (eg, intrathecal), requiring and including spinal puncture",26.13,000,,False,False,False,False,False
+96521,Refilling and maintenance of portable pump,13.02,XXX,,False,False,False,False,False
+96522,"Refilling and maintenance of implantable pump or reservoir for drug delivery, sys- temic (eg, intravenous, intra-arterial)",9.47,XXX,,False,False,False,False,False
+96523,Irrigation of implanted venous access device for drug delivery systems,2.37,XXX,,False,False,False,False,False
+96542,"Chemotherapy injection, subarachnoid or intraventricular via subcutaneous reser- voir, single or multiple agents",18.60,XXX,,False,False,False,False,False
+96549,Unlisted chemotherapy procedure,,XXX,,False,False,False,False,True
+96567,"Photodynamic therapy by external application of light to destroy premalignant lesions of the skin and adjacent mucosa with application and illumination/activa- tion of photosensitive drug(s), per day",52.42,XXX,,False,False,False,False,False
+96570,Photodynamic therapy by endoscopic application of light to ablate abnormal tis- sue via activation of photosensitive drug(s); first 30 minutes (List separately in addition to code for endoscopy or bronchoscopy procedures of lung and gastroin- testinal tract),26.21,ZZZ,,False,False,False,False,False
+96571,Photodynamic therapy by endoscopic application of light to ablate abnormal tis- sue via activation of photosensitive drug(s); each additional 15 minutes (List sepa- rately in addition to code for endoscopy or bronchoscopy procedures of lung and gastrointestinal tract),13.11,ZZZ,,False,False,False,False,False
+96573,"Photodynamic therapy by external application of light to destroy premalignant lesions of the skin and adjacent mucosa with application and illumination/activa- tion of photosensitizing drug(s) provided by a physician or other qualified health care professional, per day",36.73,000,,False,False,False,False,False
+96574,"Debridement of premalignant hyperkeratotic lesion(s) (ie, targeted curettage, abrasion) followed with photodynamic therapy by external application of light to destroy premalignant lesions of the skin and adjacent mucosa with application and illumination/activation of photosensitizing drug(s) provided by a physician or other qualified health care professional, per day",47.34,000,,False,False,False,False,False
+96900,Actinotherapy (ultraviolet light),3.21,XXX,,False,False,False,False,False
+96902,"Microscopic examination of hairs plucked or clipped by the examiner (excluding hair collected by the patient) to determine telogen and anagen counts, or struc- tural hair shaft abnormality",3.89,XXX,,False,False,False,False,False
+96904,"Whole body integumentary photography, for monitoring of high risk patients with dysplastic nevus syndrome or a history of dysplastic nevi, or patients with a per- sonal or familial history of melanoma",15.22,XXX,,False,False,False,False,False
+96910,Photochemotherapy; tar and ultraviolet B (Goeckerman treatment) or petrolatum and ultraviolet B,3.72,XXX,,False,True,False,False,False
+96912,Photochemotherapy; psoralens and ultraviolet A (PUVA),4.31,XXX,,False,False,False,False,False
+96913,Photochemotherapy (Goeckerman and/or PUVA) for severe photoresponsive der- matoses requiring at least 4-8 hours of care under direct supervision of the physi- cian (includes application of medication and dressings),10.29,XXX,,False,False,False,False,False
+96920,Laser treatment for inflammatory skin disease (psoriasis); total area less than 250 sq cm,42.28,000,,False,False,False,False,False
+96921,Laser treatment for inflammatory skin disease (psoriasis); 250 sq cm to 500 sq cm,63.41,000,,False,False,False,False,False
+96922,Laser treatment for inflammatory skin disease (psoriasis); over 500 sq cm,46.50,000,,False,False,False,False,False
+96931,"Reflectance confocal microscopy (RCM) for cellular and sub-cellular imaging of skin; image acquisition and interpretation and report, first lesion",32.70,XXX,,False,False,False,False,False
+96932,"Reflectance confocal microscopy (RCM) for cellular and sub-cellular imaging of skin; image acquisition only, first lesion",23.74,XXX,,False,False,False,False,False
+96933,"Reflectance confocal microscopy (RCM) for cellular and sub-cellular imaging of skin; interpretation and report only, first lesion",8.30,XXX,,False,False,False,False,False
+96934,"Reflectance confocal microscopy (RCM) for cellular and sub-cellular imaging of skin; image acquisition and interpretation and report, each additional lesion (List separately in addition to code for primary procedure)",14.37,ZZZ,,False,False,False,False,False
+96935,"Reflectance confocal microscopy (RCM) for cellular and sub-cellular imaging of skin; image acquisition only, each additional lesion (List separately in addition to",6.77,ZZZ,,False,False,False,False,False
+96936,"Reflectance confocal microscopy (RCM) for cellular and sub-cellular imaging of skin; interpretation and report only, each additional lesion (List separately in addi- tion to code for primary procedure)",7.94,ZZZ,,False,False,False,False,False
+96999,Unlisted special dermatological service or procedure,,XXX,,False,False,False,False,True
+97127,"Therapeutic interventions that focus on cognitive function (eg, attention, memory, reasoning, executive function, problem solving, and/or pragmatic functioning) and compensatory strategies to manage the performance of an activity (eg, managing time or schedules, initiating, organizing and sequencing tasks), direct (one-on-one) patient contact",Refer to Rules,XXX,,False,False,False,False,False
+,"For codes 97139-97530, please see the Physical Medicine section.",,,,False,False,False,False,False
+97533,"Sensory integrative techniques to enhance sensory processing and promote adaptive responses to environmental demands, direct (one-on-one) patient con- tact, each 15 minutes",Refer to Rules,XXX,,False,False,False,False,False
+,"For codes 97535-97546, please see the Physical Medicine section.",,,,False,False,False,False,False
+97597,"Debridement (eg, high pressure waterjet with/without suction, sharp selective debridement with scissors, scalpel and forceps), open wound, (eg, fibrin, devital- ized epidermis and/or dermis, exudate, debris, biofilm), including topical applica- tion(s), wound assessment, use of a whirlpool, when performed and instruction(s) for ongoing care, per session, total wound(s) surface area; first 20 sq cm or less",2.71,000,,False,False,False,False,False
+97598,"Debridement (eg, high pressure waterjet with/without suction, sharp selective debridement with scissors, scalpel and forceps), open wound, (eg, fibrin, devital- ized epidermis and/or dermis, exudate, debris, biofilm), including topical applica- tion(s), wound assessment, use of a whirlpool, when performed and instruction(s) for ongoing care, per session, total wound(s) surface area; each additional 20 sq cm, or part thereof (List separately in addition to code for primary procedure)",3.21,ZZZ,,False,False,False,False,False
+97602,"Removal of devitalized tissue from wound(s), non-selective debridement, without anesthesia (eg, wet-to-moist dressings, enzymatic, abrasion, larval therapy), including topical application(s), wound assessment, and instruction(s) for ongoing care, per session",2.07,XXX,,False,False,False,False,False
+97605,"Negative pressure wound therapy (eg, vacuum assisted drainage collection), uti- lizing durable medical equipment (DME), including topical application(s), wound assessment, and instruction(s) for ongoing care, per session; total wound(s) sur- face area less than or equal to 50 square centimeters",4.40,XXX,,False,False,False,False,False
+97606,"Negative pressure wound therapy (eg, vacuum assisted drainage collection), uti- lizing durable medical equipment (DME), including topical application(s), wound assessment, and instruction(s) for ongoing care, per session; total wound(s) sur- face area greater than 50 square centimeters",7.61,XXX,,False,False,False,False,False
+97607,"Negative pressure wound therapy, (eg, vacuum assisted drainage collection), uti- lizing disposable, non-durable medical equipment including provision of exudate management collection system, topical application(s), wound assessment, and instructions for ongoing care, per session; total wound(s) surface area less than or equal to 50 square centimeters",9.92,XXX,,False,False,False,False,False
+97608,"Negative pressure wound therapy, (eg, vacuum assisted drainage collection), uti- lizing disposable, non-durable medical equipment including provision of exudate management collection system, topical application(s), wound assessment, and instructions for ongoing care, per session; total wound(s) surface area greater than 50 square centimeters",11.01,XXX,,False,False,False,False,False
+97610,"Low frequency, non-contact, non-thermal ultrasound, including topical applica- tion(s), when performed, wound assessment, and instruction(s) for ongoing care, per day",25.93,XXX,,False,False,False,False,False
+,"For codes 97750-∞97800, please see the Physical Medicine section.",,,,False,False,True,False,False
+97802,"Medical nutrition therapy; initial assessment and intervention, individual, face-to-face with the patient, each 15 minutes",1.86,XXX,,False,False,False,False,False
+97803,"Medical nutrition therapy; re-assessment and intervention, individual, face-to-face with the patient, each 15 minutes",1.86,XXX,,False,False,False,False,False
+97804,"Medical nutrition therapy; group (2 or more individual(s)), each 30 minutes",0.68,XXX,,False,False,False,False,False
+97810,"Acupuncture, 1 or more needles; without electrical stimulation, initial 15 minutes of personal one-on-one contact with the patient",3.55,XXX,,False,False,False,False,False
+,,"1 or more needles; without electrical stimulation, each additional 15 one-on-one contact with the patient, with re-insertion of nee- in addition to code for primary procedure) 3.04",ZZZ,,False,False,False,False,False
+,,"Acupuncture, 1 or more needles; with electrical stimulation, initial 15 minutes of personal one-on-one contact with the patient 3.89",XXX,,False,False,False,False,False
+,,"1 or more needles; with electrical stimulation, each additional 15 personal one-on-one contact with the patient, with re-insertion of nee- separately in addition to code for primary procedure) 3.38",ZZZ,,False,False,False,False,False
+,,Osteopathic manipulative treatment (OMT); 1-2 body regions involved 4.57,000,,False,False,False,False,False
+,,Osteopathic manipulative treatment (OMT); 3-4 body regions involved 6.00,000,,False,False,False,False,False
+,,Osteopathic manipulative treatment (OMT); 5-6 body regions involved 7.10,000,,False,False,False,False,False
+,,treatment (OMT); 7-8 body regions involved 7.78,000,,False,False,False,False,False
+,,treatment (OMT); 9-10 body regions involved 8.12,000,,False,False,False,False,False
+,,"treatment (CMT); spinal, 1-2 regions NC",000,,False,False,False,False,False
+,,"treatment (CMT); spinal, 3-4 regions NC",000,,False,False,False,False,False
+,,"manipulative treatment (CMT); spinal, 5 regions NC",000,,False,False,False,False,False
+,,"Chiropractic manipulative treatment (CMT); extraspinal, 1 or more regions NC",XXX,,False,False,False,False,False
+,,"Education and training for patient self-management by a qualified, nonphysician health care professional using a standardized curriculum, face-to-face with the patient (could include caregiver/family) each 30 minutes; individual patient 3.38",XXX,,False,False,False,False,False
+,,"Education and training for patient self-management by a qualified, nonphysician health care professional using a standardized curriculum, face-to-face with the patient (could include caregiver/family) each 30 minutes; 2-4 patients 4.06",XXX,,False,False,False,False,False
+,,"Education and training for patient self-management by a qualified, nonphysician health care professional using a standardized curriculum, face-to-face with the patient (could include caregiver/family) each 30 minutes; 5-8 patients 4.40",XXX,,False,False,False,False,False
+,,"Telephone assessment and management service provided by a qualified nonphy- sician health care professional to an established patient, parent, or guardian not originating from a related assessment and management service provided within the previous 7 days nor leading to an assessment and management service or pro- cedure within the next 24 hours or soonest available appointment; 5-10 minutes of medical discussion 5.07",XXX,,False,False,False,False,False
+,,"Telephone assessment and management service provided by a qualified nonphy- sician health care professional to an established patient, parent, or guardian not originating from a related assessment and management service provided within the previous 7 days nor leading to an assessment and management service or pro- cedure within the next 24 hours or soonest available appointment; 11-20 minutes 8.62",XXX,,False,False,False,False,False
+,,"of medical discussion Telephone assessment and management service provided by a qualified nonphy- sician health care professional to an established patient, parent, or guardian not originating from a related assessment and management service provided within the previous 7 days nor leading to an assessment and management service or pro- cedure within the next 24 hours or soonest available appointment; 21-30 minutes 10.99",XXX,,False,False,False,False,False
+,,"Online assessment and management service provided by a qualified nonphysician health care professional to an established patient or guardian, not originating from a related assessment and management service provided within the previous 7 days, using the Internet or similar electronic communications network 4.23",XXX,,False,False,False,False,False
+,,Handling and/or conveyance of specimen for transfer from the office to a labora- tory NC,XXX,,False,False,False,False,False
+,,Handling and/or conveyance of specimen for transfer from the patient in other than an office to a laboratory (distance may be indicated) NC,XXX,,False,False,False,False,False
+,,"Handling, conveyance, and/or any other service in connection with the implemen- tation of an order involving devices (eg, designing, fitting, packaging, handling, delivery or mailing) when devices such as orthotics, protectives, prosthetics are fabricated by an outside laboratory or shop but which items have been designed, and are to be fitted and adjusted by the attending physician or other qualified NC",XXX,,False,False,False,False,False
+99024,"Postoperative follow-up visit, normally included in the surgical package, to indi- cate that an evaluation and management service was performed during a postop- erative period for a reason(s) related to the original procedure",,XXX,,False,False,False,False,True
+99026,"Hospital mandated on call service; in-hospital, each hour",,XXX,,False,False,False,False,True
+99027,"Hospital mandated on call service; out-of-hospital, each hour",,XXX,,False,False,False,False,True
+99050,"Services provided in the office at times other than regularly scheduled office hours, or days when the office is normally closed (eg, holidays, Saturday or Sun- day), in addition to basic service",3.55,XXX,,False,False,False,False,False
+99051,"Service(s) provided in the office during regularly scheduled evening, weekend, or holiday office hours, in addition to basic service",,XXX,,False,False,False,False,True
+99053,"Service(s) provided between 10:00 PMand 8:00 AMat 24-hour facility, in addition to basic service",,XXX,,False,False,False,False,True
+99056,"Service(s) typically provided in the office, provided out of the office at request of patient, in addition to basic service",3.38,XXX,,False,False,False,False,False
+99058,"Service(s) provided on an emergency basis in the office, which disrupts other scheduled office services, in addition to basic service",4.23,XXX,,False,False,False,False,False
+99060,"Service(s) provided on an emergency basis, out of the office, which disrupts other scheduled office services, in addition to basic service",4.73,XXX,,False,False,False,False,False
+99070,"Supplies and materials (except spectacles), provided by the physician or other qualified health care professional over and above those usually included with the office visit or other services rendered (list drugs, trays, supplies, or materials pro- vided)",Refer to Rules,XXX,,False,False,False,False,False
+99071,"Educational supplies, such as books, tapes, and pamphlets, for the patient's edu- cation at cost to physician or other qualified health care professional",NC,XXX,,False,False,False,False,False
+99075,Medical testimony,Refer to Rules,XXX,,False,False,False,False,False
+99078,"Physician or other qualified health care professional qualified by education, train- ing, licensure/regulation (when applicable) educational services rendered to patients in a group setting (eg, prenatal, obesity, or diabetic instructions)",NC,XXX,,False,False,False,False,False
+99080,"Special reports such as insurance forms, more than the information conveyed in the usual medical communications or standard reporting form",NC,XXX,,False,False,False,False,False
+99082,"Unusual travel (eg, transportation and escort of patient)",NC,XXX,,False,False,False,False,False
+99090,"Analysis of clinical data stored in computers (eg, ECGs, blood pressures, hemato- logic data)",NC,XXX,,False,False,False,False,False
+99091,"Collection and interpretation of physiologic data (eg, ECG, blood pressure, glucose monitoring) digitally stored and/or transmitted by the patient and/or caregiver to the physician or other qualified health care professional, qualified by education, training, licensure/regulation (when applicable) requiring a minimum of 30 minutes of time",NC,XXX,,False,False,False,False,False
+99151,"Moderate sedation services provided by the same physician or other qualified health care professional performing the diagnostic or therapeutic service that the sedation supports, requiring the presence of an independent trained observer to assist in the monitoring of the patient's level of consciousness and physiological status; initial 15 minutes of intraservice time, patient younger than 5 years of age",15.05,XXX,,False,False,False,False,False
+99152,"Moderate sedation services provided by the same physician or other qualified health care professional performing the diagnostic or therapeutic service that the sedation supports, requiring the presence of an independent trained observer to assist in the monitoring of the patient's level of consciousness and physiological status; initial 15 minutes of intraservice time, patient age 5 years or older",9.99,XXX,,False,False,False,False,False
+99153,"Moderate sedation services provided by the same physician or other qualified health care professional performing the diagnostic or therapeutic service that the sedation supports, requiring the presence of an independent trained observer to assist in the monitoring of the patient's level of consciousness and physiological status; each additional 15 minutes intraservice time (List separately in addition to code for primary service)",2.12,ZZZ,,False,False,False,False,False
+ 99155,"Moderate sedation services provided by a physician or other qualified health care professional other than the physician or other qualified health care professional performing the diagnostic or therapeutic service that the sedation supports; initial 15 minutes of intraservice time, patient younger than 5 years of age",19.61,XXX,,False,False,False,False,False
+ 99156,"Moderate sedation services provided by a physician or other qualified health care professional other than the physician or other qualified health care professional performing the diagnostic or therapeutic service that the sedation supports; initial 15 minutes of intraservice time, patient age 5 years or older",15.39,XXX,,False,False,False,False,False
+ + 99157,Moderate sedation services provided by a physician or other qualified health care professional other than the physician or other qualified health care professional performing the diagnostic or therapeutic service that the sedation supports; each additional 15 minutes intraservice time (List separately in addition to code for pri- mary service),11.74,ZZZ,,False,False,False,False,False
+ 99170,"Anogenital examination, magnified, in childhood for suspected trauma, including image recording when performed",25.70,000,,False,False,False,False,False
+99172,"Visual function screening, automated or semi-automated bilateral quantitative determination of visual acuity, ocular alignment, color vision by pseudoisochro- matic plates, and field of vision (may include all or some screening of the determi- nation[s] for contrast sensitivity, vision under glare)",4.57,XXX,20/80,False,False,False,False,False
+99173,"Screening test of visual acuity, quantitative, bilateral",2.28,XXX,,False,False,False,False,False
+ 99174,"Instrument-based ocular screening (eg, photoscreening, automated-refraction), bilateral; with remote analysis and report",2.54,XXX,,False,False,False,False,False
+99175,Ipecac or similar administration for individual emesis and continued observation until stomach adequately emptied of poison,6.43,XXX,,False,False,False,False,False
+ 99177,"Instrument-based ocular screening (eg, photoscreening, automated-refraction), bilateral; with on-site analysis",0.96,XXX,,False,False,False,False,False
+ 99183,"Physician or other qualified health care professional attendance and supervision of hyperbaric oxygen therapy, per session",37.20,XXX,,False,False,False,False,False
+ 99184,"Initiation of selective head or total body hypothermia in the critically ill neonate, includes appropriate patient selection by review of clinical, imaging and labora- tory data, confirmation of esophageal temperature probe location, evaluation of amplitude EEG, supervision of controlled hypothermia, and assessment of patient tolerance of cooling",45.23,XXX,,False,False,False,False,False
+ 99188,Application of topical fluoride varnish by a physician or other qualified health care professional,2.39,XXX,,False,False,False,False,False
+99190,Assembly and operation of pump with oxygenator or heat exchanger (with or with- out ECG and/or pressure monitoring); each hour,NC,XXX,0/100,False,False,False,False,False
+99191,Assembly and operation of pump with oxygenator or heat exchanger (with or with- out ECG and/or pressure monitoring); 45 minutes,NC,XXX,0/100,False,False,False,False,False
+99192,Assembly and operation of pump with oxygenator or heat exchanger (with or with- out ECG and/or pressure monitoring); 30 minutes,NC,XXX,0/100,False,False,False,False,False
+99195,"Phlebotomy, therapeutic (separate procedure)",6.76,XXX,,False,False,False,False,False
+99199,"Unlisted special service, procedure or report",,XXX,,False,False,False,False,True
+99500,"Home visit for prenatal monitoring and assessment to include fetal heart rate, non-stress test, uterine monitoring, and gestational diabetes monitoring",NC,XXX,,False,False,False,False,False
+99501,Home visit for postnatal assessment and follow-up care,NC,XXX,,False,False,False,False,False
+99502,Home visit for newborn care and assessment,NC,XXX,,False,False,False,False,False
+99503,"Home visit for respiratory therapy care (eg, bronchodilator, oxygen therapy, respi- ratory assessment, apnea evaluation)",NC,XXX,,False,False,False,False,False
+99504,Home visit for mechanical ventilation care,NC,XXX,,False,False,False,False,False
+99505,Home visit for stoma care and maintenance including colostomy and cystostomy,NC,XXX,,False,False,False,False,False
+99506,Home visit for intramuscular injections,NC,XXX,,False,False,False,False,False
+99507,"Home visit for care and maintenance of catheter(s) (eg, urinary, drainage, and enteral)",NC,XXX,,False,False,False,False,False
+99509,Home visit for assistance with activities of daily living and personal care,NC,XXX,,False,False,False,False,False
+99510,NC,,,,False,False,False,False,False
+99511,NC,,,,False,False,False,False,False
+99512,NC,,,,False,False,False,False,False
+99600,NC,,,,False,False,False,False,False
+99601,NC,,,,False,False,False,False,False
+99602,NC,,,,False,False,False,False,False
+99605,BR,,,,False,False,False,False,False
+99606,BR,,,,False,False,False,False,False
+99607,BR,,,,False,False,False,False,False
+,,,,,False,False,False,False,False
+,,,,,False,False,False,False,False
+,,,,,False,False,False,False,False
+,,,,,False,False,False,False,False
+,,,,,False,False,False,False,False
+,,,,,False,False,False,False,False

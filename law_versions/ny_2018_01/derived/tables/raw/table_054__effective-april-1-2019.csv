@@ -1,0 +1,19 @@
+Code,Description Unit,Basic
+01960,Anesthesia for vaginal delivery only 5.00,
+01961,Anesthesia for cesarean delivery only,7.00
+01962,Anesthesia for urgent hysterectomy following delivery,8.00
+01963,Anesthesia for cesarean hysterectomy without any labor analgesia/anesthesia care 10.00,
+01965,Anesthesia for incomplete or missed abortion procedures,4.00
+01966,Anesthesia for induced abortion procedures,4.00
+01967,Neuraxial labor analgesia/anesthesia for planned vaginal delivery (this includes any repeat subarachnoid needle placement and drug injection and/or any necessary replacement of an epidural catheter during labor),5.00
++ 01968,Anesthesia for cesarean delivery following neuraxial labor analgesia/anesthesia (List separately in addi- tion to code for primary procedure performed),3.00
++ 01969,Anesthesia for cesarean hysterectomy following neuraxial labor analgesia/anesthesia (List separately in addition to code for primary procedure performed),5.00
+01990,Physiological support for harvesting of organ(s) from brain-dead patient,7.00
+01991,Anesthesia for diagnostic or therapeutic nerve blocks and injections (when block or injection is performed by a different physician or other qualified health care professional); other than the prone position,3.00
+01992,Anesthesia for diagnostic or therapeutic nerve blocks and injections (when block or injection is performed by a different physician or other qualified health care professional); prone position,5.00
+01996,Daily hospital management of epidural or subarachnoid continuous drug administration,3.00
+01999,Unlisted anesthesia procedure(s),0.00
++ 99100,"Anesthesia for patient of extreme age, younger than 1 year and older than 70 (List separately in addition to code for primary anesthesia procedure)",1.00
++ 99116,Anesthesia complicated by utilization of total body hypothermia (List separately in addition to code for pri- mary anesthesia procedure),5.00
++ 99135,Anesthesia complicated by utilization of controlled hypotension (List separately in addition to code for pri- mary anesthesia procedure),5.00
++ 99140,Anesthesia complicated by emergency conditions (specify) (List separately in addition to code for primary,2.00

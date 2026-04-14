@@ -1,0 +1,29 @@
+Code,Description,Relative Value,FUD,schedule
+97010,Application of a modality to 1 or more areas; hot or cold packs,0.55,XXX,chiropractic
+97012,"Application of a modality to 1 or more areas; traction, mechanical",2.71,XXX,chiropractic
+97014,Application of a modality to 1 or more areas; electrical stimulation (unattended),2.66,XXX,chiropractic
+97024,"Application of a modality to 1 or more areas; diathermy (eg, microwave)",2.71,XXX,chiropractic
+97026,Application of a modality to 1 or more areas; infrared,2.54,XXX,chiropractic
+97028,Application of a modality to 1 or more areas; ultraviolet,2.54,XXX,chiropractic
+97032,"Application of a modality to 1 or more areas; electrical stimulation (manual), each 15 minutes",2.45,XXX,chiropractic
+97033,"Application of a modality to 1 or more areas; iontophoresis, each 15 minutes",3.55,XXX,chiropractic
+97034,"Application of a modality to 1 or more areas; contrast baths, each 15 minutes",2.37,XXX,chiropractic
+97035,"Application of a modality to 1 or more areas; ultrasound, each 15 minutes",2.41,XXX,chiropractic
+97036,"Application of a modality to 1 or more areas; Hubbard tank, each 15 minutes",3.89,XXX,chiropractic
+97039,Unlisted modality (specify type and time if constant attendance),BR,XXX,chiropractic
+97110,"Therapeutic procedure, 1 or more areas, each 15 minutes; therapeutic exercises to develop strength and endurance, range of motion and flexibility",3.97,XXX,chiropractic
+97112,"Therapeutic procedure, 1 or more areas, each 15 minutes; neuromuscular reeducation of movement, balance, coordination, kinesthetic sense, posture, and/or proprioception for sitting and/or standing activities",3.89,XXX,chiropractic
+97113,"Therapeutic procedure, 1 or more areas, each 15 minutes, aquatic therapy with therapeutic exercises",4.40,XXX,chiropractic
+97116,"Therapeutic procedure, 1 or more areas, each 15 minutes; gait training (includes stair climbing)",3.51,XXX,chiropractic
+97124,"Therapeutic procedure, 1 or more areas, each 15 minutes; massage, including effleurage, petrissage and/or tapotement (stroking, compression, percussion)",2.62,XXX,chiropractic
+97139,Unlisted therapeutic procedure (specify),2.89,XXX,chiropractic
+97140,"Manual therapy techniques (eg, mobilization/ manipulation, manual lymphatic drainage, manual traction), 1 or more regions, each 15 minutes",4.23,XXX,chiropractic
+97530,"Therapeutic activities, direct (one-on-one) patient contact (use of dynamic activities to improve functional performance), each 15 minutes",2.87,XXX,chiropractic
+97545,Work hardening/conditioning; initial 4 hours,28.00,XXX,chiropractic
+97546,Work hardening/conditioning; each additional hour (List separately in addition to code for primary procedure),3.30,ZZZ,chiropractic
+97750,"Physical performance test or measurement (eg, musculoskeletal, functional capacity), with written report, each 15 minutes",0.00,XXX,chiropractic
+97763,"Orthotic(s)/prosthetic(s) management and/or training, upper extremity(ies), lower extremity(ies), and/or trunk, subsequent orthotic(s)/prosthetic(s) encounter, each 15 minutes",3.55,XXX,chiropractic
+98940,"Chiropractic manipulative treatment (CMT); spinal, 1-2 regions",4.57,000,chiropractic
+98941,"Chiropractic manipulative treatment (CMT); spinal, 3-4 regions",6.00,000,chiropractic
+98942,"Chiropractic manipulative treatment (CMT); spinal, 5 regions",7.10,000,chiropractic
+98943,"Chiropractic manipulative treatment (CMT); extraspinal, 1 or more regions",NC,XXX,chiropractic

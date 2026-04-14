@@ -1,0 +1,73 @@
+,section,region,conv_factor,schedule
+0,E/M,Region I,6.37,chiropractic
+1,E/M,Region II,6.37,chiropractic
+2,E/M,Region III,7.29,chiropractic
+3,E/M,Region IV,7.92,chiropractic
+4,Medicine,Region I,6.09,chiropractic
+5,Medicine,Region II,6.09,chiropractic
+6,Medicine,Region III,6.97,chiropractic
+7,Medicine,Region IV,7.57,chiropractic
+8,Physicalmedicine,Region I,7.69,chiropractic
+9,Physicalmedicine,Region II,7.69,chiropractic
+10,Physicalmedicine,Region III,8.79,chiropractic
+11,Physicalmedicine,Region IV,9.55,chiropractic
+12,Radiology,Region I,32.01,chiropractic
+13,Radiology,Region II,32.01,chiropractic
+14,Radiology,Region III,36.63,chiropractic
+15,Radiology,Region IV,39.82,chiropractic
+16,E/M,Region I,12.11,medical
+17,Medicine,Region I,8.91,medical
+18,Physicalmedicine,Region I,8.43,medical
+19,Physical Therapists/ Occupational Therapists (self-employed),Region I,7.69,medical
+20,Anesthesia,Region I,23.88,medical
+21,Surgery,Region I,202.53,medical
+22,Radiology,Region I,46.77,medical
+23,Pathology and Laboratory,Region I,1.06,medical
+24,E/M,Region II,12.11,medical
+25,Medicine,Region II,8.91,medical
+26,Physicalmedicine,Region II,8.43,medical
+27,Physical Therapists/ Occupational Therapists (self-employed),Region II,7.69,medical
+28,Anesthesia,Region II,23.88,medical
+29,Surgery,Region II,202.53,medical
+30,Radiology,Region II,46.77,medical
+31,Pathology and Laboratory,Region II,1.06,medical
+32,E/M,Region III,13.85,medical
+33,Medicine,Region III,10.19,medical
+34,Physicalmedicine,Region III,9.65,medical
+35,Physical Therapists/ Occupational Therapists (self-employed),Region III,8.79,medical
+36,Anesthesia,Region III,27.34,medical
+37,Surgery,Region III,231.78,medical
+38,Radiology,Region III,53.53,medical
+39,Pathology and Laboratory,Region III,1.21,medical
+40,E/M,Region IV,15.06,medical
+41,Medicine,Region IV,11.07,medical
+42,Physicalmedicine,Region IV,10.48,medical
+43,Physical Therapists/ Occupational Therapists (self-employed),Region IV,9.55,medical
+44,Anesthesia,Region IV,29.71,medical
+45,Surgery,Region IV,251.94,medical
+46,Radiology,Region IV,58.19,medical
+47,Pathology and Laboratory,Region IV,1.31,medical
+48,E/M,Region I,12.11,podiatry
+49,E/M,Region II,12.11,podiatry
+50,E/M,Region III,13.85,podiatry
+51,E/M,Region IV,15.06,podiatry
+52,Medicine,Region I,8.91,podiatry
+53,Medicine,Region II,8.91,podiatry
+54,Medicine,Region III,10.19,podiatry
+55,Medicine,Region IV,11.07,podiatry
+56,Surgery,Region I,202.53,podiatry
+57,Surgery,Region II,202.53,podiatry
+58,Surgery,Region III,231.78,podiatry
+59,Surgery,Region IV,251.94,podiatry
+60,Radiology,Region I,46.77,podiatry
+61,Radiology,Region II,46.77,podiatry
+62,Radiology,Region III,53.53,podiatry
+63,Radiology,Region IV,58.19,podiatry
+64,Pathology,Region I,1.06,podiatry
+65,Pathology,Region II,1.06,podiatry
+66,Pathology,Region III,1.21,podiatry
+67,Pathology,Region IV,1.31,podiatry
+68,Appliances,Region I,17.18,podiatry
+69,Appliances,Region II,17.18,podiatry
+70,Appliances,Region III,17.18,podiatry
+71,Appliances,Region IV,17.18,podiatry

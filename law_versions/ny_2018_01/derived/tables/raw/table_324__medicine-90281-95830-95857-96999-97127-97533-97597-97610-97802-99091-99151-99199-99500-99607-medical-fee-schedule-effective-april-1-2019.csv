@@ -1,0 +1,22 @@
+Code,Description,Relative Value,FUD,PC/TC Split
+ 93294,"Interrogation device evaluation(s) (remote), up to 90 days; single, dual, or multiple lead pacemaker system with interim analysis, review(s) and report(s) by a physi- cian or other qualified health care professional",12.18,XXX,
+ 93295,"Interrogation device evaluation(s) (remote), up to 90 days; single, dual, or multiple lead implantable defibrillator system with interim analysis, review(s) and report(s) by a physician or other qualified health care professional",19.11,XXX,
+ 93296,"Interrogation device evaluation(s) (remote), up to 90 days; single, dual, or multiple lead pacemaker system or implantable defibrillator system, remote data acquisi- tion(s), receipt of transmissions and technician review, technical support and dis- tribution of results",12.01,XXX,
+ 93297,"Interrogation device evaluation(s), (remote) up to 30 days; implantable cardiovas- cular monitor system, including analysis of 1 or more recorded physiologic cardio- vascular data elements from all internal and external sensors, analysis, review(s) and report(s) by a physician or other qualified health care professional",7.10,XXX,
+ 93298,"Interrogation device evaluation(s), (remote) up to 30 days; implantable loop recorder system, including analysis of recorded heart rhythm data, analysis, review(s) and report(s) by a physician or other qualified health care professional",9.64,XXX,
+93299,"Interrogation device evaluation(s), (remote) up to 30 days; implantable cardiovas- cular monitor system or implantable loop recorder system, remote data acquisi- tion(s), receipt of transmissions and technician review, technical support and distribution of results",BR,XXX,
+93303,Transthoracic echocardiography for congenital cardiac anomalies; complete,48.02,XXX,40/60
+93304,Transthoracic echocardiography for congenital cardiac anomalies; follow-up or limited study,26.80,XXX,40/60
+93306,"Echocardiography, transthoracic, real-time with image documentation (2D), includes M-mode recording, when performed, complete, with spectral Doppler echocardiography, and with color flow Doppler echocardiography",71.02,XXX,27/73
+93307,"Echocardiography, transthoracic, real-time with image documentation (2D), includes M-mode recording, when performed, complete, without spectral or color Doppler echocardiography",43.63,XXX,40/60
+93308,"Echocardiography, transthoracic, real-time with image documentation (2D), includes M-mode recording, when performed, follow-up or limited study",24.35,XXX,40/60
+93312,"Echocardiography, transesophageal, real-time with image documentation (2D) (with or without M-mode recording); including probe placement, image acquisi- tion, interpretation and report",62.57,XXX,45/55
+93313,"Echocardiography, transesophageal, real-time with image documentation (2D) (with or without M-mode recording); placement of transesophageal probe only",21.64,XXX,
+93314,"Echocardiography, transesophageal, real-time with image documentation (2D) (with or without M-mode recording); image acquisition, interpretation and report only",44.47,XXX,40/60
+93315,"Transesophageal echocardiography for congenital cardiac anomalies; including probe placement, image acquisition, interpretation and report",68.82,XXX,45/55
+93316,Transesophageal echocardiography for congenital cardiac anomalies; placement of transesophageal probe only,23.84,XXX,
+93317,"Transesophageal echocardiography for congenital cardiac anomalies; image acquisition, interpretation and report only",48.95,XXX,40/60
+93318,"Echocardiography, transesophageal (TEE) for monitoring purposes, including probe placement, real time 2-dimensional image acquisition and interpretation leading to ongoing (continuous) assessment of (dynamically changing) cardiac pumping function and to therapeutic measures on an immediate time basis",62.57,XXX,45/55
++ 93320,"Doppler echocardiography, pulsed wave and/or continuous wave with spectral display (List separately in addition to codes for echocardiographic imaging); com- plete",26.72,ZZZ,40/60
++ 93321,"Doppler echocardiography, pulsed wave and/or continuous wave with spectral display (List separately in addition to codes for echocardiographic imaging); fol- low-up or limited study (List separately in addition to codes for echocardiographic imaging)",16.03,ZZZ,40/60
++ 93325,Doppler echocardiography color flow velocity mapping (List separately in addition to codes for echocardiography),18.94,ZZZ,40/60

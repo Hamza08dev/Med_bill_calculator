@@ -1,0 +1,40 @@
+,Code,Description,Relative Value,FUD,PC/TC Split
+85597,Phospholipid neutralization; platelet,21.56,XXX,,0/100
+85598,Phospholipid neutralization; hexagonal phospholipid,25.88,,XXX,0/100
+85610,Prothrombin time;,8.63,,XXX,0/100
+85611,"Prothrombin time; substitution, plasma fractions, each",9.24,,XXX,0/100
+85612,Russell viper venom time (includes venom); undiluted,,17.25,XXX,0/100
+85613,Russell viper venom time (includes venom); diluted,,20.33,XXX,0/100
+85635,Reptilase test,,12.32,XXX,0/100
+85651,"Sedimentation rate, erythrocyte; non-automated",,7.70,XXX,0/100
+85652,"Sedimentation rate, erythrocyte; automated",7.70,,XXX,0/100
+85660,"Sickling of RBC, reduction",,8.63,XXX,0/100
+85670,Thrombin time; plasma,,11.71,XXX,0/100
+85675,Thrombin time; titer,,12.94,XXX,0/100
+85705,"Thromboplastin inhibition, tissue",,23.41,XXX,0/100
+85730,"Thromboplastin time, partial (PTT); plasma or whole blood",10.47,,XXX,0/100
+85732,"Thromboplastin time, partial (PTT); substitution, plasma fractions, each",12.32,,XXX,0/100
+85810,Viscosity,,14.17,XXX,0/100
+85999,Unlisted hematology and coagulation procedure,,BR,XXX,
+86000,"Agglutinins, febrile (eg, Brucella, Francisella, Murine typhus, Q fever, Rocky Mountain spotted fever, scrub typhus), each antigen",14.17,,XXX,0/100
+86001,"Allergen specific IgG quantitative or semiquantitative, each allergen",6.78,,XXX,0/100
+86003,"Allergen specific IgE; quantitative or semiquantitative, crude allergen extract, each",,6.78,XXX,0/100
+86005,"Allergen specific IgE; qualitative, multiallergen","screen (eg, disk, sponge, card) 30.81",,XXX,0/100
+86008,"Allergen specific IgE; quantitative or semiquantitative, recombinant or component, each",purified,20.04,XXX,0/100
+86021,Antibody identification; leukocyte antibodies,36.97,,XXX,0/100
+86022,Antibody identification; platelet antibodies,56.07,,XXX,0/100
+86023,Antibody identification; platelet associated immunoglobulin assay,,30.81,XXX,0/100
+86038,Antinuclear antibodies (ANA);,,21.56,XXX,0/100
+86039,Antinuclear antibodies (ANA); titer,21.56,,XXX,0/100
+86060,Antistreptolysin 0; titer,14.79,,XXX,0/100
+86063,Antistreptolysin 0; screen,,11.09,XXX,0/100
+86077,"Blood bank physician services; difficult cross match and/or evaluation of irregular antibody(s), interpretation and written report",38.81,,XXX,
+86078,"Blood bank physician services; investigation of transfusion reaction including sus- picion of transmissible disease, interpretation and written report",44.98,,XXX,
+86079,"Blood bank physician services; authorization for deviation from standard blood banking procedures (eg, use of outdated blood, transfusion of Rh incompatible units), with written report",27.72,,XXX,
+86140,C-reactive protein;,11.71,,XXX,0/100
+86141,C-reactive protein; high sensitivity (hsCRP),,14.79,XXX,0/100
+86146,"Beta 2 Glycoprotein I antibody, each",,43.13,XXX,0/100
+86147,"Cardiolipin (phospholipid) antibody, each Ig class",,43.13,XXX,0/100
+86148,Anti-phosphatidylserine (phospholipid) antibody,21.07,,XXX,0/100
+86152,"Cell enumeration using immunologic selection and identification in fluid specimen (eg, circulating tumor cells in blood);",,272.46,XXX,0/100
+86153,"Cell enumeration using immunologic selection and identification in fluid (eg, circulating tumor cells in blood); physician interpretation and report, when required",specimen,BR,XXX,

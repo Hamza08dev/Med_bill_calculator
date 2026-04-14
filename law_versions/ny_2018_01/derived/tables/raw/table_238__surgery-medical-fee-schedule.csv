@@ -1,0 +1,43 @@
+Code,,Description,Relative Value FUD
+68811,"Probing of nasolacrimal duct, with or without irrigation; requiring general anesthe- sia",1.03,010
+68815,"Probing of nasolacrimal duct, with or without irrigation; with insertion of tube or stent",1.40,010
+68816,"Probing of nasolacrimal duct, with or without irrigation; with transluminal balloon catheter dilation",4.21,010
+68840,"Probing of lacrimal canaliculi, with or without irrigation",0.37,010
+68850,Injection of contrast medium for dacryocystography,0.47,000
+68899,"Unlisted procedure, lacrimal system",BR,YYY
+69000,"Drainage external ear, abscess or hematoma; simple",0.52,010
+69005,"Drainage external ear, abscess or hematoma; complicated",1.69,010
+69020,"Drainage external auditory canal, abscess",0.56,010
+69090,Ear piercing,0.23,XXX
+69100,Biopsy external ear,0.70,000
+69105,Biopsy external auditory canal,0.70,000
+69110,"Excision external ear; partial, simple repair",2.81,090
+69120,Excision external ear; complete amputation,6.56,090
+69140,"Excision exostosis(es), external auditory canal",11.24,090
+69145,"Excision soft tissue lesion, external auditory canal",1.87,090
+69150,Radical excision external auditory canal lesion; without neck dissection,7.02,090
+69155,Radical excision external auditory canal lesion; with neck dissection,10.30,090
+69200,Removal foreign body from external auditory canal; without general anesthesia,0.52,000
+69205,Removal foreign body from external auditory canal; with general anesthesia,2.06,010
+69209,"Removal impacted cerumen using irrigation/lavage, unilateral",0.12,000
+69210,"Removal impacted cerumen requiring instrumentation, unilateral",0.21,000
+69220,"Debridement, mastoidectomy cavity, simple (eg, routine cleaning)",0.28,000
+69222,"Debridement, mastoidectomy cavity, complex (eg, with anesthesia or more than routine cleaning)",1.26,010
+69300,"Otoplasty, protruding ear, with or without size reduction",6.09,YYY
+69310,"Reconstruction of external auditory canal (meatoplasty) (eg, for stenosis due to injury, infection) (separate procedure)",8.90,090
+69320,"Reconstruction external auditory canal for congenital atresia, single stage",8.90,090
+69399,"Unlisted procedure, external ear",BR,YYY
+69420,Myringotomy including aspiration and/or eustachian tube inflation,1.03,010
+69421,Myringotomy including aspiration and/or eustachian tube inflation requiring gen- eral anesthesia,1.40,010
+69424,Ventilating tube removal requiring general anesthesia,1.87,000
+69433,"Tympanostomy (requiring insertion of ventilating tube), local or topical anesthesia",1.40,010
+69436,"Tympanostomy (requiring insertion of ventilating tube), general anesthesia",1.87,010
+69440,Middle ear exploration through postauricular or ear canal incision,6.09,090
+69450,"Tympanolysis, transcanal",6.09,090
+69501,Transmastoid antrotomy (simple mastoidectomy),6.56,090
+69502,Mastoidectomy; complete,8.71,090
+69505,Mastoidectomy; modified radical,9.83,090
+69511,Mastoidectomy; radical,11.24,090
+69530,Petrous apicectomy including radical mastoidectomy,14.05,090
+69535,"Resection temporal bone, external approach",14.05,090
+69540,Excision aural polyp,1.12,010

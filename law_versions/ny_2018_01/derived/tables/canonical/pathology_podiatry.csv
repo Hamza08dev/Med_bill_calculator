@@ -1,0 +1,32 @@
+code,description,rvu,fud,pctc_split,is_addon,is_mod51_exempt,is_state_specific,is_altered_cpt,is_br
+■ 80305,"Drug test(s), presumptive, any number of drug classes, any number of devices or procedures; capable of being read by direct optical observation only (eg, utilizing immunoassay [eg, dipsticks, cups, cards, or cartridges]), includes sample valida- tion when performed, per date of service",11.96,XXX,0/100,False,False,False,False,False
+■ 80306,"Drug test(s), presumptive, any number of drug classes, any number of devices or procedures; read by instrument assisted direct optical observation (eg, utilizing immunoassay [eg, dipsticks, cups, cards, or cartridges]), includes sample valida- tion when performed, per date of service",16.16,XXX,0/100,False,False,False,False,False
+■ 80307,"Drug test(s), presumptive, any number of drug classes, any number of devices or procedures; by instrument chemistry analyzers (eg, utilizing immunoassay [eg, EIA, ELISA, EMIT, FPIA, IA, KIMS, RIA]), chromatography (eg, GC, HPLC), and mass spectrometry either with or without chromatography, (eg, DART, DESI, GC-MS, GC-MS/MS, LC-MS, LC-MS/MS, LDTD, MALDI, TOF) includes sample validation when performed, per date of service",0.00,XXX,0/100,False,False,False,False,False
+■ 80375,"Drug(s) or substance(s), definitive, qualitative or quantitative, not otherwise speci- fied; 1-3",43.26,XXX,0/100,False,False,False,False,False
+■ 80376,"Drug(s) or substance(s), definitive, qualitative or quantitative, not otherwise speci- fied; 4-6",64.89,XXX,0/100,False,False,False,False,False
+■ 80377,"Drug(s) or substance(s), definitive, qualitative or quantitative, not otherwise speci- fied; 7 or more",86.52,XXX,0/100,False,False,False,False,False
+81000,"Urinalysis, by dip stick or tablet reagent for bilirubin, glucose, hemoglobin, ketones, leukocytes, nitrite, pH, protein, specific gravity, urobilinogen, any number of these constituents; non-automated, with microscopy",7.09,XXX,0/100,False,False,False,False,False
+81002,"Urinalysis, by dip stick or tablet reagent for bilirubin, glucose, hemoglobin, ketones, leukocytes, nitrite, pH, protein, specific gravity, urobilinogen, any number of these constituents; non-automated, without microscopy 5.54",,XXX,0/100,False,False,False,False,False
+81005,"Urinalysis; qualitative or semiquantitative, except immunoassays",4.93,XXX,0/100,False,False,False,False,False
+82310,Calcium; total,8.01,XXX,0/100,False,False,False,False,False
+82435,Chloride; blood,8.01,XXX,0/100,False,False,False,False,False
+82465,"Cholesterol, serum or whole blood, total",8.32,XXX,0/100,False,False,False,False,False
+82565,Creatinine; blood,8.01,XXX,0/100,False,False,False,False,False
+82945,"Glucose, body fluid, other than blood",26.49,XXX,0/100,False,False,False,False,False
+82947,"Glucose; quantitative, blood (except reagent strip)",8.01,XXX,0/100,False,False,False,False,False
+82948,"Glucose; blood, reagent strip",6.16,XXX,0/100,False,False,False,False,False
+82951,"Glucose; tolerance test (GTT), 3 specimens (includes glucose)",22.80,XXX,0/100,False,False,False,False,False
++ 82952,"Glucose; tolerance test, each additional beyond 3 specimens (List separately in addition to code for primary procedure)",6.16,XXX,0/100,False,False,False,False,False
+84100,Phosphorus inorganic (phosphate);,8.01,XXX,0/100,False,False,False,False,False
+84132,"Potassium; serum, plasma or whole blood",8.01,XXX,0/100,False,False,False,False,False
+84520,Urea nitrogen; quantitative,8.01,XXX,0/100,False,False,False,False,False
+84525,"Urea nitrogen; semiquantitative (eg, reagent strip test)",6.16,XXX,0/100,False,False,False,False,False
+84550,Uric acid; blood,8.01,XXX,0/100,False,False,False,False,False
+85002,Bleeding time,12.94,XXX,0/100,False,False,False,False,False
+85004,Blood count; automated differential WBCcount,9.24,XXX,0/100,False,False,False,False,False
+85007,"Blood count; blood smear, microscopic examination with manual differentialWBC count",7.39,XXX,0/100,False,False,False,False,False
+85008,"Blood count; blood smear, microscopic examination without manual differential WBCcount",4.93,XXX,0/100,False,False,False,False,False
+85009,"Blood count; manual differential WBCcount, buffy coat",7.39,XXX,0/100,False,False,False,False,False
+85013,Blood count; spun microhematocrit,5.54,XXX,0/100,False,False,False,False,False
+85014,Blood count; hematocrit (Hct),5.54,XXX,0/100,False,False,False,False,False
+85018,Blood count; hemoglobin (Hgb),5.54,XXX,0/100,False,False,False,False,False

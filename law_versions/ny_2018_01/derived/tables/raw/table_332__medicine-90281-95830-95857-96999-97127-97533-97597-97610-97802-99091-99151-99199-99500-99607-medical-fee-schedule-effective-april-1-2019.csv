@@ -1,0 +1,27 @@
+,Code,Description,Relative Value,FUD,PC/TC Split
+,94669,"Mechanical chest wall oscillation to facilitate lung function, per session",6.36,XXX,
+,94680,"Oxygen uptake, expired gas analysis; rest and exercise, direct, simple",13.53,XXX,40/60
+,94681,"Oxygen uptake, expired gas analysis; including CO2 output, percentage oxygen extracted",25.37,XXX,40/60
+,94690,"Oxygen uptake, expired gas analysis; rest, indirect (separate procedure)",5.07,XXX,40/60
+,94726,"Plethysmography for determination of lung volumes and, when performed, airway resistance",11.23,XXX,23/77
+,94727,"Gas dilution or washout for determination of lung volumes and, when performed, distribution of ventilation and closing volumes",8.81,XXX,29/71
+,94728,Airway resistance by impulse oscillometry,8.81,XXX,29/71
++,94729,"Diffusing capacity (eg, carbon monoxide, membrane) (List separately in addition to code for primary procedure)",11.16,ZZZ,15/85
+,94750,"Pulmonary compliance study (eg, plethysmography, volume and pressure mea- surements)",15.56,XXX,40/60
+,94760,Noninvasive ear or pulse oximetry for oxygen saturation; single determination,3.55,XXX,0/100
+,94761,"Noninvasive ear or pulse oximetry for oxygen saturation; multiple determinations (eg, during exercise)",5.92,XXX,0/100
+,94762,Noninvasive ear or pulse oximetry for oxygen saturation; by continuous overnight monitoring (separate procedure),7.44,XXX,0/100
+,94770,"Carbon dioxide, expired gas determination by infrared analyzer",10.15,XXX,40/60
+,94772,"Circadian respiratory pattern recording (pediatric pneumogram), 12-24 hour con- tinuous recording, infant",BR,XXX,40/60
+,94774,"Pediatric home apnea monitoring event recording including respiratory rate, pat- tern and heart rate per 30-day period of time; includes monitor attachment, down- load of data, review, interpretation, and preparation of a report by a physician or other qualified health care professional",BR,YYY,
+,94775,"Pediatric home apnea monitoring event recording including respiratory rate, pat- tern and heart rate per 30-day period of time; monitor attachment only (includes hook-up, initiation of recording and disconnection)",BR,YYY,
+,94776,"Pediatric home apnea monitoring event recording including respiratory rate, pat- tern and heart rate per 30-day period of time; monitoring, download of information, receipt of transmission(s) and analyses by computer only",BR,YYY,
+,94777,"Pediatric home apnea monitoring event recording including respiratory rate, pat- tern and heart rate per 30-day period of time; review, interpretation and prepara- tion of report only by a physician or other qualified health care professional",BR,YYY,
+,94780,"Car seat/bed testing for airway integrity, neonate, with continual nursing observa- tion and continuous recording of pulse oximetry, heart rate and respiratory rate, with interpretation and report; 60 minutes",10.59,XXX,
++,94781,"Car seat/bed testing for airway integrity, neonate, with continual nursing observa- tion and continuous recording of pulse oximetry, heart rate and respiratory rate, with interpretation and report; each additional full 30 minutes (List separately in addition to code for primary procedure)",4.12,ZZZ,
+,94799,Unlisted pulmonary service or procedure,BR,XXX,
+,95004,"Percutaneous tests (scratch, puncture, prick) with allergenic extracts, immediate type reaction, including test interpretation and report, specify number of tests",0.42,XXX,
+,95012,Nitric oxide expired gas determination,3.21,XXX,
+,95017,"Allergy testing, any combination of percutaneous (scratch, puncture, prick) and intracutaneous (intradermal), sequential and incremental, with venoms, immedi- ate type reaction, including test interpretation and report, specify number of tests",0.64,XXX,
+,95018,"Allergy testing, any combination of percutaneous (scratch, puncture, prick) and intracutaneous (intradermal), sequential and incremental, with drugs or biologi- cals, immediate type reaction, including test interpretation and report, specify number of tests",1.18,XXX,
+,95024,"Intracutaneous (intradermal) tests with allergenic extracts, immediate type reac- tion, including test interpretation and report, specify number of tests",0.72,XXX,

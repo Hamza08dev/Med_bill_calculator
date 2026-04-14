@@ -1,0 +1,28 @@
+Description,Code,,Relative Value,FUD,PC/TC Split
+91038,"Esophageal function test, gastroesophageal reflux test with nasal catheter intralu- minal impedance electrode(s) placement, recording, analysis and interpretation; prolonged (greater than 1 hour, up to 24 hours)",20.29,000,,45/55
+91040,"Esophageal balloon distension study, diagnostic, with provocation when per- formed",72.21,,000,10/90
+91065,"Breath hydrogen or methane test (eg, for detection of lactase deficiency, intolerance, bacterial overgrowth, or oro-cecal gastrointestinal transit)",fructose,9.30,000,20/80
+91110,"Gastrointestinal tract imaging, intraluminal (eg, capsule endoscopy), esophagus through ileum, with interpretation and report",28.24,,XXX,15/85
+91111,"Gastrointestinal tract imaging, intraluminal (eg, capsule endoscopy), with interpretation and report",esophagus,84.55,XXX,8/92
+91112,"Gastrointestinal transit and pressure measurement, stomach through colon, wire- less capsule, with interpretation and report",208.78,,XXX,10/90
+91117,"Colon motility (manometric) study, minimum 6 hours continuous recording ing provocation tests, eg, meal, intracolonic balloon distension, pharmacologic agents, if performed), with interpretation and report",(includ-,19.78,000,
+91120,"Rectal sensation, tone, and compliance test (ie, response to graded balloon dis- tention)",45.83,,XXX,10/90
+91122,Anorectal,manometry,30.61,000,80/20
+91132,,"Electrogastrography, diagnostic, transcutaneous;",4.06,XXX,65/35
+,91133,"Electrogastrography, diagnostic, transcutaneous; with provocative testing",4.06,XXX,65/35
+,91200,"Liver elastography, mechanically induced shear wave (eg, vibration), without imaging, with interpretation and report",7.80,XXX,35/65
+91299,,Unlisted diagnostic gastroenterology procedure,BR,XXX,
+92002,,"Ophthalmological services: medical examination and evaluation with initiation of diagnostic and treatment program; intermediate, new patient",6.93,XXX,
+92004,,"Ophthalmological services: medical examination and evaluation with initiation of diagnostic and treatment program; comprehensive, new patient, 1 or more visits",9.13,XXX,
+~,92012,"Ophthalmological services: medical examination and evaluation, with initiation or continuation of diagnostic and treatment program; intermediate, established patient",6.59,XXX,
+~,92014,"Ophthalmological services: medical examination and evaluation, with initiation or continuation of diagnostic and treatment program; comprehensive, established patient, 1 or more visits",8.12,XXX,
+92015,,Determination of refractive state,2.28,XXX,
+92018,"Ophthalmological examination and evaluation, under general anesthesia, with or without manipulation of globe for passive range of motion or other manipulation to",facilitate diagnostic examination; complete,23.67,XXX,
+92019,"Ophthalmological examination and evaluation, under general anesthesia, with or without manipulation of globe for passive range of motion or other manipulation to",facilitate diagnostic examination; limited,10.99,XXX,
+92020,Gonioscopy,(separate procedure),4.57,XXX,
+92025,"Computerized corneal topography, unilateral or bilateral, with interpretation and report",,3.55,XXX,59/41
+92060,"Sensorimotor examination with multiple measurements of ocular deviation (eg, restrictive or paretic muscle with diplopia) with interpretation and report (sepa-",rate procedure),6.76,XXX,
+92065,"Orthoptic and/or pleoptic training, with continuing medical direction and evalua- tion",,5.48,XXX,
+92071,Fitting of contact lens for treatment of ocular surface disease,,7.82,XXX,
+92072,"Fitting of contact lens for management of keratoconus, initial",fitting,24.95,XXX,
+92081,"Visual field examination, unilateral or bilateral, with interpretation and report; ited","lim- examination (eg, tangent screen, Autoplot, arc perimeter, or single stimulus level automated test, such as Octopus 3 or 7 equivalent)",4.57,XXX,20/80

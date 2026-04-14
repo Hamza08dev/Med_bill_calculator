@@ -1,0 +1,30 @@
+,Code,Description,Relative Value,FUD,PC/TC Split
+,74355,"Percutaneous placement of enteroclysis tube, radiological supervision and inter- pretation",5.58,XXX,35/65
+,74360,"Intraluminal dilation of strictures and/or obstructions (eg, esophagus), radiological supervision and interpretation",7.37,XXX,35/65
+,74363,"Percutaneous transhepatic dilation of biliary duct stricture with or without place- ment of stent, radiological supervision and interpretation",5.3,XXX,35/65
+,74400,"Urography (pyelography), intravenous, with or without KUB, with or without tomography",3.83,XXX,40/60
+,74410,"Urography, infusion, drip technique and/or bolus technique;",4.08,XXX,40/60
+,74415,"Urography, infusion, drip technique and/or bolus technique; with nephrotomogra- phy",4.59,XXX,40/60
+,74420,"Urography, retrograde, with or without KUB",2.55,XXX,40/60
+,74425,"Urography, antegrade (pyelostogram, nephrostogram, loopogram), radiological supervision and interpretation",2.93,XXX,35/65
+,74430,"Cystography, minimum of 3 views, radiological supervision and interpretation",2.4,XXX,35/65
+,74440,"Vasography, vesiculography, or epididymography, radiological supervision and interpretation",2.68,XXX,35/65
+,74445,"Corpora cavernosography, radiological supervision and interpretation",3.54,XXX,35/65
+,74450,"Urethrocystography, retrograde, radiological supervision and interpretation",3.19,XXX,35/65
+,74455,"Urethrocystography, voiding, radiological supervision and interpretation",3.49,XXX,35/65
+,74470,"Radiologic examination, renal cyst study, translumbar, contrast visualization, radiological supervision and interpretation",3.32,XXX,35/65
+,74485,"Dilation of nephrostomy, ureters, or urethra, radiological supervision and interpre- tation",6.2,XXX,35/65
+,74710,"Pelvimetry, with or without placental localization",2.45,XXX,40/60
+,74712,"Magnetic resonance (eg, proton) imaging, fetal, including placental and maternal pelvic imaging when performed; single or first gestation",20.59,XXX,31/69
++,74713,"Magnetic resonance (eg, proton) imaging, fetal, including placental and maternal pelvic imaging when performed; each additional gestation (List separately in addi- tion to code for primary procedure)",9.95,ZZZ,39/61
+,74740,"Hysterosalpingography, radiological supervision and interpretation",3.06,XXX,35/65
+,74742,"Transcervical catheterization of fallopian tube, radiological supervision and inter- pretation",3.44,XXX,35/65
+,74775,"Perineogram (eg, vaginogram, for sex determination or extent of anomalies)",3.95,XXX,40/60
+,75557,Cardiac magnetic resonance imaging for morphology and function without con- trast material;,19.77,XXX,23/77
+,75559,Cardiac magnetic resonance imaging for morphology and function without con- trast material; with stress imaging,26.88,XXX,20/80
+,75561,"Cardiac magnetic resonance imaging for morphology and function without con- trast material(s), followed by contrast material(s) and further sequences;",24.51,XXX,19/81
+,75563,"Cardiac magnetic resonance imaging for morphology and function without con- trast material(s), followed by contrast material(s) and further sequences; with stress imaging",30.83,XXX,18/82
++,75565,Cardiac magnetic resonance imaging for velocity flow mapping (List separately in addition to code for primary procedure),3.16,ZZZ,14/86
+,75571,"Computed tomography, heart, without contrast material, with quantitative evalua- tion of coronary calcium",4.47,XXX,23/77
+,75572,"Computed tomography, heart, with contrast material, for evaluation of cardiac structure and morphology (including 3D image postprocessing, assessment of cardiac function, and evaluation of venous structures, if performed)",5.36,XXX,62/38
+,75573,"Computed tomography, heart, with contrast material, for evaluation of cardiac structure and morphology in the setting of congenital heart disease (including 3D image postprocessing, assessment of LV cardiac function, RV structure and func- tion and evaluation of venous structures, if performed)",7.15,XXX,66/34

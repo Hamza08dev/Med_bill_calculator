@@ -1,0 +1,37 @@
+Code,Description,Basic Unit
+00630,Anesthesia for procedures in lumbar region; not otherwise specified,8
+00632,Anesthesia for procedures in lumbar region; lumbar sympathectomy,7
+00635,Anesthesia for procedures in lumbar region; diagnostic or therapeutic lumbar puncture,4
+00640,"Anesthesia for manipulation of the spine or for closed procedures on the cervical, thoracic or lumbar spine",3
+00670,"Anesthesia for extensive spine and spinal cord procedures (eg, spinal instrumentation or vascular proce- dures)",13
+00700,Anesthesia for procedures on upper anterior abdominal wall; not otherwise specified,4
+00702,Anesthesia for procedures on upper anterior abdominal wall; percutaneous liver biopsy,4
+00730,Anesthesia for procedures on upper posterior abdominal wall,5
+00731,"Anesthesia for upper gastrointestinal endoscopic procedures, endoscope introduced proximal to duode- num; not otherwise specified",5
+00732,"Anesthesia for upper gastrointestinal endoscopic procedures, endoscope introduced proximal to duode- num; endoscopic retrograde cholangiopancreatography (ER C P)",6
+00750,Anesthesia for hernia repairs in upper abdomen; not otherwise specified,4
+00752,Anesthesia for hernia repairs in upper abdomen; lumbar and ventral (incisional) hernias and/or wound dehiscence,6
+00754,Anesthesia for hernia repairs in upper abdomen; omphalocele,7
+00756,Anesthesia for hernia repairs in upper abdomen; transabdominal repair of diaphragmatic hernia,7
+00770,Anesthesia for all procedures on major abdominal blood vessels,15
+00790,Anesthesia for intraperitoneal procedures in upper abdomen including laparoscopy; not otherwise speci- fied,7
+00792,Anesthesia for intraperitoneal procedures in upper abdomen including laparoscopy; partial hepatectomy or management of liver hemorrhage (excluding liver biopsy),13
+00794,"Anesthesia for intraperitoneal procedures in upper abdomen including laparoscopy; pancreatectomy, par- tial or total (eg, Whipple procedure)",8
+00796,Anesthesia for intraperitoneal procedures in upper abdomen including laparoscopy; liver transplant (recip- ient),30
+00797,Anesthesia for intraperitoneal procedures in upper abdomen including laparoscopy; gastric restrictive pro- cedure for morbid obesity,11
+00800,Anesthesia for procedures on lower anterior abdominal wall; not otherwise specified,4
+00802,Anesthesia for procedures on lower anterior abdominal wall; panniculectomy,5
+00811,"Anesthesia for lower intestinal endoscopic procedures, endoscope introduced distal to duodenum; not otherwise specified",4
+00812,"Anesthesia for lower intestinal endoscopic procedures, endoscope introduced distal to duodenum; screening colonoscopy",4
+00813,"Anesthesia for combined upper and lower gastrointestinal endoscopic procedures, endoscope introduced both proximal to and distal to the duodenum",5
+00820,Anesthesia for procedures on lower posterior abdominal wall,5
+00830,Anesthesia for hernia repairs in lower abdomen; not otherwise specified,4
+00832,Anesthesia for hernia repairs in lower abdomen; ventral and incisional hernias,6
+00834,"Anesthesia for hernia repairs in the lower abdomen not otherwise specified, younger than 1 year of age",5
+00836,"Anesthesia for hernia repairs in the lower abdomen not otherwise specified, infants younger than 37 weeks gestational age at birth and younger than 50 weeks gestational age at time of surgery",6
+00840,Anesthesia for intraperitoneal procedures in lower abdomen including laparoscopy; not otherwise speci- fied,6
+00842,Anesthesia for intraperitoneal procedures in lower abdomen including laparoscopy; amniocentesis,4
+00844,Anesthesia for intraperitoneal procedures in lower abdomen including laparoscopy; abdominoperineal resection,7
+00846,Anesthesia for intraperitoneal procedures in lower abdomen including laparoscopy; radical hysterectomy,8
+00848,Anesthesia for intraperitoneal procedures in lower abdomen including laparoscopy; pelvic exenteration,8
+00851,Anesthesia for intraperitoneal procedures in lower abdomen including laparoscopy; tubal ligation/transec- tion,6

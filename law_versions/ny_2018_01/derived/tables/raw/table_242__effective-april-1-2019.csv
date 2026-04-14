@@ -1,0 +1,31 @@
+,Code,Description Relative Value,FUD,PC/TC Split
+70488,"Computed tomography, maxillofacial area; without contrast material, followed by contrast material(s) and further sections",12.58,XXX,25/75
+70490,"Computed tomography, soft tissue neck; without contrast material",9.36,XXX,25/75
+70491,"Computed tomography, soft tissue neck; with contrast material(s)",10.78,XXX,25/75
+70492,"Computed tomography, soft tissue neck; without contrast material followed by contrast material(s) and further sections",12.92,XXX,25/75
+70496,"Computed tomographic angiography, head, with contrast material(s), including noncontrast images, if performed, and image postprocessing",15.31,XXX 25/75,
+70498,"Computed tomographic angiography, neck, with contrast material(s), including noncontrast images, if performed, and image postprocessing",16.33,XXX,25/75
+70540,"Magnetic resonance (eg, proton) imaging, orbit, face, and/or neck; without con- trast material(s)",17.70,XXX,20/80
+70542,"Magnetic resonance (eg, proton) imaging, orbit, face, and/or neck; with contrast material(s)",20.37,XXX,20/80
+70543,"Magnetic resonance (eg, proton) imaging, orbit, face, and/or neck; without con- trast material(s), followed by contrast material(s) and further sequences",23.43,XXX,20/80
+70544,"Magnetic resonance angiography, head; without contrast material(s)",14.33,XXX,20/80
+70545,"Magnetic resonance angiography, head; with contrast material(s)",16.86,XXX,20/80
+70546,"Magnetic resonance angiography, head; without contrast material(s), followed by contrast material(s) and further sequences",20.22,XXX,20/80
+70547,"Magnetic resonance angiography, neck; without contrast material(s)",14.33,XXX,20/80
+70548,"Magnetic resonance angiography, neck; with contrast material(s)",16.86,XXX,20/80
+70549,"Magnetic resonance angiography, neck; without contrast material(s), followed by contrast material(s) and further sequences",20.22,XXX,20/80
+70551,"Magnetic resonance (eg, proton) imaging, brain (including brain stem); without contrast material",16.53,XXX,20/80
+70552,"Magnetic resonance (eg, proton) imaging, brain (including brain stem); with con- trast material(s)",20.16,XXX,20/80
+70553,"Magnetic resonance (eg, proton) imaging, brain (including brain stem); without contrast material, followed by contrast material(s) and further sequences",22.83,XXX,20/80
+70554,"Magnetic resonance imaging, brain, functional MRI; including test selection and administration of repetitive body part movement and/or visual stimulation, not requiring physician or psychologist administration",17.39,XXX,17/83
+70555,"Magnetic resonance imaging, brain, functional MRI; requiring physician or psy- chologist administration of entire neurofunctional testing",21.35,XXX,17/83
+70557,"Magnetic resonance (eg, proton) imaging, brain (including brain stem and skull base), during open intracranial procedure (eg, to assess for residual tumor or residual vascular malformation); without contrast material",39.31,XXX,11/89
+70558,"Magnetic resonance (eg, proton) imaging, brain (including brain stem and skull base), during open intracranial procedure (eg, to assess for residual tumor or residual vascular malformation); with contrast material(s)",43.69,XXX,11/89
+70559,"Magnetic resonance (eg, proton) imaging, brain (including brain stem and skull base), during open intracranial procedure (eg, to assess for residual tumor or residual vascular malformation); without contrast material(s), followed by contrast material(s) and further sequences",51.75,XXX,11/89
+71045,"Radiologic examination, chest; single view",0.83,XXX,46/54
+71046,"Radiologic examination, chest; 2 views",1.27,XXX,36/64
+71047,Radiologic,"examination, chest; 3 views 1.62",XXX,36/64
+71048,"Radiologic examination, chest; 4 or more views",1.74,XXX,39/61
+71100,"Radiologic examination, ribs, unilateral; 2 views",1.68,XXX,40/60
+71101,"Radiologic examination, ribs, unilateral; including posteroanterior chest, minimum of 3 views",1.94,XXX,40/60
+71110,"Radiologic examination, ribs, bilateral; 3 views",2.04,XXX,40/60

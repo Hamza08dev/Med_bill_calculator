@@ -1,0 +1,23 @@
+Code,Description,Relative Value,FUD,PC/TC Split
+ 81247,"G6PD (glucose-6-phosphate dehydrogenase) (eg, hemolytic anemia, jaundice), gene analysis; common variant(s) (eg, A, A-)",0,XXX,0/100
+ 81248,"G6PD (glucose-6-phosphate dehydrogenase) (eg, hemolytic anemia, jaundice), gene analysis; known familial variant(s)",0,XXX,0/100
+ 81249,"G6PD (glucose-6-phosphate dehydrogenase) (eg, hemolytic anemia, jaundice), gene analysis; full gene sequence",0,XXX,0/100
+81250,"G6PC (glucose-6-phosphatase, catalytic subunit) (eg, Glycogen storage disease, type 1a, von Gierke disease) gene analysis, common variants (eg, R83C, Q347X)",0,XXX,
+81251,"GBA (glucosidase, beta, acid) (eg, Gaucher disease) gene analysis, common vari- ants (eg, N370S, 84GG, L444P, IVS2+1G>A)",0,XXX,
+ 81252,"GJB2 (gap junction protein, beta 2, 26kDa, connexin 26) (eg, nonsyndromic hearing loss) gene analysis; full gene sequence",0,XXX,0/100
+ 81253,"GJB2 (gap junction protein, beta 2, 26kDa, connexin 26) (eg, nonsyndromic hearing loss) gene analysis; known familial variants",0,XXX,0/100
+ 81254,"GJB6 (gap junction protein, beta 6, 30kDa, connexin 30) (eg, nonsyndromic hearing loss) gene analysis, common variants (eg, 309kb [del(GJB6-D13S1830)] and 232kb [del(GJB6-D13S1854)])",0,XXX,0/100
+81255,"HEXA (hexosaminidase A [alpha polypeptide]) (eg, Tay-Sachs disease) gene anal- ysis, common variants (eg, 1278insTATC, 1421+1G>C, G269S)",0,XXX,
+81256,"HFE (hemochromatosis) (eg, hereditary hemochromatosis) gene analysis,common variants (eg, C282Y, H63D)",0,XXX,
+ 81257,"HBA1/HBA2 (alpha globin 1 and alpha globin 2) (eg, alpha thalassemia, Hb Bart hydrops fetalis syndrome, HbH disease), gene analysis; common deletions or vari- ant (eg, Southeast Asian, Thai, Filipino, Mediterranean, alpha3.7, alpha4.2, alpha20.5, Constant Spring)",0,XXX,
+ 81258,"HBA1/HBA2 (alpha globin 1 and alpha globin 2) (eg, alpha thalassemia, Hb Bart hydrops fetalis syndrome, HbH disease), gene analysis; known familial variant",0,XXX,0/100
+ 81259,"HBA1/HBA2 (alpha globin 1 and alpha globin 2) (eg, alpha thalassemia, Hb Bart hydrops fetalis syndrome, HbH disease), gene analysis; full gene sequence",0,XXX,0/100
+81260,"IKBKAP (inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase complex-associated protein) (eg, familial dysautonomia) gene analysis, common variants (eg, 2507+6T>C, R696P)",0,XXX,
+81261,"IGH@ (Immunoglobulin heavy chain locus) (eg, leukemias and lymphomas, B-cell), gene rearrangement analysis to detect abnormal clonal population(s); amplified methodology (eg, polymerase chain reaction)",0,XXX,
+81262,"IGH@ (Immunoglobulin heavy chain locus) (eg, leukemias and lymphomas, B-cell), gene rearrangement analysis to detect abnormal clonal population(s); direct probe methodology (eg, Southern blot)",0,XXX,
+81263,"IGH@ (Immunoglobulin heavy chain locus) (eg, leukemia and lymphoma, B-cell), variable region somatic mutation analysis",0,XXX,
+81264,"IGK@ (Immunoglobulin kappa light chain locus) (eg, leukemia and lymphoma, B-cell), gene rearrangement analysis, evaluation to detect abnormal clonal popu- lation(s)",0,XXX,
+81265,"Comparative analysis using Short Tandem Repeat (STR) markers; patient and com- parative specimen (eg, pre-transplant recipient and donor germline testing, post-transplant non-hematopoietic recipient germline [eg, buccal swab or other germline tissue sample] and donor testing, twin zygosity testing, or maternal cell contamination of fetal cells)",0,XXX,
++ 81266,"Comparative analysis using Short Tandem Repeat (STR) markers; each additional specimen (eg, additional cord blood donor, additional fetal samples from different cultures, or additional zygosity in multiple birth pregnancies) (List separately in addition to code for primary procedure)",0,XXX,
+81267,"Chimerism (engraftment) analysis, post transplantation specimen (eg, hematopoi- etic stem cell), includes comparison to previously performed baseline analyses; without cell selection",0,XXX,
+81268,"Chimerism (engraftment) analysis, post transplantation specimen (eg, hematopoi- etic stem cell), includes comparison to previously performed baseline analyses; with cell selection (eg, CD3, CD33), each cell type",0,XXX,

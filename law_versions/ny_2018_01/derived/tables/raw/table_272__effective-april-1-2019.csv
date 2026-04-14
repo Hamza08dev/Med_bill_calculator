@@ -1,0 +1,26 @@
+Code,Description,Relative Value,FUD,PC/TC Split
+81342,"TRG@ (T cell antigen receptor, gamma) (eg, leukemia and lymphoma), gene rear- rangement analysis, evaluation to detect abnormal clonal population(s)",0,XXX,
+ 81346,"TYMS (thymidylate synthetase) (eg, 5-fluorouracil/5-FU drug metabolism), gene analysis, common variant(s) (eg, tandem repeat variant)",0,XXX,0/100
+81350,"UGT1A1 (UDP glucuronosyltransferase 1 family, polypeptide A1) (eg, irinotecan metabolism), gene analysis, common variants (eg, *28, *36, *37)",0,XXX,
+ 81355,"VKORC1 (vitamin K epoxide reductase complex, subunit 1) (eg, warfarin metabo- lism), gene analysis, common variant(s) (eg, -1639G>A, c.173+1000C>T)",0,XXX,
+ 81361,"HBB (hemoglobin, subunit beta) (eg, sickle cell anemia, beta thalassemia, hemo- globinopathy); common variant(s) (eg, HbS, HbC, HbE)",0,XXX,0/100
+ 81362,"HBB (hemoglobin, subunit beta) (eg, sickle cell anemia, beta thalassemia, hemo- globinopathy); known familial variant(s)",0,XXX,0/100
+ 81363,"HBB (hemoglobin, subunit beta) (eg, sickle cell anemia, beta thalassemia, hemo- globinopathy); duplication/deletion variant(s)",0,XXX,0/100
+ 81364,"HBB (hemoglobin, subunit beta) (eg, sickle cell anemia, beta thalassemia, hemo- globinopathy); full gene sequence",0,XXX,0/100
+81370,"HLA Class I and II typing, low resolution (eg, antigen equivalents); HLA-A, -B, -C, -DRB1/3/4/5, and -DQB1",0,XXX,
+ 81371,"HLA Class I and II typing, low resolution (eg, antigen equivalents); HLA-A, -B, and -DRB1 (eg, verification typing)",0,XXX,
+81372,"HLA Class I typing, low resolution (eg, antigen equivalents); complete (ie, HLA-A, -B, and -C)",0,XXX,
+81373,"HLA Class I typing, low resolution (eg, antigen equivalents); one locus (eg, HLA-A, -B, or -C), each",0,XXX,
+81374,"HLA Class I typing, low resolution (eg, antigen equivalents); one antigen equiva- lent (eg, B*27), each",0,XXX,
+81375,"HLA Class II typing, low resolution (eg, antigen equivalents); HLA-DRB1/3/4/5 and -DQB1",0,XXX,
+ 81376,"HLA Class II typing, low resolution (eg, antigen equivalents); one locus (eg, HLA-DRB1, -DRB3/4/5, -DQB1, -DQA1, -DPB1, or -DPA1), each",0,XXX,
+81377,"HLA Class II typing, low resolution (eg, antigen equivalents); one antigen equiva- lent, each",0,XXX,
+81378,"HLA Class I and II typing, high resolution (ie, alleles or allele groups), HLA-A, -B, -C, and -DRB1",0,XXX,
+81379,"HLA Class I typing, high resolution (ie, alleles or allele groups); complete (ie, HLA-A, -B, and -C)",0,XXX,
+81380,"HLA Class I typing, high resolution (ie, alleles or allele groups); one locus (eg, HLA-A, -B, or -C), each",0,XXX,
+81381,"HLA Class I typing, high resolution (ie, alleles or allele groups); one allele or allele group (eg, B*57:01P), each",0,XXX,
+81382,"HLA Class II typing, high resolution (ie, alleles or allele groups); one locus (eg, HLA-DRB1, -DRB3/4/5, -DQB1, -DQA1, -DPB1, or -DPA1), each",0,XXX,
+81383,"HLA Class II typing, high resolution (ie, alleles or allele groups); one allele or allele group (eg, HLA-DQB1*06:02P), each",0,XXX,
+ 81400,"Molecular pathology procedure, Level 1(eg, identification of single germline vari- ant [eg, SNP] by techniques such as restriction enzyme digestion or melt curve analysis)",0,XXX,
+ 81401,"Molecular pathology procedure, Level 2 (eg, 2-10 SNPs, 1 methylated variant, or 1 somatic variant [typically using nonsequencing target variant analysis], or detec- tion of a dynamic mutation disorder/triplet repeat)",0,XXX,
+ 81402,"Molecular pathology procedure, Level 3 (eg, >10 SNPs, 2-10 methylated variants, or 2-10 somatic variants [typically using non-sequencing target variant analysis], immunoglobulin and T-cell receptor gene rearrangements, duplication/deletion variants of 1 exon, loss of heterozygosity [LOH], uniparental disomy [UPD])",0,XXX,

@@ -1,0 +1,234 @@
+code,description,rvu,fud,pctc_split,is_addon,is_mod51_exempt,is_state_specific,is_altered_cpt,is_br
+"Excision, benign lesion including margins, except skin tag (unless listed else- where), scalp, neck, hands, feet, genitalia; excised diameter 3.1 to 4.0 cm",1.44,,,,False,False,False,False,False
+"Excision, benign lesion including margins, except skin tag (unless listed else- where), scalp, neck, hands, feet, genitalia; excised diameter over 4.0 cm",1.98,,,,False,False,False,False,False
+"Excision, malignant lesion including margins, scalp, neck, hands, feet, genitalia; excised diameter 0.5 cm or less",0.99,,,,False,False,False,False,False
+"Excision, malignant lesion including margins, scalp, neck, hands, feet, genitalia; excised diameter 0.6 to 1.0 cm",1.17,,,,False,False,False,False,False
+"Excision, malignant lesion including margins, scalp, neck, hands, feet, genitalia; excised diameter 1.1 to 2.0 cm",1.39,,,,False,False,False,False,False
+"Excision, malignant lesion including margins, scalp, neck, hands, feet, genitalia; excised diameter 2.1 to 3.0 cm",1.71,,,,False,False,False,False,False
+"Excision, malignant lesion including margins, scalp, neck, hands, feet, genitalia; excised diameter 3.1 to 4.0 cm",2.15,,,,False,False,False,False,False
+"Excision, malignant lesion including margins, scalp, neck, hands, feet, genitalia; excised diameter over 4.0 cm",2.69,,,,False,False,False,False,False
+"Trimming of nondystrophic nails, any number",0.18,,,,False,False,False,False,False
+Debridement of nail(s) by any method(s); 1 to 5,0.16,,,,False,False,False,False,False
+Debridement of nail(s) by any method(s); 6 or more,0.24,,,,False,False,False,False,False
+"Avulsion of nail plate, partial or complete, simple; single",0.34,,,,False,False,False,False,False
+"Avulsion of nail plate, partial or complete, simple; each additional nail plate (List separately in addition to code for primary procedure)",0.25,,,,False,False,False,False,False
+Evacuation of subungual hematoma,0.27,,,,False,False,False,False,False
+"Excision of nail and nail matrix, partial or complete (eg, ingrown or deformed nail), for permanent removal;",1.21,,,,False,False,False,False,False
+"Biopsy of nail unit (eg, plate, bed, matrix, hyponychium, proximal and lateral nail folds) (separate procedure)",0.54,,,,False,False,False,False,False
+Repair of nail bed,1.48,,,,False,False,False,False,False
+Reconstruction of nail bed with graft,2.15,,,,False,False,False,False,False
+"Wedge excision of skin of nail fold (eg, for ingrown toenail)",0.81,,,,False,False,False,False,False
+"Injection, intralesional; up to and including 7 lesions",0.22,,,,False,False,False,False,False
+"Injection, intralesional; more than 7 lesions",0.34,,,,False,False,False,False,False
+"Simple repair of superficial wounds of scalp, neck, axillae, external genitalia, trunk and/or extremities (including hands and feet); 2.5 cm or less",0.39,,,,False,False,False,False,False
+"Simple repair of superficial wounds of scalp, neck, axillae, external genitalia, trunk and/or extremities (including hands and feet); 2.6 cm to 7.5 cm",0.5,,,,False,False,False,False,False
+"Simple repair of superficial wounds of scalp, neck, axillae, external genitalia, trunk and/or extremities (including hands and feet); 7.6 cm to 12.5 cm",0.66,,,,False,False,False,False,False
+"Simple repair of superficial wounds of scalp, neck, axillae, external genitalia, trunk and/or extremities (including hands and feet); 12.6 cm to 20.0 cm",0.81,,,,False,False,False,False,False
+"Simple repair of superficial wounds of scalp, neck, axillae, external genitalia, trunk and/or extremities (including hands and feet); 20.1 cm to 30.0 cm",0.99,,,,False,False,False,False,False
+"Simple repair of superficial wounds of scalp, neck, axillae, external genitalia, trunk and/or extremities (including hands and feet); over 30.0 cm",1.78,,,,False,False,False,False,False
+"Repair, intermediate, wounds of neck, hands, feet and/or external genitalia; 2.5 cm or less",0.68,,,,False,False,False,False,False
+"Repair, intermediate, wounds of neck, hands, feet and/or external genitalia; 2.6 cm to 7.5 cm",0.86,,,,False,False,False,False,False
+"Repair, intermediate, wounds of neck, hands, feet and/or external genitalia; 7.6 cm to 12.5 cm",1.13,,,,False,False,False,False,False
+"Repair, intermediate, wounds of neck, hands, feet and/or external genitalia; 12.6 cm to 20.0 cm",1.49,,,,False,False,False,False,False
+"Repair, intermediate, wounds of neck, hands, feet and/or external genitalia; 20.1 cm to 30.0 cm",1.94,,,,False,False,False,False,False
+15135,"Dermal autograft, face, scalp, eyelids, mouth, neck, ears, orbits, genitalia, hands, feet, and/or multiple digits; first 100 sq cmor less, or 1%of body area of infants and children",5.07,090,,False,False,False,False,False
+15136,"Dermal autograft, face, scalp, eyelids, mouth, neck, ears, orbits, genitalia, hands, feet, and/or multiple digits; each additional 100 sq cm, or each additional 1% of body area of infants and children, or part thereof (List separately in addition to code for primary procedure)",0.63,ZZZ,,False,False,False,False,False
+15150,"Tissue cultured skin autograft, trunk, arms, legs; first 25 sq cm or less",4,090,,False,False,False,False,False
+15151,"Tissue cultured skin autograft, trunk, arms, legs; additional 1 sq cm to 75 sq cm (List separately in addition to code for primary procedure)",0.88,ZZZ,,False,False,False,False,False
+15152,"Tissue cultured skin autograft, trunk, arms, legs; each additional 100 sq cm, or each additional 1% of body area of infants and children, or part thereof (List sepa- rately in addition to code for primary procedure)",1.08,ZZZ,,False,False,False,False,False
+15155,"Tissue cultured skin autograft, face, scalp, eyelids, mouth, neck, ears, orbits, geni- talia, hands, feet, and/or multiple digits; first 25 sq cm or less",4.02,090,,False,False,False,False,False
+15156,"Tissue cultured skin autograft, face, scalp, eyelids, mouth, neck, ears, orbits, geni- talia, hands, feet, and/or multiple digits; additional 1 sq cm to 75 sq cm (List sepa- rately in addition to code for primary procedure)",1.17,ZZZ,,False,False,False,False,False
+15157,"Tissue cultured skin autograft, face, scalp, eyelids, mouth, neck, ears, orbits, geni- talia, hands, feet, and/or multiple digits; each additional 100 sq cm, or each addi- tional 1% of body area of infants and children, or part thereof (List separately in addition to code for primary procedure)",1.35,ZZZ,,False,False,False,False,False
+15240,"Full thickness graft, free, including direct closure of donor site, forehead, cheeks, chin, mouth, neck, axillae, genitalia, hands, and/or feet; 20 sq cm or less",5.3,090,,False,False,False,False,False
+15271,"Application of skin substitute graft to trunk, arms, legs, total wound surface area up to 100 sq cm; first 25 sq cm or less wound surface area",0.66,000,,False,False,False,False,False
+15272,"Application of skin substitute graft to trunk, arms, legs, total wound surface area up to 100 sq cm; each additional 25 sq cmwoundsurface area, or part thereof (List separately in addition to code for primary procedure)",0.13,ZZZ,,False,False,False,False,False
+15273,"Application of skin substitute graft to trunk, arms, legs, total wound surface area greater than or equal to 100 sq cm; first 100 sq cm wound surface area, or 1% of body area of infants and children",1.58,000,,False,False,False,False,False
+15274,"Application of skin substitute graft to trunk, arms, legs, total wound surface area greater than or equal to 100 sq cm; each additional 100 sq cmwoundsurface area, or part thereof, or each additional 1% of body area of infants and children, or part thereof (List separately in addition to code for primary procedure)",0.33,ZZZ,,False,False,False,False,False
+15275,"Application of skin substitute graft to face, scalp, eyelids, mouth, neck, ears, orbits, genitalia, hands, feet, and/or multiple digits, total wound surface area up to 100 sq cm; first 25 sq cm or less wound surface area",0.77,000,,False,False,False,False,False
+15276,"Application of skin substitute graft to face, scalp, eyelids, mouth, neck, ears, orbits, genitalia, hands, feet, and/or multiple digits, total wound surface area up to 100 sq cm; each additional 25 sq cm wound surface area, or part thereof (List sep- arately in addition to code for primary procedure)",0.19,ZZZ,,False,False,False,False,False
+15277,"Application of skin substitute graft to face, scalp, eyelids, mouth, neck, ears, orbits, genitalia, hands, feet, and/or multiple digits, total wound surface area greater than or equal to 100 sq cm; first 100 sq cm wound surface area, or 1% of body area of infants and children",1.64,000,,False,False,False,False,False
+15278,"Application of skin substitute graft to face, scalp, eyelids, mouth, neck, ears, orbits, genitalia, hands, feet, and/or multiple digits, total wound surface area greater than or equal to 100 sq cm; each additional 100 sq cmwoundsurface area, or part thereof, or each additional 1% of body area of infants and children, or part thereof (List separately in addition to code for primary procedure)",0.41,ZZZ,,False,False,False,False,False
+15574,"Formation of direct or tubed pedicle, with or without transfer; forehead, cheeks, chin, mouth, neck, axillae, genitalia, hands or feet",5.75,090,,False,False,False,False,False
+15620,"Delay of flap or sectioning of flap (division and inset); at forehead, cheeks, chin, neck, axillae, genitalia, hands, or feet",5.4,090,,False,False,False,False,False
+15756,Free muscle or myocutaneous flap with microvascular anastomosis,18.09,090,,False,False,False,False,False
+15757,Free skin flap with microvascular anastomosis,21.28,090,,False,False,False,False,False
+,"Arthrocentesis, aspiration and/or injection, small joint or bursa (eg, fingers, toes); without ultrasound guidance",0.28,000,,False,False,False,False,False
+,"Arthrocentesis, aspiration and/or injection, intermediate joint or bursa (eg, tem- poromandibular, acromioclavicular, wrist, elbow or ankle, olecranon bursa); with- out ultrasound guidance",0.31,000,,False,False,False,False,False
+,"Arthrocentesis, aspiration and/or injection, major joint or bursa (eg, shoulder, hip, knee, subacromial bursa); without ultrasound guidance",0.25,000,,False,False,False,False,False
+,Aspiration and/or injection of ganglion cyst(s) any location,0.31,000,,False,False,False,False,False
+,Aspiration and injection for treatment of bone cyst,0.80,010,,False,False,False,False,False
+,"Insertion of wire or pin with application of skeletal traction, including removal (separate procedure)",0.70,010,,False,False,False,False,False
+,"Application of cranial tongs, caliper, or stereotactic frame, including removal (sep- arate procedure)",2.00,000,,False,False,False,False,False
+,Removal of tongs or halo applied by another individual,0.20,010,,False,False,False,False,False
+,"Removal of implant; superficial (eg, buried wire, pin or rod) (separate procedure)",0.35,010,,False,False,False,False,False
+,"Removal of implant; deep (eg, buried wire, pin, screw, metal band, nail, rod or plate)",2.40,090,,False,False,False,False,False
+,"Application of multiplane (pins or wires in more than 1 plane), unilateral, external fixation with stereotactic computer-assisted adjustment (eg, spatial frame), including imaging; initial and subsequent alignment(s), assessment(s), and com- putation(s) of adjustment schedule(s)",7.25,090,,False,False,False,False,False
+,"Application of multiplane (pins or wires in more than 1 plane), unilateral, external fixation with stereotactic computer-assisted adjustment (eg, spatial frame), including imaging; exchange (ie, removal and replacement) of strut, each",8.59,000,,False,False,False,False,False
+,"Bone graft, any donor area; minor or small (eg, dowel or button)",1.60,000,,False,False,False,False,False
+,"Tendon graft, from a distance (eg, palmaris, toe extensor, plantaris)",2.17,090,,False,False,False,False,False
+,"Tissue grafts, other (eg, paratenon, fat, dermis)",2.07,090,,False,False,False,False,False
+,Electrical stimulation to aid bone healing; invasive (operative),4.14,000,,False,False,False,False,False
+,"Low intensity ultrasound stimulation to aid bone healing, noninvasive (nonopera- tive)",2.59,000,,False,False,False,False,False
+,"Computer-assisted surgical navigational procedure for musculoskeletal proce- dures, image-less (List separately in addition to code for primary procedure)",0.83,ZZZ,,False,False,False,False,False
+,"Unlisted procedure, musculoskeletal system, general",,YYY,,False,False,False,False,True
+,"Decompression fasciotomy, leg; anterior and/or lateral compartments only",6.47,090,,False,False,False,False,False
+,"Decompression fasciotomy, leg; posterior compartment(s) only",6.04,090,,False,False,False,False,False
+,"Decompression fasciotomy, leg; anterior and/or lateral, and posterior compart- ment(s)",7.77,090,,False,False,False,False,False
+,"Incision and drainage, leg or ankle; deep abscess or hematoma",3.67,090,,False,False,False,False,False
+,"Incision and drainage, leg or ankle; infected bursa",3.67,090,,False,False,False,False,False
+,"Tenotomy, percutaneous, Achilles tendon (separate procedure); local anesthesia",3.45,010,,False,False,False,False,False
+,"Tenotomy, percutaneous, Achilles tendon (separate procedure); general anesthe- sia",3.45,010,,False,False,False,False,False
+,"Incision (eg, osteomyelitis or bone abscess), leg or ankle",5.18,090,,False,False,False,False,False
+,"Arthrotomy, ankle, including exploration, drainage, or removal of foreign body",6.47,090,,False,False,False,False,False
+,"Arthrotomy, posterior capsular release, ankle, with or without Achilles tendon lengthening",7.33,090,,False,False,False,False,False
+,"Biopsy, soft tissue of leg or ankle area; superficial",3.23,010,,False,False,False,False,False
+,"Biopsy, soft tissue of leg or ankle area; deep (subfascial or intramuscular)",3.88,090,,False,False,False,False,False
+,"Radical resection of tumor (eg, sarcoma), soft tissue of leg or ankle area; less than",6.47,090,,False,False,False,False,False
+27692,Transfer or transplant of single tendon (with muscle redirection or rerouting); each additional tendon (List separately in addition to code for primary procedure),1.73,ZZZ,,False,False,False,False,False
+27695,"Repair, primary, disrupted ligament, ankle; collateral",6.62,090,,False,False,False,False,False
+27696,"Repair, primary, disrupted ligament, ankle; both collateral ligaments",9.19,090,,False,False,False,False,False
+27698,"Repair, secondary, disrupted ligament, ankle, collateral (eg, Watson-Jones proce- dure)",9.19,090,,False,False,False,False,False
+27700,"Arthroplasty, ankle;",7.77,090,,False,False,False,False,False
+27704,Removal of ankle implant,9.19,090,,False,False,False,False,False
+27705,Osteotomy; tibia,12.07,090,,False,False,False,False,False
+27707,Osteotomy; fibula,5.18,090,,False,False,False,False,False
+27709,Osteotomy; tibia and fibula,14.66,090,,False,False,False,False,False
+27712,"Osteotomy; multiple, with realignment on intramedullary rod (eg, Sofield type pro- cedure)",11.36,090,,False,False,False,False,False
+27715,"Osteoplasty, tibia and fibula, lengthening or shortening",15.81,090,,False,False,False,False,False
+27720,"Repair of nonunion or malunion, tibia; without graft, (eg, compression technique)",12.94,090,,False,False,False,False,False
+27722,"Repair of nonunion or malunion, tibia; with sliding graft",14.24,090,,False,False,False,False,False
+27724,"Repair of nonunion or malunion, tibia; with iliac or other autograft (includes obtain- ing graft)",15.53,090,,False,False,False,False,False
+27725,"Repair of nonunion or malunion, tibia; by synostosis, with fibula, any method",15.53,090,,False,False,False,False,False
+27726,Repair of fibula nonunion and/or malunion with internal fixation,9.63,090,,False,False,False,False,False
+27730,"Arrest, epiphyseal (epiphysiodesis), open; distal tibia",5.18,090,,False,False,False,False,False
+27732,"Arrest, epiphyseal (epiphysiodesis), open; distal fibula",4.14,090,,False,False,False,False,False
+27734,"Arrest, epiphyseal (epiphysiodesis), open; distal tibia and fibula",7.25,090,,False,False,False,False,False
+27745,"Prophylactic treatment (nailing, pinning, plating or wiring) with or without methyl- methacrylate, tibia",8.69,090,,False,False,False,False,False
+27760,Closed treatment of medial malleolus fracture; without manipulation,2.27,090,,False,False,False,False,False
+27762,"Closed treatment of medial malleolus fracture; with manipulation, with or without skin or skeletal traction",4.32,090,,False,False,False,False,False
+27766,"Open treatment of medial malleolus fracture, includes internal fixation, when per- formed",7.77,090,,False,False,False,False,False
+27767,Closed treatment of posterior malleolus fracture; without manipulation,1.55,090,,False,False,False,False,False
+27768,Closed treatment of posterior malleolus fracture; with manipulation,2.59,090,,False,False,False,False,False
+27769,"Open treatment of posterior malleolus fracture, includes internal fixation, when performed",5.18,090,,False,False,False,False,False
+27780,Closed treatment of proximal fibula or shaft fracture; without manipulation,1.88,090,,False,False,False,False,False
+27781,Closed treatment of proximal fibula or shaft fracture; with manipulation,3.23,090,,False,False,False,False,False
+27784,"Open treatment of proximal fibula or shaft fracture, includes internal fixation, when performed",5.24,090,,False,False,False,False,False
+27786,Closed treatment of distal fibular fracture (lateral malleolus); without manipulation,1.98,090,,False,False,False,False,False
+27788,Closed treatment of distal fibular fracture (lateral malleolus); with manipulation,4.32,090,,False,False,False,False,False
+27792,"Open treatment of distal fibular fracture (lateral malleolus), includes internal fixa- tion, when performed",7.77,090,,False,False,False,False,False
+27808,"Closed treatment of bimalleolar ankle fracture (eg, lateral and medial malleoli, or lateral and posterior malleoli or medial and posterior malleoli); without manipula- tion",2.59,090,,False,False,False,False,False
+27810,"Closed treatment of bimalleolar ankle fracture (eg, lateral and medial malleoli, or lateral and posterior malleoli or medial and posterior malleoli); with manipulation",3.88,090,,False,False,False,False,False
+27814,"Open treatment of bimalleolar ankle fracture (eg, lateral and medial malleoli, or lateral and posterior malleoli, or medial and posterior malleoli), includes internal fixation, when performed",8.63,090,,False,False,False,False,False
+27816,Closed treatment of trimalleolar ankle fracture; without manipulation,2.37,090,,False,False,False,False,False
+28047,"Radical resection of tumor (eg, sarcoma), soft tissue of foot or toe; 3 cm or greater",8.07,090,,False,False,False,False,False
+28050,Arthrotomy with biopsy; intertarsal or tarsometatarsal joint,3.95,090,,False,False,False,False,False
+28052,Arthrotomy with biopsy; metatarsophalangeal joint,3.23,090,,False,False,False,False,False
+28054,Arthrotomy with biopsy; interphalangeal joint,3.23,090,,False,False,False,False,False
+28055,"Neurectomy, intrinsic musculature of foot",3.31,090,,False,False,False,False,False
+28060,"Fasciectomy, plantar fascia; partial (separate procedure)",4.74,090,,False,False,False,False,False
+28062,"Fasciectomy, plantar fascia; radical (separate procedure)",6.04,090,,False,False,False,False,False
+28070,"Synovectomy; intertarsal or tarsometatarsal joint, each",3.95,090,,False,False,False,False,False
+28072,"Synovectomy; metatarsophalangeal joint, each",3.23,090,,False,False,False,False,False
+28080,"Excision, interdigital (Morton) neuroma, single, each",3.88,090,,False,False,False,False,False
+28086,"Synovectomy, tendon sheath, foot; flexor",4.15,090,,False,False,False,False,False
+28088,"Synovectomy, tendon sheath, foot; extensor",3.26,090,,False,False,False,False,False
+28090,"Excision of lesion, tendon, tendon sheath, or capsule (including synovectomy) (eg, cyst or ganglion); foot",3.23,090,,False,False,False,False,False
+28092,"Excision of lesion, tendon, tendon sheath, or capsule (including synovectomy) (eg, cyst or ganglion); toe(s), each",3.23,090,,False,False,False,False,False
+28100,"Excision or curettage of bone cyst or benign tumor, talus or calcaneus;",4.74,090,,False,False,False,False,False
+28102,"Excision or curettage of bone cyst or benign tumor, talus or calcaneus; with iliac or other autograft (includes obtaining graft)",5.18,090,,False,False,False,False,False
+28103,"Excision or curettage of bone cyst or benign tumor, talus or calcaneus; with allograft",4.74,090,,False,False,False,False,False
+28104,"Excision or curettage of bone cyst or benign tumor, tarsal or metatarsal, except talus or calcaneus;",3.62,090,,False,False,False,False,False
+28106,"Excision or curettage of bone cyst or benign tumor, tarsal or metatarsal, except talus or calcaneus; with iliac or other autograft (includes obtaining graft)",5.18,090,,False,False,False,False,False
+28107,"Excision or curettage of bone cyst or benign tumor, tarsal or metatarsal, except talus or calcaneus; with allograft",5.18,090,,False,False,False,False,False
+28108,"Excision or curettage of bone cyst or benign tumor, phalanges of foot",4.10,090,,False,False,False,False,False
+28110,"Ostectomy, partial excision, fifth metatarsal head (bunionette) (separate proce- dure)",3.23,090,,False,False,False,False,False
+28111,"Ostectomy, complete excision; first metatarsal head",4.64,090,,False,False,False,False,False
+28112,"Ostectomy, complete excision; other metatarsal head (second, third or fourth)",3.23,090,,False,False,False,False,False
+28113,"Ostectomy, complete excision; fifth metatarsal head",3.23,090,,False,False,False,False,False
+28114,"Ostectomy, complete excision; all metatarsal heads, with partial proximal pha- langectomy, excluding first metatarsal (eg, Clayton type procedure)",7.90,090,,False,False,False,False,False
+28116,"Ostectomy, excision of tarsal coalition",6.04,090,,False,False,False,False,False
+28118,"Ostectomy, calcaneus;",6.47,090,,False,False,False,False,False
+28119,"Ostectomy, calcaneus; for spur, with or without plantar fascial release",6.91,090,,False,False,False,False,False
+28120,"Partial excision (craterization, saucerization, sequestrectomy, or diaphysectomy) bone (eg, osteomyelitis or bossing); talus or calcaneus",4.32,090,,False,False,False,False,False
+28122,"Partial excision (craterization, saucerization, sequestrectomy, or diaphysectomy) bone (eg, osteomyelitis or bossing); tarsal or metatarsal bone, except talus or cal- caneus",4.32,090,,False,False,False,False,False
+28124,"Partial excision (craterization, saucerization, sequestrectomy, or diaphysectomy) bone (eg, osteomyelitis or bossing); phalanx of toe",3.23,090,,False,False,False,False,False
+28126,"Resection, partial or complete, phalangeal base, each toe",3.67,090,,False,False,False,False,False
+28130,Talectomy (astragalectomy),12.07,090,,False,False,False,False,False
+,"toe, each toe",,090,,False,False,False,False,False
+28150,"Phalangectomy,",3.23,,,False,False,False,False,False
+28153,"Resection, condyle(s), distal end of phalanx, each toe",3.23,090,,False,False,False,False,False
+28299,"Correction, hallux valgus (bunionectomy), with sesamoidectomy, whenperformed; with double osteotomy, any method",7.56,090,,False,False,False,False,False
+28300,"Osteotomy; calcaneus (eg, Dwyer or Chambers type procedure), with or without internal fixation",6.91,090,,False,False,False,False,False
+28302,Osteotomy; talus,5.93,090,,False,False,False,False,False
+28304,"Osteotomy, tarsal bones, other than calcaneus or talus;",5.24,090,,False,False,False,False,False
+28305,"Osteotomy, tarsal bones, other than calcaneus or talus; with autograft (includes obtaining graft) (eg, Fowler type)",5.93,090,,False,False,False,False,False
+28306,"Osteotomy, with or without lengthening, shortening or angular correction, meta- tarsal; first metatarsal",4.64,090,,False,False,False,False,False
+28307,"Osteotomy, with or without lengthening, shortening or angular correction, meta- tarsal; first metatarsal with autograft (other than first toe)",5.18,090,,False,False,False,False,False
+28308,"Osteotomy, with or without lengthening, shortening or angular correction, meta- tarsal; other than first metatarsal, each",3.45,090,,False,False,False,False,False
+28309,"Osteotomy, with or without lengthening, shortening or angular correction, meta- tarsal; multiple (eg, Swanson type cavus foot procedure)",6.47,090,,False,False,False,False,False
+28310,"Osteotomy, shortening, angular or rotational correction; proximal phalanx, first toe (separate procedure)",3.23,090,,False,False,False,False,False
+28312,"Osteotomy, shortening, angular or rotational correction; other phalanges, any toe",3.23,090,,False,False,False,False,False
+28313,"Reconstruction, angular deformity of toe, soft tissue procedures only (eg, overlap- ping second toe, fifth toe, curly toes)",3.23,090,,False,False,False,False,False
+28315,"Sesamoidectomy, first toe (separate procedure)",3.23,090,,False,False,False,False,False
+28320,"Repair, nonunion or malunion; tarsal bones",4.32,090,,False,False,False,False,False
+28322,"Repair, nonunion or malunion; metatarsal, with or without bone graft (includes obtaining graft)",4.32,090,,False,False,False,False,False
+28340,"Reconstruction, toe, macrodactyly; soft tissue resection",5.8,090,,False,False,False,False,False
+28341,"Reconstruction, toe, macrodactyly; requiring bone resection",6.93,090,,False,False,False,False,False
+28344,"Reconstruction, toe(s); polydactyly",3.43,090,,False,False,False,False,False
+28345,"Reconstruction, toe(s); syndactyly, with or without skin graft(s), each web",4.87,090,,False,False,False,False,False
+28360,"Reconstruction, cleft foot",11.02,090,,False,False,False,False,False
+28400,Closed treatment of calcaneal fracture; without manipulation,1.94,090,,False,False,False,False,False
+28405,Closed treatment of calcaneal fracture; with manipulation,2.59,090,,False,False,False,False,False
+28406,"Percutaneous skeletal fixation of calcaneal fracture, with manipulation",4.32,090,,False,False,False,False,False
+28415,"Open treatment of calcaneal fracture, includes internal fixation, when performed;",9.49,090,,False,False,False,False,False
+28420,"Open treatment of calcaneal fracture, includes internal fixation, when performed; with primary iliac or other autogenous bone graft (includes obtaining graft)",10.35,090,,False,False,False,False,False
+28430,Closed treatment of talus fracture; without manipulation,1.51,090,,False,False,False,False,False
+28435,Closed treatment of talus fracture; with manipulation,2.67,090,,False,False,False,False,False
+28436,"Percutaneous skeletal fixation of talus fracture, with manipulation",3.67,090,,False,False,False,False,False
+28445,"Open treatment of talus fracture, includes internal fixation, when performed",7.77,090,,False,False,False,False,False
+28446,"Open osteochondral autograft, talus (includes obtaining graft[s])",7.76,090,,False,False,False,False,False
+28450,"Treatment of tarsal bone fracture (except talus and calcaneus); without manipula- tion, each",1.28,090,,False,False,False,False,False
+28455,"Treatment of tarsal bone fracture (except talus and calcaneus); with manipulation, each",2.15,090,,False,False,False,False,False
+28456,"Percutaneous skeletal fixation of tarsal bone fracture (except talus and calca- neus), with manipulation, each",3.45,090,,False,False,False,False,False
+28465,"Open treatment of tarsal bone fracture (except talus and calcaneus), includes internal fixation, when performed, each",4.1,090,,False,False,False,False,False
+28470,"Closed treatment of metatarsal fracture; without manipulation, each",1.48,090,,False,False,False,False,False
+28475,"Closed treatment of metatarsal fracture; with manipulation, each",2.37,090,,False,False,False,False,False
+"Arthrodesis, midtarsal or tarsometatarsal, multiple or transverse;",7.77,,,,False,False,False,False,False
+"Arthrodesis, midtarsal or tarsometatarsal, multiple or transverse; with osteotomy (eg, flatfoot correction)",7.77,,,,False,False,False,False,False
+"Arthrodesis, with tendon lengthening and advancement, midtarsal, tarsal navicu- lar-cuneiform (eg, Miller type procedure)",6.21,,,,False,False,False,False,False
+"Arthrodesis, midtarsal or tarsometatarsal, single joint",3.67,,,,False,False,False,False,False
+"Arthrodesis, great toe; metatarsophalangeal joint",4.64,,,,False,False,False,False,False
+"Arthrodesis, great toe; interphalangeal joint",3.45,,,,False,False,False,False,False
+"Arthrodesis, with extensor hallucis longus transfer to first metatarsal neck, great toe, interphalangeal joint (eg, Jones type procedure)",5.18,,,,False,False,False,False,False
+"Amputation, foot; midtarsal (eg, Chopart type procedure)",7.77,,,,False,False,False,False,False
+"Amputation, foot; transmetatarsal",7.77,,,,False,False,False,False,False
+"Amputation, metatarsal, with toe, single",5.18,,,,False,False,False,False,False
+"Amputation, toe; metatarsophalangeal joint",3.67,,,,False,False,False,False,False
+"Amputation, toe; interphalangeal joint",3.23,,,,False,False,False,False,False
+"Extracorporeal shock wave, high energy, performed by a physician or other quali- fied health care professional, requiring anesthesia other than local, including ultrasound guidance, involving the plantar fascia",2.79,,,,False,False,False,False,False
+"Unlisted procedure, foot or toes",BR,,,,False,False,False,False,False
+Application of long leg cast (thigh to toes);,0.64,,,,False,False,False,False,False
+Application of long leg cast (thigh to toes); walker or ambulatory type,0.84,,,,False,False,False,False,False
+Application of long leg cast brace,0.84,,,,False,False,False,False,False
+Application of cylinder cast (thigh to ankle),0.41,,,,False,False,False,False,False
+Application of short leg cast (below knee to toes);,0.49,,,,False,False,False,False,False
+Application of short leg cast (below knee to toes); walking or ambulatory type,0.59,,,,False,False,False,False,False
+Application of patellar tendon bearing (PTB) cast,0.74,,,,False,False,False,False,False
+Adding walker to previously applied cast,0.20,,,,False,False,False,False,False
+"Application of clubfoot cast with molding or manipulation, long or short leg",0.30,,,,False,False,False,False,False
+Application of long leg splint (thigh to ankle or,toes) 0.44,,,,False,False,False,False,False
+Application of short leg splint (calf to foot),0.35,,,,False,False,False,False,False
+Strapping; ankle and/or foot,0.21,,,,False,False,False,False,False
+Strapping; toes,0.13,,,,False,False,False,False,False
+Strapping; Unna boot,0.29,,,,False,False,False,False,False
+"Application of multi-layer compression system; leg (below knee), including ankle and foot",0.44,,,,False,False,False,False,False
+"Removal or bivalving; gauntlet, boot or body cast",0.25,,,,False,False,False,False,False
+Windowing of cast,0.15,,,,False,False,False,False,False
+Wedging of cast (except clubfoot casts),0.20,,,,False,False,False,False,False
+Wedging of clubfoot cast,0.20,,,,False,False,False,False,False
+"Unlisted procedure, casting or strapping",BR,,,,False,False,False,False,False
+"Arthroscopy, ankle, surgical, excision of osteochondral defect of talus and/or tibia, including drilling of the defect",10.45,,,,False,False,False,False,False
+"Arthroscopically aided repair of large osteochondritis dissecans lesion, talar dome fracture, or tibial plafond fracture, with or without internal fixation (includes arthroscopy)",12.27,,,,False,False,False,False,False
+Endoscopic plantar fasciotomy,2.56,,,,False,False,False,False,False
+"Arthroscopy, ankle (tibiotalar and fibulotalar joints), surgical; with removal of loose body or foreign body",7.51,,,,False,False,False,False,False
+"Arthroscopy, ankle (tibiotalar and fibulotalar joints), surgical; synovectomy, partial",7.11,,,,False,False,False,False,False

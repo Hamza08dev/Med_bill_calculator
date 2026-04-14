@@ -1,0 +1,32 @@
+,Code,Description,Relative Value,FUD,PC/TC Split
++,77001,"Fluoroscopic guidance for central venous access device placement, replacement (catheter only or complete), or removal (includes fluoroscopic guidance for vascu- lar access and catheter manipulation, any necessary contrast injections through access site or catheter with related venography radiologic supervision and inter- pretation, and radiographic documentation of final catheter position) (List sepa- rately in addition to code for primary procedure)",3.11,ZZZ,22/78
+ +,77002,"Fluoroscopic guidance for needle placement (eg, biopsy, aspiration, injection, localization device) (List separately in addition to code for primary procedure)",2.81,ZZZ,34/66
+ +,77003,Fluoroscopic guidance and localization of needle or catheter tip for spine or paraspinous diagnostic or therapeutic injection procedures (epidural or sub- arachnoid) (List separately in addition to code for primary procedure),2.73,ZZZ,38/62
+,77011,Computed tomography guidance for stereotactic localization,11.61,XXX,16/84
+,77012,"Computed tomography guidance for needle placement (eg, biopsy, aspiration, injection, localization device), radiological supervision and interpretation",11.61,XXX,15/85
+,77013,"Computed tomography guidance for, and monitoring of, parenchymal tissue abla- tion",20.55,XXX,36/64
+,77014,Computed tomography guidance for placement of radiation therapy fields,5.36,XXX,27/73
+,77021,"Magnetic resonance guidance for needle placement (eg, for biopsy, needle aspi- ration, injection, or placement of localization device) radiological supervision and interpretation",20.15,XXX,16/84
+,77022,"Magnetic resonance guidance for, and monitoring of, parenchymal tissue ablation",27.41,XXX,31/69
+,77053,"Mammary ductogram or galactogram, single duct, radiological supervision and interpretation",4.26,XXX,15/85
+,77054,"Mammary ductogram or galactogram, multiple ducts, radiological supervision and interpretation",4.85,XXX,14/86
+,77058,"Magnetic resonance imaging, breast, without and/or with contrast material(s); unilateral",24.51,XXX,11/89
+,77059,"Magnetic resonance imaging, breast, without and/or with contrast material(s); bilateral",32.42,XXX,8/92
+,77061,Diagnostic digital breast tomosynthesis; unilateral,BR,XXX,
+,77062,Diagnostic digital breast tomosynthesis; bilateral,BR,XXX,
+ +,77063,"Screening digital breast tomosynthesis, bilateral (List separately in addition to code for primary procedure)",2.30,ZZZ,54/46
+,77065,"Diagnostic mammography, including computer-aided detection (CAD) when per- formed; unilateral",5.65,XXX,30/70
+,77066,"Diagnostic mammography, including computer-aided detection (CAD) when per- formed; bilateral",7.14,XXX,30/70
+,77067,"Screening mammography, bilateral (2-view study of each breast), including com- puter-aided detection (CAD) when performed",5.75,XXX,28/72
+,77071,"Manual application of stress performed by physician or other qualified health care professional for joint radiography, including contralateral joint if indicated",1.28,XXX,
+,77072,Bone age studies,1.66,XXX,32/68
+,77073,"Bone length studies (orthoroentgenogram, scanogram)",2.30,XXX,31/69
+,77074,"Radiologic examination, osseous survey; limited (eg, for metastases)",2.52,XXX,37/63
+,77075,"Radiologic examination, osseous survey; complete (axial and appendicular skele- ton)",4.08,XXX,33/67
+,77076,"Radiologic examination, osseous survey, infant",2.55,XXX,55/45
+,77077,"Joint survey, single view, 2 or more joints (specify)",2.37,XXX,27/73
+,77078,"Computed tomography, bone mineral density study, 1 or more sites, axial skeleton (eg, hips, pelvis, spine)",5.36,XXX,10/90
+,77080,"Dual-energy X-ray absorptiometry (DXA), bone density study, 1 or more sites; axial skeleton (eg, hips, pelvis, spine)",6.48,XXX,11/89
+,77081,"Dual-energy X-ray absorptiometry (DXA), bone density study, 1 or more sites;",2.04,XXX,28/72
+,,"appendicular skeleton (peripheral) (eg, radius, wrist, heel)",,,40/60
+,77084,"Magnetic resonance (eg, proton) imaging, bone marrow blood supply",2.68,XXX,

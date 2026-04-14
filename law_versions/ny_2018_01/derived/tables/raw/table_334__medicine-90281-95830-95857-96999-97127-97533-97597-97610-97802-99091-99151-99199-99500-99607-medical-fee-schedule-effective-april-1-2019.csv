@@ -1,0 +1,29 @@
+,Code,Description,Relative Value,FUD,PC/TC Split
+95148,Professional services for the supervision of preparation and provision of antigens for allergen immunotherapy (specify number of doses); 4 single stinging insect venoms,6.43,,XXX,
+95149,Professional services for the supervision of preparation and provision of antigens for allergen immunotherapy (specify number of doses); 5 single stinging insect venoms,7.61,,XXX,
+95165,Professional services for the supervision of preparation and provision of antigens for allergen immunotherapy; single or multiple antigens (specify number of doses),2.70,,XXX,
+95170,Professional services for the supervision of preparation and provision of antigens for allergen immunotherapy; whole body extract of biting insect or other arthropod (specify number of doses),1.99,,XXX,
+95180,"Rapid desensitization procedure, each hour (eg, insulin, penicillin, equine serum)",18.26,,XXX,
+95199,Unlisted allergy/clinical immunologic service or procedure,BR,,XXX,
+95249,"Ambulatory continuous glucose monitoring of interstitial tissue fluid via a subcuta- neous sensor for a minimum of 72 hours; patient-provided equipment, sensor placement, hook-up, calibration of monitor, patient training, and printout of record- ing",10.67,,XXX,
+95250,"Ambulatory continuous glucose monitoring of interstitial tissue fluid via a subcuta- neous sensor for a minimum of 72 hours; physician or other qualified health care professional (office) provided equipment, sensor placement, hook-up, calibration of monitor, patient training, removal of sensor, and printout of recording",23.67,XXX,,0/100
+95251,"Ambulatory continuous glucose monitoring of interstitial tissue fluid via a subcuta- neous sensor for a minimum of 72 hours; analysis, interpretation and report",4.23,,XXX,
+95782,"Polysomnography; younger than 6 years, sleep staging with 4 or more additional parameters of sleep, attended by a technologist",177.79,,XXX,14/86
+95783,"Polysomnography; younger than 6 years, sleep staging with 4 or more additional parameters of sleep, with initiation of continuous positive airway pressure therapy or bi-level ventilation, attended by a technologist",189.62,,XXX,14/86
+95800,"Sleep study, unattended, simultaneous recording; heart rate, oxygen saturation, respiratory analysis (eg, by airflow or peripheral arterial tone), and sleep time",175.02,,XXX,31/69
+95801,"Sleep study, unattended, simultaneous recording; minimum of heart rate, oxygen saturation, and respiratory analysis (eg, by airflow or peripheral arterial tone)",296.09,,XXX,56/44
+95803,"Actigraphy testing, recording, analysis, interpretation, and report (minimum of 72 hours to 14 consecutive days of recording)",34.16,,XXX,27/73
+95805,"Multiple sleep latency or maintenance of wakefulness testing, recording, analysis and interpretation of physiological measurements of sleep during multiple trials to assess sleepiness",60.03,,XXX,40/60
+95806,"Sleep study, unattended, simultaneous recording of, heart rate, oxygen saturation, respiratory airflow, and respiratory effort (eg, thoracoabdominal movement)",67.64,,XXX,50/50
+95807,"Sleep study, simultaneous recording of ventilation, respiratory effort, ECG or heart rate, and oxygen saturation, attended by a technologist",84.89,,XXX,40/60
+95808,"Polysomnography; any age, sleep staging with 1-3 additional parameters of sleep, attended by a technologist",53.44,,XXX,40/60
+95810,"Polysomnography; age 6 years or older, sleep staging with 4 or more additional parameters of sleep, attended by a technologist",57.32,,XXX,40/60
+95811,"Polysomnography; age 6 years or older, sleep staging with 4 or more additional parameters of sleep, with initiation of continuous positive airway pressure therapy or bilevel ventilation, attended by a technologist",105.01,,XXX,40/60
+95812,Electroencephalogram (EEG) extended monitoring; 41-60 minutes,32.97,XXX,,40/60
+95813,Electroencephalogram (EEG) extended monitoring; greater than 1 hour,45.41,,XXX,40/60
+95816,Electroencephalogram (EEG); including recording awake and drowsy,26.38,,XXX,40/60
+95819,Electroencephalogram (EEG); including recording awake and asleep,26.38,,XXX,40/60
+95822,Electroencephalogram (EEG); recording in coma or sleep only,26.38,,XXX,40/60
+95824,Electroencephalogram (EEG); cerebral death evaluation only,37.50,,XXX,40/60
+95827,Electroencephalogram (EEG); all night recording,33.82,,XXX,40/60
+95829,Electrocorticogram at surgery (separate procedure),54.96,,XXX,95/05

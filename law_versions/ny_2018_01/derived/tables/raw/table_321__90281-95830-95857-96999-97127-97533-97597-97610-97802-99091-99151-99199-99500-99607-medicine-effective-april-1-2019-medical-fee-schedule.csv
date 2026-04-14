@@ -1,0 +1,30 @@
+,Code,Description,Relative Value,FUD,PC/TC Split
+,92953,Temporary transcutaneous pacing,12.68,000,
+,92960,"Cardioversion, elective, electrical conversion of arrhythmia; external",38.05,000,
+,92961,"Cardioversion, elective, electrical conversion of arrhythmia; internal (separate procedure)",118.37,000,
+,92970,Cardioassist-method of circulatory assist; internal,42.28,000,
+,92971,Cardioassist-method of circulatory assist; external,12.68,000,
+ +,92973,Percutaneous transluminal coronary thrombectomy mechanical (List separately in addition to code for primary procedure),150.08,ZZZ,
++,92974,Transcatheter placement of radiation delivery device for subsequent coronary intravascular brachytherapy (List separately in addition to code for primary proce- dure),168.68,ZZZ,
+,92975,"Thrombolysis, coronary; by intracoronary infusion, including selective coronary angiography",139,000,
+,92977,"Thrombolysis, coronary; by intravenous infusion",70.51,XXX,
+ +,92978,"Endoluminal imaging of coronary vessel or graft using intravascular ultrasound (IVUS) or optical coherence tomography (OCT) during diagnostic evaluation and/or therapeutic intervention including imaging supervision, interpretation and report; initial vessel (List separately in addition to code for primary procedure)",143.27,ZZZ,
+ +,92979,"Endoluminal imaging of coronary vessel or graft using intravascular ultrasound (IVUS) or optical coherence tomography (OCT) during diagnostic evaluation and/or therapeutic intervention including imaging supervision, interpretation and report; each additional vessel (List separately in addition to code for primary pro- cedure)",63.24,ZZZ,46/54
+,92986,Percutaneous balloon valvuloplasty; aortic valve,287.47,090,
+,92987,Percutaneous balloon valvuloplasty; mitral valve,316.22,090,
+,92990,Percutaneous balloon valvuloplasty; pulmonary valve,236.74,090,
+,92992,"Atrial septectomy or septostomy; transvenous method, balloon (eg, Rashkind type) (includes cardiac catheterization)",444.56,090,
+,92993,Atrial septectomy or septostomy; blade method (Park septostomy) (includes car- diac catheterization),311.48,090,
+,92997,Percutaneous transluminal pulmonary artery balloon angioplasty; single vessel,300.15,000,
++,92998,Percutaneous transluminal pulmonary artery balloon angioplasty; each additional vessel (List separately in addition to code for primary procedure),150.08,ZZZ,
+,93000,"Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",6.59,XXX,40/60
+,93005,"Electrocardiogram, routine ECG with at least 12 leads; tracing only, without inter- pretation and report",4.9,XXX,0/100
+,93010,"Electrocardiogram, routine ECG with at least 12 leads; interpretation and report only",3.3,XXX,
+,93015,"Cardiovascular stress test using maximal or submaximal treadmill or bicycle exer- cise, continuous electrocardiographic monitoring, and/or pharmacological stress; with supervision, interpretation and report",38.05,XXX,
+,93016,"Cardiovascular stress test using maximal or submaximal treadmill or bicycle exer- cise, continuous electrocardiographic monitoring, and/or pharmacological stress; supervision only, without interpretation and report",9.51,XXX,
+,93017,"Cardiovascular stress test using maximal or submaximal treadmill or bicycle exer- cise, continuous electrocardiographic monitoring, and/or pharmacological stress; tracing only, without interpretation and report",19.02,XXX,0/100
+,93018,"Cardiovascular stress test using maximal or submaximal treadmill or bicycle exer- cise, continuous electrocardiographic monitoring, and/or pharmacological stress; interpretation and report only",9.51,XXX,
+,93024,Ergonovine provocation test,35.34,XXX,60/40
+,93025,Microvolt T-wave alternans for assessment of ventricular arrhythmias,45.66,XXX,
+,93040,"Rhythm ECG, 1-3 leads; with interpretation and report",4.06,XXX,65/35
+,93041,"Rhythm ECG, 1-3 leads; tracing only without interpretation and report",2.03,XXX,0/100

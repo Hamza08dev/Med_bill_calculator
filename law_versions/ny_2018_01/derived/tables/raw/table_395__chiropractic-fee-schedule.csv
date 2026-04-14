@@ -1,0 +1,30 @@
+Code,Description,Relative Value,FUD,PC/TC Split
+95860,Needle electromyography; 1 extremity with or without related paraspinal areas,21.98,XXX,80/20
+95861,Needle electromyography; 2 extremities with or without related paraspinal areas,28.58,XXX,80/20
+95863,Needle electromyography; 3 extremities with or without related paraspinal areas,37.2,XXX,80/20
+95864,Needle electromyography; 4 extremities with or without related paraspinal areas,48.36,XXX,80/20
+95867,"Needle electromyography; cranial nerve supplied muscle(s), unilateral",22.83,XXX,80/20
+95868,"Needle electromyography; cranial nerve supplied muscles, bilateral",39.91,XXX,80/20
+95869,Needle electromyography; thoracic paraspinal muscles (excluding T1 or T12),16.91,XXX,80/20
+95870,"Needle electromyography; limited study of muscles in 1 extremity or non-limb (axial) muscles (unilateral or bilateral), other than thoracic paraspinal, cranial nerve supplied muscles, or sphincters",16.91,XXX,80/20
+95885,"Needle electromyography, each extremity, with related paraspinal areas, when performed, done with nerve conduction, amplitude and latency/velocity study; lim- ited (List separately in addition to code for primary procedure)",11.66,ZZZ,32/68
+95886,"Needle electromyography, each extremity, with related paraspinal areas, when performed, done with nerve conduction, amplitude and latency/velocity study; complete, five or more muscles studied, innervated by three or more nerves or four or more spinal levels (List separately in addition to code for primary proce- dure)",18.27,ZZZ,54/46
+95887,"Needle electromyography, non-extremity (cranial nerve supplied or axial) mus- cle(s) done with nerve conduction, amplitude and latency/velocity study (List sep- arately in addition to code for primary procedure)",16.28,ZZZ,48/52
+95907,Nerve conduction studies; 1-2 studies,19.02,XXX,55/45
+95908,Nerve conduction studies; 3-4 studies,24.63,XXX,54/46
+95909,Nerve conduction studies; 5-6 studies,29.35,XXX,54/46
+95910,Nerve conduction studies; 7-8 studies,38.65,XXX,54/46
+95911,Nerve conduction studies; 9-10 studies,46.11,XXX,57/43
+95912,Nerve conduction studies; 11-12 studies,51.17,XXX,61/39
+95913,Nerve conduction studies; 13 or more studies,59.03,XXX,62/38
+95925,"Short-latency somatosensory evoked potential study, stimulation of any/all periph- eral nerves or skin sites, recording from the central nervous system; in upper limbs",35.76,XXX,80/20
+95926,"Short-latency somatosensory evoked potential study, stimulation of any/all periph- eral nerves or skin sites, recording from the central nervous system; in lower limbs",35.76,XXX,80/20
+95927,"Short-latency somatosensory evoked potential study, stimulation of any/all periph- eral nerves or skin sites, recording from the central nervous system; in the trunk or head",35.76,XXX,80/20
+95930,"Visual evoked potential (VEP) checkerboard or flash testing, central nervous sys- tem except glaucoma, with interpretation and report",16.91,XXX,50/50
+95933,"Orbicularis oculi (blink) reflex, by electrodiagnostic testing",14.37,XXX,80/20
+95937,"Neuromuscular junction testing (repetitive stimulation, paired stimuli), each nerve, any 1 method",13.36,XXX,80/20
+95999,Unlisted neurological or neuromuscular diagnostic procedure,0,XXX,
+97810,"Acupuncture, 1 or more needles; without electrical stimulation, initial 15 minutes of personal one-on-one contact with the patient",3.55,XXX,
+97811,"Acupuncture, 1 or more needles; without electrical stimulation, each additional 15 minutes of personal one-on-one contact with the patient, with re-insertion of nee- dle(s) (List separately in addition to code for primary procedure)",3.04,ZZZ,
+97813,"Acupuncture, 1 or more needles; with electrical stimulation, initial 15 minutes of personal one-on-one contact with the patient",3.89,XXX,
+97814,"Acupuncture, 1 or more needles; with electrical stimulation, each additional 15 minutes of personal one-on-one contact with the patient, with re-insertion of nee- dle(s) (List separately in addition to code for primary procedure)",3.38,ZZZ,

@@ -1,0 +1,31 @@
+Rating,Description
+PN-N,Neurology
+PN-ND,Neurodevelopmental Disabilities
+PN-P,Psychiatry
+PN-PM,Pain Management
+PS,Plastic Surgery
+PS-HS,Hand Surgery
+R,Radiology
+R-DRA,Diagnostic Radiology
+R-DRNR,Diagnostic Radiology/Nuclear Medicine
+R-DRO,Diagnostic Roentgenology
+R-DRP,Diagnostic Radiological Physics
+R-MNP,Medical Nuclear Physics
+R-NR,Nuclear Radiology
+R-NRAD,Neuroradiology
+R-PR,Pediatric Radiology
+R-R,Radiology
+R-RAO,Radiation Oncology
+R-RO,Roentgenology
+R-RP,Radiological Physics
+R-RT,Radium Therapy
+R-TRA,Therapeutic Radiology
+R-TRP,Therapeutic Radiological Physics
+R-VIR,Vascular and Interventional Radiology
+,Surgery
+S S-GVS,General Vascular Surgery
+S-HS,Hand Surgery
+S-PDS,Pediatric Surgery
+S-SCC,Surgical Critical Care
+TS,Thoracic Surgery
+U,Urology

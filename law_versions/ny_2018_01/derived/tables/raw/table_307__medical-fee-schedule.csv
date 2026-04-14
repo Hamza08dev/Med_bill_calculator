@@ -1,0 +1,35 @@
+,Code,Description,Relative Value,FUD,PC/TC Split
+,88380,"Microdissection (ie, sample preparation of microscopically identified target); laser capture",86.25,XXX,41/59
+,88381,"Microdissection (ie, sample preparation of microscopically identified target); man- ual",120.14,XXX,27/73
+,88387,"Macroscopic examination, dissection, and preparation of tissue for non-micro- scopic analytical studies (eg, nucleic acid-based molecular studies); each tissue preparation (eg, a single lymph node)",19.72,XXX,80/20
++,88388,"Macroscopic examination, dissection, and preparation of tissue for non-micro- scopic analytical studies (eg, nucleic acid-based molecular studies); in conjunc- tion with a touch imprint, intraoperative consultation, or frozen section, each tissue preparation (eg, a single lymph node) (List separately in addition to code for primary procedure)",12.32,XXX,83/17
+,88399,Unlisted surgical pathology procedure,BR,XXX,
+,88720,"Bilirubin, total, transcutaneous",6.16,XXX,
+,88738,"Hemoglobin (Hgb), quantitative, transcutaneous",6.16,XXX,
+,88740,"Hemoglobin, quantitative, transcutaneous, per day; carboxyhemoglobin",6.16,XXX,
+,88741,"Hemoglobin, quantitative, transcutaneous, per day; methemoglobin",6.16,XXX,
+,88749,"Unlisted in vivo (eg, transcutaneous) laboratory service",0.00,XXX,
+,89049,"Caffeine halothane contracture test (CHCT) for malignant hyperthermia suscepti- bility, including interpretation and report",75.16,XXX,
+,89050,"Cell count, miscellaneous body fluids (eg, cerebrospinal fluid, joint fluid), except blood;",9.86,XXX,0/100
+,89051,"Cell count, miscellaneous body fluids (eg, cerebrospinal fluid, joint fluid), except blood; with differential count",11.71,XXX,0/100
+,89055,"Leukocyte assessment, fecal, qualitative or semiquantitative",9.86,XXX,0/100
+,89060,"Crystal identification by light microscopy with or without polarizing lens analysis, tissue or any body fluid (except urine)",11.71,XXX,0/100
+,89125,"Fat stain, feces, urine, or respiratory secretions",9.24,XXX,0/100
+,89160,"Meat fibers, feces",5.54,XXX,0/100
+,89190,Nasal smear for eosinophils,8.63,XXX,0/100
+,89220,"Sputum, obtaining specimen, aerosol induced technique (separate procedure)",12.94,XXX,0/100
+,89230,Sweat collection by iontophoresis,24.64,XXX,0/100
+,89240,Unlisted miscellaneous pathology test,BR,XXX,0/100
+,89250,"Culture of oocyte(s)/embryo(s), less than 4 days;",414.64,XXX,0/100
+,89251,"Culture of oocyte(s)/embryo(s), less than 4 days; with co-culture of oocyte(s)/embryos",431.27,XXX,0/100
+,89253,"Assisted embryo hatching, microtechniques (any method)",BR,XXX,0/100
+,89254,Oocyte identification from follicular fluid,BR,XXX,0/100
+,89255,Preparation of embryo for transfer (any method),BR,XXX,0/100
+,89257,Sperm identification from aspiration (other than seminal fluid),BR,XXX,0/100
+,89258,Cryopreservation; embryo(s),BR,XXX,0/100
+,89259,Cryopreservation; sperm,BR,XXX,0/100
+,89260,"Sperm isolation; simple prep (eg, sperm wash and swim-up) for insemination or diagnosis with semen analysis",BR,XXX,0/100
+,89261,"Sperm isolation; complex prep (eg, Percoll gradient, albumin gradient) for insemi- nation or diagnosis with semen analysis",BR,XXX,0/100
+,89264,"Sperm identification from testis tissue, fresh or cryopreserved",BR,XXX,0/100
+,89268,Insemination of oocytes,BR,XXX,0/100
+,89272,"Extended culture of oocyte(s)/embryo(s), 4-7 days",BR,XXX,0/100

@@ -1,0 +1,42 @@
+Code,Description,Relative Value,FUD,PC/TC Split
+70010,"Myelography, posterior fossa, radiological supervision and interpretation",5.61,XXX,35/65
+70015,"Cisternography, positive contrast, radiological supervision and interpretation",4.59,XXX,35/65
+70030,"Radiologic examination, eye, for detection of foreign body",1.79,XXX,40/60
+70100,"Radiologic examination, mandible; partial, less than 4 views",1.15,XXX,40/60
+70110,"Radiologic examination, mandible; complete, minimum of 4 views",1.94,XXX,40/60
+70120,"Radiologic examination, mastoids; less than 3 views per side",1.15,XXX,40/60
+70130,"Radiologic examination, mastoids; complete, minimum of 3 views per side",2.17,XXX,40/60
+70134,"Radiologic examination, internal auditory meati, complete",2.5,XXX,40/60
+70140,"Radiologic examination, facial bones; less than 3 views",1.66,XXX,40/60
+70150,"Radiologic examination, facial bones; complete, minimum of 3 views",2.04,XXX,40/60
+70160,"Radiologic examination, nasal bones, complete, minimum of 3 views",1.28,XXX,40/60
+70170,"Dacryocystography, nasolacrimal duct, radiological supervision and interpretation",1.99,XXX,35/65
+70190,Radiologic examination; optic foramina,1.63,XXX,40/60
+70200,"Radiologic examination; orbits, complete, minimum of 4 views",2.07,XXX,40/60
+70210,"Radiologic examination, sinuses, paranasal, less than 3 views",1.4,XXX,40/60
+70220,"Radiologic examination, sinuses, paranasal, complete, minimum of 3 views",2.3,XXX,40/60
+70240,"Radiologic examination, sella turcica",1.4,XXX,40/60
+70250,"Radiologic examination, skull; less than 4 views",1.66,XXX,40/60
+70260,"Radiologic examination, skull; complete, minimum of 4 views",2.3,XXX,40/60
+70300,"Radiologic examination, teeth; single view",0.48,XXX,40/60
+70310,"Radiologic examination, teeth; partial examination, less than full mouth",0.92,XXX,40/60
+70320,"Radiologic examination, teeth; complete, full mouth",1.73,XXX,40/60
+70328,"Radiologic examination, temporomandibular joint, open and closed mouth; unilat- eral",2.09,XXX,40/60
+70330,"Radiologic examination, temporomandibular joint, open and closed mouth; bilat- eral",3.06,XXX,40/60
+70332,"Temporomandibular joint arthrography, radiological supervision and interpretation",4.77,XXX,35/65
+70336,"Magnetic resonance (eg, proton) imaging, temporomandibular joint(s)",16.43,XXX,20/80
+70350,"Cephalogram, orthodontic",1.53,XXX,40/60
+70355,"Orthopantogram (eg, panoramic x-ray)",1.5,XXX,40/60
+70360,"Radiologic examination; neck, soft tissue",1.58,XXX,40/60
+70370,"Radiologic examination; pharynx or larynx, including fluoroscopy and/or magnifi- cation technique",3.49,XXX,40/60
+70371,Complex dynamic pharyngeal and speech evaluation by cine or video recording,6.07,XXX,40/60
+70380,"Radiologic examination, salivary gland for calculus",1.91,XXX,40/60
+70390,"Sialography, radiological supervision and interpretation",3.88,XXX,35/65
+70450,"Computed tomography, head or brain; without contrast material",8.61,XXX,25/75
+70460,"Computed tomography, head or brain; with contrast material(s)",9.91,XXX,25/75
+70470,"Computed tomography, head or brain; without contrast material, followed by con- trast material(s) and further sections",11.89,XXX,25/75
+70480,"Computed tomography, orbit, sella, or posterior fossa or outer, middle, or inner ear; without contrast material",9.36,XXX,25/75
+70481,"Computed tomography, orbit, sella, or posterior fossa or outer, middle, or inner ear; with contrast material(s)",10.78,XXX,25/75
+70482,"Computed tomography, orbit, sella, or posterior fossa or outer, middle, or inner ear; without contrast material, followed by contrast material(s) and further sections",12.92,XXX,25/75
+70486,"Computed tomography, maxillofacial area; without contrast material",9.11,XXX,25/75
+70487,"Computed tomography, maxillofacial area; with contrast material(s)",10.48,XXX,25/75

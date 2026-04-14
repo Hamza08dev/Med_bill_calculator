@@ -1,0 +1,17 @@
+# configs/models.yaml
+models:
+  table_namer:
+    provider: ollama
+    model: "llama3.2:latest"
+    endpoint: "http://localhost:11434/api/generate"
+    temperature: 0.0
+    max_tokens: 128
+    enabled: true
+
+  userdoc_extractor:
+    provider: ollama
+    model: "llama3.1:8b-instruct-q8_0"
+    endpoint: "http://localhost:11434/api/generate"
+    temperature: 0.0
+    max_tokens: 4096   # allow multi-line CMS tables
+    enabled: true

@@ -1,0 +1,23 @@
+,Code,Description Relative Value,FUD,PC/TC Split
+89290,"Biopsy, oocyte polar body or embryo blastomere, microtechnique (for pre-implan- tation genetic diagnosis); less than or equal to 5 embryos",BR,XXX,0/100
+89291,"Biopsy, oocyte polar body or embryo blastomere, microtechnique (for pre-implan- tation genetic diagnosis); greater than 5 embryos",BR,XXX,0/100
+89300,Semen analysis; presence and/or motility of sperm including Huhner test (post coital),21.56,XXX,0/100
+89310,Semen analysis; motility and count (not including Huhner test),20.33,XXX,0/100
+89320,"Semen analysis; volume, count, motility, and differential",30.81,XXX,0/100
+89321,"Semen analysis; sperm presence and motility of sperm, if performed",18.48,XXX,0/100
+89322,"Semen analysis; volume, count, motility, and differential using strict morphologic criteria (eg, Kruger)",43.13,XXX,0/100
+89325,Sperm antibodies,52.37,XXX,0/100
+89329,Sperm evaluation; hamster penetration test,138.62,XXX,0/100
+89330,"Sperm evaluation; cervical mucus penetration test, with or without spinnbarkeit test",35.12,XXX,0/100
+89331,"Sperm evaluation, for retrograde ejaculation, urine (sperm concentration, motility, and morphology, as indicated)",25.48,XXX,0/100
+89335,"Cryopreservation, reproductive tissue, testicular",BR,XXX,0/100
+89337,"Cryopreservation, mature oocyte(s)",BR,XXX,
+89342,Storage (per year); embryo(s),BR,XXX,0/100
+89343,Storage (per year); sperm/semen,BR,XXX,0/100
+89344,"Storage (per year); reproductive tissue, testicular/ovarian",BR,XXX,0/100
+89346,Storage (per year); oocyte(s),BR,XXX,0/100
+89352,Thawing of cryopreserved; embryo(s),BR,XXX,0/100
+89353,"Thawing of cryopreserved; sperm/semen, each aliquot",BR,XXX,0/100
+89354,"Thawing of cryopreserved; reproductive tissue, testicular/ovarian",BR,XXX,0/100
+89356,"Thawing of cryopreserved; oocytes, each aliquot",BR,XXX,0/100
+89398,Unlisted reproductive medicine laboratory procedure,BR,XXX,

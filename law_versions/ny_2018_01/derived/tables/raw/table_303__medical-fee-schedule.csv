@@ -1,0 +1,35 @@
+,Code,Description,Relative Value,FUD,PC/TC Split
+,87910,Infectious agent genotype analysis by nucleic acid (DNA or RNA); cytomegalovi- rus,285.39,XXX,0/100
+,87912,Infectious agent genotype analysis by nucleic acid (DNA or RNA); Hepatitis B virus,285.39,XXX,0/100
+,87999,Unlisted microbiology procedure,BR,XXX,
+,88000,"Necropsy (autopsy), gross examination only; without CNS",155.26,XXX,
+,88005,"Necropsy (autopsy), gross examination only; with brain",172.51,XXX,
+,88007,"Necropsy (autopsy), gross examination only; with brain and spinal cord",189.76,XXX,
+,88012,"Necropsy (autopsy), gross examination only; infant with brain",142.94,XXX,
+,88014,"Necropsy (autopsy), gross examination only; stillborn or newborn with brain",142.94,XXX,
+,88016,"Necropsy (autopsy), gross examination only; macerated stillborn",173.74,XXX,
+,88020,"Necropsy (autopsy), gross and microscopic; without CNS",223.03,XXX,
+,88025,"Necropsy (autopsy), gross and microscopic; with brain",240.28,XXX,
+,88027,"Necropsy (autopsy), gross and microscopic; with brain and spinal cord",257.53,XXX,
+,88028,"Necropsy (autopsy), gross and microscopic; infant with brain",142.94,XXX,
+,88029,"Necropsy (autopsy), gross and microscopic; stillborn or newborn with brain",142.94,XXX,
+,88036,"Necropsy (autopsy), limited, gross and/or microscopic; regional",92.42,XXX,
+,88037,"Necropsy (autopsy), limited, gross and/or microscopic; single organ",67.77,XXX,
+,88040,Necropsy (autopsy); forensic examination,369.66,XXX,
+,88045,Necropsy (autopsy); coroner's call,30.81,XXX,
+,88099,Unlisted necropsy (autopsy) procedure,BR,XXX,
+,88104,"Cytopathology, fluids, washings or brushings, except cervical or vaginal; smears with interpretation",30.81,XXX,80/20
+,88106,"Cytopathology, fluids, washings or brushings, except cervical or vaginal; simple fil- ter method with interpretation",27.11,XXX,80/20
+,88108,"Cytopathology, concentration technique, smears and interpretation (eg, Sacco- manno technique)",35.12,XXX,80/20
+,88112,"Cytopathology, selective cellular enhancement technique with interpretation (eg, liquid based slide preparation method), except cervical or vaginal",73.93,XXX,80/20
+,88120,"Cytopathology, in situ hybridization (eg, FISH), urinary tract specimen with mor- phometric analysis, 3-5 molecular probes, each specimen; manual",252.60,XXX,11/89
+,88121,"Cytopathology, in situ hybridization (eg, FISH), urinary tract specimen with mor- phometric analysis, 3-5 molecular probes, each specimen; using com- puter-assisted technology",215.64,XXX,11/89
+,88125,"Cytopathology, forensic (eg, sperm)",24.64,XXX,90/10
+,88130,Sex chromatin identification; Barr bodies,15.40,XXX,10/90
+,88140,"Sex chromatin identification; peripheral blood smear, polymorphonuclear drum- sticks",12.32,XXX,0/100
+,88141,"Cytopathology, cervical or vaginal (any reporting system), requiring interpretation by physician",15.40,XXX,
+,88142,"Cytopathology, cervical or vaginal (any reporting system), collected in preserva- tive fluid, automated thin layer preparation; manual screening under physician supervision",10.47,XXX,0/100
+,88143,"Cytopathology, cervical or vaginal (any reporting system), collected in preserva- tive fluid, automated thin layer preparation; with manual screening and rescreen- ing under physician supervision",11.52,XXX,0/100
+,88147,"Cytopathology smears, cervical or vaginal; screening by automated system under physician supervision",11.00,XXX,0/100
+,88148,"Cytopathology smears, cervical or vaginal; screening by automated system with manual rescreening under physician supervision",11.52,XXX,0/100
+,88150,"Cytopathology, slides, cervical or vaginal; manual screening under physician supervision",10.47,XXX,0/100

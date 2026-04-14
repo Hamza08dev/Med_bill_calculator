@@ -1,0 +1,26 @@
+Code,Description,Relative Value,FUD,PC/TC Split
++ 93572,Intravascular Doppler velocity and/or pressure derived coronary flow reserve measurement (coronary vessel or graft) during coronary angiography including pharmacologically induced stress; each additional vessel (List separately in addi- tion to code for primary procedure),20.12,ZZZ,47/53
+93580,"Percutaneous transcatheter closure of congenital interatrial communication (ie, Fontan fenestration, atrial septal defect) with implant 489.04",,000,
+93581,Percutaneous transcatheter closure of a congenital ventricular septal defect with implant,489.04,000,
+ 93582,Percutaneous transcatheter closure of patent ductus arteriosus,138.56,000,
+ 93583,"Percutaneous transcatheter septal reduction therapy (eg, alcohol septal ablation) including temporary pacemaker insertion when performed",154.66,000,
+ 93590,"Percutaneous transcatheter closure of paravalvular leak; initial occlusion device, mitral valve",222.37,000,
+ 93591,"Percutaneous transcatheter closure of paravalvular leak; initial occlusion device, aortic valve",184.65,000,
+ + 93592,Percutaneous transcatheter closure of paravalvular leak; each additional occlu- sion device (List separately in addition to code for primary procedure),81.23,ZZZ,
+* 93600,Bundle of His recording,63.58,000,55/45
+* 93602,Intra-atrial recording,36.19,000,55/45
+* 93603,Right ventricular recording,41.09,000,55/45
++ 93609,Intraventricular and/or intra-atrial mapping of tachycardia site(s) with catheter manipulation to record from multiple sites to identify origin of tachycardia (List separately in addition to code for primary procedure),142.89,ZZZ,55/45
+* 93610,Intra-atrial pacing,45.66,000,55/45
+* 93612,Intraventricular pacing,53.60,000,55/45
++ 93613,Intracardiac electrophysiologic 3-dimensional mapping (List separately in addition to code for primary procedure),145.09,ZZZ,72/28
+* 93615,Esophageal recording of atrial electrogram with or without ventricular electro- gram(s);,5.92,000,55/45
+* 93616,Esophageal recording of atrial electrogram with or without ventricular electro- gram(s); with pacing,26.21,000,55/45
+* 93618,Induction of arrhythmia by electrical pacing,152.19,000,55/45
+93619,"Comprehensive electrophysiologic evaluation with right atrial pacing and record- ing, right ventricular pacing and recording, His bundle recording, including inser- tion and repositioning of multiple electrode catheters, without induction or attempted induction of arrhythmia",247.90,000,55/45
+93620,"Comprehensive electrophysiologic evaluation including insertion and reposition- ing of multiple electrode catheters with induction or attempted induction of arrhythmia; with right atrial pacing and recording, right ventricular pacing and recording, His bundle recording",315.88,000,55/45
++ 93621,Comprehensive electrophysiologic evaluation including insertion and reposition- ing of multiple electrode catheters with induction or attempted induction of arrhythmia; with left atrial pacing and recording from coronary sinus or left atrium (List separately in addition to code for primary procedure),89.83,ZZZ,55/45
++ 93622,Comprehensive electrophysiologic evaluation including insertion and reposition- ing of multiple electrode catheters with induction or attempted induction of arrhythmia; with left ventricular pacing and recording (List separately in addition to code for primary procedure),89.83,ZZZ,55/45
++ 93623,Programmed stimulation and pacing after intravenous drug infusion (List sepa- rately in addition to code for primary procedure),81.51,ZZZ,55/45
+93624,"Electrophysiologic follow-up study with pacing and recording to test effectiveness of therapy, including induction or attempted induction of arrhythmia",199.03,000,55/45
+* 93631,Intra-operative epicardial and endocardial pacing and mapping to localize the site,152.45,000,55/45

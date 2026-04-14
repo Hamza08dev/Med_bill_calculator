@@ -1,0 +1,32 @@
+,Code,Description,Relative Value,FUD,PC/TC Split
+,95830,Insertion by physician or other qualified health care professional of sphenoidal electrodes for electroencephalographic (EEG) recording,19.62,XXX,
+,,"For codes 95831-95852, please see the Physical Medicine section.",,,
+,95857,Cholinesterase inhibitor challenge test for myasthenia gravis,10.99,XXX,
+,95860,Needle electromyography; 1 extremity with or without related paraspinal areas,21.98,XXX,80/20
+,95861,Needle electromyography; 2 extremities with or without related paraspinal areas,28.58,XXX,80/20
+,95863,Needle electromyography; 3 extremities with or without related paraspinal areas,37.20,XXX,80/20
+,95864,Needle electromyography; 4 extremities with or without related paraspinal areas,48.36,XXX,80/20
+,95865,Needle electromyography; larynx,32.97,XXX,75/25
+,95866,Needle electromyography; hemidiaphragm,22.83,XXX,90/10
+,95867,"Needle electromyography; cranial nerve supplied muscle(s), unilateral",22.83,XXX,80/20
+,95868,"Needle electromyography; cranial nerve supplied muscles, bilateral",39.91,XXX,80/20
+,95869,Needle electromyography; thoracic paraspinal muscles (excluding T1 or T12),16.91,XXX,80/20
+,95870,"Needle electromyography; limited study of muscles in 1 extremity or non-limb (axial) muscles (unilateral or bilateral), other than thoracic paraspinal, cranial nerve supplied muscles, or sphincters",16.91,XXX,80/20
+,95872,"Needle electromyography using single fiber electrode, with quantitative measure- ment of jitter, blocking and/or fiber density, any/all sites of each muscle studied",39.06,XXX,80/20
++,95873,Electrical stimulation for guidance in conjunction with chemodenervation (List separately in addition to code for primary procedure),9.13,ZZZ,71/29
++,95874,Needle electromyography for guidance in conjunction with chemodenervation (List separately in addition to code for primary procedure),9.30,ZZZ,72/28
+,95875,Ischemic limb exercise test with serial specimen(s) acquisition for muscle(s) metabolite(s),7.78,XXX,70/30
++,95885,"Needle electromyography, each extremity, with related paraspinal areas, when performed, done with nerve conduction, amplitude and latency/velocity study; lim- ited (List separately in addition to code for primary procedure)",11.66,ZZZ,32/68
++,95886,"Needle electromyography, each extremity, with related paraspinal areas, when performed, done with nerve conduction, amplitude and latency/velocity study; complete, five or more muscles studied, innervated by three or more nerves or four or more spinal levels (List separately in addition to code for primary proce- dure)",18.27,ZZZ,54/46
++,95887,"Needle electromyography, non-extremity (cranial nerve supplied or axial) mus- cle(s) done with nerve conduction, amplitude and latency/velocity study (List sep- arately in addition to code for primary procedure)",16.28,ZZZ,48/52
+*,95905,"Motor and/or sensory nerve conduction, using preconfigured electrode array(s), amplitude and latency/velocity study, each limb, includes F-wave study when per- formed, with interpretation and report",24.52,XXX,4/96
+,95907,Nerve conduction studies; 1-2 studies,19.02,XXX,55/45
+,95908,Nerve conduction studies; 3-4 studies,24.63,XXX,54/46
+,95909,Nerve conduction studies; 5-6 studies,29.35,XXX,54/46
+,95910,Nerve conduction studies; 7-8 studies,38.65,XXX,54/46
+,95911,Nerve conduction studies; 9-10 studies,46.11,XXX,57/43
+,95912,Nerve conduction studies; 11-12 studies,51.17,XXX,61/39
+,95913,Nerve conduction studies; 13 or more studies,59.03,XXX,62/38
+,95921,"Testing of autonomic nervous system function; cardiovagal innervation (parasym- pathetic function), including 2 or more of the following: heart rate response to deep breathing with recorded R-R interval, Valsalva ratio, and 30:15 ratio",NC,XXX,53/47
+,95922 95923,"Testing of autonomic nervous system function; vasomotor adrenergic innervation (sympathetic adrenergic function), including beat-to-beat blood pressure and R-R interval changes during Valsalva maneuver and at least 5 minutes of passive tilt Testing of autonomic nervous system function; sudomotor, including 1 or more of",NC,XXX,45/55
+,,"the following: quantitative sudomotor axon reflex test (QSART), silastic sweat imprint, thermoregulatory sweat test, and changes in sympathetic skin potential",20.29,XXX,29/71

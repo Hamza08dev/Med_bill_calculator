@@ -1,0 +1,29 @@
+,Code,Description Relative Value,FUD,PC/TC Split
+88332,Pathology consultation during surgery; each additional tissue block with frozen section(s) (List separately in addition to code for primary procedure),46.82,XXX,+ 75/25
+88333,"Pathology consultation during surgery; cytologic examination (eg, touch prep, squash prep), initial site",49.29,XXX,75/25
+88334,"Pathology consultation during surgery; cytologic examination (eg, touch prep, squash prep), each additional site (List separately in addition to code for primary procedure)",25.26,ZZZ, + 75/25
+88341,"Immunohistochemistry or immunocytochemistry, per specimen; each additional single antibody stain procedure (List separately in addition to code for primary procedure)",85,ZZZ, + 32/68
+88342,"Immunohistochemistry or immunocytochemistry, per specimen; initial single anti- body stain procedure",61.61,XXX, 80/20
+88344,"Immunohistochemistry or immunocytochemistry, per specimen; each multiplex antibody stain procedure",160.31,XXX, 23/77
+88346,"Immunofluorescence, per specimen; initial single antibody stain procedure",44.98,XXX, 80/20
+88348,"Electron microscopy, diagnostic",184.83,XXX,70/30
+88350,"Immunofluorescence, per specimen; each additional single antibody stain proce- dure (List separately in addition to code for primary procedure)",66.26,ZZZ, + 41/59
+88355,Morphometric analysis; skeletal muscle,147.25,XXX,75/25
+88356,Morphometric analysis; nerve,135.54,XXX,75/25
+88358,"Morphometric analysis; tumor (eg, DNA ploidy)",121.99,XXX,75/25
+88360,"Morphometric analysis, tumor immunohistochemistry (eg, Her-2/neu, estrogen receptor/progesterone receptor), quantitative or semiquantitative, per specimen, each single antibody stain procedure; manual",72.7,XXX, 55/45
+88361,"Morphometric analysis, tumor immunohistochemistry (eg, Her-2/neu, estrogen receptor/progesterone receptor), quantitative or semiquantitative, per specimen, each single antibody stain procedure; using computer-assisted technology",78.25,XXX, 80/20
+88362,Nerve teasing preparations,83.17,XXX,75/25
+88363,"Examination and selection of retrieved archival (ie, previously diagnosed) tissue(s) for molecular analysis (eg, KRAS mutational analysis)",19.72,XXX,
+88364,"In situ hybridization (eg, FISH), per specimen; each additional single probe stain procedure (List separately in addition to code for primary procedure)",121.2,ZZZ, + 27/73
+88365,"In situ hybridization (eg, FISH), per specimen; initial single probe stain procedure",84.41,XXX, 50/50
+88366,"In situ hybridization (eg, FISH), per specimen; each multiplex probe stain proce- dure",240.78,XXX, 24/76
+88367,"Morphometric analysis, in situ hybridization (quantitative or semi-quantitative), using computer-assisted technology, per specimen; initial single probe stain pro- cedure",138.62,XXX, 35/65
+88368,"Morphometric analysis, in situ hybridization (quantitative or semi-quantitative), manual, per specimen; initial single probe stain procedure",125.68,XXX, 40/60
+88369,"Morphometric analysis, in situ hybridization (quantitative or semi-quantitative), manual, per specimen; each additional single probe stain procedure (List sepa- rately in addition to code for primary procedure)",100.19,ZZZ, + 30/70
+88371,"Protein analysis of tissue by Western Blot, with interpretation and report;",36.97,XXX,20/80
+88372,"Protein analysis of tissue by Western Blot, with interpretation and report; immuno- logical probe for band identification, each",52.37,XXX,20/80
+88373,"Morphometric analysis, in situ hybridization (quantitative or semi-quantitative), using computer-assisted technology, per specimen; each additional single probe stain procedure (List separately in addition to code for primary procedure)",72.07,ZZZ, + 36/64
+88374,"Morphometric analysis, in situ hybridization (quantitative or semi-quantitative), using computer-assisted technology, per specimen; each multiplex probe stain procedure",315.44,XXX, 13/87
+88375,"Optical endomicroscopic image(s), interpretation and report, real-time or referred, each endoscopic session",46.86,XXX,
+88377,"Morphometric analysis, in situ hybridization (quantitative or semi-quantitative), manual, per specimen; each multiplex probe stain procedure",374.91,XXX, 16/84

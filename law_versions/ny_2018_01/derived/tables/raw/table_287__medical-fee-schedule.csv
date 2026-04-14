@@ -1,0 +1,43 @@
+Code,Description,Relative Value,FUD,PC/TC Split
+85302,"Clotting inhibitors or anticoagulants; protein C, antigen",33.89,XXX,0/100
+85303,"Clotting inhibitors or anticoagulants; protein C, activity",36.97,XXX,0/100
+85305,"Clotting inhibitors or anticoagulants; protein S, total",40.05,XXX,0/100
+85306,"Clotting inhibitors or anticoagulants; protein S, free",40.05,XXX,0/100
+85307,Activated Protein C (APC) resistance assay,33.89,XXX,0/100
+85335,Factor inhibitor test,16.63,XXX,0/100
+85337,Thrombomodulin,30.81,XXX,0/100
+85345,Coagulation time; Lee and White,6.16,XXX,0/100
+85347,Coagulation time; activated,6.16,XXX,0/100
+85348,Coagulation time; other methods,9.86,XXX,0/100
+85360,Euglobulin lysis,19.72,XXX,0/100
+85362,"Fibrin(ogen) degradation (split) products (FDP) (FSP); agglutination slide, semi- quantitative",13.55,XXX,0/100
+85366,Fibrin(ogen) degradation (split) products (FDP) (FSP); paracoagulation,19.72,XXX,0/100
+85370,Fibrin(ogen) degradation (split) products (FDP) (FSP); quantitative,19.72,XXX,0/100
+85378,"Fibrin degradation products, D-dimer; qualitative or semiquantitative",16.02,XXX,0/100
+85379,"Fibrin degradation products, D-dimer; quantitative",18.48,XXX,0/100
+85380,"Fibrin degradation products, D-dimer; ultrasensitive (eg, for evaluation for venous thromboembolism), qualitative or semiquantitative",18.48,XXX,0/100
+85384,Fibrinogen; activity,12.32,XXX,0/100
+85385,Fibrinogen; antigen,15.4,XXX,0/100
+85390,"Fibrinolysins or coagulopathy screen, interpretation and report",15.4,XXX,
+85396,"Coagulation/fibrinolysis assay, whole blood (eg, viscoelastic clot assessment), including use of any pharmacologic additive(s), as indicated, including interpreta- tion and written report, per day",15.4,XXX,
+85397,"Coagulation and fibrinolysis, functional activity, not otherwise specified (eg, ADAMTS-13), each analyte",24.64,XXX,0/100
+85400,Fibrinolytic factors and inhibitors; plasmin,29.57,XXX,0/100
+85410,Fibrinolytic factors and inhibitors; alpha-2 antiplasmin,29.57,XXX,0/100
+85415,Fibrinolytic factors and inhibitors; plasminogen activator,22.8,XXX,0/100
+85420,"Fibrinolytic factors and inhibitors; plasminogen, except antigenic assay",29.57,XXX,0/100
+85421,"Fibrinolytic factors and inhibitors; plasminogen, antigenic assay",36.97,XXX,0/100
+85441,Heinz bodies; direct,5.54,XXX,0/100
+85445,"Heinz bodies; induced, acetyl phenylhydrazine",8.63,XXX,0/100
+85460,"Hemoglobin or RBCs, fetal, for fetomaternal hemorrhage; differential lysis (Klei- hauer-Betke)",16.63,XXX,0/100
+85461,"Hemoglobin or RBCs, fetal, for fetomaternal hemorrhage; rosette",16.63,XXX,0/100
+85475,"Hemolysin, acid",20.95,XXX,0/100
+85520,Heparin assay,24.64,XXX,0/100
+85525,Heparin neutralization,24.64,XXX,0/100
+85530,Heparin-protamine tolerance test,24.64,XXX,0/100
+85536,"Iron stain, peripheral blood",10.47,XXX,0/100
+85540,Leukocyte alkaline phosphatase with count,15.4,XXX,0/100
+85547,"Mechanical fragility, RBC",14.17,XXX,0/100
+85549,Muramidase,31.42,XXX,0/100
+85555,"Osmotic fragility, RBC; unincubated",15.4,XXX,0/100
+85557,"Osmotic fragility, RBC; incubated",30.81,XXX,0/100
+85576,"Platelet, aggregation (in vitro), each agent",30.81,XXX,20/80

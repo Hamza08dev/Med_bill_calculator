@@ -1,0 +1,37 @@
+Code,Description,Basic Unit
+00406,"Anesthesia for procedures on the integumentary system on the extremities, anterior trunk and perineum; radical or modified radical procedures on breast with internal mammary node dissection",13
+00410,"Anesthesia for procedures on the integumentary system on the extremities, anterior trunk and perineum; electrical conversion of arrhythmias",4
+00450,Anesthesia for procedures on clavicle and scapula; not otherwise specified,5
+00454,Anesthesia for procedures on clavicle and scapula; biopsy of clavicle,3
+00470,Anesthesia for partial rib resection; not otherwise specified,6
+00472,Anesthesia for partial rib resection; thoracoplasty (any type),10
+00474,"Anesthesia for partial rib resection; radical procedures (eg, pectus excavatum)",13
+00500,Anesthesia for all procedures on esophagus,15
+00520,Anesthesia for closed chest procedures; (including bronchoscopy) not otherwise specified,6
+00522,Anesthesia for closed chest procedures; needle biopsy of pleura,4
+00524,Anesthesia for closed chest procedures; pneumocentesis,4
+00528,Anesthesia for closed chest procedures; mediastinoscopy and diagnostic thoracoscopy not utilizing 1 lung ventilation,8
+00529,Anesthesia for closed chest procedures; mediastinoscopy and diagnostic thoracoscopy utilizing 1 lung ventilation,11
+00530,Anesthesia for permanent transvenous pacemaker insertion,4
+00532,Anesthesia for access to central venous circulation,4
+00534,Anesthesia for transvenous insertion or replacement of pacing cardioverter-defibrillator,7
+00537,Anesthesia for cardiac electrophysiologic procedures including radiofrequency ablation,10
+00539,Anesthesia for tracheobronchial reconstruction,18
+00540,"Anesthesia for thoracotomy procedures involving lungs, pleura, diaphragm, and mediastinum (including surgical thoracoscopy); not otherwise specified",12
+00541,"Anesthesia for thoracotomy procedures involving lungs, pleura, diaphragm, and mediastinum (including surgical thoracoscopy); utilizing 1 lung ventilation",15
+00542,"Anesthesia for thoracotomy procedures involving lungs, pleura, diaphragm, and mediastinum (including surgical thoracoscopy); decortication",15
+00546,"Anesthesia for thoracotomy procedures involving lungs, pleura, diaphragm, and mediastinum (including surgical thoracoscopy); pulmonary resection with thoracoplasty",15
+00548,"Anesthesia for thoracotomy procedures involving lungs, pleura, diaphragm, and mediastinum (including surgical thoracoscopy); intrathoracic procedures on the trachea and bronchi",17
+00550,Anesthesia for sternal debridement,10
+00560,"Anesthesia for procedures on heart, pericardial sac, and great vessels of chest; without pump oxygenator",15
+00561,"Anesthesia for procedures on heart, pericardial sac, and great vessels of chest; with pump oxygenator, younger than 1 year of age",25
+00562,"Anesthesia for procedures on heart, pericardial sac, and great vessels of chest; with pump oxygenator, age 1 year or older, for all noncoronary bypass procedures (eg, valve procedures) or for re-operation for coronary bypass more than 1 month after original operation",20
+00563,"Anesthesia for procedures on heart, pericardial sac, and great vessels of chest; with pump oxygenator with hypothermic circulatory arrest",25
+00566,Anesthesia for direct coronary artery bypass grafting; without pump oxygenator,25
+00567,Anesthesia for direct coronary artery bypass grafting; with pump oxygenator,18
+00580,Anesthesia for heart transplant or heart/lung transplant,20
+00600,Anesthesia for procedures on cervical spine and cord; not otherwise specified,10
+00604,Anesthesia for procedures on cervical spine and cord; procedures with patient in the sitting position,13
+00620,"Anesthesia for procedures on thoracic spine and cord, not otherwise specified",10
+00625,"Anesthesia for procedures on the thoracic spine and cord, via an anterior transthoracic approach; not uti- lizing 1 lung ventilation",13
+00626,"Anesthesia for procedures on the thoracic spine and cord, via an anterior transthoracic approach; utilizing 1 lung ventilation",15

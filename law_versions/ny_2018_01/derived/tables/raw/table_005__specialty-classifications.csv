@@ -1,0 +1,39 @@
+Rating,Description
+AL,Allergy/Immunology
+AL-CLI,Clinical Laboratory Immunology
+AL-DLI,Diagnostic Laboratory Immunology
+AN,Anesthesiology
+AN-CCM,Critical Care Medicine
+AN-PM,Pain Management
+CRS,Colon/Rectal Surgery
+D,Dermatology
+D-CLDI,Clinical and Laboratory Dermatological Immunology
+D-DI,Dermatological Immunity/Diagnostic
+D-DP,Dermatological Pathology
+D-PD,Pediatric Dermatology
+EM,Emergency Medicine
+EM-MT,Medical Toxicology
+EM-PEM,Pediatric Emergency Medicine
+EM-SM,Sports Medicine
+EM-UHM,Undersea and Hyperbaric Medicine
+FP,Family Practice
+FP-ADM,Adolescent Medicine
+FP-GM,Geriatric Medicine
+FP-SM,Sports Medicine
+GP,General Practice
+IM,Internal Medicine
+IM-ADM,Adolescent Medicine
+IM-CCEP,Clinical Cardiac Electrophysiology
+IM-CCM,Critical Care
+IM-CD,Cardiology
+IM-CE,Cardiac Electrophysiology
+IM-CLI,Clinical and Laboratory Immunology
+IM-CVD,Cardiovascular
+IM-DI,Diagnostic Immunology
+IM-EDM,"Endocrinology, Diabetes and Metabolism"
+IM-END,Endocrinology
+IM-GE,Gastroenterology
+IM-GM,Geriatric Medicine
+IM-HEM,Hematology
+IM-IC,Interventional Cardiology
+IM-ID,Infectious Diseases

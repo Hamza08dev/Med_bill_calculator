@@ -1,0 +1,38 @@
+Code,Description,Relative Value,FUD,PC/TC Split,schedule
+95860,"Needle electromyography, 1 extremity with or without related paraspinal areas",21.98,XXX,80/20,chiropractic
+95861,Needle electromyography; 2 extremities with or without related paraspinal areas,28.58,XXX,80/20,chiropractic
+95863,"Needle electromyography, 3 extremities with or without related paraspinal areas",37.20,XXX,80/20,chiropractic
+95864,Needle electromyography; 4 extremities with or without related paraspinal areas,48.36,XXX,80/20,chiropractic
+95867,"Needle electromyography, cranial nerve supplied muscle(s), unilateral",22.83,XXX,80/20,chiropractic
+95868,"Needle electromyography, cranial nerve supplied muscles, bilateral",39.91,XXX,80/20,chiropractic
+95869,"Needle electromyography, thoracic paraspinal muscles (excluding T1 or T12)",16.91,XXX,80/20,chiropractic
+95870,"Needle electromyography, limited study of muscles in 1 extremity or non-limb (axial) muscles (unilateral or bilateral), other than thoracic paraspinal, cranial nerve supplied muscles, or sphincters",16.91,XXX,80/20,chiropractic
+95885,"Needle electromyography, each extremity, with related paraspinal areas, when performed, done with nerve conduction, amplitude and latency/velocity study limited (List separately in addition to code for primary procedure)",11.66,ZZZ,32/68,chiropractic
+95886,"Needle electromyography, each extremity, with related paraspinal areas, when performed, done with nerve conduction, amplitude and latency/velocity study; complete, five or more muscles studied, innervated by three or more nerves or four or more spinal levels (List separately in addition to code for primary procedure)",18.27,ZZZ,54/46,chiropractic
+95887,"Needle electromyography, non-extremity (cranial nerve supplied or axial) muscle(s) done with nerve conduction, amplitude and latency/velocity study (List separately in addition to code for primary procedure)",16.28,ZZZ,48/52,chiropractic
+95907,Nerve conduction studies; 1-2 studies,19.02,XXX,55/45,chiropractic
+95908,Nerve conduction studies; 3-4 studies,24.63,XXX,54/46,chiropractic
+95909,Nerve conduction studies; 5-6 studies,29.35,XXX,54/46,chiropractic
+95910,Nerve conduction studies; 7-8 studies,38.65,XXX,54/46,chiropractic
+95911,Nerve conduction studies; 9-10 studies,46.11,XXX,57/43,chiropractic
+95912,Nerve conduction studies; 11-12 studies,51.17,XXX,61/39,chiropractic
+95913,Nerve conduction studies; 13 or more studies,59.03,XXX,62/38,chiropractic
+95925,"Short-latency somatosensory evoked potential study, stimulation of any/all peripheral nerves or skin sites, recording from the central nervous system; in upper limbs",35.76,XXX,80/20,chiropractic
+95926,"Short-latency somatosensory evoked potential study, stimulation of any/all peripheral nerves or skin sites, recording from the central nervous system; in lower limbs",35.76,XXX,80/20,chiropractic
+95927,"Short-latency somatosensory evoked potential study, stimulation of any/all peripheral nerves or skin sites, recording from the central nervous system; in the trunk or head",35.76,XXX,80/20,chiropractic
+95930,"Visual evoked potential (VEP) checkerboard or flash testing, central nervous system except glaucoma, with interpretation and report",16.91,XXX,50/50,chiropractic
+95933,"Orbicularis oculi (blink) reflex, by electrodiagnostic testing",14.37,XXX,80/20,chiropractic
+95937,"Neuromuscular junction testing (repetitive stimulation, paired stimuli), each nerve, any 1 method",13.36,XXX,80/20,chiropractic
+95999,Unlisted neurological or neuromuscular diagnostic procedure,0.00,XXX,,chiropractic
+97810,"Acupuncture, 1 or more needles; without electrical stimulation, initial 15 minutes of personal one-on-one contact with the patient",3.55,XXX,,chiropractic
+97811,"Acupuncture, 1 or more needles without electrical stimulation, each additional 15 minutes of personal one-on-one contact with the patient, with re-insertion of needle(s) (List separately in addition to code for primary procedure)",3.04,ZZZ,,chiropractic
+97813,"Acupuncture, 1 or more needles; with electrical stimulation, initial 15 minutes of personal one-on-one contact with the patient",3.89,XXX,,chiropractic
+97814,"Acupuncture, 1 or more needles; with electrical stimulation, each additional 15 minutes of personal one-on-one contact with the patient, with re-insertion of needle(s) (List separately in addition to code for primary procedure)",3.38,ZZZ,,chiropractic
+99050,"Services provided in the office at times other than regularly scheduled office hours, or days when the office is normally closed (eg, holidays, Saturday or Sunday), in addition to basic service",3.55,XXX,,chiropractic
+99051,"Service(s) provided in the office during regularly scheduled evening, weekend, or holiday office hours, in addition to basic service",BR,XXX,,chiropractic
+99053,"Service(s) provided between 10:00 PM and 8:00 AM at 24-hour facility, in addition to basic service",BR,XXX,,chiropractic
+99056,"Service(s) typically provided in the office, provided out of the office at request of patient, in addition to basic service",3.38,XXX,,chiropractic
+99058,"Service(s) provided on an emergency basis in the office, which disrupts other scheduled office services, in addition to basic service",4.23,XXX,,chiropractic
+99060,"Service(s) provided on an emergency basis, out of the office, which disrupts other scheduled office services, in addition to basic service",4.73,XXX,,chiropractic
+99070,"Supplies and materials (except spectacles), provided by the physician or other qualified health care professional over and above those usually included with the office visit or other services rendered (list drugs, trays, supplies, or materials provided)",Refer to Rules,XXX,,chiropractic
+99075,Medical testimony,Refer to Rules,XXX,,chiropractic

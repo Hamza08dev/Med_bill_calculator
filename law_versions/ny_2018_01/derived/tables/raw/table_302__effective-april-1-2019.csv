@@ -1,0 +1,29 @@
+,Code,Description,Relative Value,FUD,PC/TC Split
+,87652,"Infectious agent detection by nucleic acid (DNA or RNA); Streptococcus, group A, quantification",49.6,XXX,0/100
+,87653,"Infectious agent detection by nucleic acid (DNA or RNA); Streptococcus, group B, amplified probe technique",49.29,XXX,0/100
+,87660,"Infectious agent detection by nucleic acid (DNA or RNA); Trichomonas vaginalis, direct probe technique",24.64,XXX,0/100
+,87661,"Infectious agent detection by nucleic acid (DNA or RNA); Trichomonas vaginalis, amplified probe technique",38.78,XXX,0/100
+,87662,"Infectious agent detection by nucleic acid (DNA or RNA); Zika virus, amplified probe technique",56.88,XXX,0/100
+,87797,"Infectious agent detection by nucleic acid (DNA or RNA), not otherwise specified; direct probe technique, each organism",24.64,XXX,0/100
+,87798,"Infectious agent detection by nucleic acid (DNA or RNA), not otherwise specified; amplified probe technique, each organism",49.29,XXX,0/100
+,87799,"Infectious agent detection by nucleic acid (DNA or RNA), not otherwise specified; quantification, each organism",49.6,XXX,0/100
+,87800,"Infectious agent detection by nucleic acid (DNA or RNA), multiple organisms; direct probe(s) technique",52.53,XXX,0/100
+,87801,"Infectious agent detection by nucleic acid (DNA or RNA), multiple organisms; amplified probe(s) technique",91.84,XXX,0/100
+,87802,"Infectious agent antigen detection by immunoassay with direct optical observa- tion; Streptococcus, group B",21.56,XXX,0/100
+,87803,Infectious agent antigen detection by immunoassay with direct optical observa- tion; Clostridium difficile toxin A,21.56,XXX,0/100
+,87804,Infectious agent antigen detection by immunoassay with direct optical observa- tion; Influenza,21.56,XXX,0/100
+,87806,"Infectious agent antigen detection by immunoassay with direct optical observa- tion; HIV-1 antigen(s), with HIV-1 and HIV-2 antibodies",29.41,XXX,0/100
+,87807,Infectious agent antigen detection by immunoassay with direct optical observa- tion; respiratory syncytial virus,21.56,XXX,0/100
+,87808,Infectious agent antigen detection by immunoassay with direct optical observa- tion; Trichomonas vaginalis,24.64,XXX,0/100
+,87809,Infectious agent antigen detection by immunoassay with direct optical observa- tion; adenovirus,24.64,XXX,0/100
+,87810,Infectious agent antigen detection by immunoassay with direct optical observa- tion; Chlamydia trachomatis,21.56,XXX,0/100
+,87850,Infectious agent antigen detection by immunoassay with direct optical observa- tion; Neisseria gonorrhoeae,21.56,XXX,0/100
+,87880,"Infectious agent antigen detection by immunoassay with direct optical observa- tion; Streptococcus, group A",21.56,XXX,0/100
+,87899,Infectious agent antigen detection by immunoassay with direct optical observa- tion; not otherwise specified,21.56,XXX,0/100
+,87900,Infectious agent drug susceptibility phenotype prediction using regularly updated genotypic bioinformatics,170.47,XXX,0/100
+,87901,"Infectious agent genotype analysis by nucleic acid (DNA or RNA); HIV-1, reverse transcriptase and protease regions",273.55,XXX,0/100
+,87902,Infectious agent genotype analysis by nucleic acid (DNA or RNA); Hepatitis C virus,273.55,XXX,0/100
+,87903,"Infectious agent phenotype analysis by nucleic acid (DNA or RNA) with drug resistance tissue culture analysis, HIV 1; first through 10 drugs tested",492.88,XXX,0/100
++,87904,"Infectious agent phenotype analysis by nucleic acid (DNA or RNA) with drug resistance tissue culture analysis, HIV 1; each additional drug tested (List sepa- rately in addition to code for primary procedure)",138.01,XXX,0/100
+,87905,"Infectious agent enzymatic activity other than virus (eg, sialidase activity in vagi- nal fluid)",30.81,XXX,0/100
+,87906,"Infectious agent genotype analysis by nucleic acid (DNA or RNA); HIV-1, other",30.81,XXX,0/100

@@ -1,0 +1,768 @@
+code,description,rvu,fud,pctc_split,is_addon,is_mod51_exempt,is_state_specific,is_altered_cpt,is_br
+"Basic metabolic panel (Calcium, ionized)",,14.79,XXX,0/100,False,False,False,False,False
+"Basic metabolic panel (Calcium, total)",,12.94,XXX,0/100,False,False,False,False,False
+General health panel,,33.89,XXX,0/100,False,False,False,False,False
+Electrolyte panel,,10.47,XXX,0/100,False,False,False,False,False
+Comprehensive metabolic panel,17.87,,XXX,0/100,False,False,False,False,False
+Obstetric panel,,38.81,XXX,0/100,False,False,False,False,False
+Lipid panel,,23.72,XXX,0/100,False,False,False,False,False
+Renal function panel,14.17,,XXX,0/100,False,False,False,False,False
+Acute hepatitis panel,57.91,,XXX,0/100,False,False,False,False,False
+Hepatic function panel,12.32,,XXX,0/100,False,False,False,False,False
+Obstetric panel (includes HIV testing),,83.06,XXX,0/100,False,False,False,False,False
+Amikacin,27.72,,XXX,0/100,False,False,False,False,False
+Caffeine,,34.58,XXX,0/100,False,False,False,False,False
+Carbamazepine; total,24.64,,XXX,0/100,False,False,False,False,False
+Carbamazepine; free,24.64,,XXX,0/100,False,False,False,False,False
+Cyclosporine,36.97,,XXX,0/100,False,False,False,False,False
+Clozapine,20.36,,XXX,0/100,False,False,False,False,False
+Digoxin;,total,23.41,XXX,0/100,False,False,False,False,False
+Digoxin; free,14.87,,XXX,0/100,False,False,False,False,False
+Valproic acid (dipropylacetic acid);,total,24.64,XXX,0/100,False,False,False,False,False
+Valproic acid (dipropylacetic acid); free,14.87,,XXX,0/100,False,False,False,False,False
+,Ethosuximide,27.72,XXX,0/100,False,False,False,False,False
+,Everolimus,15.19,XXX,0/100,False,False,False,False,False
+,Gentamicin,24.64,XXX,0/100,False,False,False,False,False
+"Gabapentin, whole blood, serum, or plasma",,19.39,XXX,0/100,False,False,False,False,False
+Haloperidol,,30.81,XXX,0/100,False,False,False,False,False
+,Lamotrigine,14.54,XXX,0/100,False,False,False,False,False
+,Lidocaine,24.64,XXX,0/100,False,False,False,False,False
+Levetiracetam,,14.54,XXX,0/100,False,False,False,False,False
+,Lithium,14.17,XXX,0/100,False,False,False,False,False
+Mycophenolate (mycophenolic,acid),20.04,XXX,0/100,False,False,False,False,False
+,Oxcarbazepine,14.54,XXX,0/100,False,False,False,False,False
+Phenobarbital,,24.64,XXX,0/100,False,False,False,False,False
+Phenytoin;,total,23.41,XXX,0/100,False,False,False,False,False
+Phenytoin; free,,24.64,XXX,0/100,False,False,False,False,False
+Primidone,,24.64,XXX,0/100,False,False,False,False,False
+,Procainamide;,24.64,XXX,0/100,False,False,False,False,False
+"Procainamide; with metabolites (eg, n-acetyl procainamide)",,33.89,XXX,0/100,False,False,False,False,False
+Quinidine,,24.64,XXX,0/100,False,False,False,False,False
+Sirolimus,,33.89,XXX,0/100,False,False,False,False,False
+Tacrolimus,,36.97,XXX,0/100,False,False,False,False,False
+Theophylline,,23.41,XXX,0/100,False,False,False,False,False
+Tiagabine,,24.24,XXX,0/100,False,False,False,False,False
+Tobramycin,27.72,,XXX,0/100,False,False,False,False,False
+Topiramate,,24.64,XXX,0/100,False,False,False,False,False
+"Cannabinoids, synthetic; 7 or more",,,XXX,,False,False,False,False,False
+Cocaine,,,XXX,,False,False,False,False,False
+Fentanyl,,,XXX,,False,False,False,False,False
+"Gabapentin, non-blood",,,XXX,,False,False,False,False,False
+Heroin metabolite,,,XXX,,False,False,False,False,False
+Ketamine and norketamine,,,XXX,,False,False,False,False,False
+Methadone,,,XXX,,False,False,False,False,False
+"Methylenedioxyamphetamines (MDA, MDEA, MDMA)",,,XXX,,False,False,False,False,False
+Methylphenidate,,,XXX,,False,False,False,False,False
+"Opiates, 1 or more",,,XXX,,False,False,False,False,False
+Opioids and opiate analogs; 1 or 2,,,XXX,,False,False,False,False,False
+Opioids and opiate analogs; 3 or 4,,,XXX,,False,False,False,False,False
+Opioids and opiate analogs; 5 or more,,,XXX,,False,False,False,False,False
+Oxycodone,,,XXX,,False,False,False,False,False
+Pregabalin,,,XXX,,False,False,False,False,False
+Propoxyphene,,,XXX,,False,False,False,False,False
+Sedative hypnotics (non-benzodiazepines),,,XXX,,False,False,False,False,False
+Skeletal muscle relaxants; 1 or 2,,,XXX,,False,False,False,False,False
+Skeletal muscle relaxants; 3 or more,,,XXX,,False,False,False,False,False
+"Stimulants, synthetic",,,XXX,,False,False,False,False,False
+Tapentadol,,,XXX,,False,False,False,False,False
+Tramadol,,,XXX,,False,False,False,False,False
+"Stereoisomer (enantiomer) analysis, single drug class",,,XXX,,False,False,False,False,False
+"Drug(s) or substance(s), definitive, qualitative or quantitative, not otherwise speci- fied; 1-3",,,XXX,0/100,False,False,False,False,False
+"Drug(s) or substance(s), definitive, qualitative or quantitative, not otherwise speci- fied; 4-6",,,XXX,0/100,False,False,False,False,False
+"Drug(s) or substance(s), definitive, qualitative or quantitative, not otherwise speci- fied; 7 or more",,,XXX,0/100,False,False,False,False,False
+ACTH stimulation panel; for adrenal insufficiency,,,XXX,0/100,False,False,False,False,False
+ACTH stimulation panel; for 21 hydroxylase deficiency This panel must include the following: Cortisol (82533 x 2) 17 hydroxyprogesterone (83498 x 2),,,XXX,0/100,False,False,False,False,False
+ACTH stimulation panel; for 3 beta-hydroxydehydrogenase deficiency This panel must include the following: Cortisol (82533 x 2) 17 hydroxypregnenolone (84143 x,,,XXX,0/100,False,False,False,False,False
+"Aldosterone suppression evaluation panel (eg, saline infusion)",,,XXX,0/100,False,False,False,False,False
+"Calcitonin stimulation panel (eg, calcium, pentagastrin)",,,XXX,0/100,False,False,False,False,False
+Corticotropic releasing hormone (CRH) stimulation panel,,,XXX,0/100,False,False,False,False,False
+Chorionic gonadotropin stimulation panel; testosterone response,,,XXX,0/100,False,False,False,False,False
+Chorionic gonadotropin stimulation panel; estradiol response This panel must include the following: Estradiol (82670 x 2 on 3 pooled blood samples),,,XXX,0/100,False,False,False,False,False
+"Renal vein renin stimulation panel (eg, captopril)",,,XXX,0/100,False,False,False,False,False
+"Peripheral vein renin stimulation panel (eg, captopril)",,,XXX,0/100,False,False,False,False,False
+Combined rapid anterior pituitary evaluation panel,,,XXX,0/100,False,False,False,False,False
+"Dexamethasone suppression panel, 48 hour",,,XXX,0/100,False,False,False,False,False
+Glucagon tolerance panel; for insulinoma,,,XXX,0/100,False,False,False,False,False
+"Glucagon tolerance panel; for pheochromocytoma This panel must include the fol- lowing: Catecholamines, fractionated (82384 x 2)",,,XXX,0/100,False,False,False,False,False
+Gonadotropin releasing hormone stimulation panel,,,XXX,0/100,False,False,False,False,False
+81111,"Human Platelet Antigen 9 genotyping (HPA-9w), ITGA2B (integrin, alpha 2b [plate- let glycoprotein IIb of IIb/IIIa complex, antigen CD41] [GPIIb]) (eg, neonatal alloim- mune thrombocytopenia [NAIT], post-transfusion purpura), gene analysis, common variant, HPA-9a/b (V837M)",135.42,XXX,0/100,False,False,False,False,False
+"81112 Human Platelet natal alloimmune ysis, common variant,","Antigen 15 genotyping (HPA-15), CD109 (CD109 molecule) (eg, neo- thrombocytopenia [NAIT], post-transfusion purpura), gene anal- HPA-15a/b (S682Y)",135.42,XXX,0/100,False,False,False,False,False
+"IDH1 (isocitrate dehydrogenase 1 [NADP+], soluble) (eg, glioma), (eg, R132H, R132C)",commonvariants,173.56,XXX,0/100,False,False,False,False,False
+"IDH2 (isocitrate dehydrogenase 2 [NADP+], mitochondrial) (eg, glioma), common variants (eg, R140W, R172M)",265.67,,XXX,0/100,False,False,False,False,False
+"DMD(dystrophin) (eg, Duchenne/Becker muscular dystrophy) deletion analysis, and duplication analysis, if performed",250.48,,XXX,0/100,False,False,False,False,False
+"BRCA1, BRCA2 (breast cancer 1 and 2) (eg, hereditary breast and ovarian cancer) gene analysis; full sequence analysis and full duplication/deletion analysis",2022.59,,XXX,0/100,False,False,False,False,False
+"ABL1 (ABL proto-oncogene 1, non-receptor tyrosine kinase) (eg, acquired imatinib tyrosine kinase inhibitor resistance), gene analysis, variants in the kinase domain",,269.23,XXX,0/100,False,False,False,False,False
+"ASXL1 (additional sex combs like 1, transcriptional regulator) (eg, myelodysplastic syndrome, myeloproliferative neoplasms, chronic myelomonocytic leukemia), gene analysis; full gene sequence",634.77,,XXX,0/100,False,False,False,False,False
+"ASXL1 (additional sex combs like 1, transcriptional regulator) (eg, myelodysplastic syndrome, myeloproliferative neoplasms, chronic myelomonocytic leukemia), gene analysis; targeted sequence analysis (eg, exon 12)",268.26,,XXX,0/100,False,False,False,False,False
+"ASPA (aspartoacylase) (eg, Canavan disease) gene analysis, common variants (eg, E285A, Y231X)",0.00,,XXX,,False,False,False,False,False
+"APC (adenomatous polyposis coli) (eg, familial adenomatosis polyposis [FAP], attenuated FAP) gene analysis; full gene sequence",,0.00,XXX,0/100,False,False,False,False,False
+"APC (adenomatous polyposis coli) (eg, familial adenomatosis polyposis [FAP], attenuated FAP) gene analysis; known familial variants",0.00,,XXX,0/100,False,False,False,False,False
+"APC (adenomatous polyposis coli) (eg, familial adenomatosis polyposis [FAP], attenuated FAP) gene analysis; duplication/deletion variants",,0.00,XXX,0/100,False,False,False,False,False
+"BCKDHB (branched-chain keto acid dehydrogenase E1, beta polypeptide) (eg, maple syrup urine disease) gene analysis, common variants (eg, R183P, G278S, E422X)",,0.00,XXX,,False,False,False,False,False
+"BCR/ABL1 (t(9;22)) (eg, chronic myelogenous leukemia) translocation analysis; major breakpoint, qualitative or quantitative",0.00,,XXX,,False,False,False,False,False
+"BCR/ABL1 (t(9;22)) (eg, chronic myelogenous leukemia) translocation analysis; minor breakpoint, qualitative or quantitative",,0.00,XXX,,False,False,False,False,False
+"BCR/ABL1 (t(9;22)) (eg, chronic myelogenous leukemia) translocation analysis; other breakpoint, qualitative or quantitative",,0.00,XXX,,False,False,False,False,False
+"BLM (Bloom syndrome, RecQ helicase-like) (eg, Bloom syndrome) gene analysis, 2281del6ins7 variant",0.00,,XXX,,False,False,False,False,False
+"BRAF (B-Raf proto-oncogene, serine/threonine kinase) (eg, colon cancer, mela- noma), gene analysis, V600 variant(s)",0.00,,XXX,,False,False,False,False,False
+"BRCA1, BRCA2 (breast cancer 1 and 2) (eg, hereditary breast and ovarian cancer) gene analysis; full sequence analysis andcommon duplication/deletion variants in BRCA1 (ie, exon 13 del 3.835kb, exon 13 dup 6kb, exon 14-20 del 26kb, exon 22 del 510bp, exon 8-9 del 7.1kb)",,0.00,XXX,,False,False,False,False,False
+"BRCA1, BRCA2 (breast cancer 1 and 2) (eg, hereditary breast and ovarian cancer) gene analysis; 185delAG, 5385insC, 6174delT variants",0.00,,XXX,,False,False,False,False,False
+"BRCA1, BRCA2 (breast cancer 1 and 2) (eg, hereditary breast and ovarian cancer) gene analysis; uncommon duplication/deletion variants",0.00,,XXX,,False,False,False,False,False
+"BRCA1(breast cancer 1) (eg, hereditary breast and ovarian cancer) gene analysis; full sequence analysis and common duplication/deletion variants (ie, exon 13 del 3.835kb, exon 13 dup 6kb, exon 14-20 del 26kb, exon 22 del 510bp, exon 8-9 del 7.1kb)",,0.00,XXX,,False,False,False,False,False
+"BRCA1(breast cancer 1) (eg, hereditary breast and ovarian cancer) gene analysis; known familial variant",0.00,,XXX,,False,False,False,False,False
+ 81247,"G6PD (glucose-6-phosphate dehydrogenase) (eg, hemolytic anemia, jaundice), gene analysis; common variant(s) (eg, A, A-)",0,XXX,0/100,False,False,False,False,False
+ 81248,"G6PD (glucose-6-phosphate dehydrogenase) (eg, hemolytic anemia, jaundice), gene analysis; known familial variant(s)",0,XXX,0/100,False,False,False,False,False
+ 81249,"G6PD (glucose-6-phosphate dehydrogenase) (eg, hemolytic anemia, jaundice), gene analysis; full gene sequence",0,XXX,0/100,False,False,False,False,False
+81250,"G6PC (glucose-6-phosphatase, catalytic subunit) (eg, Glycogen storage disease, type 1a, von Gierke disease) gene analysis, common variants (eg, R83C, Q347X)",0,XXX,,False,False,False,False,False
+81251,"GBA (glucosidase, beta, acid) (eg, Gaucher disease) gene analysis, common vari- ants (eg, N370S, 84GG, L444P, IVS2+1G>A)",0,XXX,,True,False,False,False,False
+ 81252,"GJB2 (gap junction protein, beta 2, 26kDa, connexin 26) (eg, nonsyndromic hearing loss) gene analysis; full gene sequence",0,XXX,0/100,False,False,False,False,False
+ 81253,"GJB2 (gap junction protein, beta 2, 26kDa, connexin 26) (eg, nonsyndromic hearing loss) gene analysis; known familial variants",0,XXX,0/100,False,False,False,False,False
+ 81254,"GJB6 (gap junction protein, beta 6, 30kDa, connexin 30) (eg, nonsyndromic hearing loss) gene analysis, common variants (eg, 309kb [del(GJB6-D13S1830)] and 232kb [del(GJB6-D13S1854)])",0,XXX,0/100,False,False,False,False,False
+81255,"HEXA (hexosaminidase A [alpha polypeptide]) (eg, Tay-Sachs disease) gene anal- ysis, common variants (eg, 1278insTATC, 1421+1G>C, G269S)",0,XXX,,True,False,False,False,False
+81256,"HFE (hemochromatosis) (eg, hereditary hemochromatosis) gene analysis,common variants (eg, C282Y, H63D)",0,XXX,,False,False,False,False,False
+ 81257,"HBA1/HBA2 (alpha globin 1 and alpha globin 2) (eg, alpha thalassemia, Hb Bart hydrops fetalis syndrome, HbH disease), gene analysis; common deletions or vari- ant (eg, Southeast Asian, Thai, Filipino, Mediterranean, alpha3.7, alpha4.2, alpha20.5, Constant Spring)",0,XXX,,False,False,False,False,False
+ 81258,"HBA1/HBA2 (alpha globin 1 and alpha globin 2) (eg, alpha thalassemia, Hb Bart hydrops fetalis syndrome, HbH disease), gene analysis; known familial variant",0,XXX,0/100,False,False,False,False,False
+ 81259,"HBA1/HBA2 (alpha globin 1 and alpha globin 2) (eg, alpha thalassemia, Hb Bart hydrops fetalis syndrome, HbH disease), gene analysis; full gene sequence",0,XXX,0/100,False,False,False,False,False
+81260,"IKBKAP (inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase complex-associated protein) (eg, familial dysautonomia) gene analysis, common variants (eg, 2507+6T>C, R696P)",0,XXX,,True,False,False,False,False
+81261,"IGH@ (Immunoglobulin heavy chain locus) (eg, leukemias and lymphomas, B-cell), gene rearrangement analysis to detect abnormal clonal population(s); amplified methodology (eg, polymerase chain reaction)",0,XXX,,False,False,False,False,False
+81262,"IGH@ (Immunoglobulin heavy chain locus) (eg, leukemias and lymphomas, B-cell), gene rearrangement analysis to detect abnormal clonal population(s); direct probe methodology (eg, Southern blot)",0,XXX,,False,False,False,False,False
+81263,"IGH@ (Immunoglobulin heavy chain locus) (eg, leukemia and lymphoma, B-cell), variable region somatic mutation analysis",0,XXX,,False,False,False,False,False
+81264,"IGK@ (Immunoglobulin kappa light chain locus) (eg, leukemia and lymphoma, B-cell), gene rearrangement analysis, evaluation to detect abnormal clonal popu- lation(s)",0,XXX,,False,False,False,False,False
+81265,"Comparative analysis using Short Tandem Repeat (STR) markers; patient and com- parative specimen (eg, pre-transplant recipient and donor germline testing, post-transplant non-hematopoietic recipient germline [eg, buccal swab or other germline tissue sample] and donor testing, twin zygosity testing, or maternal cell contamination of fetal cells)",0,XXX,,False,False,False,False,False
++ 81266,"Comparative analysis using Short Tandem Repeat (STR) markers; each additional specimen (eg, additional cord blood donor, additional fetal samples from different cultures, or additional zygosity in multiple birth pregnancies) (List separately in addition to code for primary procedure)",0,XXX,,False,False,False,False,False
+81267,"Chimerism (engraftment) analysis, post transplantation specimen (eg, hematopoi- etic stem cell), includes comparison to previously performed baseline analyses; without cell selection",0,XXX,,False,False,False,False,False
+81268,"Chimerism (engraftment) analysis, post transplantation specimen (eg, hematopoi- etic stem cell), includes comparison to previously performed baseline analyses; with cell selection (eg, CD3, CD33), each cell type",0,XXX,,False,False,False,False,False
+ 81311,"NRAS (neuroblastoma RAS viral [v-ras] oncogene homolog) (eg, colorectal carci- noma), gene analysis, variants in exon 2 (eg, codons 12 and 13) and exon 3 (eg, codon 61)",0,XXX,0/100,False,False,False,False,False
+ 81313,"PCA3/KLK3 (prostate cancer antigen 3 [non-protein coding]/kallikrein-related pep- tidase 3 [prostate specific antigen]) ratio (eg, prostate cancer)",0,XXX,0/100,False,False,False,False,False
+ 81314,"PDGFRA (platelet-derived growth factor receptor, alpha polypeptide) (eg, gastro- intestinal stromal tumor [GIST]), gene analysis, targeted sequence analysis (eg, exons 12, 18)",0,XXX,0/100,False,False,False,False,False
+81315,"PML/RARalpha, (t(15;17)), (promyelocytic leukemia/retinoic acid receptor alpha) (eg, promyelocytic leukemia) translocation analysis; common breakpoints (eg, intron 3 and intron 6), qualitative or quantitative",0,XXX,,False,False,False,False,False
+81316,"PML/RARalpha, (t(15;17)), (promyelocytic leukemia/retinoic acid receptor alpha) (eg, promyelocytic leukemia) translocation analysis; single breakpoint (eg, intron 3, intron 6 or exon 6), qualitative or quantitative",0,XXX,,False,False,False,False,False
+81317,"PMS2 (postmeiotic segregation increased 2 [S. cerevisiae]) (eg, hereditary non-polyposis colorectal cancer, Lynch syndrome) gene analysis; full sequence analysis",0,XXX,,False,False,False,False,False
+81318,"PMS2 (postmeiotic segregation increased 2 [S. cerevisiae]) (eg, hereditary non-polyposis colorectal cancer, Lynch syndrome) gene analysis; known familial variants",0,XXX,,False,False,False,False,False
+81319,"PMS2 (postmeiotic segregation increased 2 [S. cerevisiae]) (eg, hereditary non-polyposis colorectal cancer, Lynch syndrome) gene analysis; duplica- tion/deletion variants",0,XXX,,False,False,False,False,False
+ 81321,"PTEN (phosphatase and tensin homolog) (eg, Cowden syndrome, PTEN hamar- toma tumor syndrome) gene analysis; full sequence analysis",0,XXX,0/100,False,False,False,False,False
+ 81322,"PTEN (phosphatase and tensin homolog) (eg, Cowden syndrome, PTEN hamar- toma tumor syndrome) gene analysis; known familial variant",0,XXX,0/100,False,False,False,False,False
+ 81323,"PTEN (phosphatase and tensin homolog) (eg, Cowden syndrome, PTEN hamar- toma tumor syndrome) gene analysis; duplication/deletion variant",0,XXX,0/100,False,False,False,False,False
+ 81324,"PMP22 (peripheral myelin protein 22) (eg, Charcot-Marie-Tooth, hereditary neu- ropathy with liability to pressure palsies) gene analysis; duplication/deletion anal- ysis",0,XXX,0/100,False,False,False,False,False
+ 81325,"PMP22 (peripheral myelin protein 22) (eg, Charcot-Marie-Tooth, hereditary neu- ropathy with liability to pressure palsies) gene analysis; full sequence analysis",0,XXX,0/100,False,False,False,False,False
+ 81326,"PMP22 (peripheral myelin protein 22) (eg, Charcot-Marie-Tooth, hereditary neu- ropathy with liability to pressure palsies) gene analysis; known familial variant",0,XXX,0/100,False,False,False,False,False
+ 81327,"SEPT9 (Septin9) (eg, colorectal cancer) methylation analysis",0,XXX,,False,False,False,False,False
+ 81328,"SLCO1B1 (solute carrier organic anion transporter family, member 1B1) (eg, adverse drug reaction), gene analysis, common variant(s) (eg, *5)",0,XXX,0/100,False,True,False,False,False
+81330,"SMPD1(sphingomyelin phosphodiesterase 1, acid lysosomal) (eg, Niemann-Pick disease, Type A) gene analysis, common variants (eg, R496L, L302P, fsP330)",0,XXX,,False,False,False,False,False
+81331,"SNRPN/UBE3A (small nuclear ribonucleoprotein polypeptideN and ubiquitin pro- tein ligase E3A) (eg, Prader-Willi syndrome and/or Angelman syndrome), methyla- tion analysis",0,XXX,,False,False,False,False,False
+81332,"SERPINA1 (serpin peptidase inhibitor, clade A, alpha-1 antiproteinase, antitrypsin, member 1) (eg, alpha-1-antitrypsin deficiency), gene analysis, common variants (eg, *S and *Z)",0,XXX,,False,True,False,False,False
+ 81334,"RUNX1 (runt related transcription factor 1) (eg, acute myeloid leukemia, familial platelet disorder with associated myeloid malignancy), gene analysis, targeted sequence analysis (eg, exons 3-8)",0,XXX,0/100,False,False,False,False,False
+ 81335,"TPMT (thiopurine S-methyltransferase) (eg, drug metabolism), gene analysis, common variants (eg, *2, *3)",0,XXX,0/100,False,True,False,False,False
+81340,"TRB@ (T cell antigen receptor, beta) (eg, leukemia and lymphoma), gene rear- rangement analysis to detect abnormal clonal population(s); using amplification methodology (eg, polymerase chain reaction)",0,XXX,,False,False,False,False,False
+81341,"TRB@ (T cell antigen receptor, beta) (eg, leukemia and lymphoma), gene rear- rangement analysis to detect abnormal clonal population(s); using direct probe methodology (eg, Southern blot)",0,XXX,,False,False,False,False,False
+81403,"Molecular pathology procedure, Level 4 (eg, analysis of single exon by DNA sequence analysis, analysis of >10 amplicons using multiplex PCR in 2 or more independent reactions, mutation scanning or duplication/deletion variants of 2-5 exons)",0,XXX,,False,False,False,False,False
+81404,"Molecular pathology procedure, Level 5 (eg, analysis of 2-5 exons by DNA sequence analysis, mutation scanning or duplication/deletion variants of 6-10 exons, or characterization of a dynamic mutation disorder/triplet repeat by South- ern blot analysis)",0,XXX,,False,False,False,False,False
+81405,"Molecular pathology procedure, Level 6 (eg, analysis of 6-10 exons by DNA sequence analysis, mutation scanning or duplication/deletion variants of 11-25 exons, regionally targeted cytogenomic array analysis)",0,XXX,,False,False,False,False,False
+81406,"Molecular pathology procedure, Level 7 (eg, analysis of 11-25 exons by DNA sequence analysis, mutation scanning or duplication/deletion variants of 26-50 exons, cytogenomic array analysis for neoplasia)",0,XXX,,False,False,False,False,False
+81407,"Molecular pathology procedure, Level 8 (eg, analysis of 26-50 exons by DNA sequence analysis, mutation scanning or duplication/deletion variants of >50 exons, sequence analysis of multiple genes on one platform)",0,XXX,,False,False,False,False,False
+81408,"Molecular pathology procedure, Level 9 (eg, analysis of >50 exons in a single gene by DNA sequence analysis)",0,XXX,,False,False,False,False,False
+81410,"Aortic dysfunction or dilation (eg, Marfan syndrome, Loeys Dietz syndrome, Ehler Danlos syndrome type IV, arterial tortuosity syndrome); genomic sequence analy- sis panel, must include sequencing of at least 9 genes, including FBN1, TGFBR1, TGFBR2, COL3A1, MYH11, ACTA2, SLC2A10, SMAD3, and MYLK",0,XXX,0/100,False,False,False,False,False
+81411,"Aortic dysfunction or dilation (eg, Marfan syndrome, Loeys Dietz syndrome, Ehler Danlos syndrome type IV, arterial tortuosity syndrome); duplication/deletion analy- sis panel, must include analyses for TGFBR1, TGFBR2, MYH11, and COL3A1",0,XXX,0/100,False,False,False,False,False
+81412,"Ashkenazi Jewish associated disorders (eg, Bloom syndrome, Canavan disease, cystic fibrosis, familial dysautonomia, Fanconi anemia group C, Gaucher disease, Tay-Sachs disease), genomic sequence analysis panel, must include sequencing of at least 9 genes, including ASPA, BLM, CFTR, FANCC, GBA, HEXA, IKBKAP, MCOLN1, and SMPD1",0,XXX,0/100,False,False,False,False,False
+81413,"Cardiac ion channelopathies (eg, Brugada syndrome, long QT syndrome, short QT syndrome, catecholaminergic polymorphic ventricular tachycardia); genomic sequence analysis panel, must include sequencing of at least 10 genes, including ANK2, CASQ2, CAV3, KCNE1, KCNE2, KCNH2, KCNJ2, KCNQ1, RYR2, and SCN5A",0,XXX,0/100,False,False,False,False,False
+81414,"Cardiac ion channelopathies (eg, Brugada syndrome, long QT syndrome, short QT syndrome, catecholaminergic polymorphic ventricular tachycardia); duplica- tion/deletion gene analysis panel, must include analysis of at least 2 genes, includ- ing KCNH2 and KCNQ1",0,XXX,0/100,False,False,False,False,False
+81415,"Exome (eg, unexplained constitutional or heritable disorder or syndrome); sequence analysis",0,XXX,0/100,False,False,False,False,False
+81416,"Exome (eg, unexplained constitutional or heritable disorder or syndrome); sequence analysis, each comparator exome (eg, parents, siblings) (List separately in addition to code for primary procedure)",0,XXX,0/100,False,False,False,False,False
+81417,"Exome (eg, unexplained constitutional or heritable disorder or syndrome); re-eval- uation of previously obtained exome sequence (eg, updated knowledge or unre- lated condition/syndrome)",0,XXX,0/100,False,False,False,False,False
+81420,"Fetal chromosomal aneuploidy (eg, trisomy 21, monosomy X) genomic sequence analysis panel, circulating cell-free fetal DNA in maternal blood, must include analysis of chromosomes 13, 18, and 21",0,XXX,0/100,False,False,False,False,False
+81422,"Fetal chromosomal microdeletion(s) genomic sequence analysis (eg, DiGeorge syndrome, Cri-du-chat syndrome), circulating cell-free fetal DNA in maternal blood",0,XXX,0/100,False,False,False,False,False
+81425,"Genome (eg, unexplained constitutional or heritable disorder or syndrome); sequence analysis",0,XXX,,False,False,False,False,False
+81426,"Genome (eg, unexplained constitutional or heritable disorder or syndrome); sequence analysis, each comparator genome (eg, parents, siblings) (List sepa- rately in addition to code for primary procedure)",0,XXX,,False,False,False,False,False
+81450,"Targeted genomic sequence analysis panel, hematolymphoid neoplasm or disor- der, DNA analysis, and RNA analysis when performed, 5-50 genes (eg, BRAF, CEBPA, DNMT3A, EZH2, FLT3, IDH1, IDH2, JAK2, KRAS, KIT, MLL, NRAS, NPM1, NOTCH1), interrogation for sequence variants, and copy number variants or rear- rangements, or isoform expression or mRNA expression levels, if performed",0,XXX,0/100,False,False,False,False,False
+81455,"Targeted genomic sequence analysis panel, solid organ or hematolymphoid neo- plasm, DNA analysis, and RNA analysis when performed, 51 or greater genes (eg, ALK, BRAF, CDKN2A, CEBPA, DNMT3A, EGFR, ERBB2, EZH2, FLT3, IDH1, IDH2, JAK2, KIT, KRAS, MLL, NPM1, NRAS, MET, NOTCH1, PDGFRA, PDGFRB, PGR, PIK3CA, PTEN, RET), interrogation for sequence variants and copy number vari- ants or rearrangements, if performed",0,XXX,0/100,False,False,False,False,False
+81460,"Whole mitochondrial genome (eg, Leigh syndrome, mitochondrial encephalomy- opathy, lactic acidosis, and stroke-like episodes [MELAS], myoclonic epilepsy with ragged-red fibers [MERFF], neuropathy, ataxia, and retinitis pigmentosa [NARP], Leber hereditary optic neuropathy [LHON]), genomic sequence, must include sequence analysis of entire mitochondrial genome with heteroplasmy detection",0,XXX,0/100,False,False,False,False,False
+81465,"Whole mitochondrial genome large deletion analysis panel (eg, Kearns-Sayre syn- drome, chronic progressive external ophthalmoplegia), including heteroplasmy detection, if performed",0,XXX,0/100,False,False,False,False,False
+81470,"X-linked intellectual disability (XLID) (eg, syndromic and non-syndromic XLID); genomic sequence analysis panel, must include sequencing of at least 60 genes, including ARX, ATRX, CDKL5, FGD1, FMR1, HUWE1, IL1RAPL, KDM5C, L1CAM, MECP2, MED12, MID1, OCRL, RPS6KA3, and SLC16A2",0,XXX,,False,False,False,False,False
+81471,"X-linked intellectual disability (XLID) (eg, syndromic and non-syndromic XLID); duplication/deletion gene analysis, must include analysis of at least 60 genes, including ARX, ATRX, CDKL5, FGD1, FMR1, HUWE1, IL1RAPL, KDM5C, L1CAM, MECP2, MED12, MID1, OCRL, RPS6KA3, and SLC16A2",0,XXX,,False,False,False,False,False
+81479,Unlisted molecular pathology procedure,0,XXX,,False,False,False,False,False
+81490,"Autoimmune (rheumatoid arthritis), analysis of 12 biomarkers using immunoas- says, utilizing serum, prognostic algorithm reported as a disease activity score",0,XXX,0/100,False,False,False,False,False
+81493,"Coronary artery disease, mRNA, gene expression profiling by real-time RT-PCR of 23 genes, utilizing whole peripheral blood, algorithm reported as a risk score",0,XXX,0/100,False,False,False,False,False
+81500,"Oncology (ovarian), biochemical assays of two proteins (CA-125 and HE4), utilizing serum, with menopausal status, algorithm reported as a risk score",0,XXX,0/100,False,False,False,False,False
+81503,"Oncology (ovarian), biochemical assays of five proteins (CA-125, apolipoprotein A1, beta-2 microglobulin, transferrin, and pre-albumin), utilizing serum, algorithm reported as a risk score",0,XXX,0/100,False,False,False,False,False
+81504,"Oncology (tissue of origin), microarray gene expression profiling of > 2000 genes, utilizing formalin-fixed paraffin-embedded tissue, algorithm reported as tissue similarity scores",0,XXX,0/100,False,False,False,False,False
+81506,"Endocrinology (type 2 diabetes), biochemical assays of seven analytes (glucose, HbA1c, insulin, hs-CRP, adiponectin, ferritin, interleukin 2-receptor alpha), utilizing serum or plasma, algorithm reporting a risk score",0,XXX,0/100,False,False,False,False,False
+81507,"Fetal aneuploidy (trisomy 21, 18, and 13) DNA sequence analysis of selected regions using maternal plasma, algorithm reported as a risk score for each trisomy",0,XXX,0/100,False,False,False,False,False
+81508,"Fetal congenital abnormalities, biochemical assays of two proteins (PAPP-A, hCG [any form]), utilizing maternal serum, algorithm reported as a risk score",0,XXX,0/100,False,False,False,False,False
+81509,"Fetal congenital abnormalities, biochemical assays of three proteins (PAPP-A, hCG [any form], DIA), utilizing maternal serum, algorithm reported as a risk score",0,XXX,0/100,False,False,False,False,False
+81510,"Fetal congenital abnormalities, biochemical assays of three analytes (AFP, uE3, hCG [any form]), utilizing maternal serum, algorithm reported as a risk score",0,XXX,0/100,False,False,False,False,False
+81511,"Fetal congenital abnormalities, biochemical assays of four analytes (AFP, uE3, hCG [any form], DIA) utilizing maternal serum, algorithm reported as a risk score (may include additional results from previous biochemical testing)",0,XXX,0/100,False,False,False,False,False
+81512,"Fetal congenital abnormalities, biochemical assays of five analytes (AFP, uE3, total hCG, hyperglycosylated hCG, DIA) utilizing maternal serum, algorithm reported as a risk score",0,XXX,0/100,False,False,False,False,False
+82044,"Albumin; urine (eg, microalbumin), semiquantitative (eg, reagent strip assay)",11.09,XXX,0/100,False,False,False,False,False
+82045,Albumin; ischemia modified,44.35,XXX,0/100,False,False,False,False,False
+82075,"Alcohol (ethanol), breath",11.09,XXX,0/100,False,False,False,False,False
+82085,Aldolase,18.48,XXX,0/100,False,False,False,False,False
+82088,Aldosterone,49.29,XXX,0/100,False,False,False,False,False
+82103,Alpha-1-antitrypsin; total,24.64,XXX,0/100,False,False,False,False,False
+82104,Alpha-1-antitrypsin; phenotype,33.89,XXX,0/100,False,False,False,False,False
+82105,Alpha-fetoprotein (AFP); serum,28.96,XXX,0/100,False,False,False,False,False
+82106,Alpha-fetoprotein (AFP); amniotic fluid,28.96,XXX,0/100,False,False,False,False,False
+82107,Alpha-fetoprotein (AFP); AFP-L3 fraction isoform and total AFP (including ratio),33.89,XXX,0/100,False,False,False,False,False
+82108,Aluminum,36.97,XXX,0/100,False,False,False,False,False
+82120,"Amines, vaginal fluid, qualitative",5.03,XXX,0/100,False,False,False,False,False
+82127,"Amino acids; single, qualitative, each specimen",17.87,XXX,0/100,False,False,False,False,False
+82128,"Amino acids; multiple, qualitative, each specimen",17.87,XXX,0/100,False,False,False,False,False
+82131,"Amino acids; single, quantitative, each specimen",83.17,XXX,0/100,False,False,False,False,False
+82135,"Aminolevulinic acid, delta (ALA)",27.11,XXX,0/100,False,False,False,False,False
+82136,"Amino acids, 2 to 5 amino acids, quantitative, each specimen",83.17,XXX,0/100,False,False,False,False,False
+82139,"Amino acids, 6 or more amino acids, quantitative, each specimen",83.17,XXX,0/100,False,False,False,False,False
+82140,Ammonia,21.56,XXX,0/100,False,False,False,False,False
+82143,Amniotic fluid scan (spectrophotometric),22.8,XXX,0/100,False,False,False,False,False
+82150,Amylase,9.86,XXX,0/100,False,False,False,False,False
+82154,Androstanediol glucuronide,40.05,XXX,0/100,False,False,False,False,False
+82157,Androstenedione,36.97,XXX,0/100,False,False,False,False,False
+82160,Androsterone,40.05,XXX,0/100,False,False,False,False,False
+82163,Angiotensin II,36.97,XXX,0/100,False,False,False,False,False
+82164,Angiotensin I - converting enzyme (ACE),30.81,XXX,0/100,False,False,False,False,False
+82172,"Apolipoprotein, each",20.33,XXX,0/100,False,False,False,False,False
+82175,Arsenic,33.89,XXX,0/100,False,False,False,False,False
+82180,"Ascorbic acid (Vitamin C), blood",17.87,XXX,0/100,False,False,False,False,False
+82190,"Atomic absorption spectroscopy, each analyte",36.97,XXX,0/100,False,False,False,False,False
+82232,Beta-2 microglobulin,33.89,XXX,0/100,False,False,False,False,False
+82239,Bile acids; total,19.72,XXX,0/100,False,False,False,False,False
+82240,Bile acids; cholylglycine,43.74,XXX,0/100,False,False,False,False,False
+82247,Bilirubin; total,8.01,XXX,0/100,False,False,False,False,False
+82248,Bilirubin; direct,8.01,XXX,0/100,False,False,False,False,False
+82252,"Bilirubin; feces, qualitative",5.54,XXX,0/100,False,False,False,False,False
+82261,"Biotinidase, each specimen",8.63,XXX,0/100,False,False,False,False,False
+82270,"Blood, occult, by peroxidase activity (eg, guaiac), qualitative; feces, consecutive collected specimens with single determination, for colorectal neoplasm screening (ie, patient was provided 3 cards or single triple card for consecutive collection)",6.16,XXX,0/100,False,False,False,False,False
+82271,"Blood, occult, by peroxidase activity (eg, guaiac), qualitative; other sources",5.54,XXX,0/100,False,False,False,False,False
+82272,"Blood, occult, by peroxidase activity (eg, guaiac), qualitative, feces, 1-3 simultane- ous determinations, performed for other than colorectal neoplasm screening",5.54,XXX,0/100,False,False,False,False,False
+82274,"Blood, occult, by fecal hemoglobin determination by immunoassay, qualitative, feces, 1-3 simultaneous determinations",30.81,XXX,0/100,False,False,False,False,False
+82286,Bradykinin,49.29,XXX,0/100,False,False,False,False,False
+82300,Cadmium,33.89,XXX,0/100,False,False,False,False,False
+82554,"Creatine kinase (CK), (CPK); isoforms",21.56,XXX,0/100,False,False,False,False,False
+82565,Creatinine; blood,8.01,XXX,0/100,False,False,False,False,False
+82570,Creatinine; other source,9.86,XXX,0/100,False,False,False,False,False
+82575,Creatinine; clearance,17.87,XXX,0/100,False,False,False,False,False
+82585,Cryofibrinogen,12.32,XXX,0/100,False,False,False,False,False
+82595,"Cryoglobulin, qualitative or semi-quantitative (eg, cryocrit)",12.32,XXX,0/100,False,False,False,False,False
+82600,Cyanide,24.64,XXX,0/100,False,False,False,False,False
+82607,Cyanocobalamin (Vitamin B-12);,24.64,XXX,0/100,False,False,False,False,False
+82608,Cyanocobalamin (Vitamin B-12); unsaturated binding capacity,28.34,XXX,0/100,False,False,False,False,False
+82610,Cystatin C,17.93,XXX,0/100,False,False,False,False,False
+82615,"Cystine and homocystine, urine, qualitative",18.48,XXX,0/100,False,False,False,False,False
+82626,Dehydroepiandrosterone (DHEA),42.82,XXX,0/100,False,False,False,False,False
+82627,Dehydroepiandrosterone-sulfate (DHEA-S),36.97,XXX,0/100,False,False,False,False,False
+82633,"Desoxycorticosterone, 11-",49.29,XXX,0/100,False,False,False,False,False
+82634,"Deoxycortisol, 11-",43.13,XXX,0/100,False,False,False,False,False
+82638,Dibucaine number,17.25,XXX,0/100,False,False,False,False,False
+82652,"Vitamin D; 1, 25 dihydroxy, includes fraction(s), if performed",49.29,XXX,0/100,False,False,False,False,False
+82656,"Elastase, pancreatic (EL-1), fecal, qualitative or semi-quantitative",15.10,XXX,0/100,False,False,False,False,False
+82657,"Enzyme activity in blood cells, cultured cells, or tissue, not elsewhere specified; nonradioactive substrate, each specimen",23.59,XXX,0/100,False,False,False,False,False
+82658,"Enzyme activity in blood cells, cultured cells, or tissue, not elsewhere specified; radioactive substrate, each specimen",25.88,XXX,0/100,False,False,False,False,False
+82664,"Electrophoretic technique, not elsewhere specified",28.34,XXX,0/100,False,False,False,False,False
+82668,Erythropoietin,40.05,XXX,0/100,False,False,False,False,False
+82670,Estradiol,28.96,XXX,0/100,False,False,False,False,False
+82671,Estrogens; fractionated,51.75,XXX,0/100,False,False,False,False,False
+82672,Estrogens; total,36.97,XXX,0/100,False,False,False,False,False
+82677,Estriol,26.49,XXX,0/100,False,False,False,False,False
+82679,Estrone,40.05,XXX,0/100,False,False,False,False,False
+82693,Ethylene glycol,30.81,XXX,0/100,False,False,False,False,False
+82696,Etiocholanolone,43.13,XXX,0/100,False,False,False,False,False
+82705 82710,"Fat or lipids, feces; qualitative Fat or lipids, feces; quantitative",9.24 34.50,XXX XXX,0/100 0/100,False,False,False,False,False
+82715,"Fat differential, feces, quantitative",14.79,XXX,0/100,False,False,False,False,False
+82725,"Fatty acids, nonesterified",14.79,XXX,0/100,False,False,False,False,False
+,Very long chain fatty,23.59,XXX,0/100,False,False,False,False,False
+82726,acids,,,,False,False,False,False,False
+82731,"Fetal fibronectin, cervicovaginal secretions, semi-quantitative",22.80,XXX,0/100,False,False,False,False,False
+82735,Fluoride,26.49,XXX,0/100,False,False,False,False,False
+82746,Folic acid; serum,25.26,XXX,0/100,False,False,False,False,False
+82747,Folic acid; RBC,30.19,XXX,0/100,False,False,False,False,False
+,"Galactokinase, RBC",,XXX,0/100,False,False,False,False,False
+82757 82759,"Fructose, semen",16.02 19.72,XXX,0/100,False,False,False,False,False
+82760,,20.33,XXX,0/100,False,False,False,False,False
+,Galactose,,XXX,,False,False,False,False,False
+82775,Galactose-1-phosphate uridyl transferase; quantitative,25.88,,0/100,False,False,False,False,False
+83020,"Hemoglobin fractionation and quantitation; electrophoresis (eg, A2, S, C, and/or F)",23.1,XXX,30/70,False,False,False,False,False
+83021,"Hemoglobin fractionation and quantitation; chromatography (eg, A2, S, C, and/or F)",30.81,XXX,0/100,False,False,False,False,False
+83026,"Hemoglobin; by copper sulfate method, non-automated",5.54,XXX,0/100,False,False,False,False,False
+83030,"Hemoglobin; F (fetal), chemical",16.02,XXX,0/100,False,False,False,False,False
+83033,"Hemoglobin; F (fetal), qualitative",9.24,XXX,0/100,False,False,False,False,False
+83036,Hemoglobin; glycosylated (A1C),16.63,XXX,0/100,False,False,False,False,False
+83037,Hemoglobin; glycosylated (A1C) by device cleared by FDA for home use,15.4,XXX,0/100,False,False,False,False,False
+83045,"Hemoglobin; methemoglobin, qualitative",6.16,XXX,0/100,False,False,False,False,False
+83050,"Hemoglobin; methemoglobin, quantitative",7.39,XXX,0/100,False,False,False,False,False
+83051,Hemoglobin; plasma,8.01,XXX,0/100,False,False,False,False,False
+83060,"Hemoglobin; sulfhemoglobin, quantitative",14.17,XXX,0/100,False,False,False,False,False
+83065,Hemoglobin; thermolabile,4.93,XXX,0/100,False,False,False,False,False
+83068,"Hemoglobin; unstable, screen",6.78,XXX,0/100,False,False,False,False,False
+83069,Hemoglobin; urine,4.93,XXX,0/100,False,False,False,False,False
+83070,"Hemosiderin, qualitative",7.39,XXX,0/100,False,False,False,False,False
+83080,"b-Hexosaminidase, each assay",19.1,XXX,0/100,False,False,False,False,False
+83088,Histamine,47.44,XXX,0/100,False,False,False,False,False
+83090,Homocysteine,17.87,XXX,0/100,False,False,False,False,False
+83150,Homovanillic acid (HVA),30.81,XXX,0/100,False,False,False,False,False
+83491,"Hydroxycorticosteroids, 17- (17-OHCS)",36.35,XXX,0/100,False,False,False,False,False
+83497,"Hydroxyindolacetic acid, 5-(HIAA)",28.96,XXX,0/100,False,False,False,False,False
+83498,"Hydroxyprogesterone, 17-d",41.89,XXX,0/100,False,False,False,False,False
+83500,Hydroxyproline; free,30.81,XXX,0/100,False,False,False,False,False
+83505,Hydroxyproline; total,40.05,XXX,0/100,False,False,False,False,False
+83516,"Immunoassay for analyte other than infectious agent antibody or infectious agent antigen; qualitative or semiquantitative, multiple step method",19.72,XXX,0/100,False,False,False,False,False
+83518,"Immunoassay for analyte other than infectious agent antibody or infectious agent antigen; qualitative or semiquantitative, single step method (eg, reagent strip)",12.32,XXX,0/100,False,False,False,False,False
+83519,"Immunoassay for analyte other than infectious agent antibody or infectious agent antigen; quantitative, by radioimmunoassay (eg, RIA)",25.88,XXX,0/100,False,False,False,False,False
+83520,"Immunoassay for analyte other than infectious agent antibody or infectious agent antigen; quantitative, not otherwise specified",22.18,XXX,0/100,False,False,False,False,False
+83525,Insulin; total,24.03,XXX,0/100,False,False,False,False,False
+83527,Insulin; free,27.11,XXX,0/100,False,False,False,False,False
+83528,Intrinsic factor,32.04,XXX,0/100,False,False,False,False,False
+83540,Iron,8.01,XXX,0/100,False,False,False,False,False
+83550,Iron binding capacity,10.78,XXX,0/100,False,False,False,False,False
+83570,Isocitric dehydrogenase (IDH),14.79,XXX,0/100,False,False,False,False,False
+83582,"Ketogenic steroids, fractionation",25.26,XXX,0/100,False,False,False,False,False
+83586,"Ketosteroids, 17- (17-KS); total",24.64,XXX,0/100,False,False,False,False,False
+83593,"Ketosteroids, 17- (17-KS); fractionation",54.22,XXX,0/100,False,False,False,False,False
+83605,Lactate (lactic acid),19.72,XXX,0/100,False,False,False,False,False
+83615,"Lactate dehydrogenase (LD), (LDH);",8.32,XXX,0/100,False,False,False,False,False
+83625,"Lactate dehydrogenase (LD), (LDH); isoenzymes, separation and quantitation",24.64,XXX,0/100,False,False,False,False,False
+83630,"Lactoferrin, fecal; qualitative",18.48,XXX,0/100,False,False,False,False,False
+83631,"Lactoferrin, fecal; quantitative",21.56,XXX,0/100,False,False,False,False,False
+83632,"Lactogen, human placental (HPL) human chorionic somatomammotropin",39.43,XXX,0/100,False,False,False,False,False
+83945,,,XXX,0/100,False,False,False,False,False
+83950,,,XXX,0/100,False,False,False,False,False
+83951,,,XXX,0/100,False,False,False,False,False
+83970,,,XXX,0/100,False,False,False,False,False
+83986,,,XXX,0/100,False,False,False,False,False
+83987,,,XXX,0/100,False,False,False,False,False
+83992,,,XXX,0/100,False,False,False,False,False
+83993,,,XXX,0/100,False,False,False,False,False
+84030,,,XXX,0/100,False,False,False,False,False
+84035,,,XXX,0/100,False,False,False,False,False
+84060,,,XXX,0/100,False,False,False,False,False
+84066,,,XXX,0/100,False,False,False,False,False
+84075,,,XXX,0/100,False,False,False,False,False
+84078,,,XXX,0/100,False,False,False,False,False
+84080,,,XXX,0/100,False,False,False,False,False
+84081,,,XXX,0/100,False,False,False,False,False
+84085,,,XXX,0/100,False,False,False,False,False
+84087,,,XXX,0/100,False,False,False,False,False
+84100,,,XXX,0/100,False,False,False,False,False
+84105,,,XXX,0/100,False,False,False,False,False
+84106,,,XXX,0/100,False,False,False,False,False
+84110,,,XXX,0/100,False,False,False,False,False
+84112,,,XXX,0/100,False,False,False,False,False
+84119,,,XXX,0/100,False,False,False,False,False
+84120,,,XXX,0/100,False,False,False,False,False
+84126,,,XXX,0/100,False,False,False,False,False
+84132,,,XXX,0/100,False,False,False,False,False
+84133,,,XXX,0/100,False,False,False,False,False
+84134,,,XXX,0/100,False,False,False,False,False
+84135,,,XXX,0/100,False,False,False,False,False
+84138,,,XXX,0/100,False,False,False,False,False
+84140,,,XXX,0/100,False,False,False,False,False
+84143,,,XXX,0/100,False,False,False,False,False
+84144,,,XXX,0/100,False,False,False,False,False
+84145,,,XXX,0/100,False,False,False,False,False
+84146,,,XXX,0/100,False,False,False,False,False
+84150,,,XXX,0/100,False,False,False,False,False
+84152,,,XXX,0/100,False,False,False,False,False
+84153,,,XXX,0/100,False,False,False,False,False
+84154,,,XXX,0/100,False,False,False,False,False
+84155,,,XXX,0/100,False,False,False,False,False
+84156,,,XXX,0/100,False,False,False,False,False
+84157,,,XXX,0/100,False,False,False,False,False
+84160,,,XXX,0/100,False,False,False,False,False
+84437,"Thyroxine; requiring elution (eg, neonatal)",12.32,XXX,0/100,False,False,False,False,False
+84439,Thyroxine; free,18.48,XXX,0/100,False,False,False,False,False
+84442,Thyroxine binding globulin (TBG),21.56,XXX,0/100,False,False,False,False,False
+84443,Thyroid stimulating hormone (TSH),25.88,XXX,0/100,False,False,False,False,False
+84445,Thyroid stimulating immune globulins (TSI),80.09,XXX,0/100,False,False,False,False,False
+84446,Tocopherol alpha (Vitamin E),24.64,XXX,0/100,False,False,False,False,False
+84449,Transcortin (cortisol binding globulin),29.57,XXX,0/100,False,False,False,False,False
+84450,Transferase; aspartate amino (AST) (SGOT),8.63,XXX,0/100,False,False,False,False,False
+84460,Transferase; alanine amino (ALT) (SGPT),8.63,XXX,0/100,False,False,False,False,False
+84466,Transferrin,21.56,XXX,0/100,False,False,False,False,False
+84478,Triglycerides,8.63,XXX,0/100,False,False,False,False,False
+84479,Thyroid hormone (T3 or T4) uptake or thyroid hormone binding ratio (THBR),11.09,XXX,0/100,False,False,False,False,False
+84480,Triiodothyronine T3; total (TT-3),24.64,XXX,0/100,False,False,False,False,False
+84481,Triiodothyronine T3; free,32.65,XXX,0/100,False,False,False,False,False
+84482,Triiodothyronine T3; reverse,27.72,XXX,0/100,False,False,False,False,False
+84484,"Troponin, quantitative",12.9,XXX,0/100,False,False,False,False,False
+84485,Trypsin; duodenal fluid,12.32,XXX,0/100,False,False,False,False,False
+84488,"Trypsin; feces, qualitative",8.01,XXX,0/100,False,False,False,False,False
+84490,"Trypsin; feces, quantitative, 24-hour collection",9.24,XXX,0/100,False,False,False,False,False
+84510,Tyrosine,16.02,XXX,0/100,False,False,False,False,False
+84512,"Troponin, qualitative",10.06,XXX,0/100,False,False,False,False,False
+84520,Urea nitrogen; quantitative,8.01,XXX,0/100,False,False,False,False,False
+84525,"Urea nitrogen; semiquantitative (eg, reagent strip test)",6.16,XXX,0/100,False,False,False,False,False
+84540,"Urea nitrogen, urine",9.86,XXX,0/100,False,False,False,False,False
+84545,"Urea nitrogen, clearance",12.32,XXX,0/100,False,False,False,False,False
+84550,Uric acid; blood,8.01,XXX,0/100,False,False,False,False,False
+84560,Uric acid; other source,9.86,XXX,0/100,False,False,False,False,False
+84577,"Urobilinogen, feces, quantitative",12.32,XXX,0/100,False,False,False,False,False
+84578,"Urobilinogen, urine; qualitative",5.54,XXX,0/100,False,False,False,False,False
+84580,"Urobilinogen, urine; quantitative, timed specimen",11.71,XXX,0/100,False,False,False,False,False
+84583,"Urobilinogen, urine; semiquantitative",5.54,XXX,0/100,False,False,False,False,False
+84585,"Vanillylmandelic acid (VMA), urine",30.81,XXX,0/100,False,False,False,False,False
+84586,Vasoactive intestinal peptide (VIP),47.44,XXX,0/100,False,False,False,False,False
+84588,"Vasopressin (antidiuretic hormone, ADH)",50.52,XXX,0/100,False,False,False,False,False
+84590,Vitamin A,28.96,XXX,0/100,False,False,False,False,False
+84591,"Vitamin, not otherwise specified",28.34,XXX,0/100,False,False,False,False,False
+84597,Vitamin K,28.34,XXX,0/100,False,False,False,False,False
+84600,"Volatiles (eg, acetic anhydride, diethylether)",21.56,XXX,0/100,False,False,False,False,False
+84620,"Xylose absorption test, blood and/or urine",27.11,XXX,0/100,False,False,False,False,False
+84630,Zinc,24.64,XXX,0/100,False,False,False,False,False
+84681,C-peptide,36.97,XXX,0/100,False,False,False,False,False
+84702,"Gonadotropin, chorionic (hCG); quantitative",24.64,XXX,0/100,False,False,False,False,False
+84703,"Gonadotropin, chorionic (hCG); qualitative",14.17,XXX,0/100,False,False,False,False,False
+84704,"Gonadotropin, chorionic (hCG); free beta chain",23.41,XXX,0/100,False,False,False,False,False
+84830,"Ovulation tests, by visual color comparison methods for human luteinizing hor- mone",15.4,XXX,0/100,False,False,False,False,False
+85302,"Clotting inhibitors or anticoagulants; protein C, antigen",33.89,XXX,0/100,False,False,False,False,False
+85303,"Clotting inhibitors or anticoagulants; protein C, activity",36.97,XXX,0/100,False,False,False,False,False
+85305,"Clotting inhibitors or anticoagulants; protein S, total",40.05,XXX,0/100,False,False,False,False,False
+85306,"Clotting inhibitors or anticoagulants; protein S, free",40.05,XXX,0/100,False,False,False,False,False
+85307,Activated Protein C (APC) resistance assay,33.89,XXX,0/100,False,False,False,False,False
+85335,Factor inhibitor test,16.63,XXX,0/100,False,False,False,False,False
+85337,Thrombomodulin,30.81,XXX,0/100,False,False,False,False,False
+85345,Coagulation time; Lee and White,6.16,XXX,0/100,False,False,False,False,False
+85347,Coagulation time; activated,6.16,XXX,0/100,False,False,False,False,False
+85348,Coagulation time; other methods,9.86,XXX,0/100,False,False,False,False,False
+85360,Euglobulin lysis,19.72,XXX,0/100,False,False,False,False,False
+85362,"Fibrin(ogen) degradation (split) products (FDP) (FSP); agglutination slide, semi- quantitative",13.55,XXX,0/100,False,False,False,False,False
+85366,Fibrin(ogen) degradation (split) products (FDP) (FSP); paracoagulation,19.72,XXX,0/100,False,False,False,False,False
+85370,Fibrin(ogen) degradation (split) products (FDP) (FSP); quantitative,19.72,XXX,0/100,False,False,False,False,False
+85378,"Fibrin degradation products, D-dimer; qualitative or semiquantitative",16.02,XXX,0/100,False,False,False,False,False
+85379,"Fibrin degradation products, D-dimer; quantitative",18.48,XXX,0/100,False,False,False,False,False
+85380,"Fibrin degradation products, D-dimer; ultrasensitive (eg, for evaluation for venous thromboembolism), qualitative or semiquantitative",18.48,XXX,0/100,False,False,False,False,False
+85384,Fibrinogen; activity,12.32,XXX,0/100,False,False,False,False,False
+85385,Fibrinogen; antigen,15.4,XXX,0/100,False,False,False,False,False
+85390,"Fibrinolysins or coagulopathy screen, interpretation and report",15.4,XXX,,False,False,False,False,False
+85396,"Coagulation/fibrinolysis assay, whole blood (eg, viscoelastic clot assessment), including use of any pharmacologic additive(s), as indicated, including interpreta- tion and written report, per day",15.4,XXX,,False,False,False,False,False
+85397,"Coagulation and fibrinolysis, functional activity, not otherwise specified (eg, ADAMTS-13), each analyte",24.64,XXX,0/100,False,False,False,False,False
+85400,Fibrinolytic factors and inhibitors; plasmin,29.57,XXX,0/100,False,False,False,False,False
+85410,Fibrinolytic factors and inhibitors; alpha-2 antiplasmin,29.57,XXX,0/100,False,False,False,False,False
+85415,Fibrinolytic factors and inhibitors; plasminogen activator,22.8,XXX,0/100,False,False,False,False,False
+85420,"Fibrinolytic factors and inhibitors; plasminogen, except antigenic assay",29.57,XXX,0/100,False,False,False,False,False
+85421,"Fibrinolytic factors and inhibitors; plasminogen, antigenic assay",36.97,XXX,0/100,False,False,False,False,False
+85441,Heinz bodies; direct,5.54,XXX,0/100,False,False,False,False,False
+85445,"Heinz bodies; induced, acetyl phenylhydrazine",8.63,XXX,0/100,False,False,False,False,False
+85460,"Hemoglobin or RBCs, fetal, for fetomaternal hemorrhage; differential lysis (Klei- hauer-Betke)",16.63,XXX,0/100,False,False,False,False,False
+85461,"Hemoglobin or RBCs, fetal, for fetomaternal hemorrhage; rosette",16.63,XXX,0/100,False,False,False,False,False
+85475,"Hemolysin, acid",20.95,XXX,0/100,False,False,False,False,False
+85520,Heparin assay,24.64,XXX,0/100,False,False,False,False,False
+85525,Heparin neutralization,24.64,XXX,0/100,False,False,False,False,False
+85530,Heparin-protamine tolerance test,24.64,XXX,0/100,False,False,False,False,False
+85536,"Iron stain, peripheral blood",10.47,XXX,0/100,False,False,False,False,False
+85540,Leukocyte alkaline phosphatase with count,15.4,XXX,0/100,False,False,False,False,False
+85547,"Mechanical fragility, RBC",14.17,XXX,0/100,False,False,False,False,False
+85549,Muramidase,31.42,XXX,0/100,False,False,False,False,False
+85555,"Osmotic fragility, RBC; unincubated",15.4,XXX,0/100,False,False,False,False,False
+85557,"Osmotic fragility, RBC; incubated",30.81,XXX,0/100,False,False,False,False,False
+85576,"Platelet, aggregation (in vitro), each agent",30.81,XXX,20/80,False,False,False,False,False
+86155,"Chemotaxis assay, specify method",16.63,XXX,0/100,False,False,False,False,False
+86156,Cold agglutinin; screen,11.09,XXX,0/100,False,False,False,False,False
+86157,Cold agglutinin; titer,14.17,XXX,0/100,False,False,False,False,False
+86160,"Complement; antigen, each component",27.11,XXX,0/100,False,False,False,False,False
+86161,"Complement; functional activity, each component",27.11,XXX,0/100,False,False,False,False,False
+86162,Complement; total hemolytic (CH50),38.2,XXX,0/100,False,False,False,False,False
+86171,"Complement fixation tests, each antigen",17.87,XXX,0/100,False,False,False,False,False
+86200,"Cyclic citrullinated peptide (CCP), antibody",24.64,XXX,0/100,False,False,False,False,False
+86215,"Deoxyribonuclease, antibody",24.03,XXX,0/100,False,False,False,False,False
+86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,26.49,XXX,0/100,False,False,False,False,False
+86226,Deoxyribonucleic acid (DNA) antibody; single stranded,26.49,XXX,0/100,False,False,False,False,False
+86235,"Extractable nuclear antigen, antibody to, any method (eg, nRNP, SS-A, SS-B, Sm, RNP, Sc170, J01), each antibody",23.41,XXX,0/100,False,False,False,False,False
+86255,"Fluorescent noninfectious agent antibody; screen, each antibody",21.56,XXX,0/100,False,False,False,False,False
+86256,"Fluorescent noninfectious agent antibody; titer, each antibody",26.49,XXX,0/100,False,False,False,False,False
+86277,"Growth hormone, human (HGH), antibody",21.56,XXX,0/100,False,False,False,False,False
+86280,Hemagglutination inhibition test (HAI),17.87,XXX,0/100,False,False,False,False,False
+86294,"Immunoassay for tumor antigen, qualitative or semiquantitative (eg, bladder tumor antigen)",32.04,XXX,0/100,False,False,False,False,False
+86300,"Immunoassay for tumor antigen, quantitative; CA 15-3 (27.29)",32.04,XXX,0/100,False,False,False,False,False
+86301,"Immunoassay for tumor antigen, quantitative; CA 19-9",32.04,XXX,0/100,False,False,False,False,False
+86304,"Immunoassay for tumor antigen, quantitative; CA 125",32.04,XXX,0/100,False,False,False,False,False
+86305,Human epididymis protein 4 (HE4),27.36,XXX,0/100,False,False,False,False,False
+86308,Heterophile antibodies; screening,10.47,XXX,0/100,False,False,False,False,False
+86309,Heterophile antibodies; titer,13.55,XXX,0/100,False,False,False,False,False
+86310,Heterophile antibodies; titers after absorption with beef cells and guinea pig kid- ney,15.4,XXX,0/100,False,False,False,False,False
+86316,"Immunoassay for tumor antigen, other antigen, quantitative (eg, CA 50, 72-4, 549), each",32.04,XXX,0/100,False,False,False,False,False
+86317,"Immunoassay for infectious agent antibody, quantitative, not otherwise specified",14.79,XXX,0/100,False,False,False,False,False
+86318,"Immunoassay for infectious agent antibody, qualitative or semiquantitative, single step method (eg, reagent strip)",14.79,XXX,0/100,False,False,False,False,False
+86320,Immunoelectrophoresis; serum,38.81,XXX,20/80,False,False,False,False,False
+86325,"Immunoelectrophoresis; other fluids (eg, urine, cerebrospinal fluid) with concen- tration",40.05,XXX,20/80,False,False,False,False,False
+86327,Immunoelectrophoresis; crossed (2-dimensional assay),30.81,XXX,20/80,False,False,False,False,False
+86329,Immunodiffusion; not elsewhere specified,29.57,XXX,0/100,False,False,False,False,False
+86331,"Immunodiffusion; gel diffusion, qualitative (Ouchterlony), each antigen or antibody",27.72,XXX,0/100,False,False,False,False,False
+86332,Immune complex assay,35.12,XXX,0/100,False,False,False,False,False
+86334,Immunofixation electrophoresis; serum,33.27,XXX,20/80,False,False,False,False,False
+86335,"Immunofixation electrophoresis; other fluids with concentration (eg, urine, CSF)",33.27,XXX,20/80,False,False,False,False,False
+86336,Inhibin A,30.81,XXX,0/100,False,False,False,False,False
+86337,Insulin antibodies,38.81,XXX,0/100,False,False,False,False,False
+86340,Intrinsic factor antibodies,27.11,XXX,0/100,False,False,False,False,False
+86341,Islet cell antibody,21.56,XXX,0/100,False,False,False,False,False
+86343,Leukocyte histamine release test (LHR),26.49,XXX,0/100,False,False,False,False,False
+86344,Leukocyte phagocytosis,15.4,XXX,0/100,False,False,False,False,False
+86635,Antibody; Coccidioides,29.57,XXX,0/100,False,False,False,False,False
+86638,Antibody; Coxiella burnetii (Q fever),24.64,XXX,0/100,False,False,False,False,False
+86641,Antibody; Cryptococcus,18.48,XXX,0/100,False,False,False,False,False
+86644,Antibody; cytomegalovirus (CMV),28.34,XXX,0/100,False,False,False,False,False
+86645,"Antibody; cytomegalovirus (CMV), IgM",31.42,XXX,0/100,False,False,False,False,False
+86648,Antibody; Diphtheria,27.11,XXX,0/100,False,False,False,False,False
+86651,"Antibody; encephalitis, California (La Crosse)",24.64,XXX,0/100,False,False,False,False,False
+86652,"Antibody; encephalitis, Eastern equine",24.64,XXX,0/100,False,False,False,False,False
+86653,"Antibody; encephalitis, St. Louis",24.64,XXX,0/100,False,False,False,False,False
+86654,"Antibody; encephalitis, Western equine",24.64,XXX,0/100,False,False,False,False,False
+86658,"Antibody; enterovirus (eg, coxsackie, echo, polio)",24.64,XXX,0/100,False,False,False,False,False
+86663,"Antibody; Epstein-Barr (EB) virus, early antigen (EA)",29.57,XXX,0/100,False,False,False,False,False
+86664,"Antibody; Epstein-Barr (EB) virus, nuclear antigen (EBNA)",29.57,XXX,0/100,False,False,False,False,False
+86665,"Antibody; Epstein-Barr (EB) virus, viral capsid (VCA)",32.04,XXX,0/100,False,False,False,False,False
+86666,Antibody; Ehrlichia,27.72,XXX,0/100,False,False,False,False,False
+86668,Antibody; Francisella tularensis,18.48,XXX,0/100,False,False,False,False,False
+86671,"Antibody; fungus, not elsewhere specified",33.89,XXX,0/100,False,False,False,False,False
+86674,Antibody; Giardia lamblia,24.64,XXX,0/100,False,False,False,False,False
+86677,Antibody; Helicobacter pylori,33.27,XXX,0/100,False,False,False,False,False
+86682,"Antibody; helminth, not elsewhere specified",33.89,XXX,0/100,False,False,False,False,False
+86684,Antibody; Haemophilus influenza,30.81,XXX,0/100,False,False,False,False,False
+86687,Antibody; HTLV-I,24.64,XXX,0/100,False,False,False,False,False
+86688,Antibody; HTLV-II,23.41,XXX,0/100,False,False,False,False,False
+86689,"Antibody; HTLV or HIV antibody, confirmatory test (eg, Western Blot)",32.65,XXX,0/100,False,False,False,False,False
+86692,"Antibody; hepatitis, delta agent",30.81,XXX,0/100,False,False,False,False,False
+86694,"Antibody; herpes simplex, non-specific type test",27.11,XXX,0/100,False,False,False,False,False
+86695,"Antibody; herpes simplex, type 1",27.11,XXX,0/100,False,False,False,False,False
+86696,"Antibody; herpes simplex, type 2",27.11,XXX,0/100,False,False,False,False,False
+86698,Antibody; histoplasma,24.64,XXX,0/100,False,False,False,False,False
+86701,Antibody; HIV-1,20.95,XXX,0/100,False,False,False,False,False
+86702,Antibody; HIV-2,30.81,XXX,0/100,False,False,False,False,False
+86703,"Antibody; HIV-1 and HIV-2, single result",20.95,XXX,0/100,False,False,False,False,False
+86704,Hepatitis B core antibody (HBcAb); total,21.56,XXX,0/100,False,True,False,False,False
+86705,Hepatitis B core antibody (HBcAb); IgM antibody,23.41,XXX,0/100,False,True,False,False,False
+86706,Hepatitis B surface antibody (HBsAb),19.1,XXX,0/100,False,True,False,False,False
+86707,Hepatitis Be antibody (HBeAb),20.95,XXX,0/100,False,False,False,False,False
+86708,Hepatitis A antibody (HAAb),22.8,XXX,0/100,False,False,False,False,False
+86709,"Hepatitis A antibody (HAAb), IgM antibody",21.56,XXX,0/100,False,False,False,False,False
+86710,Antibody; influenza virus,20.33,XXX,0/100,False,False,False,False,False
+86711,Antibody; JC (John Cunningham) virus,15.84,XXX,0/100,False,False,False,False,False
+86713,Antibody; Legionella,29.57,XXX,0/100,False,False,False,False,False
+86717,Antibody; Leishmania,24.64,XXX,0/100,False,False,False,False,False
+86720,Antibody; Leptospira,24.64,XXX,0/100,False,False,False,False,False
+86723,Antibody; Listeria monocytogenes,24.64,XXX,0/100,False,False,False,False,False
+86727,Antibody; lymphocytic choriomeningitis,24.64,XXX,0/100,False,False,False,False,False
+ 86829,"Antibody to human leukocyte antigens (HLA), solid phase assays (eg, micro- spheres or beads, ELISA, Flow cytometry); qualitative assessment of the presence or absence of antibody(ies) to HLA Class I or Class II HLA antigens",57.53,XXX,0/100,False,False,False,False,False
+ 86830,"Antibody to human leukocyte antigens (HLA), solid phase assays (eg, micro- spheres or beads, ELISA, Flow cytometry); antibody identification by qualitative panel using complete HLA phenotypes, HLA Class I",89.53,XXX,0/100,False,False,False,False,False
+ 86831,"Antibody to human leukocyte antigens (HLA), solid phase assays (eg, micro- spheres or beads, ELISA, Flow cytometry); antibody identification by qualitative panel using complete HLA phenotypes, HLA Class II",76.60,XXX,0/100,False,False,False,False,False
+ 86832,"Antibody to human leukocyte antigens (HLA), solid phase assays (eg, micro- spheres or beads, ELISA, Flow cytometry); high definition qualitative panel for identification of antibody specificities (eg, individual antigen per bead methodol- ogy), HLA Class I",290.56,XXX,0/100,False,False,False,False,False
+ 86833,"Antibody to human leukocyte antigens (HLA), solid phase assays (eg, micro- spheres or beads, ELISA, Flow cytometry); high definition qualitative panel for identification of antibody specificities (eg, individual antigen per bead methodol- ogy), HLA Class II",292.50,XXX,0/100,False,False,False,False,False
+ 86834,"Antibody to human leukocyte antigens (HLA), solid phase assays (eg, micro- spheres or beads, ELISA, Flow cytometry); semi-quantitative panel (eg, titer), HLA Class I",396.24,XXX,0/100,False,False,False,False,False
+ 86835,"Antibody to human leukocyte antigens (HLA), solid phase assays (eg, micro- spheres or beads, ELISA, Flow cytometry); semi-quantitative panel (eg, titer), HLA Class II",358.11,XXX,0/100,False,False,False,False,False
+86849,Unlisted immunology procedure,,XXX,,False,False,False,False,True
+86850,"Antibody screen, RBC, each serum technique",12.32,XXX,0/100,False,False,False,False,False
+86860,"Antibody elution (RBC), each elution",12.32,XXX,0/100,False,False,False,False,False
+86870,"Antibody identification, RBC antibodies, each panel for each serum technique",21.56,XXX,0/100,False,False,False,False,False
+86880,"Antihuman globulin test (Coombs test); direct, each antiserum",6.78,XXX,0/100,False,False,False,False,False
+86885,"Antihuman globulin test (Coombs test); indirect, qualitative, each reagent red cell",8.63,XXX,0/100,False,False,False,False,False
+86886,"Antihuman globulin test (Coombs test); indirect, each antibody titer",11.09,XXX,0/100,False,False,False,False,False
+86890,"Autologous blood or component, collection processing and storage; predeposited",49.29,XXX,0/100,False,False,False,False,False
+86891,"Autologous blood or component, collection processing and storage; intra- or post- operative salvage",77.01,XXX,0/100,False,False,False,False,False
+ 86900,"Blood typing, serologic; ABO",6.78,XXX,0/100,False,False,False,False,False
+ 86901,"Blood typing, serologic; Rh (D)",6.16,XXX,0/100,False,False,False,False,False
+ 86902,"Blood typing, serologic; antigen testing of donor blood using reagent serum, each antigen test",6.78,XXX,0/100,False,False,False,False,False
+ 86904,"Blood typing, serologic; antigen screening for compatible unit using patient serum, per unit screened",9.24,XXX,0/100,False,False,False,False,False
+ 86905,"Blood typing, serologic; RBC antigens, other than ABO or Rh (D), each",7.39,XXX,0/100,False,False,False,False,False
+ 86906,"Blood typing, serologic; Rh phenotyping, complete",10.47,XXX,0/100,False,False,False,False,False
+86910,"Blood typing, for paternity testing, per individual; ABO, Rh andMN",13.55,XXX,0/100,False,False,False,False,False
+86911,"Blood typing, for paternity testing, per individual; each additional antigen system",10.47,XXX,0/100,False,False,False,False,False
+86920,Compatibility test each unit; immediate spin technique,13.55,XXX,0/100,False,False,False,False,False
+86921,Compatibility test each unit; incubation technique,12.32,XXX,0/100,False,False,False,False,False
+86922,Compatibility test each unit; antiglobulin technique,7.39,XXX,0/100,False,False,False,False,False
+86923,Compatibility test each unit; electronic,15.40,XXX,0/100,False,False,False,False,False
+86927,"Fresh frozen plasma, thawing, each unit",6.78,XXX,0/100,False,False,False,False,False
+86930,"Frozen blood, each unit; freezing (includes preparation)",61.61,XXX,0/100,False,False,False,False,False
+86931,"Frozen blood, each unit; thawing",67.77,XXX,0/100,False,False,False,False,False
+86932,"Frozen blood, each unit; freezing (includes preparation) and thawing",73.93,XXX,0/100,False,False,False,False,False
+86940,"Hemolysins and agglutinins; auto, screen, each",12.94,XXX,0/100,False,False,False,False,False
+87107,"Culture, fungi, definitive identification, each organism; mold",16.63,XXX,0/100,False,False,False,False,False
+87109,"Culture, mycoplasma, any source",35.43,XXX,0/100,False,False,False,False,False
+87110,"Culture, chlamydia, any source",24.64,XXX,0/100,False,False,False,False,False
+87116,"Culture, tubercle or other acid-fast bacilli (eg, TB, AFB, mycobacteria) any source, with isolation and presumptive identification of isolates",19.72,XXX,0/100,False,False,False,False,False
+87118,"Culture, mycobacterial, definitive identification, each isolate",16.02,XXX,0/100,False,False,False,False,False
+87140,"Culture, typing; immunofluorescent method, each antiserum",9.86,XXX,0/100,False,False,False,False,False
+87143,"Culture, typing; gas liquid chromatography (GLC) or high pressure liquid chroma- tography (HPLC) method",23.41,XXX,0/100,False,False,False,False,False
+87147,"Culture, typing; immunologic method, other than immunofluorescence (eg, aggluti- nation grouping), per antiserum",8.63,XXX,0/100,False,False,False,False,False
+87149,"Culture, typing; identification by nucleic acid (DNA or RNA) probe, direct probe technique, per culture or isolate, each organism probed",24.64,XXX,0/100,False,False,False,False,False
+87150,"Culture, typing; identification by nucleic acid (DNA or RNA) probe, amplified probe technique, per culture or isolate, each organism probed",24.64,XXX,0/100,False,False,False,False,False
+87152,"Culture, typing; identification by pulse field gel typing",8.63,XXX,0/100,False,False,False,False,False
+87153,"Culture, typing; identification by nucleic acid sequencing method, each isolate (eg, sequencing of the 16S rRNA gene)",25.88,XXX,0/100,False,False,False,False,False
+87158,"Culture, typing; other methods",8.32,XXX,0/100,False,False,False,False,False
+87164,"Dark field examination, any source (eg, penile, vaginal, oral, skin); includes speci- men collection",18.48,XXX,80/20,False,False,False,False,False
+87166,"Dark field examination, any source (eg, penile, vaginal, oral, skin); without collec- tion",15.4,XXX,0/100,False,False,False,False,False
+87168,Macroscopic examination; arthropod,4.93,XXX,0/100,False,False,False,False,False
+87169,Macroscopic examination; parasite,4.93,XXX,0/100,False,False,False,False,False
+87172,"Pinworm exam (eg, cellophane tape prep)",4.93,XXX,0/100,False,False,False,False,False
+87176,"Homogenization, tissue, for culture",11.09,XXX,0/100,False,False,False,False,False
+87177,"Ova and parasites, direct smears, concentration and identification",18.48,XXX,0/100,False,False,False,False,False
+87181,"Susceptibility studies, antimicrobial agent; agar dilution method, per agent (eg, antibiotic gradient strip)",10.47,XXX,0/100,False,False,False,False,False
+87184,"Susceptibility studies, antimicrobial agent; disk method, per plate (12 or fewer agents)",12.32,XXX,0/100,False,False,False,False,False
+87185,"Susceptibility studies, antimicrobial agent; enzyme detection (eg, beta lactamase), per enzyme",12.32,XXX,0/100,False,False,False,False,False
+87186,"Susceptibility studies, antimicrobial agent; microdilution or agar dilution (minimum inhibitory concentration [MIC] or breakpoint), each multi-antimicrobial, per plate",14.17,XXX,0/100,False,False,False,False,False
+87187,"Susceptibility studies, antimicrobial agent; microdilution or agar dilution, minimum lethal concentration (MLC), each plate (List separately in addition to code for pri- mary procedure)",14.17,XXX,0/100,False,False,False,False,False
+87188,"Susceptibility studies, antimicrobial agent; macrobroth dilution method, each agent",14.17,XXX,0/100,False,False,False,False,False
+87190,"Susceptibility studies, antimicrobial agent; mycobacteria, proportion method, each agent",9.24,XXX,0/100,False,False,False,False,False
+87197,Serum bactericidal titer (Schlichter test),19.72,XXX,0/100,False,False,False,False,False
+87205,"Smear, primary source with interpretation; Gram or Giemsa stain for bacteria, fungi, or cell types",8.01,XXX,0/100,False,False,False,False,False
+87206,"Smear, primary source with interpretation; fluorescent and/or acid fast stain for bacteria, fungi, parasites, viruses or cell types",14.17,XXX,0/100,False,False,False,False,False
+87207,"Smear, primary source with interpretation; special stain for inclusion bodies or parasites (eg, malaria, coccidia, microsporidia, trypanosomes, herpes viruses)",16.02,XXX,0/100,False,False,False,False,False
+87209,"Smear, primary source with interpretation; complex special stain (eg, trichrome, iron hemotoxylin) for ova and parasites",8.01,XXX,0/100,False,False,False,False,False
+87305,"Infectious agent antigen detection by immunoassay technique, (eg, enzyme immu- noassay [EIA], enzyme-linked immunosorbent assay [ELISA], immunochemilumi- nometric assay [IMCA]) qualitative or semiquantitative, multiple-step method; Aspergillus",19.72,XXX,0/100,False,False,False,False,False
+87320,"Infectious agent antigen detection by immunoassay technique, (eg, enzyme immu- noassay [EIA], enzyme-linked immunosorbent assay [ELISA], immunochemilumi- nometric assay [IMCA]) qualitative or semiquantitative, multiple-step method; Chlamydia trachomatis",13.55,XXX,0/100,False,False,False,False,False
+87324,"Infectious agent antigen detection by immunoassay technique, (eg, enzyme immu- noassay [EIA], enzyme-linked immunosorbent assay [ELISA], immunochemilumi- nometric assay [IMCA]) qualitative or semiquantitative, multiple-step method; Clostridium difficile toxin(s)",13.55,XXX,0/100,False,False,False,False,False
+87327,"Infectious agent antigen detection by immunoassay technique, (eg, enzyme immu- noassay [EIA], enzyme-linked immunosorbent assay [ELISA], immunochemilumi- nometric assay [IMCA]) qualitative or semiquantitative, multiple-step method; Cryptococcus neoformans",13.55,XXX,0/100,False,False,False,False,False
+87328,"Infectious agent antigen detection by immunoassay technique, (eg, enzyme immu- noassay [EIA], enzyme-linked immunosorbent assay [ELISA], immunochemilumi- nometric assay [IMCA]) qualitative or semiquantitative, multiple-step method; cryptosporidium",13.55,XXX,0/100,False,False,False,False,False
+87329,"Infectious agent antigen detection by immunoassay technique, (eg, enzyme immu- noassay [EIA], enzyme-linked immunosorbent assay [ELISA], immunochemilumi- nometric assay [IMCA]) qualitative or semiquantitative, multiple-step method; giardia",13.55,XXX,0/100,False,False,False,False,False
+87332,"Infectious agent antigen detection by immunoassay technique, (eg, enzyme immu- noassay [EIA], enzyme-linked immunosorbent assay [ELISA], immunochemilumi- nometric assay [IMCA]) qualitative or semiquantitative, multiple-step method; cytomegalovirus",13.55,XXX,0/100,False,False,False,False,False
+87335,"Infectious agent antigen detection by immunoassay technique, (eg, enzyme immu- noassay [EIA], enzyme-linked immunosorbent assay [ELISA], immunochemilumi- nometric assay [IMCA]) qualitative or semiquantitative, multiple-step method; Escherichia coli 0157",13.55,XXX,0/100,False,False,False,False,False
+87336,"Infectious agent antigen detection by immunoassay technique, (eg, enzyme immu- noassay [EIA], enzyme-linked immunosorbent assay [ELISA], immunochemilumi- nometric assay [IMCA]) qualitative or semiquantitative, multiple-step method; Entamoeba histolytica dispar group",13.55,XXX,0/100,False,False,False,False,False
+87337,"Infectious agent antigen detection by immunoassay technique, (eg, enzyme immu- noassay [EIA], enzyme-linked immunosorbent assay [ELISA], immunochemilumi- nometric assay [IMCA]) qualitative or semiquantitative, multiple-step method; Entamoeba histolytica group",13.55,XXX,0/100,False,False,False,False,False
+87338,"Infectious agent antigen detection by immunoassay technique, (eg, enzyme immu- noassay [EIA], enzyme-linked immunosorbent assay [ELISA], immunochemilumi- nometric assay [IMCA]) qualitative or semiquantitative, multiple-step method; Helicobacter pylori, stool",19.72,XXX,0/100,False,False,False,False,False
+87339,"Infectious agent antigen detection by immunoassay technique, (eg, enzyme immu- noassay [EIA], enzyme-linked immunosorbent assay [ELISA], immunochemilumi- nometric assay [IMCA]) qualitative or semiquantitative, multiple-step method; Helicobacter pylori",13.55,XXX,0/100,False,False,False,False,False
+87340,"Infectious agent antigen detection by immunoassay technique, (eg, enzyme immu- noassay [EIA], enzyme-linked immunosorbent assay [ELISA], immunochemilumi- nometric assay [IMCA]) qualitative or semiquantitative, multiple-step method; hepatitis B surface antigen (HBsAg)",17.87,XXX,0/100,False,True,False,False,False
+87341,"Infectious agent antigen detection by immunoassay technique, (eg, enzyme immu- noassay [EIA], enzyme-linked immunosorbent assay [ELISA], immunochemilumi- nometric assay [IMCA]) qualitative or semiquantitative, multiple-step method; hepatitis B surface antigen (HBsAg) neutralization",13.55,XXX,0/100,False,True,False,False,False
+87350,"Infectious agent antigen detection by immunoassay technique, (eg, enzyme immu- noassay [EIA], enzyme-linked immunosorbent assay [ELISA], immunochemilumi- nometric assay [IMCA]) qualitative or semiquantitative, multiple-step method; hepatitis Be antigen (HBeAg)",20.95,XXX,0/100,False,False,False,False,False
+87480,"Infectious agent detection by nucleic acid (DNA or RNA); Candida species, direct probe technique",24.64,XXX,0/100,False,False,False,False,False
+87481,"Infectious agent detection by nucleic acid (DNA or RNA); Candida species, ampli- fied probe technique",49.29,XXX,0/100,False,False,False,False,False
+87482,"Infectious agent detection by nucleic acid (DNA or RNA); Candida species, quanti- fication",49.6,XXX,0/100,False,False,False,False,False
+87483,"Infectious agent detection by nucleic acid (DNA or RNA); central nervous system pathogen (eg, Neisseria meningitidis, Streptococcus pneumoniae, Listeria, Hae- mophilus influenzae, E. coli, Streptococcus agalactiae, enterovirus, human pare- chovirus, herpes simplex virus type 1 and 2, human herpesvirus 6, cytomegalovirus, varicella zoster virus, Cryptococcus), includes multiplex reverse transcription, when performed, and multiplex amplified probe technique, multiple",461.85,XXX,0/100,False,False,False,False,False
+87485,"Infectious agent detection by nucleic acid (DNA or RNA); Chlamydia pneumoniae, direct probe technique",24.64,XXX,0/100,False,False,False,False,False
+87486,"Infectious agent detection by nucleic acid (DNA or RNA); Chlamydia pneumoniae, amplified probe technique",49.29,XXX,0/100,False,False,False,False,False
+87487,"Infectious agent detection by nucleic acid (DNA or RNA); Chlamydia pneumoniae, quantification",49.6,XXX,0/100,False,False,False,False,False
+87490,"Infectious agent detection by nucleic acid (DNA or RNA); Chlamydia trachomatis, direct probe technique",24.64,XXX,0/100,False,False,False,False,False
+87491,"Infectious agent detection by nucleic acid (DNA or RNA); Chlamydia trachomatis, amplified probe technique",49.29,XXX,0/100,False,False,False,False,False
+87492,"Infectious agent detection by nucleic acid (DNA or RNA); Chlamydia trachomatis, quantification",49.6,XXX,0/100,False,False,False,False,False
+87493,"Infectious agent detection by nucleic acid (DNA or RNA); Clostridium difficile, toxin gene(s), amplified probe technique",44.36,XXX,0/100,False,False,False,False,False
+87495,"Infectious agent detection by nucleic acid (DNA or RNA); cytomegalovirus, direct probe technique",24.64,XXX,0/100,False,False,False,False,False
+87496,"Infectious agent detection by nucleic acid (DNA or RNA); cytomegalovirus, ampli- fied probe technique",49.29,XXX,0/100,False,False,False,False,False
+87497,"Infectious agent detection by nucleic acid (DNA or RNA); cytomegalovirus, quanti- fication",49.6,XXX,0/100,False,False,False,False,False
+87498,"Infectious agent detection by nucleic acid (DNA or RNA); enterovirus, amplified probe technique, includes reverse transcription when performed",67.77,XXX,0/100,False,False,False,False,False
+87500,"Infectious agent detection by nucleic acid (DNA or RNA); vancomycin resistance (eg, enterococcus species van A, van B), amplified probe technique",67.77,XXX,0/100,False,False,False,False,False
+87501,"Infectious agent detection by nucleic acid (DNA or RNA); influenza virus, includes reverse transcription, when performed, and amplified probe technique, each type or subtype",67.77,XXX,0/100,False,False,False,False,False
+87502,"Infectious agent detection by nucleic acid (DNA or RNA); influenza virus, for multi- ple types or sub-types, includes multiplex reverse transcription, when performed, and multiplex amplified probe technique, first 2 types or sub-types",67.77,XXX,0/100,False,False,False,False,False
+87503,"Infectious agent detection by nucleic acid (DNA or RNA); influenza virus, for multi- ple types or sub-types, includes multiplex reverse transcription, when performed, and multiplex amplified probe technique, each additional influenza virus type or sub-type beyond 2 (List separately in addition to code for primary procedure)",67.77,XXX,0/100,False,False,False,False,False
+87505,"Infectious agent detection by nucleic acid (DNA or RNA); gastrointestinal patho- gen (eg, Clostridium difficile, E. coli, Salmonella, Shigella, norovirus, Giardia), includes multiplex reverse transcription, when performed, and multiplex amplified probe technique, multiple types or subtypes, 3-5 targets",142.21,XXX,0/100,False,False,False,False,False
+87506,"Infectious agent detection by nucleic acid (DNA or RNA); gastrointestinal patho- gen (eg, Clostridium difficile, E. coli, Salmonella, Shigella, norovirus, Giardia), includes multiplex reverse transcription, when performed, and multiplex amplified probe technique, multiple types or subtypes, 6-11 targets",236.58,XXX,0/100,False,False,False,False,False
+87507,"Infectious agent detection by nucleic acid (DNA or RNA); gastrointestinal patho- gen (eg, Clostridium difficile, E. coli, Salmonella, Shigella, norovirus, Giardia), includes multiplex reverse transcription, when performed, and multiplex amplified probe technique, multiple types or subtypes, 12-25 targets",461.85,XXX,0/100,False,False,False,False,False
+87552,"Infectious agent detection by nucleic acid (DNA or RNA); Mycobacteria species, quantification",49.6,XXX,0/100,False,False,False,False,False
+87555,"Infectious agent detection by nucleic acid (DNA or RNA); Mycobacteria tubercu- losis, direct probe technique",24.64,XXX,0/100,False,False,False,False,False
+87556,"Infectious agent detection by nucleic acid (DNA or RNA); Mycobacteria tubercu- losis, amplified probe technique",49.29,XXX,0/100,False,False,False,False,False
+87557,"Infectious agent detection by nucleic acid (DNA or RNA); Mycobacteria tubercu- losis, quantification",49.6,XXX,0/100,False,False,False,False,False
+87560,"Infectious agent detection by nucleic acid (DNA or RNA); Mycobacteria avium-intracellulare, direct probe technique",24.64,XXX,0/100,False,False,False,False,False
+87561,"Infectious agent detection by nucleic acid (DNA or RNA); Mycobacteria avium-intracellulare, amplified probe technique",49.29,XXX,0/100,False,False,False,False,False
+87562,"Infectious agent detection by nucleic acid (DNA or RNA); Mycobacteria avium-intracellulare, quantification",49.6,XXX,0/100,False,False,False,False,False
+87580,"Infectious agent detection by nucleic acid (DNA or RNA); Mycoplasma pneumo- niae, direct probe technique",24.64,XXX,0/100,False,False,False,False,False
+87581,"Infectious agent detection by nucleic acid (DNA or RNA); Mycoplasma pneumo- niae, amplified probe technique",49.29,XXX,0/100,False,False,False,False,False
+87582,"Infectious agent detection by nucleic acid (DNA or RNA); Mycoplasma pneumo- niae, quantification",49.6,XXX,0/100,False,False,False,False,False
+87590,"Infectious agent detection by nucleic acid (DNA or RNA); Neisseria gonorrhoeae, direct probe technique",24.64,XXX,0/100,False,False,False,False,False
+87591,"Infectious agent detection by nucleic acid (DNA or RNA); Neisseria gonorrhoeae, amplified probe technique",49.29,XXX,0/100,False,False,False,False,False
+87592,"Infectious agent detection by nucleic acid (DNA or RNA); Neisseria gonorrhoeae, quantification",49.6,XXX,0/100,False,False,False,False,False
+87623,"Infectious agent detection by nucleic acid (DNA or RNA); Human Papillomavirus (HPV), low-risk types (eg, 6, 11, 42, 43, 44)",38.78,XXX,0/100,False,False,False,False,False
+87624,"Infectious agent detection by nucleic acid (DNA or RNA); Human Papillomavirus (HPV), high-risk types (eg, 16, 18, 31, 33, 35, 39, 45, 51, 52, 56, 58, 59, 68)",38.78,XXX,0/100,False,False,False,False,False
+87625,"Infectious agent detection by nucleic acid (DNA or RNA); Human Papillomavirus (HPV), types 16 and 18 only, includes type 45, if performed",38.78,XXX,0/100,False,False,False,False,False
+87631,"Infectious agent detection by nucleic acid (DNA or RNA); respiratory virus (eg, adenovirus, influenza virus, coronavirus, metapneumovirus, parainfluenza virus, respiratory syncytial virus, rhinovirus), includes multiplex reverse transcription, when performed, and multiplex amplified probe technique, multiple types or sub- types, 3-5 targets",142.21,XXX,0/100,False,False,False,False,False
+87632,"Infectious agent detection by nucleic acid (DNA or RNA); respiratory virus (eg, adenovirus, influenza virus, coronavirus, metapneumovirus, parainfluenza virus, respiratory syncytial virus, rhinovirus), includes multiplex reverse transcription, when performed, and multiplex amplified probe technique, multiple types or sub- types, 6-11 targets",236.58,XXX,0/100,False,False,False,False,False
+87633,"Infectious agent detection by nucleic acid (DNA or RNA); respiratory virus (eg, adenovirus, influenza virus, coronavirus, metapneumovirus, parainfluenza virus, respiratory syncytial virus, rhinovirus), includes multiplex reverse transcription, when performed, and multiplex amplified probe technique, multiple types or sub- types, 12-25 targets",461.85,XXX,0/100,False,False,False,False,False
+87634,"Infectious agent detection by nucleic acid (DNA or RNA); respiratory syncytial virus, amplified probe technique",77.89,XXX,0/100,False,False,False,False,False
+87640,"Infectious agent detection by nucleic acid (DNA or RNA); Staphylococcus aureus, amplified probe technique",49.29,XXX,0/100,False,False,False,False,False
+87641,"Infectious agent detection by nucleic acid (DNA or RNA); Staphylococcus aureus, methicillin resistant, amplified probe technique",49.29,XXX,0/100,False,False,False,False,False
+87650,"Infectious agent detection by nucleic acid (DNA or RNA); Streptococcus, group A, direct probe technique",24.64,XXX,0/100,False,False,False,False,False
+87651,"Infectious agent detection by nucleic acid (DNA or RNA); Streptococcus, group A,",49.29,XXX,0/100,False,False,False,False,False
+87910,Infectious agent genotype analysis by nucleic acid (DNA or RNA); cytomegalovi- rus,285.39,XXX,0/100,False,False,False,False,False
+87912,Infectious agent genotype analysis by nucleic acid (DNA or RNA); Hepatitis B virus,285.39,XXX,0/100,False,True,False,False,False
+87999,Unlisted microbiology procedure,,XXX,,False,False,False,False,True
+88000,"Necropsy (autopsy), gross examination only; without CNS",155.26,XXX,,False,False,False,False,False
+88005,"Necropsy (autopsy), gross examination only; with brain",172.51,XXX,,False,False,False,False,False
+88007,"Necropsy (autopsy), gross examination only; with brain and spinal cord",189.76,XXX,,False,False,False,False,False
+88012,"Necropsy (autopsy), gross examination only; infant with brain",142.94,XXX,,False,False,False,False,False
+88014,"Necropsy (autopsy), gross examination only; stillborn or newborn with brain",142.94,XXX,,False,False,False,False,False
+88016,"Necropsy (autopsy), gross examination only; macerated stillborn",173.74,XXX,,False,False,False,False,False
+88020,"Necropsy (autopsy), gross and microscopic; without CNS",223.03,XXX,,False,False,False,False,False
+88025,"Necropsy (autopsy), gross and microscopic; with brain",240.28,XXX,,False,False,False,False,False
+88027,"Necropsy (autopsy), gross and microscopic; with brain and spinal cord",257.53,XXX,,False,False,False,False,False
+88028,"Necropsy (autopsy), gross and microscopic; infant with brain",142.94,XXX,,False,False,False,False,False
+88029,"Necropsy (autopsy), gross and microscopic; stillborn or newborn with brain",142.94,XXX,,False,False,False,False,False
+88036,"Necropsy (autopsy), limited, gross and/or microscopic; regional",92.42,XXX,,False,False,False,False,False
+88037,"Necropsy (autopsy), limited, gross and/or microscopic; single organ",67.77,XXX,,False,False,False,False,False
+88040,Necropsy (autopsy); forensic examination,369.66,XXX,,False,False,False,False,False
+88045,Necropsy (autopsy); coroner's call,30.81,XXX,,False,False,False,False,False
+88099,Unlisted necropsy (autopsy) procedure,,XXX,,False,False,False,False,True
+88104,"Cytopathology, fluids, washings or brushings, except cervical or vaginal; smears with interpretation",30.81,XXX,80/20,False,False,False,False,False
+88106,"Cytopathology, fluids, washings or brushings, except cervical or vaginal; simple fil- ter method with interpretation",27.11,XXX,80/20,False,False,False,False,False
+88108,"Cytopathology, concentration technique, smears and interpretation (eg, Sacco- manno technique)",35.12,XXX,80/20,False,False,False,False,False
+88112,"Cytopathology, selective cellular enhancement technique with interpretation (eg, liquid based slide preparation method), except cervical or vaginal",73.93,XXX,80/20,False,False,False,False,False
+88120,"Cytopathology, in situ hybridization (eg, FISH), urinary tract specimen with mor- phometric analysis, 3-5 molecular probes, each specimen; manual",252.60,XXX,11/89,False,False,False,False,False
+88121,"Cytopathology, in situ hybridization (eg, FISH), urinary tract specimen with mor- phometric analysis, 3-5 molecular probes, each specimen; using com- puter-assisted technology",215.64,XXX,11/89,False,False,False,False,False
+88125,"Cytopathology, forensic (eg, sperm)",24.64,XXX,90/10,False,False,False,False,False
+88130,Sex chromatin identification; Barr bodies,15.40,XXX,10/90,False,False,False,False,False
+88140,"Sex chromatin identification; peripheral blood smear, polymorphonuclear drum- sticks",12.32,XXX,0/100,False,False,False,False,False
+88141,"Cytopathology, cervical or vaginal (any reporting system), requiring interpretation by physician",15.40,XXX,,False,False,False,False,False
+88142,"Cytopathology, cervical or vaginal (any reporting system), collected in preserva- tive fluid, automated thin layer preparation; manual screening under physician supervision",10.47,XXX,0/100,False,False,False,False,False
+88143,"Cytopathology, cervical or vaginal (any reporting system), collected in preserva- tive fluid, automated thin layer preparation; with manual screening and rescreen- ing under physician supervision",11.52,XXX,0/100,False,False,False,False,False
+88147,"Cytopathology smears, cervical or vaginal; screening by automated system under physician supervision",11.00,XXX,0/100,False,False,False,False,False
+88148,"Cytopathology smears, cervical or vaginal; screening by automated system with manual rescreening under physician supervision",11.52,XXX,0/100,False,False,False,False,False
+88150,"Cytopathology, slides, cervical or vaginal; manual screening under physician supervision",10.47,XXX,0/100,False,False,False,False,False
+88248,"Chromosome analysis for breakage syndromes; baseline breakage, score 50-100 cells, count 20 cells, 2 karyotypes (eg, for ataxia telangiectasia, Fanconi anemia, fragile X)",166.35,XXX,0/100,False,False,False,False,False
+88249,"Chromosome analysis for breakage syndromes; score 100 cells, clastogen stress (eg, diepoxybutane, mitomycin C, ionizing radiation, UV radiation)",184.83,XXX,0/100,False,False,False,False,False
+88261,"Chromosome analysis; count 5 cells, 1 karyotype, with banding",144.78,XXX,0/100,False,False,False,False,False
+88262,"Chromosome analysis; count 15-20 cells, 2 karyotypes, with banding",215.64,XXX,0/100,False,False,False,False,False
+88263,"Chromosome analysis; count 45 cells for mosaicism, 2 karyotypes, with banding",221.80,XXX,0/100,False,False,False,False,False
+88264,Chromosome analysis; analyze 20-25 cells,184.83,XXX,0/100,False,False,False,False,False
+88267,"Chromosome analysis, amniotic fluid or chorionic villus, count 15 cells, 1 karyo- type, with banding",243.36,XXX,0/100,False,False,False,False,False
+88269,"Chromosome analysis, in situ for amniotic fluid cells, count cells from 6-12 colo- nies, 1 karyotype, with banding",213.79,XXX,0/100,False,False,False,False,False
+88271,"Molecular cytogenetics; DNA probe, each (eg, FISH)",27.99,XXX,0/100,False,False,False,False,False
+88272,"Molecular cytogenetics; chromosomal in situ hybridization, analyze 3-5 cells (eg, for derivatives and markers)",34.91,XXX,0/100,False,False,False,False,False
+88273,"Molecular cytogenetics; chromosomal in situ hybridization, analyze 10-30 cells (eg, for microdeletions)",42.15,XXX,0/100,False,False,False,False,False
+88274,"Molecular cytogenetics; interphase in situ hybridization, analyze 25-99 cells",45.61,XXX,0/100,False,False,False,False,False
+88275,"Molecular cytogenetics; interphase in situ hybridization, analyze 100-300 cells",52.53,XXX,0/100,False,False,False,False,False
+88280,"Chromosome analysis; additional karyotypes, each study",70.24,XXX,0/100,False,False,False,False,False
+88283,"Chromosome analysis; additional specialized banding technique (eg, NOR, C-banding)",55.45,XXX,0/100,False,False,False,False,False
+88285,"Chromosome analysis; additional cells counted, each study",64.69,XXX,0/100,False,False,False,False,False
+88289,Chromosome analysis; additional high resolution study,46.21,XXX,0/100,False,False,False,False,False
+88291,"Cytogenetics and molecular cytogenetics, interpretation and report",24.64,XXX,,False,False,False,False,False
+88299,Unlisted cytogenetic study,,XXX,,False,False,False,False,True
+88300,"Level I - Surgical pathology, gross examination only",17.25,XXX,70/30,False,False,False,False,False
+88302,"Level II - Surgical pathology, gross and microscopic examination",33.89,XXX,60/40,False,False,False,False,False
+88304,"Level III - Surgical pathology, gross and microscopic examination",44.36,XXX,60/40,False,False,False,False,False
+88305,"Level IV - Surgical pathology, gross and microscopic examination",64.07,XXX,70/30,False,False,False,False,False
+88307,"Level V - Surgical pathology, gross and microscopic examination",102.89,XXX,75/25,False,False,False,False,False
+88309,"Level VI - Surgical pathology, gross and microscopic examination",142.94,XXX,75/25,False,False,False,False,False
+88311,Decalcification procedure (List separately in addition to code for surgical pathol- ogy examination),16.63,XXX,80/20,False,False,False,False,False
+88312,"Special stain including interpretation and report; Group I for microorganisms (eg, acid fast, methenamine silver)",24.64,XXX,80/20,False,False,False,False,False
+88313,"Special stain including interpretation and report; Group II, all other (eg, iron, tri- chrome), except stain for microorganisms, stains for enzyme constituents, or immunocytochemistry and immunohistochemistry",18.48,XXX,80/20,False,False,False,False,False
+88314,Special stain including interpretation and report; histochemical stain on frozen tis- sue block (List separately in addition to code for primary procedure),33.89,XXX,70/30,False,False,False,False,False
+88319,"Special stain including interpretation and report; Group III, for enzyme constitu- ents",41.89,XXX,80/20,False,False,False,False,False
+88321,Consultation and report on referred slides prepared elsewhere,55.45,XXX,,False,False,False,False,False
+88323,Consultation and report on referred material requiring preparation of slides,64.69,XXX,80/20,False,False,False,False,False
+88325,"Consultation, comprehensive, with review of records and specimens, with report on referred material",86.25,XXX,,False,False,False,False,False
+88329,Pathology consultation during surgery;,40.66,XXX,,False,False,False,False,False
+88331,"Pathology consultation during surgery; first tissue block, with frozen section(s), single specimen",78.24,XXX,75/25,False,False,False,False,False
+88380,"Microdissection (ie, sample preparation of microscopically identified target); laser capture",86.25,XXX,41/59,False,False,False,False,False
+88381,"Microdissection (ie, sample preparation of microscopically identified target); man- ual",120.14,XXX,27/73,False,False,False,False,False
+88387,"Macroscopic examination, dissection, and preparation of tissue for non-micro- scopic analytical studies (eg, nucleic acid-based molecular studies); each tissue preparation (eg, a single lymph node)",19.72,XXX,80/20,False,False,False,False,False
+88388,"Macroscopic examination, dissection, and preparation of tissue for non-micro- scopic analytical studies (eg, nucleic acid-based molecular studies); in conjunc- tion with a touch imprint, intraoperative consultation, or frozen section, each tissue preparation (eg, a single lymph node) (List separately in addition to code for primary procedure)",12.32,XXX,83/17,False,False,False,False,False
+88399,Unlisted surgical pathology procedure,,XXX,,False,False,False,False,True
+88720,"Bilirubin, total, transcutaneous",6.16,XXX,,False,False,False,False,False
+88738,"Hemoglobin (Hgb), quantitative, transcutaneous",6.16,XXX,,False,False,False,False,False
+88740,"Hemoglobin, quantitative, transcutaneous, per day; carboxyhemoglobin",6.16,XXX,,False,False,False,False,False
+88741,"Hemoglobin, quantitative, transcutaneous, per day; methemoglobin",6.16,XXX,,False,False,False,False,False
+88749,"Unlisted in vivo (eg, transcutaneous) laboratory service",0.00,XXX,,False,False,False,False,False
+89049,"Caffeine halothane contracture test (CHCT) for malignant hyperthermia suscepti- bility, including interpretation and report",75.16,XXX,,False,False,False,False,False
+89050,"Cell count, miscellaneous body fluids (eg, cerebrospinal fluid, joint fluid), except blood;",9.86,XXX,0/100,False,False,False,False,False
+89051,"Cell count, miscellaneous body fluids (eg, cerebrospinal fluid, joint fluid), except blood; with differential count",11.71,XXX,0/100,False,False,False,False,False
+89055,"Leukocyte assessment, fecal, qualitative or semiquantitative",9.86,XXX,0/100,False,False,False,False,False
+89060,"Crystal identification by light microscopy with or without polarizing lens analysis, tissue or any body fluid (except urine)",11.71,XXX,0/100,False,False,False,False,False
+89125,"Fat stain, feces, urine, or respiratory secretions",9.24,XXX,0/100,False,False,False,False,False
+89160,"Meat fibers, feces",5.54,XXX,0/100,False,False,False,False,False
+89190,Nasal smear for eosinophils,8.63,XXX,0/100,False,False,False,False,False
+89220,"Sputum, obtaining specimen, aerosol induced technique (separate procedure)",12.94,XXX,0/100,False,False,False,False,False
+89230,Sweat collection by iontophoresis,24.64,XXX,0/100,False,False,False,False,False
+89240,Unlisted miscellaneous pathology test,,XXX,0/100,False,False,False,False,True
+89250,"Culture of oocyte(s)/embryo(s), less than 4 days;",414.64,XXX,0/100,False,False,False,False,False
+89251,"Culture of oocyte(s)/embryo(s), less than 4 days; with co-culture of oocyte(s)/embryos",431.27,XXX,0/100,False,False,False,False,False
+89253,"Assisted embryo hatching, microtechniques (any method)",,XXX,0/100,False,False,False,False,True
+89254,Oocyte identification from follicular fluid,,XXX,0/100,False,False,False,False,True
+89255,Preparation of embryo for transfer (any method),,XXX,0/100,False,False,False,False,True
+89257,Sperm identification from aspiration (other than seminal fluid),,XXX,0/100,False,False,False,False,True
+89258,Cryopreservation; embryo(s),,XXX,0/100,False,False,False,False,True
+89259,Cryopreservation; sperm,,XXX,0/100,False,False,False,False,True
+89260,"Sperm isolation; simple prep (eg, sperm wash and swim-up) for insemination or diagnosis with semen analysis",,XXX,0/100,False,False,False,False,True
+89261,"Sperm isolation; complex prep (eg, Percoll gradient, albumin gradient) for insemi- nation or diagnosis with semen analysis",,XXX,0/100,False,False,False,False,True
+89264,"Sperm identification from testis tissue, fresh or cryopreserved",,XXX,0/100,False,False,False,False,True
+89268,Insemination of oocytes,,XXX,0/100,False,False,False,False,True
+89272,"Extended culture of oocyte(s)/embryo(s), 4-7 days",,XXX,0/100,False,False,False,False,True

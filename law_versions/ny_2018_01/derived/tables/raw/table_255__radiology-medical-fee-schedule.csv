@@ -1,0 +1,30 @@
+,Code,Description,Relative Value,FUD,PC/TC Split
+,77085,"Dual-energy X-ray absorptiometry (DXA), bone density study, 1 or more sites; axial skeleton (eg, hips, pelvis, spine), including vertebral fracture assessment",2.37,XXX,27/73
+,77086,Vertebral fracture assessment via dual-energy X-ray absorptiometry (DXA),1.76,XXX,23/77
+77261,Therapeutic radiology treatment planning; simple,,6.68,XXX,
+77262,Therapeutic radiology treatment planning; intermediate,,8.75,XXX,
+77263,Therapeutic radiology treatment planning; complex,,11.93,XXX,
+77280,Therapeutic radiology simulation-aided field setting; simple,,11.35,XXX,30/70
+77285,Therapeutic radiology simulation-aided field setting; intermediate,16.65,,XXX,30/70
+77290,Therapeutic radiology simulation-aided field setting; complex,21.32,,XXX,30/70
+ + 77293,Respiratory motion management simulation (List separately in addition to code primary,for procedure),19.87,ZZZ,22/78
+ 77295,"3-dimensional radiotherapy plan, including dose-volume histograms",,26.83,XXX,30/70
+77299,"Unlisted procedure, therapeutic radiology",clinical treatment planning,BR,XXX,
+77300,"Basic radiation dosimetry calculation, central axis depth dose calculation, TDF, NSD, gap calculation, off axis factor, tissue inhomogeneity factors, calculation of non-ionizing radiation surface and depth dose, as required during course of ment, only when prescribed",treat- by the treating physician,4.56,XXX,50/50
+77301,"Intensity modulated radiotherapy plan, including dose-volume histograms for get and critical structure partial tolerance specifications",tar-,8.21,XXX,55/45
+,77306,"Teletherapy isodose plan; simple (1 or 2 unmodified ports directed to a single area of interest), includes basic dosimetry calculation(s)",6.36,XXX,48/52
+,77307,"Teletherapy isodose plan; complex (multiple treatment areas, tangential ports, the use of wedges, blocking, rotational beam, or special beam considerations), includes basic dosimetry calculation(s)",7.14,XXX,55/45
+ 77316,,"Brachytherapy isodose plan; simple (calculation[s] made from 1 to 4 sources, or remote afterloading brachytherapy, 1 channel), includes basic dosimetry calcula- tion(s)",5.10,XXX,45/55
+ 77317,,"Brachytherapy isodose plan; intermediate (calculation[s] made from 5 to 10 sources, or remote afterloading brachytherapy, 2-12 channels), includes basic dosimetry calculation(s)",7.65,XXX,45/55
+ 77318,"Brachytherapy isodose plan; complex (calculation[s] made from over 10 or remote afterloading brachytherapy, over 12 channels), includes basic","sources, dosimetry calculation(s)",10.84,XXX,50/50
+77321,"Special teletherapy port plan, particles, hemibody, total body",,8.52,XXX,35/65
+77331,"Special dosimetry (eg, TLD, microdosimetry) (specify), only when prescribed by the",treating physician,3.03,XXX,80/20
+77332,"Treatment devices, design and construction; simple (simple block, simple",bolus),4.08,XXX,50/50
+77333,"Treatment devices, design and construction; intermediate (multiple blocks, stents, bite blocks, special bolus)",,5.00,XXX,50/50
+77334,"Treatment devices, design and construction; complex (irregular blocks, special shields, compensators, wedges, molds or casts)",9.64,,XXX,45/55
+77336,"Continuing medical physics consultation, including assessment of treatment parameters, quality assurance of dose delivery, and review of patient treatment documentation in support of the radiation oncologist, reported per week of ther- apy",,3.37,XXX,0/100
+77338,"Multi-leaf collimator (MLC) device(s) for intensity modulated radiation therapy (IMRT), design and construction per IMRT plan",12.11,,XXX,47/53
+77370,Special,medical radiation physics consultation,5.25,XXX,0/100
+77371,"Radiation treatment delivery, stereotactic radiosurgery (SRS), complete course of treatment of cranial lesion(s) consisting of 1 session; multi-source Cobalt 60 based",,40.65,XXX,0/100
+77372,"Radiation treatment delivery, stereotactic radiosurgery (SRS), complete course of treatment of cranial lesion(s) consisting of 1 session; linear accelerator based",30.86,,XXX,0/100
+77373,"Stereotactic body radiation therapy, treatment delivery, per fraction to 1 or more lesions, including image guidance, entire course not to exceed 5 fractions",57.54,,XXX,0/100

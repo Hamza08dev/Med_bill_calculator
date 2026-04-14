@@ -1,0 +1,22 @@
+{
+  "law_version_id": "ny_2018_01",
+  "canonical_dir": "D:\\IIT BBS\\Job Resources\\Business Optima\\fee-schedule-kag\\law_versions\\ny_2018_01\\derived\\tables\\canonical",
+  "files": [
+    "Section_conversion.csv",
+    "Zip_regions.csv",
+    "anesthesia_medical.csv",
+    "category3_medical.csv",
+    "eM_medical.csv",
+    "eM_podiatry.csv",
+    "medicine_chiropractic.csv",
+    "medicine_medical.csv",
+    "medicine_podiatry.csv",
+    "pathology_medical.csv",
+    "pathology_podiatry.csv",
+    "radiology_chiropractic.csv",
+    "radiology_medical.csv",
+    "radiology_podiatry.csv",
+    "surgery_medical.csv",
+    "surgery_podiatry.csv"
+  ]
+}

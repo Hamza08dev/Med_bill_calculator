@@ -1,0 +1,40 @@
+Rating,Description
+IM-NEPH,Nephrology
+IM-ONCL,Medical Oncology
+IM-PD,Pulmonary Diseases
+IM-RHE,Rheumatology
+IM-SM,Sports Medicine
+NS,Neurological Surgery
+NS-CCM,Critical Care Medicine
+NUM,Nuclear Medicine
+NUM-NR,Nuclear Radiology
+NUM-RP,Radioisotopic Pathology
+O,Ophthalmology
+OG,Obstetrics/Gynecology
+OG-CCM,Critical Care Medicine
+OG-MFM,Maternal/Fetal Medicine
+OG-ONC,Gynecologic Oncology
+OG-RE,Reproductive Endocrinology
+OL,Otolaryngology
+OL-ON,Otology/Neurotology
+OL-PO,Pediatric Otolaryngology
+OL-PSHN,Plastic Surgery Within the Head and Neck
+OS,Orthopedic Surgery
+OS-HS,Hand Surgery
+P,Pediatrics
+P-ADM,Adolescent Medicine
+P-CCM,Critical Care Medicine
+P-CD,Cardiology
+P-CLI,Clinical and Laboratory Immunology
+P-DBP,Developmental-Behavioral Pediatrics
+P-DL,Diagnostic Laboratory Immunology
+P-END,Endocrinology
+P-GE,Gastroenterology
+P-ID,Infectious Diseases
+P-MT,Medical Toxicology
+P-ND,Neurodevelopmental Disabilities
+P-NEPH,Nephrology
+P-NPER,Neonatal-Perinatal Medicine
+P-PEM,Emergency Medicine
+P-PHO,Hematology/Oncology
+P-PUL,Pulmonology

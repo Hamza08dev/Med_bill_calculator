@@ -1,0 +1,35 @@
+# Core Python packages
+pydantic==2.11.7
+PyYAML==6.0.2
+requests==2.32.5
+urllib3==2.5.0
+
+# Web framework
+fastapi==0.115.0
+uvicorn[standard]==0.32.0
+python-dotenv==1.0.1
+
+# Database and Graph
+neo4j==6.0.2
+
+# LLM and AI packages
+google-generativeai==0.8.5
+google-api-core==2.26.0
+google-auth==2.40.3
+langchain==0.3.27
+langchain-core==0.3.76
+langchain-google-genai==2.0.10
+langchain-community==0.3.27
+
+# Document processing
+pypdf==6.1.1
+PyMuPDF==1.26.4
+Pillow==10.4.0
+
+# Data processing
+pandas==2.3.1
+numpy==2.2.6
+
+# Utilities
+python-dateutil==2.9.0.post0
+pytz==2025.2

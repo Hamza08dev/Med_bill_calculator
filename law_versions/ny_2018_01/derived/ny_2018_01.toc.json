@@ -1,0 +1,1957 @@
+[
+  {
+    "level": 1,
+    "title": "MEDICAL FEE SCHEDULE",
+    "page": 1
+  },
+  {
+    "level": 2,
+    "title": "Contents",
+    "page": 5
+  },
+  {
+    "level": 2,
+    "title": "Introduction and General Guidelines",
+    "page": 7
+  },
+  {
+    "level": 3,
+    "title": "Format",
+    "page": 7
+  },
+  {
+    "level": 4,
+    "title": "Introductory Information",
+    "page": 8
+  },
+  {
+    "level": 4,
+    "title": "Regions",
+    "page": 8
+  },
+  {
+    "level": 4,
+    "title": "Additional Schedules",
+    "page": 8
+  },
+  {
+    "level": 3,
+    "title": "How To Interpret Fee Schedule Data",
+    "page": 8
+  },
+  {
+    "level": 4,
+    "title": "Icons",
+    "page": 8
+  },
+  {
+    "level": 4,
+    "title": "Code",
+    "page": 8
+  },
+  {
+    "level": 4,
+    "title": "Description",
+    "page": 8
+  },
+  {
+    "level": 4,
+    "title": "Relative Value",
+    "page": 8
+  },
+  {
+    "level": 4,
+    "title": "FUD",
+    "page": 8
+  },
+  {
+    "level": 4,
+    "title": "PC/TC Split",
+    "page": 9
+  },
+  {
+    "level": 3,
+    "title": "Specialty Classifications",
+    "page": 9
+  },
+  {
+    "level": 3,
+    "title": "Postal ZIP Codes by Region",
+    "page": 11
+  },
+  {
+    "level": 4,
+    "title": "Region I",
+    "page": 11
+  },
+  {
+    "level": 4,
+    "title": "Region II",
+    "page": 11
+  },
+  {
+    "level": 4,
+    "title": "Region III",
+    "page": 11
+  },
+  {
+    "level": 4,
+    "title": "Region IV",
+    "page": 11
+  },
+  {
+    "level": 4,
+    "title": "Numerical List of Postal ZIP Codes",
+    "page": 11
+  },
+  {
+    "level": 3,
+    "title": "Conversion Factors",
+    "page": 12
+  },
+  {
+    "level": 3,
+    "title": "Calculating Fees Using Relative Values and Conversion Factors",
+    "page": 12
+  },
+  {
+    "level": 3,
+    "title": "New CPT Codes",
+    "page": 12
+  },
+  {
+    "level": 3,
+    "title": "Changed Codes",
+    "page": 13
+  },
+  {
+    "level": 4,
+    "title": "Changed Values",
+    "page": 13
+  },
+  {
+    "level": 4,
+    "title": "Changed Descriptions",
+    "page": 15
+  },
+  {
+    "level": 3,
+    "title": "Deleted CPT Codes",
+    "page": 16
+  },
+  {
+    "level": 3,
+    "title": "General Ground Rules",
+    "page": 17
+  },
+  {
+    "level": 4,
+    "title": "1A. NYS Medical Treatment Guidelines",
+    "page": 17
+  },
+  {
+    "level": 4,
+    "title": "1B. Multiple Procedures",
+    "page": 17
+  },
+  {
+    "level": 4,
+    "title": "2. Unlisted Service or Procedure",
+    "page": 17
+  },
+  {
+    "level": 4,
+    "title": "3. Procedures Listed Without Specified Relative Value Units",
+    "page": 17
+  },
+  {
+    "level": 4,
+    "title": "4. Materials Supplied by Physician",
+    "page": 17
+  },
+  {
+    "level": 4,
+    "title": "5. Separate Procedures",
+    "page": 18
+  },
+  {
+    "level": 4,
+    "title": "6. Concurrent Care",
+    "page": 18
+  },
+  {
+    "level": 4,
+    "title": "7. Alternating Physicians",
+    "page": 18
+  },
+  {
+    "level": 4,
+    "title": "8. Proration of Scheduled Relative Value Unit Fee",
+    "page": 18
+  },
+  {
+    "level": 4,
+    "title": "9. Home Visits",
+    "page": 18
+  },
+  {
+    "level": 4,
+    "title": "10. Medical Testimony",
+    "page": 18
+  },
+  {
+    "level": 4,
+    "title": "11. Ground Rules for Physician Assistants (PA) and Nurse Practitioners (NP)",
+    "page": 19
+  },
+  {
+    "level": 4,
+    "title": "12. Moderate (Conscious) Sedation",
+    "page": 20
+  },
+  {
+    "level": 4,
+    "title": "13. Add-on Procedures",
+    "page": 20
+  },
+  {
+    "level": 4,
+    "title": "14. Exempt From Modifier 51 Codes",
+    "page": 20
+  },
+  {
+    "level": 4,
+    "title": "15. Modifiers",
+    "page": 21
+  },
+  {
+    "level": 4,
+    "title": "16. Treatment by Out of State Providers",
+    "page": 25
+  },
+  {
+    "level": 4,
+    "title": "17. Designated Provider Enhanced Reimbursement",
+    "page": 26
+  },
+  {
+    "level": 4,
+    "title": "18. Behavioral Health Provider Enhanced Reimbursement",
+    "page": 26
+  },
+  {
+    "level": 4,
+    "title": "19. Use of Medical Fee Schedule Codes",
+    "page": 26
+  },
+  {
+    "level": 4,
+    "title": "20. Non-Schedule and Schedule Permanency Evaluations",
+    "page": 26
+  },
+  {
+    "level": 2,
+    "title": "Evaluation and Management (E/M)",
+    "page": 27
+  },
+  {
+    "level": 3,
+    "title": "Evaluation and Management Ground Rules",
+    "page": 27
+  },
+  {
+    "level": 4,
+    "title": "1A. NYS Medical Treatment Guidelines",
+    "page": 27
+  },
+  {
+    "level": 4,
+    "title": "1B. Consultations",
+    "page": 27
+  },
+  {
+    "level": 4,
+    "title": "2. Referral",
+    "page": 27
+  },
+  {
+    "level": 4,
+    "title": "3. Clinical Examples",
+    "page": 27
+  },
+  {
+    "level": 4,
+    "title": "4. New and Established Patient Service",
+    "page": 28
+  },
+  {
+    "level": 4,
+    "title": "5. E/M Service Components",
+    "page": 28
+  },
+  {
+    "level": 4,
+    "title": "6. Contributory Components",
+    "page": 29
+  },
+  {
+    "level": 4,
+    "title": "7. Narrative Reports",
+    "page": 29
+  },
+  {
+    "level": 4,
+    "title": "8. Guidelines Summary",
+    "page": 29
+  },
+  {
+    "level": 4,
+    "title": "9. Modifiers",
+    "page": 33
+  },
+  {
+    "level": 4,
+    "title": "10. Designated Provider Enhanced Reimbursement",
+    "page": 34
+  },
+  {
+    "level": 4,
+    "title": "11. Behavioral Health Provider Enhanced Reimbursement",
+    "page": 34
+  },
+  {
+    "level": 4,
+    "title": "12. Non-Schedule and Schedule Permanency Evaluations",
+    "page": 34
+  },
+  {
+    "level": 2,
+    "title": "Anesthesia",
+    "page": 51
+  },
+  {
+    "level": 3,
+    "title": "Anesthesia Ground Rules",
+    "page": 51
+  },
+  {
+    "level": 4,
+    "title": "1A. NYS Medical Treatment Guidelines",
+    "page": 51
+  },
+  {
+    "level": 4,
+    "title": "1B. General",
+    "page": 51
+  },
+  {
+    "level": 4,
+    "title": "2. Monitoring Services",
+    "page": 51
+  },
+  {
+    "level": 4,
+    "title": "3. Anesthesia Administered by Other Than an Anesthesiologist",
+    "page": 51
+  },
+  {
+    "level": 4,
+    "title": "4. Miscellaneous",
+    "page": 51
+  },
+  {
+    "level": 4,
+    "title": "5. Billing",
+    "page": 52
+  },
+  {
+    "level": 4,
+    "title": "6. Calculation of Total Anesthesia Values",
+    "page": 52
+  },
+  {
+    "level": 4,
+    "title": "7. Physical Status Modifiers",
+    "page": 53
+  },
+  {
+    "level": 4,
+    "title": "8. Modifiers",
+    "page": 53
+  },
+  {
+    "level": 4,
+    "title": "9. Qualifying Circumstances",
+    "page": 53
+  },
+  {
+    "level": 4,
+    "title": "10. Supplemental Skills",
+    "page": 54
+  },
+  {
+    "level": 4,
+    "title": "11. Moderate (Conscious) Sedation",
+    "page": 54
+  },
+  {
+    "level": 2,
+    "title": "Surgery",
+    "page": 63
+  },
+  {
+    "level": 3,
+    "title": "Surgery Ground Rules",
+    "page": 63
+  },
+  {
+    "level": 4,
+    "title": "1A. NYS Medical Treatment Guidelines",
+    "page": 63
+  },
+  {
+    "level": 4,
+    "title": "1B. Package or Global Fee Concept",
+    "page": 63
+  },
+  {
+    "level": 4,
+    "title": "2. Immediate Preoperative Visits and Other Services",
+    "page": 63
+  },
+  {
+    "level": 4,
+    "title": "3. Emergency Situations",
+    "page": 63
+  },
+  {
+    "level": 4,
+    "title": "4. Follow-up Care for Diagnostic Procedures",
+    "page": 64
+  },
+  {
+    "level": 4,
+    "title": "5. Multiple or Bilateral Procedures",
+    "page": 64
+  },
+  {
+    "level": 4,
+    "title": "6. Follow-up or Aftercare",
+    "page": 64
+  },
+  {
+    "level": 4,
+    "title": "7. Separate or Independent Procedures",
+    "page": 64
+  },
+  {
+    "level": 4,
+    "title": "8. Primary, Secondary, or Delayed Procedures",
+    "page": 64
+  },
+  {
+    "level": 4,
+    "title": "9. Operative Reports and Billing",
+    "page": 64
+  },
+  {
+    "level": 4,
+    "title": "10. By Report (BR) Items",
+    "page": 65
+  },
+  {
+    "level": 4,
+    "title": "11. Unlisted Services or Procedures",
+    "page": 65
+  },
+  {
+    "level": 4,
+    "title": "12. Concurrent Services by More Than One Provider",
+    "page": 65
+  },
+  {
+    "level": 4,
+    "title": "13. Surgery and Follow-up Care Provided by Different Providers",
+    "page": 66
+  },
+  {
+    "level": 4,
+    "title": "14. Repeat Procedure by Another Provider",
+    "page": 66
+  },
+  {
+    "level": 4,
+    "title": "15. Proration of Scheduled Relative Value Unit Fee",
+    "page": 66
+  },
+  {
+    "level": 4,
+    "title": "16. Materials Supplied by Provider",
+    "page": 66
+  },
+  {
+    "level": 4,
+    "title": "17. Reference (Outside) Laboratory",
+    "page": 66
+  },
+  {
+    "level": 4,
+    "title": "18. Surgical Destruction",
+    "page": 67
+  },
+  {
+    "level": 4,
+    "title": "19. Fractures and Dislocations",
+    "page": 67
+  },
+  {
+    "level": 4,
+    "title": "20. Modifiers",
+    "page": 67
+  },
+  {
+    "level": 2,
+    "title": "Radiology",
+    "page": 259
+  },
+  {
+    "level": 3,
+    "title": "Radiology Ground Rules",
+    "page": 259
+  },
+  {
+    "level": 4,
+    "title": "1A. NYS Medical Treatment Guidelines",
+    "page": 259
+  },
+  {
+    "level": 4,
+    "title": "1B. Consultations",
+    "page": 259
+  },
+  {
+    "level": 4,
+    "title": "2. Duplication of X-Rays",
+    "page": 259
+  },
+  {
+    "level": 4,
+    "title": "3. Multiple Diagnostic Procedures",
+    "page": 259
+  },
+  {
+    "level": 4,
+    "title": "4. Xeroradiography",
+    "page": 260
+  },
+  {
+    "level": 4,
+    "title": "5. Multiple Services Other Than Diagnostic Radiology",
+    "page": 260
+  },
+  {
+    "level": 4,
+    "title": "6. Specific Billing Instructions",
+    "page": 260
+  },
+  {
+    "level": 4,
+    "title": "7. Necessity of Services or Procedures",
+    "page": 260
+  },
+  {
+    "level": 4,
+    "title": "8. Reports and Custody of X-rays and Other Recorded Images",
+    "page": 260
+  },
+  {
+    "level": 4,
+    "title": "9. Materials Supplied by Provider",
+    "page": 261
+  },
+  {
+    "level": 4,
+    "title": "10. Injection Procedures",
+    "page": 261
+  },
+  {
+    "level": 4,
+    "title": "11. Contrast Enhanced Magnetic Resonance Imaging",
+    "page": 261
+  },
+  {
+    "level": 4,
+    "title": "12. Miscellaneous",
+    "page": 261
+  },
+  {
+    "level": 4,
+    "title": "13. Modifiers",
+    "page": 262
+  },
+  {
+    "level": 2,
+    "title": "Pathology and Laboratory",
+    "page": 285
+  },
+  {
+    "level": 3,
+    "title": "Pathology and Laboratory Ground Rules",
+    "page": 285
+  },
+  {
+    "level": 4,
+    "title": "1A. NYS Medical Treatment Guidelines",
+    "page": 285
+  },
+  {
+    "level": 4,
+    "title": "1B. Attending Provider",
+    "page": 285
+  },
+  {
+    "level": 4,
+    "title": "2. Supplies and Materials",
+    "page": 285
+  },
+  {
+    "level": 4,
+    "title": "3. Referral Laboratory",
+    "page": 285
+  },
+  {
+    "level": 4,
+    "title": "4. Reports",
+    "page": 285
+  },
+  {
+    "level": 4,
+    "title": "5. By Report “BR”",
+    "page": 286
+  },
+  {
+    "level": 4,
+    "title": "6. Indices or Ratios",
+    "page": 286
+  },
+  {
+    "level": 4,
+    "title": "7. Unlisted Service or Procedure",
+    "page": 286
+  },
+  {
+    "level": 4,
+    "title": "8. Organ or Disease-Oriented Panels",
+    "page": 286
+  },
+  {
+    "level": 4,
+    "title": "9. Specific Billing Instructions",
+    "page": 286
+  },
+  {
+    "level": 4,
+    "title": "10. Collection and Handling",
+    "page": 286
+  },
+  {
+    "level": 4,
+    "title": "11. Review of Diagnostic Studies",
+    "page": 286
+  },
+  {
+    "level": 4,
+    "title": "12. Drug Screening",
+    "page": 287
+  },
+  {
+    "level": 4,
+    "title": "13. Modifiers",
+    "page": 287
+  },
+  {
+    "level": 2,
+    "title": "Medicine",
+    "page": 335
+  },
+  {
+    "level": 3,
+    "title": "Medicine Ground Rules",
+    "page": 335
+  },
+  {
+    "level": 4,
+    "title": "1A. NYS Medical Treatment Guidelines",
+    "page": 335
+  },
+  {
+    "level": 4,
+    "title": "1B. Biofeedback",
+    "page": 335
+  },
+  {
+    "level": 4,
+    "title": "2. Ophthalmology",
+    "page": 335
+  },
+  {
+    "level": 4,
+    "title": "3. Optometrists",
+    "page": 336
+  },
+  {
+    "level": 4,
+    "title": "4. Special Services and Reports",
+    "page": 336
+  },
+  {
+    "level": 4,
+    "title": "5. Pulmonary",
+    "page": 336
+  },
+  {
+    "level": 4,
+    "title": "6. Osteopathic Manipulative Treatment",
+    "page": 336
+  },
+  {
+    "level": 4,
+    "title": "7. Moderate (Conscious) Sedation",
+    "page": 337
+  },
+  {
+    "level": 4,
+    "title": "8. Use of Code 97127 and 97533",
+    "page": 337
+  },
+  {
+    "level": 4,
+    "title": "9. Modifiers",
+    "page": 337
+  },
+  {
+    "level": 4,
+    "title": "10. Behavioral Health Provider Enhanced Reimbursement",
+    "page": 338
+  },
+  {
+    "level": 4,
+    "title": "11. EDX (Codes 95907-95913)",
+    "page": 338
+  },
+  {
+    "level": 2,
+    "title": "Physical Medicine",
+    "page": 377
+  },
+  {
+    "level": 3,
+    "title": "Physical Medicine Ground Rules",
+    "page": 377
+  },
+  {
+    "level": 4,
+    "title": "1A. NYS Medical Treatment Guidelines",
+    "page": 377
+  },
+  {
+    "level": 4,
+    "title": "1B. Supervision by Physician",
+    "page": 377
+  },
+  {
+    "level": 4,
+    "title": "2. Physical Medicine Utilization",
+    "page": 377
+  },
+  {
+    "level": 4,
+    "title": "3. Physical Medicine and Rehabilitation Program",
+    "page": 377
+  },
+  {
+    "level": 4,
+    "title": "4. Home Treatment",
+    "page": 377
+  },
+  {
+    "level": 4,
+    "title": "5. Referral and Authorization",
+    "page": 378
+  },
+  {
+    "level": 4,
+    "title": "6. Report Requirements",
+    "page": 378
+  },
+  {
+    "level": 4,
+    "title": "7. Self-Employed Physical Therapist or Occupational Therapist",
+    "page": 378
+  },
+  {
+    "level": 4,
+    "title": "8. Initial Evaluation and Re-evaluation by a Self-employed Physical or Occupational Therapist",
+    "page": 378
+  },
+  {
+    "level": 4,
+    "title": "9. Employed Physical and Occupational Therapists",
+    "page": 378
+  },
+  {
+    "level": 4,
+    "title": "10. Hospital-based EMG",
+    "page": 378
+  },
+  {
+    "level": 4,
+    "title": "11. Multiple Physical Medicine Procedures and Modalities",
+    "page": 378
+  },
+  {
+    "level": 4,
+    "title": "12. Tests and Measurements",
+    "page": 379
+  },
+  {
+    "level": 4,
+    "title": "13. Work Hardening Rules",
+    "page": 379
+  },
+  {
+    "level": 4,
+    "title": "14. Functional Capacity Evaluations (FCE)",
+    "page": 381
+  },
+  {
+    "level": 4,
+    "title": "15. Modifiers",
+    "page": 382
+  },
+  {
+    "level": 4,
+    "title": "16. Hospital Affiliated Therapy Services",
+    "page": 382
+  },
+  {
+    "level": 4,
+    "title": "17. Supplies and Materials",
+    "page": 382
+  },
+  {
+    "level": 2,
+    "title": "Category III Codes",
+    "page": 387
+  },
+  {
+    "level": 3,
+    "title": "Category III Ground Rules",
+    "page": 387
+  },
+  {
+    "level": 4,
+    "title": "1A. NYS Medical Treatment Guidelines",
+    "page": 387
+  },
+  {
+    "level": 1,
+    "title": "BEHAVIORAL HEALTH FEE SCHEDULE",
+    "page": 401
+  },
+  {
+    "level": 2,
+    "title": "Contents",
+    "page": 405
+  },
+  {
+    "level": 2,
+    "title": "Introduction and General Guidelines",
+    "page": 407
+  },
+  {
+    "level": 3,
+    "title": "Format",
+    "page": 407
+  },
+  {
+    "level": 4,
+    "title": "Introductory Information",
+    "page": 407
+  },
+  {
+    "level": 4,
+    "title": "Regions",
+    "page": 407
+  },
+  {
+    "level": 3,
+    "title": "How To Interpret the Fee Schedule Data",
+    "page": 407
+  },
+  {
+    "level": 4,
+    "title": "Icons",
+    "page": 407
+  },
+  {
+    "level": 4,
+    "title": "Code",
+    "page": 408
+  },
+  {
+    "level": 4,
+    "title": "Description",
+    "page": 408
+  },
+  {
+    "level": 4,
+    "title": "Relative Value",
+    "page": 408
+  },
+  {
+    "level": 3,
+    "title": "Postal ZIP Codes by Region",
+    "page": 408
+  },
+  {
+    "level": 4,
+    "title": "Region I",
+    "page": 408
+  },
+  {
+    "level": 4,
+    "title": "Region II",
+    "page": 408
+  },
+  {
+    "level": 4,
+    "title": "Region III",
+    "page": 408
+  },
+  {
+    "level": 4,
+    "title": "Region IV",
+    "page": 408
+  },
+  {
+    "level": 4,
+    "title": "Numerical List of Postal ZIP Codes",
+    "page": 408
+  },
+  {
+    "level": 3,
+    "title": "Conversion Factors",
+    "page": 409
+  },
+  {
+    "level": 3,
+    "title": "New CPT Codes",
+    "page": 409
+  },
+  {
+    "level": 3,
+    "title": "Changed Codes",
+    "page": 409
+  },
+  {
+    "level": 4,
+    "title": "Changed Values",
+    "page": 409
+  },
+  {
+    "level": 4,
+    "title": "Changed Descriptions",
+    "page": 409
+  },
+  {
+    "level": 3,
+    "title": "Deleted CPT Codes",
+    "page": 409
+  },
+  {
+    "level": 3,
+    "title": "Behavioral Health Services Provided by Psychologists or Under the Supervision of an Authorized Psychiatrist or Physician",
+    "page": 410
+  },
+  {
+    "level": 3,
+    "title": "Behavioral Health Ground Rules",
+    "page": 410
+  },
+  {
+    "level": 4,
+    "title": "1A. NYS Medical Treatment Guidelines",
+    "page": 410
+  },
+  {
+    "level": 4,
+    "title": "1B. Biofeedback",
+    "page": 410
+  },
+  {
+    "level": 4,
+    "title": "2. Testing",
+    "page": 411
+  },
+  {
+    "level": 4,
+    "title": "3. Procedures Listed Without Specified Relative Value Units",
+    "page": 411
+  },
+  {
+    "level": 4,
+    "title": "4. Medical Testimony",
+    "page": 411
+  },
+  {
+    "level": 4,
+    "title": "5. Evaluation and Management",
+    "page": 411
+  },
+  {
+    "level": 4,
+    "title": "6. Central Nervous System Assessments/Tests (e.g., Neuro-cognitive, Mental Status, Speech Testing) (96101–96127)",
+    "page": 411
+  },
+  {
+    "level": 4,
+    "title": "7. Use of code 97127 and 97533",
+    "page": 411
+  },
+  {
+    "level": 4,
+    "title": "8. Health and Behavior Assessment/Intervention",
+    "page": 412
+  },
+  {
+    "level": 4,
+    "title": "9. Modifiers",
+    "page": 412
+  },
+  {
+    "level": 4,
+    "title": "10. Treatment by Out of State Providers",
+    "page": 413
+  },
+  {
+    "level": 4,
+    "title": "11. Non-Schedule Permanency Evaluations",
+    "page": 413
+  },
+  {
+    "level": 4,
+    "title": "12. Behavioral Health Provider Enhanced Reimbursement",
+    "page": 413
+  },
+  {
+    "level": 4,
+    "title": "13. Codes in the Behavioral Health Fee Schedule",
+    "page": 413
+  },
+  {
+    "level": 1,
+    "title": "CHIROPRACTIC FEE SCHEDULE",
+    "page": 417
+  },
+  {
+    "level": 2,
+    "title": "Contents",
+    "page": 421
+  },
+  {
+    "level": 2,
+    "title": "Introduction and General Guidelines",
+    "page": 423
+  },
+  {
+    "level": 3,
+    "title": "Format",
+    "page": 423
+  },
+  {
+    "level": 4,
+    "title": "Introductory Information",
+    "page": 423
+  },
+  {
+    "level": 4,
+    "title": "Regions",
+    "page": 423
+  },
+  {
+    "level": 3,
+    "title": "How To Interpret The Fee Schedule Data",
+    "page": 423
+  },
+  {
+    "level": 4,
+    "title": "Icons",
+    "page": 423
+  },
+  {
+    "level": 4,
+    "title": "Code",
+    "page": 424
+  },
+  {
+    "level": 4,
+    "title": "Description",
+    "page": 424
+  },
+  {
+    "level": 4,
+    "title": "Relative Value",
+    "page": 424
+  },
+  {
+    "level": 4,
+    "title": "FUD",
+    "page": 424
+  },
+  {
+    "level": 4,
+    "title": "PC/TC Split",
+    "page": 424
+  },
+  {
+    "level": 3,
+    "title": "Postal Zip Codes By Region",
+    "page": 424
+  },
+  {
+    "level": 4,
+    "title": "Region I",
+    "page": 424
+  },
+  {
+    "level": 4,
+    "title": "Region II",
+    "page": 425
+  },
+  {
+    "level": 4,
+    "title": "Region III",
+    "page": 425
+  },
+  {
+    "level": 4,
+    "title": "Region IV",
+    "page": 425
+  },
+  {
+    "level": 4,
+    "title": "Numerical List of Postal Zip Codes",
+    "page": 425
+  },
+  {
+    "level": 3,
+    "title": "Conversion Factors",
+    "page": 425
+  },
+  {
+    "level": 3,
+    "title": "Calculating Fees Using Relative Values and Conversion Factors",
+    "page": 425
+  },
+  {
+    "level": 3,
+    "title": "New CPT Codes",
+    "page": 425
+  },
+  {
+    "level": 3,
+    "title": "Changed Codes",
+    "page": 425
+  },
+  {
+    "level": 4,
+    "title": "Changed Values",
+    "page": 425
+  },
+  {
+    "level": 4,
+    "title": "Changed Descriptions",
+    "page": 426
+  },
+  {
+    "level": 3,
+    "title": "Deleted CPT Codes",
+    "page": 426
+  },
+  {
+    "level": 3,
+    "title": "General Ground Rules",
+    "page": 426
+  },
+  {
+    "level": 4,
+    "title": "1A. NYS Medical Treatment Guidelines",
+    "page": 426
+  },
+  {
+    "level": 4,
+    "title": "1B. Unlisted Service or Procedure",
+    "page": 426
+  },
+  {
+    "level": 4,
+    "title": "2. Procedures Listed Without Specified Relative Value Units",
+    "page": 426
+  },
+  {
+    "level": 4,
+    "title": "3. Materials Supplied by a Chiropractor",
+    "page": 427
+  },
+  {
+    "level": 4,
+    "title": "4. Miscellaneous",
+    "page": 427
+  },
+  {
+    "level": 4,
+    "title": "5. Medical Testimony",
+    "page": 427
+  },
+  {
+    "level": 4,
+    "title": "6. Chiropractic Manipulative Treatment (CMT)",
+    "page": 427
+  },
+  {
+    "level": 4,
+    "title": "7. Periodic Re-evaluation",
+    "page": 427
+  },
+  {
+    "level": 4,
+    "title": "8. Modifiers",
+    "page": 427
+  },
+  {
+    "level": 4,
+    "title": "9. Treatment by Out of State Providers",
+    "page": 428
+  },
+  {
+    "level": 4,
+    "title": "10. Codes in the Chiropractic Fee Schedule",
+    "page": 429
+  },
+  {
+    "level": 2,
+    "title": "Evaluation and Management (E/M)",
+    "page": 431
+  },
+  {
+    "level": 3,
+    "title": "Evaluation and Management Ground Rules",
+    "page": 431
+  },
+  {
+    "level": 4,
+    "title": "1A. NYS Medical Treatment Guidelines",
+    "page": 431
+  },
+  {
+    "level": 4,
+    "title": "1B. New and Established Patient Service",
+    "page": 431
+  },
+  {
+    "level": 4,
+    "title": "2. Referral",
+    "page": 432
+  },
+  {
+    "level": 4,
+    "title": "3. Clinical Examples",
+    "page": 432
+  },
+  {
+    "level": 4,
+    "title": "4. Periodic Re-evaluation",
+    "page": 432
+  },
+  {
+    "level": 4,
+    "title": "5. Narrative Reports",
+    "page": 432
+  },
+  {
+    "level": 4,
+    "title": "6. Modifiers",
+    "page": 432
+  },
+  {
+    "level": 4,
+    "title": "7. Non-Schedule Permanency Evaluations",
+    "page": 432
+  },
+  {
+    "level": 2,
+    "title": "Radiology",
+    "page": 435
+  },
+  {
+    "level": 3,
+    "title": "Radiology Ground Rules",
+    "page": 435
+  },
+  {
+    "level": 4,
+    "title": "1A. NYS Medical Treatment Guidelines",
+    "page": 435
+  },
+  {
+    "level": 4,
+    "title": "1B. Duplication of X-Rays",
+    "page": 435
+  },
+  {
+    "level": 4,
+    "title": "2. Multiple Diagnostic Procedures",
+    "page": 435
+  },
+  {
+    "level": 4,
+    "title": "3. Specific Billing Instructions",
+    "page": 436
+  },
+  {
+    "level": 4,
+    "title": "4. Reports and Custody of X-rays and Other Recorded Images",
+    "page": 436
+  },
+  {
+    "level": 4,
+    "title": "5. Miscellaneous",
+    "page": 436
+  },
+  {
+    "level": 4,
+    "title": "6. Modifiers",
+    "page": 436
+  },
+  {
+    "level": 2,
+    "title": "Medicine",
+    "page": 439
+  },
+  {
+    "level": 3,
+    "title": "Medicine Ground Rules",
+    "page": 439
+  },
+  {
+    "level": 4,
+    "title": "1A. NYS Medical Treatment Guidelines",
+    "page": 439
+  },
+  {
+    "level": 4,
+    "title": "1B. Special Services and Reports",
+    "page": 439
+  },
+  {
+    "level": 4,
+    "title": "2. Modifiers",
+    "page": 439
+  },
+  {
+    "level": 4,
+    "title": "3. EDX (Codes 95907–95913)",
+    "page": 439
+  },
+  {
+    "level": 2,
+    "title": "Physical Medicine",
+    "page": 443
+  },
+  {
+    "level": 3,
+    "title": "Physical Medicine Ground Rules",
+    "page": 443
+  },
+  {
+    "level": 4,
+    "title": "1A. NYS Medical Treatment Guidelines",
+    "page": 443
+  },
+  {
+    "level": 4,
+    "title": "2. Initial Evaluation and Re-evaluation",
+    "page": 443
+  },
+  {
+    "level": 4,
+    "title": "3. Multiple Physical Medicine Procedures and Modalities",
+    "page": 444
+  },
+  {
+    "level": 4,
+    "title": "4. Tests and Measurements",
+    "page": 444
+  },
+  {
+    "level": 4,
+    "title": "5. Modifiers",
+    "page": 444
+  },
+  {
+    "level": 1,
+    "title": "PODIATRY FEE SCHEDULE",
+    "page": 447
+  },
+  {
+    "level": 2,
+    "title": "Contents",
+    "page": 451
+  },
+  {
+    "level": 2,
+    "title": "Introduction and General Guidelines",
+    "page": 453
+  },
+  {
+    "level": 3,
+    "title": "Format",
+    "page": 453
+  },
+  {
+    "level": 4,
+    "title": "Introductory Information",
+    "page": 453
+  },
+  {
+    "level": 4,
+    "title": "Regions",
+    "page": 453
+  },
+  {
+    "level": 3,
+    "title": "How To Interpret Fee Schedule Data",
+    "page": 453
+  },
+  {
+    "level": 4,
+    "title": "Icons",
+    "page": 453
+  },
+  {
+    "level": 4,
+    "title": "Code",
+    "page": 454
+  },
+  {
+    "level": 4,
+    "title": "Description",
+    "page": 454
+  },
+  {
+    "level": 4,
+    "title": "Relative Value",
+    "page": 454
+  },
+  {
+    "level": 4,
+    "title": "FUD",
+    "page": 454
+  },
+  {
+    "level": 4,
+    "title": "PC/TC Split",
+    "page": 454
+  },
+  {
+    "level": 3,
+    "title": "Postal ZIP Codes by Region",
+    "page": 454
+  },
+  {
+    "level": 4,
+    "title": "Region I",
+    "page": 454
+  },
+  {
+    "level": 4,
+    "title": "Region II",
+    "page": 455
+  },
+  {
+    "level": 4,
+    "title": "Region III",
+    "page": 455
+  },
+  {
+    "level": 4,
+    "title": "Region IV",
+    "page": 455
+  },
+  {
+    "level": 4,
+    "title": "Numerical List of Postal ZIP Codes",
+    "page": 455
+  },
+  {
+    "level": 3,
+    "title": "Conversion Factors",
+    "page": 455
+  },
+  {
+    "level": 3,
+    "title": "New CPT Codes",
+    "page": 455
+  },
+  {
+    "level": 3,
+    "title": "Changed Codes",
+    "page": 455
+  },
+  {
+    "level": 4,
+    "title": "Changed Values",
+    "page": 455
+  },
+  {
+    "level": 4,
+    "title": "Changed Descriptions",
+    "page": 456
+  },
+  {
+    "level": 3,
+    "title": "Deleted CPT Codes",
+    "page": 456
+  },
+  {
+    "level": 3,
+    "title": "General Ground Rules",
+    "page": 456
+  },
+  {
+    "level": 4,
+    "title": "1A. NYS Medical Treatment Guidelines",
+    "page": 456
+  },
+  {
+    "level": 4,
+    "title": "1B. Multiple Procedures",
+    "page": 456
+  },
+  {
+    "level": 4,
+    "title": "2. Unlisted Service or Procedure",
+    "page": 456
+  },
+  {
+    "level": 4,
+    "title": "3. Procedures Listed Without Specified Unit Values: By Report (BR) Items",
+    "page": 456
+  },
+  {
+    "level": 4,
+    "title": "4. Materials Supplied by Podiatrist",
+    "page": 457
+  },
+  {
+    "level": 4,
+    "title": "5. Separate Procedures",
+    "page": 457
+  },
+  {
+    "level": 4,
+    "title": "6. Concurrent Care",
+    "page": 457
+  },
+  {
+    "level": 4,
+    "title": "7. Alternating Providers",
+    "page": 457
+  },
+  {
+    "level": 4,
+    "title": "8. Proration of Scheduled Relative Value Unit Fee",
+    "page": 457
+  },
+  {
+    "level": 4,
+    "title": "9. Home Visits",
+    "page": 458
+  },
+  {
+    "level": 4,
+    "title": "10. Referrals/Direct Care",
+    "page": 458
+  },
+  {
+    "level": 4,
+    "title": "11. Multiple Services",
+    "page": 458
+  },
+  {
+    "level": 4,
+    "title": "12. Miscellaneous",
+    "page": 458
+  },
+  {
+    "level": 4,
+    "title": "13. Medical Testimony",
+    "page": 458
+  },
+  {
+    "level": 4,
+    "title": "14. Modifiers",
+    "page": 458
+  },
+  {
+    "level": 4,
+    "title": "15. Treatment by Out of State Providers",
+    "page": 462
+  },
+  {
+    "level": 4,
+    "title": "16. Codes in the Podiatry Fee Schedule",
+    "page": 462
+  },
+  {
+    "level": 2,
+    "title": "Evaluation and Management (E/M)",
+    "page": 463
+  },
+  {
+    "level": 3,
+    "title": "Evaluation and Management Ground Rules",
+    "page": 463
+  },
+  {
+    "level": 4,
+    "title": "1A. NYS Medical Treatment Guidelines",
+    "page": 463
+  },
+  {
+    "level": 4,
+    "title": "1B. Emergency Room",
+    "page": 463
+  },
+  {
+    "level": 4,
+    "title": "2. New and Established Patient Service",
+    "page": 463
+  },
+  {
+    "level": 4,
+    "title": "3. Modifiers",
+    "page": 464
+  },
+  {
+    "level": 4,
+    "title": "4. Narrative Reports",
+    "page": 465
+  },
+  {
+    "level": 2,
+    "title": "Surgery",
+    "page": 475
+  },
+  {
+    "level": 3,
+    "title": "Surgery Ground Rules",
+    "page": 475
+  },
+  {
+    "level": 4,
+    "title": "1A. NYS Medical Treatment Guidelines",
+    "page": 475
+  },
+  {
+    "level": 4,
+    "title": "1B. Package or Global Fee Concept",
+    "page": 475
+  },
+  {
+    "level": 4,
+    "title": "2. Immediate Preoperative Visits and Other Services by the Surgeon",
+    "page": 475
+  },
+  {
+    "level": 4,
+    "title": "3. Emergency Situations",
+    "page": 475
+  },
+  {
+    "level": 4,
+    "title": "4. Follow-up Care for Diagnostic Procedures",
+    "page": 475
+  },
+  {
+    "level": 4,
+    "title": "5. Multiple or Bilateral Procedures",
+    "page": 476
+  },
+  {
+    "level": 4,
+    "title": "6. Follow-up or Aftercare",
+    "page": 476
+  },
+  {
+    "level": 4,
+    "title": "7. Separate or Independent Procedures",
+    "page": 476
+  },
+  {
+    "level": 4,
+    "title": "8. Primary, Secondary, or Delayed Procedures",
+    "page": 476
+  },
+  {
+    "level": 4,
+    "title": "9. Operative Reports and Billing",
+    "page": 476
+  },
+  {
+    "level": 4,
+    "title": "10. By Report (BR) Items",
+    "page": 477
+  },
+  {
+    "level": 4,
+    "title": "11. Unlisted Services or Procedures",
+    "page": 477
+  },
+  {
+    "level": 4,
+    "title": "12. Concurrent Services by More Than One Podiatrist",
+    "page": 477
+  },
+  {
+    "level": 4,
+    "title": "13. Surgery and Follow-up Care Provided by Different Providers",
+    "page": 477
+  },
+  {
+    "level": 4,
+    "title": "14. Repeat Procedure by Another Provider",
+    "page": 477
+  },
+  {
+    "level": 4,
+    "title": "15. Proration of a Scheduled Relative Value Unit Fee",
+    "page": 478
+  },
+  {
+    "level": 4,
+    "title": "16. Materials Supplied by Podiatrist",
+    "page": 478
+  },
+  {
+    "level": 4,
+    "title": "17. Reference (outside) Laboratory",
+    "page": 478
+  },
+  {
+    "level": 4,
+    "title": "18. Surgical Destruction",
+    "page": 478
+  },
+  {
+    "level": 4,
+    "title": "19. Fractures and Dislocations",
+    "page": 478
+  },
+  {
+    "level": 4,
+    "title": "20. Modifiers",
+    "page": 479
+  },
+  {
+    "level": 2,
+    "title": "Radiology",
+    "page": 497
+  },
+  {
+    "level": 3,
+    "title": "Radiology Ground Rules",
+    "page": 497
+  },
+  {
+    "level": 4,
+    "title": "1A. NYS Medical Treatment Guidelines",
+    "page": 497
+  },
+  {
+    "level": 4,
+    "title": "1B. Duplication of X-Rays",
+    "page": 497
+  },
+  {
+    "level": 4,
+    "title": "2. Multiple Diagnostic Procedures",
+    "page": 497
+  },
+  {
+    "level": 4,
+    "title": "3. Xeroradiography",
+    "page": 497
+  },
+  {
+    "level": 4,
+    "title": "4. Multiple Services Other Than Diagnostic Radiology",
+    "page": 498
+  },
+  {
+    "level": 4,
+    "title": "5. Specific Billing Instructions",
+    "page": 498
+  },
+  {
+    "level": 4,
+    "title": "6. Reports and Custody of X-rays and Other Recorded Images",
+    "page": 498
+  },
+  {
+    "level": 4,
+    "title": "7. Materials Supplied by Podiatrist",
+    "page": 499
+  },
+  {
+    "level": 4,
+    "title": "8. Injection Procedures",
+    "page": 499
+  },
+  {
+    "level": 4,
+    "title": "9. Miscellaneous",
+    "page": 499
+  },
+  {
+    "level": 4,
+    "title": "10. Modifiers",
+    "page": 499
+  },
+  {
+    "level": 2,
+    "title": "Pathology and Laboratory",
+    "page": 503
+  },
+  {
+    "level": 3,
+    "title": "Pathology and Laboratory Ground Rules",
+    "page": 503
+  },
+  {
+    "level": 4,
+    "title": "1A. NYS Medical Treatment Guidelines",
+    "page": 503
+  },
+  {
+    "level": 4,
+    "title": "1B. Attending Podiatrist",
+    "page": 503
+  },
+  {
+    "level": 4,
+    "title": "2. Supplies and Materials",
+    "page": 503
+  },
+  {
+    "level": 4,
+    "title": "3. Referral Laboratory",
+    "page": 503
+  },
+  {
+    "level": 4,
+    "title": "4. Reports",
+    "page": 503
+  },
+  {
+    "level": 4,
+    "title": "5. By Report “(BR)”",
+    "page": 504
+  },
+  {
+    "level": 4,
+    "title": "6. Indices or Ratios",
+    "page": 504
+  },
+  {
+    "level": 4,
+    "title": "7. Unlisted Service or Procedure",
+    "page": 504
+  },
+  {
+    "level": 4,
+    "title": "8. Organ or Disease-Oriented Panels",
+    "page": 504
+  },
+  {
+    "level": 4,
+    "title": "9. Specific Billing Instructions",
+    "page": 504
+  },
+  {
+    "level": 4,
+    "title": "10. Collection and Handling",
+    "page": 504
+  },
+  {
+    "level": 4,
+    "title": "11. Review of Diagnostic Studies",
+    "page": 504
+  },
+  {
+    "level": 4,
+    "title": "12. Modifiers",
+    "page": 504
+  },
+  {
+    "level": 4,
+    "title": "13. Drug Screening",
+    "page": 505
+  },
+  {
+    "level": 2,
+    "title": "Medicine",
+    "page": 509
+  },
+  {
+    "level": 3,
+    "title": "Medicine Ground Rules",
+    "page": 509
+  },
+  {
+    "level": 4,
+    "title": "1A. NYS Medical Treatment Guidelines",
+    "page": 509
+  },
+  {
+    "level": 4,
+    "title": "1B. Special Services and Reports",
+    "page": 509
+  },
+  {
+    "level": 4,
+    "title": "2. Modifiers",
+    "page": 509
+  },
+  {
+    "level": 2,
+    "title": "Appliances and Prostheses",
+    "page": 513
+  },
+  {
+    "level": 3,
+    "title": "Appliances and Prostheses Ground Rules",
+    "page": 513
+  },
+  {
+    "level": 4,
+    "title": "1A. NYS Medical Treatment Guidelines",
+    "page": 513
+  },
+  {
+    "level": 3,
+    "title": "Podiatric Appliances and Prostheses",
+    "page": 513
+  }
+]

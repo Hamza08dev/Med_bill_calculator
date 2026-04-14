@@ -1,0 +1,38 @@
+,Code,Description Relative Value,FUD,PC/TC Split
+78205,Liver imaging (SPECT);,10.46,XXX,20/80
+78206,Liver imaging (SPECT); with vascular flow,11.50,XXX,20/80
+78215,Liver and spleen imaging; static only,7.01,XXX,25/75
+78216,Liver and spleen imaging; with vascular flow,8.19,XXX,25/75
+78226,"Hepatobiliary system imaging, including gallbladder when present;",14.12,XXX,11/89
+78227,"Hepatobiliary system imaging, including gallbladder when present; with pharma- cologic intervention, including quantitative measurement(s) when performed",19.33,XXX,9/91
+78230,Salivary gland imaging;,4.31,XXX,25/75
+78231,Salivary gland imaging; with serial images,4.49,XXX,25/75
+78232,Salivary gland function study,4.59,XXX,25/75
+78258,Esophageal motility,6.43,XXX,25/75
+78261,Gastric mucosa imaging,6.07,XXX,25/75
+78262,Gastroesophageal reflux study,6.63,XXX,25/75
+78264,"Gastric emptying imaging study (eg, solid, liquid, or both);",6.81,XXX,25/75
+78265,"Gastric emptying imaging study (eg, solid, liquid, or both); with small",bowel transit 17.24,XXX,12/88
+78266,"Gastric emptying imaging study (eg, solid, liquid, or both); with small bowel and colon transit, multiple days",20.54,XXX,11/89
+78267,"Urea breath test, C-14 (isotopic); acquisition for analysis",0.48,XXX,0/100
+78268,"Urea breath test, C-14 (isotopic); analysis",4.10,XXX,0/100
+78270,"Vitamin B-12 absorption study (eg, Schilling test); without intrinsic factor",2.73,XXX,25/75
+78271,"Vitamin B-12 absorption study (eg, Schilling test); with intrinsic factor",2.88,XXX,25/75
+78272,"Vitamin B-12 absorption studies combined, with and without intrinsic factor",3.37,XXX,25/75
+78278,Acute gastrointestinal blood loss imaging,7.73,XXX,25/75
+78282,Gastrointestinal protein loss,4.28,XXX,25/75
+78290,"Intestine imaging (eg, ectopic gastric mucosa, Meckel's localization, volvulus)",5.87,XXX,25/75
+78291,"Peritoneal-venous shunt patency test (eg, for LeVeen, Denver shunt)",5.10,XXX,25/75
+78299,"Unlisted gastrointestinal procedure, diagnostic nuclear medicine",BR,XXX,
+78300,Bone and/or joint imaging; limited area,5.87,XXX,30/70
+78305,Bone and/or joint imaging; multiple areas,7.27,XXX,30/70
+78306,Bone and/or joint imaging; whole body,7.78,XXX,30/70
+78315,Bone and/or joint imaging; 3 phase study,8.29,XXX,30/70
+78320,Bone and/or joint imaging; tomographic (SPECT),10.25,XXX,20/80
+78350,"Bone density (bone mineral content) study, 1 or more sites; single photon absorpti- ometry",2.73,XXX,30/70
+78351,"Bone density (bone mineral content) study, 1 or more sites; dual photon absorpti- ometry, 1 or more sites",3.75,XXX,30/70
+78399,"Unlisted musculoskeletal procedure, diagnostic nuclear medicine",BR,XXX,
+78414,"Determination of central c-v hemodynamics (non-imaging) (eg, ejection fraction with probe technique) with or without pharmacologic intervention or exercise, sin- gle or multiple determinations",6.63,XXX,30/70
+78428,Cardiac shunt detection,5.23,XXX,30/70
+78445,"Non-cardiac vascular flow imaging (ie, angiography, venography)",6.30,XXX,30/70
+78451,"Myocardial perfusion imaging, tomographic (SPECT) (including attenuation cor- rection, qualitative or quantitative wall motion, ejection fraction by first pass or gated technique, additional quantification, when performed); single study, at rest or stress (exercise or pharmacologic)",8.67,XXX,30/70

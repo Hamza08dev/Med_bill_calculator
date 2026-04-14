@@ -1,0 +1,22 @@
+{
+  "law_version_id": "ny_2018_01",
+  "created_utc": "2025-10-01T13:25:36Z",
+  "artifacts": {
+    "raw_pdf": {
+      "path": "raw\\NYS_WCMFS_2018.pdf",
+      "sha256": "6c5b07a02f8f0cd19a72551870b740c8da000feed26cd7c64fac8f983ac4c5d9"
+    },
+    "law_md": {
+      "path": "derived\\law.md",
+      "sha256": "de3ee551f837840ea571018daccc6dafbf6c9b234943fda45325e68254a88f39"
+    },
+    "pages_jsonl": {
+      "path": "derived\\ny_2018_01.pages.jsonl",
+      "sha256": "f87b9ab55ab9159be993aa3f8996b34b0eeaa5c9f3aeab6f48fb822645c3c0f7"
+    },
+    "toc_json": {
+      "path": "derived\\ny_2018_01.toc.json",
+      "sha256": "a5707f50561411687bb61eb5d51c2ac30a7eebe47b646adbe21e1028e62783e7"
+    }
+  }
+}

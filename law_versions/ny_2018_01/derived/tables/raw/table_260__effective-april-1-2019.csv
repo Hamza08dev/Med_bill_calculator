@@ -1,0 +1,35 @@
+,Code,Description,Relative Value,FUD,PC/TC Split
+,78607,"Brain imaging, tomographic (SPECT)",10.94,XXX,20/80
+,78608,"Brain imaging, positron emission tomography (PET); metabolic evaluation",5.89,XXX,
+,78609,"Brain imaging, positron emission tomography (PET); perfusion evaluation",5.89,XXX,
+,78610,"Brain imaging, vascular flow only",2.91,XXX,25/75
+,78630,"Cerebrospinal fluid flow, imaging (not including introduction of material); cister- nography",8.11,XXX,25/75
+,78635,"Cerebrospinal fluid flow, imaging (not including introduction of material); ventricu- lography",6.38,XXX,25/75
+,78645,"Cerebrospinal fluid flow, imaging (not including introduction of material); shunt evaluation",6.38,XXX,25/75
+,78647,"Cerebrospinal fluid flow, imaging (not including introduction of material); tomo- graphic (SPECT)",9.38,XXX,20/80
+,78650,Cerebrospinal fluid leakage detection and localization,8.93,XXX,25/75
+,78660,Radiopharmaceutical dacryocystography,4.26,XXX,25/75
+,78699,"Unlisted nervous system procedure, diagnostic nuclear medicine",BR,XXX,
+,78700,Kidney imaging morphology;,5.43,XXX,30/70
+,78701,Kidney imaging morphology; with vascular flow,6.38,XXX,30/70
+,78707,"Kidney imaging morphology; with vascular flow and function, single study without pharmacological intervention",9.81,XXX,30/70
+,78708,"Kidney imaging morphology; with vascular flow and function, single study, with pharmacological intervention (eg, angiotensin converting enzyme inhibitor and/or diuretic)",10.22,XXX,30/70
+,78709,"Kidney imaging morphology; with vascular flow and function, multiple studies, with and without pharmacological intervention (eg, angiotensin converting enzyme inhibitor and/or diuretic)",10.55,XXX,30/70
+,78710,Kidney imaging morphology; tomographic (SPECT),10.00,XXX,20/80
+,78725,"Kidney function study, non-imaging radioisotopic study",5.74,XXX,30/70
++,78730,Urinary bladder residual study (List separately in addition to code for primary pro- cedure),2.55,ZZZ,30/70
+,78740,Ureteral reflux study (radiopharmaceutical voiding cystogram),4.56,XXX,30/70
+,78761,Testicular imaging with vascular flow,6.09,XXX,30/70
+,78799,"Unlisted genitourinary procedure, diagnostic nuclear medicine",BR,XXX,
+,78800,Radiopharmaceutical localization of tumor or distribution of radiopharmaceutical agent(s); limited area,5.61,XXX,25/75
+,78801,Radiopharmaceutical localization of tumor or distribution of radiopharmaceutical agent(s); multiple areas,7.09,XXX,25/75
+,78802,"Radiopharmaceutical localization of tumor or distribution of radiopharmaceutical agent(s); whole body, single day imaging",8.95,XXX,25/75
+,78803,Radiopharmaceutical localization of tumor or distribution of radiopharmaceutical agent(s); tomographic (SPECT),9.54,XXX,25/75
+,78804,"Radiopharmaceutical localization of tumor or distribution of radiopharmaceutical agent(s); whole body, requiring 2 or more days imaging",10.20,XXX,25/75
+,78805,Radiopharmaceutical localization of inflammatory process; limited area,5.00,XXX,25/75
+,78806,Radiopharmaceutical localization of inflammatory process; whole body,8.57,XXX,25/75
+,78807,Radiopharmaceutical localization of inflammatory process; tomographic (SPECT),9.54,XXX,20/80
+,78808,"Injection procedure for radiopharmaceutical localization by non-imaging probe study, intravenous (eg, parathyroid adenoma)",1.66,XXX,
+,78811,"Positron emission tomography (PET) imaging; limited area (eg, chest, head/neck)",17.09,XXX,12/88
+,78812,Positron emission tomography (PET) imaging; skull base to mid-thigh,21.17,XXX,12/88
+,78813,Positron emission tomography (PET) imaging; whole body,21.93,XXX,12/88

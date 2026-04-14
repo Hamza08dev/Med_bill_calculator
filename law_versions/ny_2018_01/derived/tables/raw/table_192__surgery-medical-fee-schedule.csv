@@ -1,0 +1,31 @@
+,Code,Description,Relative Value,FUD,PC/TC Split
+,51555,"Cystectomy, partial; complicated (eg, postradiation, previous surgery, difficult location)",8.43,090,
+,51565,"Cystectomy, partial, with reimplantation of ureter(s) into bladder (ureteroneocys- tostomy)",10.3,090,
+,51570,"Cystectomy, complete; (separate procedure)",11.24,090,
+,51575,"Cystectomy, complete; with bilateral pelvic lymphadenectomy, including external iliac, hypogastric, and obturator nodes",16.86,090,
+,51580,"Cystectomy, complete, with ureterosigmoidostomy or ureterocutaneous trans- plantations;",16.58,090,
+,51585,"Cystectomy, complete, with ureterosigmoidostomy or ureterocutaneous trans- plantations; with bilateral pelvic lymphadenectomy, including external iliac, hypo- gastric, and obturator nodes",20.6,090,
+,51590,"Cystectomy, complete, with ureteroileal conduit or sigmoid bladder, including intestine anastomosis;",21.35,090,
+,51595,"Cystectomy, complete, with ureteroileal conduit or sigmoid bladder, including intestine anastomosis; with bilateral pelvic lymphadenectomy, including external iliac, hypogastric, and obturator nodes",24.54,090,
+,51596,"Cystectomy, complete, with continent diversion, any open technique, using any segment of small and/or large intestine to construct neobladder",23.41,090,
+,51597,"Pelvic exenteration, complete, for vesical, prostatic or urethral malignancy, with removal of bladder and ureteral transplantations, with or without hysterectomy and/or abdominoperineal resection of rectum and colon and colostomy, or any combination thereof",26.69,090,
+,51600,Injection procedure for cystography or voiding urethrocystography,0.28,000,
+,51605,Injection procedure and placement of chain for contrast and/or chain urethrocys- tography,0.37,000,
+,51610,Injection procedure for retrograde urethrocystography,0.42,000,
+,51700,"Bladder irrigation, simple, lavage and/or instillation",0.19,000,
+,51701,"Insertion of non-indwelling bladder catheter (eg, straight catheterization for resid- ual urine)",0.18,000,
+,51702,"Insertion of temporary indwelling bladder catheter; simple (eg, Foley)",0.18,000,
+,51703,"Insertion of temporary indwelling bladder catheter; complicated (eg, altered anat- omy, fractured catheter/balloon)",0.33,000,
+,51705,Change of cystostomy tube; simple,0.28,000,
+,51710,Change of cystostomy tube; complicated,1.12,000,
+,51715,Endoscopic injection of implant material into the submucosal tissues of the ure- thra and/or bladder neck,2.25,000,
+,51720,Bladder instillation of anticarcinogenic agent (including retention time),0.37,000,
+,51725,"Simple cystometrogram (CMG) (eg, spinal manometer)",0.61,000,85/15
+,51726,"Complex cystometrogram (ie, calibrated electronic equipment);",0.7,000,85/15
+,51727,"Complex cystometrogram (ie, calibrated electronic equipment); with urethral pres- sure profile studies (ie, urethral closure pressure profile), any technique",1.24,000,37/63
+,51728,"Complex cystometrogram (ie, calibrated electronic equipment); with voiding pres-",1.24,,37/63
+,51729,"sure studies (ie, bladder voiding pressure), any technique Complex cystometrogram (ie, calibrated electronic equipment); with voiding pres- sure studies (ie, bladder voiding pressure) and urethral pressure profile studies",1.26,000 000,37/63
+,51736,"(ie, urethral closure pressure profile), any technique Simple uroflowmetry (UFR) (eg, stop-watch flow rate, mechanical uroflowmeter)",0.3,XXX,85/15
+,51741,"Complex uroflowmetry (eg, calibrated electronic equipment)",0.37,XXX,85/15
+■,51784,"Electromyography studies (EMG) of anal or urethral sphincter, other than needle, any technique",0.66,XXX,85/15
+■,51785,"Needle electromyography studies (EMG) of anal or urethral sphincter, any tech-",0.66,XXX,85/15

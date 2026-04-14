@@ -1,0 +1,35 @@
+Code,Description,Basic Unit
+01756,Anesthesia for open or surgical arthroscopic procedures of the elbow; radical procedures,6
+01758,Anesthesia for open or surgical arthroscopic procedures of the elbow; excision of cyst or tumor of humerus,5
+01760,Anesthesia for open or surgical arthroscopic procedures of the elbow; total elbow replacement,7
+01770,Anesthesia for procedures on arteries of upper arm and elbow; not otherwise specified,6
+01772,Anesthesia for procedures on arteries of upper arm and elbow; embolectomy,6
+01780,Anesthesia for procedures on veins of upper arm and elbow; not otherwise specified,3
+01782,Anesthesia for procedures on veins of upper arm and elbow; phleborrhaphy,4
+01810,"Anesthesia for all procedures on nerves, muscles, tendons, fascia, and bursae of forearm, wrist, and hand",3
+01820,"Anesthesia for all closed procedures on radius, ulna, wrist, or hand bones",3
+01829,Anesthesia for diagnostic arthroscopic procedures on the wrist,3
+01830,"Anesthesia for open or surgical arthroscopic/endoscopic procedures on distal radius, distal ulna, wrist, hand joints; not otherwise specified",3
+01832,"Anesthesia for open or surgical arthroscopic/endoscopic procedures on distal radius, distal ulna, wrist, hand joints; total wrist replacement",6
+01840,"Anesthesia for procedures on arteries of forearm, wrist, and hand; not otherwise specified",6
+01842,"Anesthesia for procedures on arteries of forearm, wrist, and hand; embolectomy",6
+01844,"Anesthesia for vascular shunt, or shunt revision, any type (eg, dialysis)",6
+01850,"Anesthesia for procedures on veins of forearm, wrist, and hand; not otherwise specified",3
+01852,"Anesthesia for procedures on veins of forearm, wrist, and hand; phleborrhaphy",4
+01860,"Anesthesia for forearm, wrist, or hand cast application, removal, or repair",3
+01916,Anesthesia for diagnostic arteriography/venography,5
+01920,Anesthesia for cardiac catheterization including coronary angiography and ventriculography (not to include S wan-Ganz catheter),7
+01922,Anesthesia for non-invasive imaging or radiation therapy,7
+01924,Anesthesia for therapeutic interventional radiological procedures involving the arterial system; not other- wise specified,6
+01925,Anesthesia for therapeutic interventional radiological procedures involving the arterial system; carotid coronary,8
+01926,"Anesthesia for therapeutic interventional radiological procedures involving the arterial system; intracra- nial, intracardiac, or aortic",10
+01930,Anesthesia for therapeutic interventional radiological procedures involving the venous/lymphatic system (not to include access to the central circulation); not otherwise specified,5
+01931,"Anesthesia for therapeutic interventional radiological procedures involving the venous/lymphatic system (not to include access to the central circulation); intrahepatic or portal circulation (eg, transvenous intra- hepatic portosystemic shunt[s] [TIP S ])",7
+01932,Anesthesia for therapeutic interventional radiological procedures involving the venous/lymphatic system (not to include access to the central circulation); intrathoracic or jugular,7
+01933,Anesthesia for therapeutic interventional radiological procedures involving the venous/lymphatic system (not to include access to the central circulation); intracranial,8
+01935,Anesthesia for percutaneous image guided procedures on the spine and spinal cord; diagnostic,5
+01936,Anesthesia for percutaneous image guided procedures on the spine and spinal cord; therapeutic,5
+01951,"Anesthesia for second- and third-degree burn excision or debridement with or without skin grafting, any site, for total body surface area (TB S A) treated during anesthesia and surgery; less than 4% total body sur- face area",3
+01952,"Anesthesia for second- and third-degree burn excision or debridement with or without skin grafting, any site, for total body surface area (TB S A) treated during anesthesia and surgery; between 4%and 9%of total body surface area",5
+01953,"Anesthesia for second- and third-degree burn excision or debridement with or without skin grafting, any site, for total body surface area (TB S A) treated during anesthesia and surgery; each additional 9% total body surface area or part thereof (List separately in addition to code for primary procedure)",1
+01958,Anesthesia for external cephalic version procedure,5

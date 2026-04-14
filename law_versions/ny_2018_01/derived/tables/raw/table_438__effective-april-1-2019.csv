@@ -1,0 +1,18 @@
+Code,,Description Relative Value,FUD,PC/TC Split
+85025,"Blood count; complete (CBC), automated (Hgb, Hct, RBC,WBCand platelet count) and automated differentialWBC count",11.4,XXX,0/100
+85027,"Blood count; complete (CBC), automated (Hgb, Hct, RBC, WBCand platelet count)",10.78,XXX,0/100
+85032,"Blood count; manual cell count (erythrocyte, leukocyte, or platelet) each",9.24,XXX,0/100
+85041,"Blood count; red blood cell (RBC), automated",8.63,XXX,0/100
+85044,"Blood count; reticulocyte, manual",9.24,XXX,0/100
+85045,"Blood count; reticulocyte, automated",8.63,XXX,0/100
+85048,"Blood count; leukocyte (WBC), automated",8.63,XXX,0/100
+85049,"Blood count; platelet, automated",8.63,XXX,0/100
+85345,Coagulation time; Lee and White,6.16,XXX,0/100
+85347,Coagulation time; activated,6.16,XXX,0/100
+85651,"Sedimentation rate, erythrocyte; non-automated",7.7,XXX,0/100
+86430,Rheumatoid factor; qualitative,11.71,XXX,0/100
+87181,"Susceptibility studies, antimicrobial agent; agar dilution method, per agent (eg, antibiotic gradient strip)",10.47,XXX,0/100
+87205,"Smear, primary source with interpretation; Gram or Giemsa stain for bacteria, fungi, or cell types",8.01,XXX,0/100
+87206,"Smear, primary source with interpretation; fluorescent and/or acid fast stain for bacteria, fungi, parasites, viruses or cell types",14.17,XXX,0/100
+89050,"Cell count, miscellaneous body fluids (eg, cerebrospinal fluid, joint fluid), except blood;",9.86,XXX,0/100
+89051,"Cell count, miscellaneous body fluids (eg, cerebrospinal fluid, joint fluid), except",11.71,XXX,0/100

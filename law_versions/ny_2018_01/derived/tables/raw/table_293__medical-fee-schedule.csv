@@ -1,0 +1,34 @@
+Code,Description,Relative Value,FUD,PC/TC Split
+ 86829,"Antibody to human leukocyte antigens (HLA), solid phase assays (eg, micro- spheres or beads, ELISA, Flow cytometry); qualitative assessment of the presence or absence of antibody(ies) to HLA Class I or Class II HLA antigens",57.53,XXX,0/100
+ 86830,"Antibody to human leukocyte antigens (HLA), solid phase assays (eg, micro- spheres or beads, ELISA, Flow cytometry); antibody identification by qualitative panel using complete HLA phenotypes, HLA Class I",89.53,XXX,0/100
+ 86831,"Antibody to human leukocyte antigens (HLA), solid phase assays (eg, micro- spheres or beads, ELISA, Flow cytometry); antibody identification by qualitative panel using complete HLA phenotypes, HLA Class II",76.60,XXX,0/100
+ 86832,"Antibody to human leukocyte antigens (HLA), solid phase assays (eg, micro- spheres or beads, ELISA, Flow cytometry); high definition qualitative panel for identification of antibody specificities (eg, individual antigen per bead methodol- ogy), HLA Class I",290.56,XXX,0/100
+ 86833,"Antibody to human leukocyte antigens (HLA), solid phase assays (eg, micro- spheres or beads, ELISA, Flow cytometry); high definition qualitative panel for identification of antibody specificities (eg, individual antigen per bead methodol- ogy), HLA Class II",292.50,XXX,0/100
+ 86834,"Antibody to human leukocyte antigens (HLA), solid phase assays (eg, micro- spheres or beads, ELISA, Flow cytometry); semi-quantitative panel (eg, titer), HLA Class I",396.24,XXX,0/100
+ 86835,"Antibody to human leukocyte antigens (HLA), solid phase assays (eg, micro- spheres or beads, ELISA, Flow cytometry); semi-quantitative panel (eg, titer), HLA Class II",358.11,XXX,0/100
+86849,Unlisted immunology procedure,BR,XXX,
+86850,"Antibody screen, RBC, each serum technique",12.32,XXX,0/100
+86860,"Antibody elution (RBC), each elution",12.32,XXX,0/100
+86870,"Antibody identification, RBC antibodies, each panel for each serum technique",21.56,XXX,0/100
+86880,"Antihuman globulin test (Coombs test); direct, each antiserum",6.78,XXX,0/100
+86885,"Antihuman globulin test (Coombs test); indirect, qualitative, each reagent red cell",8.63,XXX,0/100
+86886,"Antihuman globulin test (Coombs test); indirect, each antibody titer",11.09,XXX,0/100
+86890,"Autologous blood or component, collection processing and storage; predeposited",49.29,XXX,0/100
+86891,"Autologous blood or component, collection processing and storage; intra- or post- operative salvage",77.01,XXX,0/100
+ 86900,"Blood typing, serologic; ABO",6.78,XXX,0/100
+ 86901,"Blood typing, serologic; Rh (D)",6.16,XXX,0/100
+ 86902,"Blood typing, serologic; antigen testing of donor blood using reagent serum, each antigen test",6.78,XXX,0/100
+ 86904,"Blood typing, serologic; antigen screening for compatible unit using patient serum, per unit screened",9.24,XXX,0/100
+ 86905,"Blood typing, serologic; RBC antigens, other than ABO or Rh (D), each",7.39,XXX,0/100
+ 86906,"Blood typing, serologic; Rh phenotyping, complete",10.47,XXX,0/100
+86910,"Blood typing, for paternity testing, per individual; ABO, Rh andMN",13.55,XXX,0/100
+86911,"Blood typing, for paternity testing, per individual; each additional antigen system",10.47,XXX,0/100
+86920,Compatibility test each unit; immediate spin technique,13.55,XXX,0/100
+86921,Compatibility test each unit; incubation technique,12.32,XXX,0/100
+86922,Compatibility test each unit; antiglobulin technique,7.39,XXX,0/100
+86923,Compatibility test each unit; electronic,15.40,XXX,0/100
+86927,"Fresh frozen plasma, thawing, each unit",6.78,XXX,0/100
+86930,"Frozen blood, each unit; freezing (includes preparation)",61.61,XXX,0/100
+86931,"Frozen blood, each unit; thawing",67.77,XXX,0/100
+86932,"Frozen blood, each unit; freezing (includes preparation) and thawing",73.93,XXX,0/100
+86940,"Hemolysins and agglutinins; auto, screen, each",12.94,XXX,0/100

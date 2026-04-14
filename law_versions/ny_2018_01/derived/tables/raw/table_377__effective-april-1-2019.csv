@@ -1,0 +1,31 @@
+Code,Description,Relative Value,FUD
++ 90785,Interactive complexity (List separately in addition to the code for primary procedure),2.80,ZZZ
+90791,Psychiatric diagnostic evaluation,25.84,XXX
+90792,Psychiatric diagnostic evaluation with medical services,27.75,XXX
+90832,"Psychotherapy, 30 minutes with patient",12.59,XXX
++ 90833,"Psychotherapy, 30 minutes with patient when performed with an evaluation and manage- ment service (List separately in addition to the code for primary procedure)",13.13,ZZZ
+90834,"Psychotherapy, 45 minutes with patient",16.83,XXX
++ 90836,"Psychotherapy, 45 minutes with patient when performed with an evaluation and manage- ment service (List separately in addition to the code for primary procedure)",16.55,ZZZ
+90837,"Psychotherapy, 60 minutes with patient",25.24,XXX
++ 90838,"Psychotherapy, 60 minutes with patient when performed with an evaluation and manage- ment service (List separately in addition to the code for primary procedure)",21.89,ZZZ
+90839,Psychotherapy for crisis; first 60 minutes,26.34,XXX
++ 90840,Psychotherapy for crisis; each additional 30 minutes (List separately in addition to code for primary service),12.59,ZZZ
+90845,Psychoanalysis,16.43,XXX
+90846,"Family psychotherapy (without the patient present), 50 minutes",16.91,XXX
+90847,"Family psychotherapy (conjoint psychotherapy) (with patient present), 50 minutes",20.42,XXX
+90849,Multiple-family group psychotherapy,5.42,XXX
+90853,Group psychotherapy (other than of a multiple-family group),5.42,XXX
+90875,"Individual psychophysiological therapy incorporating biofeedback training by any modality (face-to-face with the patient), with psychotherapy (eg, insight oriented, behavior modifying or supportive psychotherapy); 30 minutes",11.01,XXX
+90876,"Individual psychophysiological therapy incorporating biofeedback training by any modality (face-to-face with the patient), with psychotherapy (eg, insight oriented, behavior modifying or supportive psychotherapy); 45 minutes",17.55,XXX
+90880,Hypnotherapy,20.26,XXX
+90882,"Environmental intervention for medical management purposes on a psychiatric patient's behalf with agencies, employers, or institutions",13.36,XXX
+90885,"Psychiatric evaluation of hospital records, other psychiatric reports, psychometric and/or projective tests, and other accumulated data for medical diagnostic purposes",8.93,XXX
+90887,"Interpretation or explanation of results of psychiatric, other medical examinations and pro- cedures, or other accumulated data to family or other responsible persons, or advising them how to assist patient",13.72,XXX
+90889,"Preparation of report of patient's psychiatric status, history, treatment, or progress (other than for legal or consultative purposes) for other individuals, agencies, or insurance carriers",NC,XXX
+90899,Unlisted psychiatric service or procedure,BR,XXX
+90901,Biofeedback training by any modality,9.81,000
+90911,"Biofeedback training, perineal muscles, anorectal or urethral sphincter, including EMG and/or manometry",16.91,000
+96101,"Psychological testing (includes psychodiagnostic assessment of emotionality, intellectual abilities, personality and psychopathology, eg, MMPI, Rorschach, WAIS), per hour of the psychologist's or physician's time, both face-to-face time administering tests to the patient and time interpreting these test results and preparing the report",24.52,XXX
+96102,"Psychological testing (includes psychodiagnostic assessment of emotionality, intellectual abilities, personality and psychopathology, eg, MMPI and WAIS), with qualified health care professional interpretation and report, administered by technician, per hour of technician time, face-to-face",11.16,XXX
+96103,"Psychological testing (includes psychodiagnostic assessment of emotionality, intellectual abilities, personality and psychopathology, eg, MMPI), administered by a computer, with qualified health care professional interpretation and report",7.10,XXX
+96105,"Assessment of aphasia (includes assessment of expressive and receptive speech and lan- guage function, language comprehension, speech production ability, reading, spelling, writ- ing, eg, by Boston Diagnostic Aphasia Examination) with interpretation and report, per hour",18.50,XXX

@@ -1,0 +1,39 @@
+Code,Description,Relative Value,FUD,PC/TC Split
+72190,"Radiologic examination, pelvis; complete, minimum of 3 views",1.84,XXX,40/60
+72200,"Radiologic examination, sacroiliac joints; less than 3 views",1.53,XXX,40/60
+72220,"Radiologic examination, sacrum and coccyx, minimum of 2 views",1.56,XXX,40/60
+73000,"Radiologic examination; clavicle, complete",1.58,XXX,40/60
+73010,"Radiologic examination; scapula, complete",1.66,XXX,40/60
+73020,"Radiologic examination, shoulder; 1 view",1.40,XXX,40/60
+73030,"Radiologic examination, shoulder; complete, minimum of 2 views",1.79,XXX,40/60
+73050,"Radiologic examination; acromioclavicular joints, bilateral, with or without weighted distraction",1.58,XXX,40/60
+73060,"Radiologic examination; humerus, minimum of 2 views",1.48,XXX,40/60
+73070,"Radiologic examination, elbow; 2 views",1.33,XXX,40/60
+73080,"Radiologic examination, elbow; complete, minimum of 3 views",1.48,XXX,40/60
+73090,"Radiologic examination; forearm, 2 views",1.28,XXX,40/60
+73100,"Radiologic examination, wrist; 2 views",1.17,XXX,40/60
+73110,"Radiologic examination, wrist; complete, minimum of 3 views",1.33,XXX,40/60
+73120,"Radiologic examination, hand; 2 views",1.20,XXX,40/60
+73130,"Radiologic examination, hand; minimum of 3 views",1.33,XXX,40/60
+73140,"Radiologic examination, finger(s), minimum of 2 views",1.01,XXX,40/60
+73501,"Radiologic examination, hip, unilateral, with pelvis when performed; 1 view",1.25,XXX,32/68
+73502,"Radiologic examination, hip, unilateral, with pelvis when performed; 2-3 views",1.73,XXX,27/73
+73503,"Radiologic examination, hip, unilateral, with pelvis when performed; minimum of 4 views",2.15,XXX,28/72
+73521,"Radiologic examination, hips, bilateral, with pelvis when performed; 2 views",1.56,XXX,30/70
+73522,"Radiologic examination, hips, bilateral, with pelvis when performed; 3-4 views",2.04,XXX,31/69
+73523,"Radiologic examination, hips, bilateral, with pelvis when performed; minimum of 5 views",2.36,XXX,29/71
+73551,"Radiologic examination, femur; 1 view",1.17,XXX,30/70
+73552,"Radiologic examination, femur; minimum 2 views",1.37,XXX,29/71
+73560,"Radiologic examination, knee; 1 or 2 views",1.40,XXX,40/60
+73562,"Radiologic examination, knee; 3 views",1.66,XXX,40/60
+73564,"Radiologic examination, knee; complete, 4 or more views",1.86,XXX,40/60
+73565,"Radiologic examination, knee; both knees, standing, anteroposterior",1.40,XXX,40/60
+73590,"Radiologic examination; tibia and fibula, 2 views",1.53,XXX,40/60
+73600,"Radiologic examination, ankle; 2 views",1.38,XXX,40/60
+73610,"Radiologic examination, ankle; complete, minimum of 3 views",1.48,XXX,40/60
+73620,"Radiologic examination, foot; 2 views",1.43,XXX,40/60
+73630,"Radiologic examination, foot; complete, minimum of 3 views",1.48,XXX,40/60
+73650,"Radiologic examination; calcaneus, minimum of 2 views",1.28,XXX,40/60
+73660,"Radiologic examination; toe(s), minimum of 2 views",1.12,XXX,40/60
+76080,"Radiologic examination, abscess, fistula or sinus tract study, radiological supervi- sion and interpretation",2.35,XXX,35/65
+76999,"Unlisted ultrasound procedure (eg, diagnostic, interventional)",BR,XXX,

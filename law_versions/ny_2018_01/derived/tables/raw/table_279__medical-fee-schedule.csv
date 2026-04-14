@@ -1,0 +1,44 @@
+Code,Description,Relative Value,FUD,PC/TC Split
+82554,"Creatine kinase (CK), (CPK); isoforms",21.56,XXX,0/100
+82565,Creatinine; blood,8.01,XXX,0/100
+82570,Creatinine; other source,9.86,XXX,0/100
+82575,Creatinine; clearance,17.87,XXX,0/100
+82585,Cryofibrinogen,12.32,XXX,0/100
+82595,"Cryoglobulin, qualitative or semi-quantitative (eg, cryocrit)",12.32,XXX,0/100
+82600,Cyanide,24.64,XXX,0/100
+82607,Cyanocobalamin (Vitamin B-12);,24.64,XXX,0/100
+82608,Cyanocobalamin (Vitamin B-12); unsaturated binding capacity,28.34,XXX,0/100
+82610,Cystatin C,17.93,XXX,0/100
+82615,"Cystine and homocystine, urine, qualitative",18.48,XXX,0/100
+82626,Dehydroepiandrosterone (DHEA),42.82,XXX,0/100
+82627,Dehydroepiandrosterone-sulfate (DHEA-S),36.97,XXX,0/100
+82633,"Desoxycorticosterone, 11-",49.29,XXX,0/100
+82634,"Deoxycortisol, 11-",43.13,XXX,0/100
+82638,Dibucaine number,17.25,XXX,0/100
+82652,"Vitamin D; 1, 25 dihydroxy, includes fraction(s), if performed",49.29,XXX,0/100
+82656,"Elastase, pancreatic (EL-1), fecal, qualitative or semi-quantitative",15.10,XXX,0/100
+82657,"Enzyme activity in blood cells, cultured cells, or tissue, not elsewhere specified; nonradioactive substrate, each specimen",23.59,XXX,0/100
+82658,"Enzyme activity in blood cells, cultured cells, or tissue, not elsewhere specified; radioactive substrate, each specimen",25.88,XXX,0/100
+82664,"Electrophoretic technique, not elsewhere specified",28.34,XXX,0/100
+82668,Erythropoietin,40.05,XXX,0/100
+82670,Estradiol,28.96,XXX,0/100
+82671,Estrogens; fractionated,51.75,XXX,0/100
+82672,Estrogens; total,36.97,XXX,0/100
+82677,Estriol,26.49,XXX,0/100
+82679,Estrone,40.05,XXX,0/100
+82693,Ethylene glycol,30.81,XXX,0/100
+82696,Etiocholanolone,43.13,XXX,0/100
+82705 82710,"Fat or lipids, feces; qualitative Fat or lipids, feces; quantitative",9.24 34.50,XXX XXX,0/100 0/100
+82715,"Fat differential, feces, quantitative",14.79,XXX,0/100
+82725,"Fatty acids, nonesterified",14.79,XXX,0/100
+,Very long chain fatty,23.59,XXX,0/100
+82726,acids,,,
+82731,"Fetal fibronectin, cervicovaginal secretions, semi-quantitative",22.80,XXX,0/100
+82735,Fluoride,26.49,XXX,0/100
+82746,Folic acid; serum,25.26,XXX,0/100
+82747,Folic acid; RBC,30.19,XXX,0/100
+,"Galactokinase, RBC",,XXX,0/100
+82757 82759,"Fructose, semen",16.02 19.72,XXX,0/100
+82760,,20.33,XXX,0/100
+,Galactose,,XXX,
+82775,Galactose-1-phosphate uridyl transferase; quantitative,25.88,,0/100

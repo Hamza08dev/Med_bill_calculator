@@ -1,0 +1,31 @@
+,Code,Description,Relative Value,FUD,PC/TC Split
+,74182,"Magnetic resonance (eg, proton) imaging, abdomen; with contrast material(s)",19.58,XXX,20/80
+,74183,"Magnetic resonance (eg, proton) imaging, abdomen; without contrast material(s), followed by with contrast material(s) and further sequences",23.49,XXX,20/80
+,74185,"Magnetic resonance angiography, abdomen, with or without contrast material(s)",20.46,XXX,20/80
+,74190,"Peritoneogram (eg, after injection of air or contrast), radiological supervision and interpretation",2.04,XXX,35/65
+,74210,Radiologic examination; pharynx and/or cervical esophagus,2.52,XXX,40/60
+,74220,Radiologic examination; esophagus,2.63,XXX,40/60
+,74230,"Swallowing function, with cineradiography/videoradiography",3.19,XXX,40/60
+,74235,"Removal of foreign body(s), esophageal, with use of balloon catheter, radiological supervision and interpretation",6.38,XXX,35/65
+,74240,"Radiologic examination, gastrointestinal tract, upper; with or without delayed images, without KUB",3.52,XXX,40/60
+,74241,"Radiologic examination, gastrointestinal tract, upper; with or without delayed images, with KUB",3.54,XXX,40/60
+,74245,"Radiologic examination, gastrointestinal tract, upper; with small intestine, includes multiple serial images",5.74,XXX,40/60
+,74246,"Radiological examination, gastrointestinal tract, upper, air contrast, with specific high density barium, effervescent agent, with or without glucagon; with or without delayed images, without KUB",3.77,XXX,40/60
+,74247,"Radiological examination, gastrointestinal tract, upper, air contrast, with specific high density barium, effervescent agent, with or without glucagon; with or without delayed images, with KUB",3.95,XXX,40/60
+,74249,"Radiological examination, gastrointestinal tract, upper, air contrast, with specific high density barium, effervescent agent, with or without glucagon; with small intestine follow-through",5.87,XXX,40/60
+,74250,"Radiologic examination, small intestine, includes multiple serial images;",2.93,XXX,40/60
+,74251,"Radiologic examination, small intestine, includes multiple serial images; via enteroclysis tube",3.39,XXX,40/60
+,74260,"Duodenography, hypotonic",3.42,XXX,40/60
+,74261,"Computed tomographic (CT) colonography, diagnostic, including image postpro- cessing; without contrast material",13.4,XXX,21/79
+,74262,"Computed tomographic (CT) colonography, diagnostic, including image postpro- cessing; with contrast material(s) including non-contrast images, if performed",15.19,XXX,18/82
+,74263,"Computed tomographic (CT) colonography, screening, including image postpro- cessing",16.08,XXX,16/84
+,74270,"Radiologic examination, colon; contrast (eg, barium) enema, with or without KUB",4.13,XXX,40/60
+,74280,"Radiologic examination, colon; air contrast with specific high density barium, with or without glucagon",5.41,XXX,40/60
+,74283,"Therapeutic enema, contrast or air, for reduction of intussusception or other intra- luminal obstruction (eg, meconium ileus)",6.22,XXX,40/60
+,74290,"Cholecystography, oral contrast",2.12,XXX,40/60
+,74300,"Cholangiography and/or pancreatography; intraoperative, radiological supervision and interpretation",2.55,XXX,35/65
++,74301,"Cholangiography and/or pancreatography; additional set intraoperative, radiologi- cal supervision and interpretation (List separately in addition to code for primary procedure)",1.45,ZZZ,35/65
+,74328,"Endoscopic catheterization of the biliary ductal system, radiological supervision and interpretation",7.06,XXX,35/65
+,74329,"Endoscopic catheterization of the pancreatic ductal system, radiological supervi- sion and interpretation",7.04,XXX,35/65
+,74330,"Combined endoscopic catheterization of the biliary and pancreatic ductal sys- tems, radiological supervision and interpretation",7.47,XXX,35/65
+,74340,"Introduction of long gastrointestinal tube (eg, Miller-Abbott), including multiple flu- oroscopies and images, radiological supervision and interpretation",3.83,XXX,35/65

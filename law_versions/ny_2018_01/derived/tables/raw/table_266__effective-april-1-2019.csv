@@ -1,0 +1,28 @@
+,Code,Description,Relative Value,FUD,PC/TC Split
+80428,"Growth hormone stimulation panel (eg, arginine infusion, l-dopa administration)",77.01,XXX,,0/100
+80430,Growth hormone suppression panel (glucose administration),,93.65,XXX,0/100
+80432,Insulin-induced C-peptide suppression panel,,166.96,XXX,0/100
+80434,Insulin tolerance panel; for ACTH insufficiency,,110.90,XXX,0/100
+80435,Insulin tolerance panel; for growth hormone deficiency This panel must include the following: Glucose (82947 x 5) Human growth hormone (HGH) (83003 x 5),117.68,,XXX,0/100
+80436,Metyrapone panel,108.43,,XXX,0/100
+80438,Thyrotropin releasing hormone (TRH) stimulation panel; 1 hour,51.75,,XXX,0/100
+80439,Thyrotropin releasing hormone (TRH) stimulation panel; 2 hour This panel must include the following: Thyroid stimulating hormone (TSH) (84443 x 4),,64.69,XXX,0/100
+80500,"Clinical pathology consultation; limited, without review of patient's history and medical records",,25.26,XXX,
+80502,"Clinical pathology consultation; comprehensive, for a complex diagnostic prob- lem, with review of patient's history and medical records",49.29,,XXX,
+81000,"Urinalysis, by dip stick or tablet reagent for bilirubin, glucose, hemoglobin, ketones, leukocytes, nitrite, pH, protein, specific gravity, urobilinogen, any number of these constituents; non-automated, with microscopy",7.09,,XXX,0/100
+81001,"Urinalysis, by dip stick or tablet reagent for bilirubin, glucose, hemoglobin, ketones, leukocytes, nitrite, pH, protein, specific gravity, urobilinogen, any number of these constituents; automated, with microscopy",,7.09,XXX,0/100
+81002,"Urinalysis, by dip stick or tablet reagent for bilirubin, glucose, hemoglobin, ketones, leukocytes, nitrite, pH, protein, specific gravity, urobilinogen, any number of these constituents; non-automated, without microscopy",5.54,,XXX,0/100
+81003,"Urinalysis, by dip stick or tablet reagent for bilirubin, glucose, hemoglobin, ketones, leukocytes, nitrite, pH, protein, specific gravity, urobilinogen, any of these constituents; automated, without microscopy",number,5.54,XXX,0/100
+81005,"Urinalysis; qualitative or semiquantitative, except immunoassays",4.93,,XXX,0/100
+81007,"Urinalysis; bacteriuria screen, except by culture or dipstick",7.39,,XXX,0/100
+81015,Urinalysis; microscopic only,5.54,,XXX,0/100
+81020,Urinalysis; 2 or 3 glass test,,6.78,XXX,0/100
+81025,"Urine pregnancy test, by visual color comparison methods",,10.47,XXX,0/100
+81050,Volume,"measurement for timed collection, each",4.93,XXX,0/100
+81099,Unlisted urinalysis procedure,,BR,XXX,
+81105,"Human Platelet Antigen 1 genotyping (HPA-1), ITGB3 (integrin, beta 3 [platelet gly- coprotein IIIa], antigen CD61 [GPIIIa]) (eg, neonatal alloimmune thrombocytopenia [NAIT], post-transfusion purpura), gene analysis, common variant, HPA-1a/b (L33P)",135.42,,XXX,0/100
+81106,"Human Platelet Antigen 2 genotyping (HPA-2), GP1BA (glycoprotein Ib [platelet], alpha polypeptide [GPIba]) (eg, neonatal alloimmune thrombocytopenia [NAIT], post-transfusion purpura), gene analysis, common variant, HPA-2a/b (T145M)",,135.42,XXX,0/100
+81107,"Human Platelet Antigen 3 genotyping (HPA-3), ITGA2B (integrin, alpha 2b [platelet glycoprotein IIb of IIb/IIIa complex], antigen CD41 [GPIIb]) (eg, neonatal alloim- mune thrombocytopenia [NAIT], post-transfusion purpura), gene analysis, com- mon variant, HPA-3a/b (I843S)",,135.42,XXX,0/100
+81108,"Human Platelet Antigen 4 genotyping (HPA-4), ITGB3 (integrin, beta 3 [platelet gly- coprotein IIIa], antigen CD61 [GPIIIa]) (eg, neonatal alloimmune thrombocytopenia [NAIT], post-transfusion purpura), gene analysis, common variant, HPA-4a/b (R143Q)",,135.42,XXX,0/100
+81109,"Human Platelet Antigen 5 genotyping (HPA-5), ITGA2 (integrin, alpha 2 [CD49B, alpha 2 subunit of VLA-2 receptor] [GPIa]) (eg, neonatal alloimmune thrombocyto- penia [NAIT], post-transfusion purpura), gene analysis, common variant (eg, HPA-5a/b (K505E))",,135.42,XXX,0/100
+81110,"Human Platelet Antigen 6 genotyping (HPA-6w), ITGB3 (integrin, beta 3 [platelet glycoprotein IIIa, antigen CD61] [GPIIIa]) (eg, neonatal alloimmune thrombocyto- penia [NAIT], post-transfusion purpura), gene analysis, commonvariant, HPA-6a/b (R489Q)",,135.42,XXX,0/100

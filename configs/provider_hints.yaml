@@ -1,0 +1,37 @@
+# configs/provider_hints.yaml
+provider_type_keywords:
+  chiropractic:
+    - "chiropractic"
+    - "chiropractor"
+    - "d.c."
+    - "doctor of chiropractic"
+  podiatry:
+    - "podiatry"
+    - "podiatrist"
+    - "d.p.m."
+  behavioural:
+    - "behavioral"
+    - "psychology"
+    - "psychiatry"
+  medical:
+    - "m.d."
+    - "d.o."
+    - "medical"
+role_tokens:
+  np: ["NP", "N.P.", "NURSE PRACTITIONER"]
+  pa: ["PA", "P.A.", "PHYSICIAN ASSISTANT"]
+  md: ["MD", "M.D."]
+  do: ["DO", "D.O."]
+  dc: ["DC", "D.C."]
+  dpm: ["DPM", "D.P.M."]
+modifier_aliases:
+  "59": ["59", "-59", " -59 ", "59 modifier"]
+  "25": ["25", "-25", " -25 ", "25 modifier"]
+  "26": ["26", "-26", " -26 "]
+  "TC": ["TC", "T.C."]
+  "76": ["76"]
+  "77": ["77"]
+  "XS": ["XS"]
+  "XE": ["XE"]
+  "XP": ["XP"]
+  "XU": ["XU"]

@@ -1,0 +1,539 @@
+2025-10-11 20:27:51,034 [INFO] [calc] 1359-0425 -> kg_calc.json already present; skipping calc.
+2025-10-11 20:28:26,440 [INFO] [calc] 1359-0425 -> running subprocess scripts/calc_runner.py 0425 …
+2025-10-11 20:28:41,379 [INFO] [calc] 1359-0425 -> kg_calc.json created.
+2025-10-11 20:30:48,251 [INFO] [calc] 1359-0425 -> running subprocess scripts/calc_runner.py 0425 …
+2025-10-11 20:30:54,850 [INFO] [calc] 1359-0425 -> kg_calc.json created.
+2025-10-21 20:26:39,526 [INFO] [calc] 1359-0425 -> kg_calc.json already present; skipping calc.
+2025-10-21 20:26:57,908 [INFO] [calc] 1359-0425 -> kg_calc.json already present; skipping calc.
+2025-10-21 20:29:16,705 [INFO] [calc] 1375-4469 -> running subprocess scripts/calc_runner.py 4469 …
+2025-10-21 20:29:28,670 [INFO] [calc] 1375-4469 -> kg_calc.json created.
+2025-10-21 20:30:11,808 [INFO] [calc] 1381-3473 -> running subprocess scripts/calc_runner.py 3473 …
+2025-10-21 20:30:13,931 [INFO] [calc] 1381-3473 -> kg_calc.json created.
+2025-10-21 20:39:17,082 [INFO] [calc] 1381-3473 -> running subprocess scripts/calc_runner.py 3473 …
+2025-10-21 20:39:22,393 [INFO] [calc] 1381-3473 -> kg_calc.json created.
+2025-10-21 20:42:37,538 [INFO] [calc] 1381-3473 -> running subprocess scripts/calc_runner.py 3473 …
+2025-10-21 20:42:39,731 [INFO] [calc] 1381-3473 -> kg_calc.json created.
+2025-11-25 18:51:02,216 [ERROR] [case_calc] KG calculation failed for 13838582: {neo4j_code: Neo.ClientError.Security.Unauthorized} {message: The client is unauthorized due to authentication failure.} {gql_status: 50N42} {gql_status_description: error: general processing exception - unexpected error. Unexpected error has occurred. See debug log for details.}
+Traceback (most recent call last):
+  File "C:\Users\Hamza\Desktop\legal_ai_test\fee-schedule-kag\main_asgi.py", line 511, in calculate_case_kg
+    ensure_kg_initialized(driver, data_dir)
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\Desktop\legal_ai_test\fee-schedule-kag\scripts\batch_calc_case_extracts.py", line 119, in ensure_kg_initialized
+    setup_knowledge_graph(driver, str(full_data_dir))
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\Desktop\legal_ai_test\fee-schedule-kag\src\kg\graph_builder.py", line 10, in setup_knowledge_graph
+    session.run("MATCH (n) DETACH DELETE n")
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\work\session.py", line 305, in run
+    self._connect(self._config.default_access_mode)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\work\session.py", line 126, in _connect
+    super()._connect(
+    ~~~~~~~~~~~~~~~~^
+        access_mode, auth=self._config.auth, **acquire_kwargs
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\work\workspace.py", line 181, in _connect
+    self._connection = self._pool.acquire(**acquire_kwargs_)
+                       ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_pool.py", line 678, in acquire
+    return self._acquire(
+           ~~~~~~~~~~~~~^
+        self.address, auth, deadline, liveness_check_timeout, unprepared
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_pool.py", line 418, in _acquire
+    return connection_creator()
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_pool.py", line 231, in connection_creator
+    connection = self.opener(
+        address, auth or self.pool_config.auth, deadline
+    )
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_pool.py", line 638, in opener
+    return Bolt.open(
+           ~~~~~~~~~^
+        addr,
+        ^^^^^
+    ...<3 lines>...
+        pool_config=pool_config,
+        ^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_bolt.py", line 424, in open
+    connection.hello()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_bolt5.py", line 735, in hello
+    self.fetch_all()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_bolt.py", line 881, in fetch_all
+    detail_delta, summary_delta = self.fetch_message()
+                                  ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_bolt.py", line 866, in fetch_message
+    res = self._process_message(tag, fields)
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_bolt5.py", line 1202, in _process_message
+    response.on_failure(summary_metadata or {})
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_common.py", line 303, in on_failure
+    raise self._hydrate_error(metadata)
+neo4j.exceptions.AuthError: {neo4j_code: Neo.ClientError.Security.Unauthorized} {message: The client is unauthorized due to authentication failure.} {gql_status: 50N42} {gql_status_description: error: general processing exception - unexpected error. Unexpected error has occurred. See debug log for details.}
+2025-11-25 18:56:33,865 [ERROR] [case_calc] KG calculation failed for 13838582: {neo4j_code: Neo.ClientError.Security.Unauthorized} {message: The client is unauthorized due to authentication failure.} {gql_status: 50N42} {gql_status_description: error: general processing exception - unexpected error. Unexpected error has occurred. See debug log for details.}
+Traceback (most recent call last):
+  File "C:\Users\Hamza\Desktop\legal_ai_test\fee-schedule-kag\main_asgi.py", line 511, in calculate_case_kg
+    ensure_kg_initialized(driver, data_dir)
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\Desktop\legal_ai_test\fee-schedule-kag\scripts\batch_calc_case_extracts.py", line 119, in ensure_kg_initialized
+    setup_knowledge_graph(driver, str(full_data_dir))
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\Desktop\legal_ai_test\fee-schedule-kag\src\kg\graph_builder.py", line 10, in setup_knowledge_graph
+    session.run("MATCH (n) DETACH DELETE n")
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\work\session.py", line 305, in run
+    self._connect(self._config.default_access_mode)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\work\session.py", line 126, in _connect
+    super()._connect(
+    ~~~~~~~~~~~~~~~~^
+        access_mode, auth=self._config.auth, **acquire_kwargs
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\work\workspace.py", line 181, in _connect
+    self._connection = self._pool.acquire(**acquire_kwargs_)
+                       ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_pool.py", line 678, in acquire
+    return self._acquire(
+           ~~~~~~~~~~~~~^
+        self.address, auth, deadline, liveness_check_timeout, unprepared
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_pool.py", line 418, in _acquire
+    return connection_creator()
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_pool.py", line 231, in connection_creator
+    connection = self.opener(
+        address, auth or self.pool_config.auth, deadline
+    )
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_pool.py", line 638, in opener
+    return Bolt.open(
+           ~~~~~~~~~^
+        addr,
+        ^^^^^
+    ...<3 lines>...
+        pool_config=pool_config,
+        ^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_bolt.py", line 424, in open
+    connection.hello()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_bolt5.py", line 735, in hello
+    self.fetch_all()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_bolt.py", line 881, in fetch_all
+    detail_delta, summary_delta = self.fetch_message()
+                                  ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_bolt.py", line 866, in fetch_message
+    res = self._process_message(tag, fields)
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_bolt5.py", line 1202, in _process_message
+    response.on_failure(summary_metadata or {})
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_common.py", line 303, in on_failure
+    raise self._hydrate_error(metadata)
+neo4j.exceptions.AuthError: {neo4j_code: Neo.ClientError.Security.Unauthorized} {message: The client is unauthorized due to authentication failure.} {gql_status: 50N42} {gql_status_description: error: general processing exception - unexpected error. Unexpected error has occurred. See debug log for details.}
+2025-11-25 19:12:43,679 [ERROR] [batch_calc] Failed: Failed to initialize FeeEngine: {neo4j_code: Neo.ClientError.Security.Unauthorized} {message: The client is unauthorized due to authentication failure.} {gql_status: 42NFF} {gql_status_description: error: syntax error or access rule violation - permission/access denied. Access denied, see the security logs for details.}
+Traceback (most recent call last):
+  File "C:\Users\Hamza\Desktop\legal_ai_test\fee-schedule-kag\main_asgi.py", line 292, in _run_batch_calculations
+    ensure_kg_initialized(driver, data_dir)
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\Desktop\legal_ai_test\fee-schedule-kag\scripts\batch_calc_case_extracts.py", line 119, in ensure_kg_initialized
+    setup_knowledge_graph(driver, str(full_data_dir))
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\Desktop\legal_ai_test\fee-schedule-kag\src\kg\graph_builder.py", line 10, in setup_knowledge_graph
+    session.run("MATCH (n) DETACH DELETE n")
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\work\session.py", line 305, in run
+    self._connect(self._config.default_access_mode)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\work\session.py", line 126, in _connect
+    super()._connect(
+    ~~~~~~~~~~~~~~~~^
+        access_mode, auth=self._config.auth, **acquire_kwargs
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\work\workspace.py", line 181, in _connect
+    self._connection = self._pool.acquire(**acquire_kwargs_)
+                       ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_pool.py", line 678, in acquire
+    return self._acquire(
+           ~~~~~~~~~~~~~^
+        self.address, auth, deadline, liveness_check_timeout, unprepared
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_pool.py", line 418, in _acquire
+    return connection_creator()
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_pool.py", line 231, in connection_creator
+    connection = self.opener(
+        address, auth or self.pool_config.auth, deadline
+    )
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_pool.py", line 638, in opener
+    return Bolt.open(
+           ~~~~~~~~~^
+        addr,
+        ^^^^^
+    ...<3 lines>...
+        pool_config=pool_config,
+        ^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_bolt.py", line 424, in open
+    connection.hello()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_bolt6.py", line 185, in hello
+    self.fetch_all()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_bolt.py", line 881, in fetch_all
+    detail_delta, summary_delta = self.fetch_message()
+                                  ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_bolt.py", line 866, in fetch_message
+    res = self._process_message(tag, fields)
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_bolt6.py", line 548, in _process_message
+    response.on_failure(summary_metadata or {})
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_common.py", line 303, in on_failure
+    raise self._hydrate_error(metadata)
+neo4j.exceptions.AuthError: {neo4j_code: Neo.ClientError.Security.Unauthorized} {message: The client is unauthorized due to authentication failure.} {gql_status: 42NFF} {gql_status_description: error: syntax error or access rule violation - permission/access denied. Access denied, see the security logs for details.}
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Hamza\Desktop\legal_ai_test\fee-schedule-kag\main_asgi.py", line 445, in run_batch_calculations
+    result = await asyncio.to_thread(_run_batch_calculations, cfg)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\asyncio\threads.py", line 25, in to_thread
+    return await loop.run_in_executor(None, func_call)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\concurrent\futures\thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\Hamza\Desktop\legal_ai_test\fee-schedule-kag\main_asgi.py", line 300, in _run_batch_calculations
+    raise RuntimeError(f"Failed to initialize FeeEngine: {exc}") from exc
+RuntimeError: Failed to initialize FeeEngine: {neo4j_code: Neo.ClientError.Security.Unauthorized} {message: The client is unauthorized due to authentication failure.} {gql_status: 42NFF} {gql_status_description: error: syntax error or access rule violation - permission/access denied. Access denied, see the security logs for details.}
+2025-11-25 19:18:02,580 [ERROR] [batch_calc] Failed: Failed to initialize FeeEngine: {neo4j_code: Neo.ClientError.Security.Unauthorized} {message: The client is unauthorized due to authentication failure.} {gql_status: 42NFF} {gql_status_description: error: syntax error or access rule violation - permission/access denied. Access denied, see the security logs for details.}
+Traceback (most recent call last):
+  File "C:\Users\Hamza\Desktop\legal_ai_test\fee-schedule-kag\main_asgi.py", line 292, in _run_batch_calculations
+    ensure_kg_initialized(driver, data_dir)
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\Desktop\legal_ai_test\fee-schedule-kag\scripts\batch_calc_case_extracts.py", line 119, in ensure_kg_initialized
+    setup_knowledge_graph(driver, str(full_data_dir))
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\Desktop\legal_ai_test\fee-schedule-kag\src\kg\graph_builder.py", line 10, in setup_knowledge_graph
+    session.run("MATCH (n) DETACH DELETE n")
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\work\session.py", line 305, in run
+    self._connect(self._config.default_access_mode)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\work\session.py", line 126, in _connect
+    super()._connect(
+    ~~~~~~~~~~~~~~~~^
+        access_mode, auth=self._config.auth, **acquire_kwargs
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\work\workspace.py", line 181, in _connect
+    self._connection = self._pool.acquire(**acquire_kwargs_)
+                       ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_pool.py", line 678, in acquire
+    return self._acquire(
+           ~~~~~~~~~~~~~^
+        self.address, auth, deadline, liveness_check_timeout, unprepared
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_pool.py", line 418, in _acquire
+    return connection_creator()
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_pool.py", line 231, in connection_creator
+    connection = self.opener(
+        address, auth or self.pool_config.auth, deadline
+    )
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_pool.py", line 638, in opener
+    return Bolt.open(
+           ~~~~~~~~~^
+        addr,
+        ^^^^^
+    ...<3 lines>...
+        pool_config=pool_config,
+        ^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_bolt.py", line 424, in open
+    connection.hello()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_bolt6.py", line 185, in hello
+    self.fetch_all()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_bolt.py", line 881, in fetch_all
+    detail_delta, summary_delta = self.fetch_message()
+                                  ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_bolt.py", line 866, in fetch_message
+    res = self._process_message(tag, fields)
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_bolt6.py", line 548, in _process_message
+    response.on_failure(summary_metadata or {})
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_common.py", line 303, in on_failure
+    raise self._hydrate_error(metadata)
+neo4j.exceptions.AuthError: {neo4j_code: Neo.ClientError.Security.Unauthorized} {message: The client is unauthorized due to authentication failure.} {gql_status: 42NFF} {gql_status_description: error: syntax error or access rule violation - permission/access denied. Access denied, see the security logs for details.}
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Hamza\Desktop\legal_ai_test\fee-schedule-kag\main_asgi.py", line 445, in run_batch_calculations
+    LOG_DIR,
+         ^^^
+  File "C:\Python313\Lib\asyncio\threads.py", line 25, in to_thread
+    return await loop.run_in_executor(None, func_call)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\concurrent\futures\thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\Hamza\Desktop\legal_ai_test\fee-schedule-kag\main_asgi.py", line 300, in _run_batch_calculations
+    raise RuntimeError(f"Failed to initialize FeeEngine: {exc}") from exc
+RuntimeError: Failed to initialize FeeEngine: {neo4j_code: Neo.ClientError.Security.Unauthorized} {message: The client is unauthorized due to authentication failure.} {gql_status: 42NFF} {gql_status_description: error: syntax error or access rule violation - permission/access denied. Access denied, see the security logs for details.}
+2025-11-25 19:19:15,929 [ERROR] [batch_calc] Failed: Failed to initialize FeeEngine: {neo4j_code: Neo.ClientError.Security.AuthenticationRateLimit} {message: The client has provided incorrect authentication details too many times in a row.} {gql_status: 42NFF} {gql_status_description: error: syntax error or access rule violation - permission/access denied. Access denied, see the security logs for details.}
+Traceback (most recent call last):
+  File "C:\Users\Hamza\Desktop\legal_ai_test\fee-schedule-kag\main_asgi.py", line 292, in _run_batch_calculations
+    ensure_kg_initialized(driver, data_dir)
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\Desktop\legal_ai_test\fee-schedule-kag\scripts\batch_calc_case_extracts.py", line 119, in ensure_kg_initialized
+    setup_knowledge_graph(driver, str(full_data_dir))
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\Desktop\legal_ai_test\fee-schedule-kag\src\kg\graph_builder.py", line 10, in setup_knowledge_graph
+    session.run("MATCH (n) DETACH DELETE n")
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\work\session.py", line 305, in run
+    self._connect(self._config.default_access_mode)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\work\session.py", line 126, in _connect
+    super()._connect(
+    ~~~~~~~~~~~~~~~~^
+        access_mode, auth=self._config.auth, **acquire_kwargs
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\work\workspace.py", line 181, in _connect
+    self._connection = self._pool.acquire(**acquire_kwargs_)
+                       ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_pool.py", line 678, in acquire
+    return self._acquire(
+           ~~~~~~~~~~~~~^
+        self.address, auth, deadline, liveness_check_timeout, unprepared
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_pool.py", line 418, in _acquire
+    return connection_creator()
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_pool.py", line 231, in connection_creator
+    connection = self.opener(
+        address, auth or self.pool_config.auth, deadline
+    )
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_pool.py", line 638, in opener
+    return Bolt.open(
+           ~~~~~~~~~^
+        addr,
+        ^^^^^
+    ...<3 lines>...
+        pool_config=pool_config,
+        ^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_bolt.py", line 424, in open
+    connection.hello()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_bolt6.py", line 185, in hello
+    self.fetch_all()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_bolt.py", line 881, in fetch_all
+    detail_delta, summary_delta = self.fetch_message()
+                                  ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_bolt.py", line 866, in fetch_message
+    res = self._process_message(tag, fields)
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_bolt6.py", line 548, in _process_message
+    response.on_failure(summary_metadata or {})
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_common.py", line 303, in on_failure
+    raise self._hydrate_error(metadata)
+neo4j.exceptions.ClientError: {neo4j_code: Neo.ClientError.Security.AuthenticationRateLimit} {message: The client has provided incorrect authentication details too many times in a row.} {gql_status: 42NFF} {gql_status_description: error: syntax error or access rule violation - permission/access denied. Access denied, see the security logs for details.}
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Hamza\Desktop\legal_ai_test\fee-schedule-kag\main_asgi.py", line 460, in run_batch_calculations
+    result = await asyncio.to_thread(_run_batch_calculations, cfg)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\asyncio\threads.py", line 25, in to_thread
+    return await loop.run_in_executor(None, func_call)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\concurrent\futures\thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\Hamza\Desktop\legal_ai_test\fee-schedule-kag\main_asgi.py", line 300, in _run_batch_calculations
+    raise RuntimeError(f"Failed to initialize FeeEngine: {exc}") from exc
+RuntimeError: Failed to initialize FeeEngine: {neo4j_code: Neo.ClientError.Security.AuthenticationRateLimit} {message: The client has provided incorrect authentication details too many times in a row.} {gql_status: 42NFF} {gql_status_description: error: syntax error or access rule violation - permission/access denied. Access denied, see the security logs for details.}
+2025-11-25 19:27:10,047 [ERROR] [batch_calc] Failed: Failed to initialize FeeEngine: {neo4j_code: Neo.ClientError.Security.Unauthorized} {message: The client is unauthorized due to authentication failure.} {gql_status: 42NFF} {gql_status_description: error: syntax error or access rule violation - permission/access denied. Access denied, see the security logs for details.}
+Traceback (most recent call last):
+  File "C:\Users\Hamza\Desktop\legal_ai_test\fee-schedule-kag\main_asgi.py", line 292, in _run_batch_calculations
+    ensure_kg_initialized(driver, data_dir)
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\Desktop\legal_ai_test\fee-schedule-kag\scripts\batch_calc_case_extracts.py", line 119, in ensure_kg_initialized
+    setup_knowledge_graph(driver, str(full_data_dir))
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\Desktop\legal_ai_test\fee-schedule-kag\src\kg\graph_builder.py", line 10, in setup_knowledge_graph
+    session.run("MATCH (n) DETACH DELETE n")
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\work\session.py", line 305, in run
+    self._connect(self._config.default_access_mode)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\work\session.py", line 126, in _connect
+    super()._connect(
+    ~~~~~~~~~~~~~~~~^
+        access_mode, auth=self._config.auth, **acquire_kwargs
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\work\workspace.py", line 181, in _connect
+    self._connection = self._pool.acquire(**acquire_kwargs_)
+                       ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_pool.py", line 678, in acquire
+    return self._acquire(
+           ~~~~~~~~~~~~~^
+        self.address, auth, deadline, liveness_check_timeout, unprepared
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_pool.py", line 418, in _acquire
+    return connection_creator()
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_pool.py", line 231, in connection_creator
+    connection = self.opener(
+        address, auth or self.pool_config.auth, deadline
+    )
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_pool.py", line 638, in opener
+    return Bolt.open(
+           ~~~~~~~~~^
+        addr,
+        ^^^^^
+    ...<3 lines>...
+        pool_config=pool_config,
+        ^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_bolt.py", line 424, in open
+    connection.hello()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_bolt6.py", line 185, in hello
+    self.fetch_all()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_bolt.py", line 881, in fetch_all
+    detail_delta, summary_delta = self.fetch_message()
+                                  ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_bolt.py", line 866, in fetch_message
+    res = self._process_message(tag, fields)
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_bolt6.py", line 548, in _process_message
+    response.on_failure(summary_metadata or {})
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_common.py", line 303, in on_failure
+    raise self._hydrate_error(metadata)
+neo4j.exceptions.AuthError: {neo4j_code: Neo.ClientError.Security.Unauthorized} {message: The client is unauthorized due to authentication failure.} {gql_status: 42NFF} {gql_status_description: error: syntax error or access rule violation - permission/access denied. Access denied, see the security logs for details.}
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Hamza\Desktop\legal_ai_test\fee-schedule-kag\main_asgi.py", line 478, in run_batch_calculations
+    result = await asyncio.to_thread(_run_batch_calculations, cfg)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\asyncio\threads.py", line 25, in to_thread
+    return await loop.run_in_executor(None, func_call)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\concurrent\futures\thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\Hamza\Desktop\legal_ai_test\fee-schedule-kag\main_asgi.py", line 300, in _run_batch_calculations
+    raise RuntimeError(f"Failed to initialize FeeEngine: {exc}") from exc
+RuntimeError: Failed to initialize FeeEngine: {neo4j_code: Neo.ClientError.Security.Unauthorized} {message: The client is unauthorized due to authentication failure.} {gql_status: 42NFF} {gql_status_description: error: syntax error or access rule violation - permission/access denied. Access denied, see the security logs for details.}
+2025-11-25 19:36:12,863 [INFO] [health] Neo4j config - URI: bolt://localhost:7687, User: neo4j, Password length: 8
+2025-11-25 19:36:15,654 [ERROR] [health] Neo4j connection failed: Failed to connect to Neo4j at bolt://localhost:7687 as user 'neo4j': {neo4j_code: Neo.ClientError.Security.Unauthorized} {message: The client is unauthorized due to authentication failure.} {gql_status: 42NFF} {gql_status_description: error: syntax error or access rule violation - permission/access denied. Access denied, see the security logs for details.}
+Traceback (most recent call last):
+  File "C:\Users\Hamza\Desktop\legal_ai_test\fee-schedule-kag\scripts\batch_calc_case_extracts.py", line 90, in connect_driver
+    driver.verify_connectivity()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\driver.py", line 1060, in verify_connectivity
+    self._get_server_info(session_config)
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\driver.py", line 1289, in _get_server_info
+    return session._get_server_info()
+           ~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\work\session.py", line 173, in _get_server_info
+    self._connect(
+    ~~~~~~~~~~~~~^
+        READ_ACCESS, liveness_check_timeout=0, unprepared=True
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\work\session.py", line 126, in _connect
+    super()._connect(
+    ~~~~~~~~~~~~~~~~^
+        access_mode, auth=self._config.auth, **acquire_kwargs
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\work\workspace.py", line 181, in _connect
+    self._connection = self._pool.acquire(**acquire_kwargs_)
+                       ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_pool.py", line 678, in acquire
+    return self._acquire(
+           ~~~~~~~~~~~~~^
+        self.address, auth, deadline, liveness_check_timeout, unprepared
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_pool.py", line 418, in _acquire
+    return connection_creator()
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_pool.py", line 231, in connection_creator
+    connection = self.opener(
+        address, auth or self.pool_config.auth, deadline
+    )
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_pool.py", line 638, in opener
+    return Bolt.open(
+           ~~~~~~~~~^
+        addr,
+        ^^^^^
+    ...<3 lines>...
+        pool_config=pool_config,
+        ^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_bolt.py", line 424, in open
+    connection.hello()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_bolt6.py", line 185, in hello
+    self.fetch_all()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_bolt.py", line 881, in fetch_all
+    detail_delta, summary_delta = self.fetch_message()
+                                  ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_bolt.py", line 866, in fetch_message
+    res = self._process_message(tag, fields)
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_bolt6.py", line 548, in _process_message
+    response.on_failure(summary_metadata or {})
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hamza\AppData\Roaming\Python\Python313\site-packages\neo4j\_sync\io\_common.py", line 303, in on_failure
+    raise self._hydrate_error(metadata)
+neo4j.exceptions.AuthError: {neo4j_code: Neo.ClientError.Security.Unauthorized} {message: The client is unauthorized due to authentication failure.} {gql_status: 42NFF} {gql_status_description: error: syntax error or access rule violation - permission/access denied. Access denied, see the security logs for details.}
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Hamza\Desktop\legal_ai_test\fee-schedule-kag\main_asgi.py", line 365, in health
+    driver = connect_driver(neo_cfg)
+  File "C:\Users\Hamza\Desktop\legal_ai_test\fee-schedule-kag\scripts\batch_calc_case_extracts.py", line 96, in connect_driver
+    raise RuntimeError(error_msg) from e
+RuntimeError: Failed to connect to Neo4j at bolt://localhost:7687 as user 'neo4j': {neo4j_code: Neo.ClientError.Security.Unauthorized} {message: The client is unauthorized due to authentication failure.} {gql_status: 42NFF} {gql_status_description: error: syntax error or access rule violation - permission/access denied. Access denied, see the security logs for details.}
+2025-11-25 19:39:04,546 [INFO] [health] Neo4j config - URI: bolt://localhost:7687, User: neo4j, Password length: 13
+2025-11-25 19:39:04,634 [INFO] [health] Neo4j connection successful

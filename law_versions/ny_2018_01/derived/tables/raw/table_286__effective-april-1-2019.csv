@@ -1,0 +1,43 @@
+Code,Description,BR Relative Value FUD,,PC/TC Split
+84999,Unlisted chemistry procedure,XXX,,
+85002,Bleeding time,12.94,XXX,0/100
+85004,Blood count; automated differential WBCcount,9.24,XXX,0/100
+85007,"Blood count; blood smear, microscopic examination with manual differentialWBC count",7.39,XXX,0/100
+85008,"Blood count; blood smear, microscopic examination without manual differential WBCcount",4.93,XXX,0/100
+85009,"Blood count; manual differential WBCcount, buffy coat",7.39,XXX,0/100
+85013,Blood count; spun microhematocrit,5.54,XXX,0/100
+85014,Blood count; hematocrit (Hct),5.54,XXX,0/100
+85018,Blood count; hemoglobin (Hgb),5.54,XXX,0/100
+85025,"Blood count; complete (CBC), automated (Hgb, Hct, RBC,WBCand platelet count) and automated differentialWBC count",11.40,XXX,0/100
+85027,"Blood count; complete (CBC), automated (Hgb, Hct, RBC, WBCand platelet count)",10.78,XXX,0/100
+85032,"Blood count; manual cell count (erythrocyte, leukocyte, or platelet) each",9.24,XXX,0/100
+85041,"Blood count; red blood cell (RBC), automated",8.63,XXX,0/100
+85044,"Blood count; reticulocyte, manual",9.24,XXX,0/100
+85045,"Blood count; reticulocyte, automated",8.63,XXX,0/100
+85046,"Blood count; reticulocytes, automated, including 1 or more cellular parameters (eg, reticulocyte hemoglobin content [CHr], immature reticulocyte fraction [IRF], reticulocyte volume [MRV], RNA content), direct measurement",7.23,XXX,0/100
+85048,"Blood count; leukocyte (WBC), automated",8.63,XXX,0/100
+85049,"Blood count; platelet, automated",8.63,XXX,0/100
+85055,Reticulated platelet assay,34.91,XXX,0/100
+85060,"Blood smear, peripheral, interpretation by physician with written report",21.56,XXX,
+85097,"Bone marrow, smear interpretation",55.45,XXX,
+85130,Chromogenic substrate assay,18.48,XXX,0/100
+85170,Clot retraction,6.47,XXX,0/100
+85175,"Clot lysis time, whole blood dilution",12.32,XXX,0/100
+85210,"Clotting; factor II, prothrombin, specific",18.48,XXX,0/100
+85220,"Clotting; factor V (AcG or proaccelerin), labile factor",36.97,XXX,0/100
+85230,"Clotting; factor VII (proconvertin, stable factor)",36.97,XXX,0/100
+85240,"Clotting; factor VIII (AHG), 1-stage",40.05,XXX,0/100
+85244,Clotting; factor VIII related antigen,49.29,XXX,0/100
+85245,"Clotting; factor VIII, VWfactor, ristocetin cofactor",30.81,XXX,0/100
+85246,"Clotting; factor VIII, VWfactor antigen",49.29,XXX,0/100
+85247,"Clotting; factor VIII, von Willebrand factor, multimetric analysis",49.29,XXX,0/100
+85250,Clotting; factor IX (PTC or Christmas),40.05,XXX,0/100
+85260,Clotting; factor X (Stuart-Prower),36.97,XXX,0/100
+85270,Clotting; factor XI (PTA),40.05,XXX,0/100
+85280,Clotting; factor XII (Hageman),40.05,XXX,0/100
+85290,Clotting; factor XIII (fibrin stabilizing),36.97,XXX,0/100
+85291,"Clotting; factor XIII (fibrin stabilizing), screen solubility",17.87,XXX,0/100
+85292,Clotting; prekallikrein assay (Fletcher factor assay),36.97,XXX,0/100
+85293,Clotting; high molecular weight kininogen assay (Fitzgerald factor assay),36.97,XXX,0/100
+85300,"Clotting inhibitors or anticoagulants; antithrombin III, activity",32.65,XXX,0/100
+85301,"Clotting inhibitors or anticoagulants; antithrombin III, antigen assay",30.81,XXX,0/100

@@ -1,0 +1,17 @@
+,,Code,Description,Relative Value,FUD
+■,,95004,"Percutaneous tests (scratch, puncture, prick) with allergenic extracts, immediate type reac- tion, including test interpretation and report, specify number of tests",0.42,XXX
+■,,95024,"Intracutaneous (intradermal) tests with allergenic extracts, immediate type reaction, includ- ing test interpretation and report, specify number of tests",0.72,XXX
+,,95028,"Intracutaneous (intradermal) tests with allergenic extracts, delayed type reaction, including reading, specify number of tests",1.23,XXX
+,,95044,Patch or application test(s) (specify number of tests),1.65,XXX
+,,95052,Photo patch test(s) (specify number of tests),2.20,XXX
+,,95199,Unlisted allergy/clinical immunologic service or procedure,BR,XXX
+B,®,97545,Work hardening/conditioning ; initial 4 hours,28.00,XXX
++ B,®,97546,Work hardening/conditioning; each additional hour (List separately in addition to code for primary procedure),3.30,ZZZ
+B,,99050,"Services provided in the office at times other than regularly scheduled office hours, or days when the office is normally closed (eg, holidays, Saturday or Sunday), in addition to basic service",3.55,XXX
+B,,99051,"Service(s) provided in the office during regularly scheduled evening, weekend, or holiday office hours, in addition to basic service",BR,XXX
+B,,99053,"Service(s) provided between 10:00 PMand 8:00 AMat 24-hour facility, in addition to basic service",BR,XXX
+B,,99056,"Service(s) typically provided in the office, provided out of the office at request of patient, in addition to basic service",3.38,XXX
+B,,99058,"Service(s) provided on an emergency basis in the office, which disrupts other scheduled office services, in addition to basic service",4.23,XXX
+B,,99060,"Service(s) provided on an emergency basis, out of the office, which disrupts other sched- uled office services, in addition to basic service",4.73,XXX
+■,,99070,"Supplies and materials (except spectacles), provided by the physician or other qualified health care professional over and above those usually included with the office visit or other services rendered (list drugs, trays, supplies, or materials provided)",Refer to Rules,XXX
+■,,99075,Medical testimony,Refer to,XXX

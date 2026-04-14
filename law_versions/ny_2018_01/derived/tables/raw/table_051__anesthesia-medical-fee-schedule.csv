@@ -1,0 +1,43 @@
+Code,Description,Basic Unit
+00948,"Anesthesia for vaginal procedures (including biopsy of labia, vagina, cervix or endometrium); cervical cer- clage",4
+00950,"Anesthesia for vaginal procedures (including biopsy of labia, vagina, cervix or endometrium); culdoscopy",5
+00952,"Anesthesia for vaginal procedures (including biopsy of labia, vagina, cervix or endometrium); hysteroscopy and/or hysterosalpingography",4
+01112,"Anesthesia for bone marrow aspiration and/or biopsy, anterior or posterior iliac crest",5
+01120,Anesthesia for procedures on bony pelvis,6
+01130,Anesthesia for body cast application or revision,3
+01140,Anesthesia for interpelviabdominal (hindquarter) amputation,15
+01150,"Anesthesia for radical procedures for tumor of pelvis, except hindquarter amputation",10
+01160,Anesthesia for closed procedures involving symphysis pubis or sacroiliac joint,4
+01170,Anesthesia for open procedures involving symphysis pubis or sacroiliac joint,8
+01173,Anesthesia for open repair of fracture disruption of pelvis or column fracture involving acetabulum,12
+01200,Anesthesia for all closed procedures involving hip joint,4
+01202,Anesthesia for arthroscopic procedures of hip joint,4
+01210,Anesthesia for open procedures involving hip joint; not otherwise specified,6
+01212,Anesthesia for open procedures involving hip joint; hip disarticulation,10
+01214,Anesthesia for open procedures involving hip joint; total hip arthroplasty,8
+01215,Anesthesia for open procedures involving hip joint; revision of total hip arthroplasty,10
+01220,Anesthesia for all closed procedures involving upper two-thirds of femur,4
+01230,Anesthesia for open procedures involving upper two-thirds of femur; not otherwise specified,6
+01232,Anesthesia for open procedures involving upper two-thirds of femur; amputation,5
+01234,Anesthesia for open procedures involving upper two-thirds of femur; radical resection,8
+01250,"Anesthesia for all procedures on nerves, muscles, tendons, fascia, and bursae of upper leg",4
+01260,"Anesthesia for all procedures involving veins of upper leg, including exploration",3
+01270,"Anesthesia for procedures involving arteries of upper leg, including bypass graft; not otherwise specified",8
+01272,"Anesthesia for procedures involving arteries of upper leg, including bypass graft; femoral artery ligation",4
+01274,"Anesthesia for procedures involving arteries of upper leg, including bypass graft; femoral artery embolec- tomy",6
+01320,"Anesthesia for all procedures on nerves, muscles, tendons, fascia, and bursae of knee and/or popliteal area",4
+01340,Anesthesia for all closed procedures on lower one-third of femur,4
+01360,Anesthesia for all open procedures on lower one-third of femur,5
+01380,Anesthesia for all closed procedures on knee joint,3
+01382,Anesthesia for diagnostic arthroscopic procedures of knee joint,3
+01390,"Anesthesia for all closed procedures on upper ends of tibia, fibula, and/or patella",3
+01392,"Anesthesia for all open procedures on upper ends of tibia, fibula, and/or patella",4
+01400,Anesthesia for open or surgical arthroscopic procedures on knee joint; not otherwise specified,4
+01402,Anesthesia for open or surgical arthroscopic procedures on knee joint; total knee arthroplasty,7
+01404,Anesthesia for open or surgical arthroscopic procedures on knee joint; disarticulation at knee,5
+01420,"Anesthesia for all cast applications, removal, or repair involving knee joint",3
+01430,Anesthesia for procedures on veins of knee and popliteal area; not otherwise specified,3
+01432,Anesthesia for procedures on veins of knee and popliteal area; arteriovenous fistula,6
+01440,Anesthesia for procedures on arteries of knee and popliteal area; not otherwise specified,8
+01442,"Anesthesia for procedures on arteries of knee and popliteal area; popliteal thromboendarterectomy, with or without patch graft",8
+01444,Anesthesia for procedures on arteries of knee and popliteal area; popliteal excision and graft or repair for occlusion or aneurysm,8

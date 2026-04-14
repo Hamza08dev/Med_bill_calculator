@@ -1,0 +1,335 @@
+code,description,rvu,fud,pctc_split,is_addon,is_mod51_exempt,is_state_specific,is_altered_cpt,is_br
+70010,"Myelography, posterior fossa, radiological supervision and interpretation",5.61,XXX,35/65,False,False,False,False,False
+70015,"Cisternography, positive contrast, radiological supervision and interpretation",4.59,XXX,35/65,False,False,False,False,False
+70030,"Radiologic examination, eye, for detection of foreign body",1.79,XXX,40/60,False,False,False,False,False
+70100,"Radiologic examination, mandible; partial, less than 4 views",1.15,XXX,40/60,False,False,False,False,False
+70110,"Radiologic examination, mandible; complete, minimum of 4 views",1.94,XXX,40/60,False,False,False,False,False
+70120,"Radiologic examination, mastoids; less than 3 views per side",1.15,XXX,40/60,False,False,False,False,False
+70130,"Radiologic examination, mastoids; complete, minimum of 3 views per side",2.17,XXX,40/60,False,False,False,False,False
+70134,"Radiologic examination, internal auditory meati, complete",2.5,XXX,40/60,False,False,False,False,False
+70140,"Radiologic examination, facial bones; less than 3 views",1.66,XXX,40/60,False,False,False,False,False
+70150,"Radiologic examination, facial bones; complete, minimum of 3 views",2.04,XXX,40/60,False,False,False,False,False
+70160,"Radiologic examination, nasal bones, complete, minimum of 3 views",1.28,XXX,40/60,False,False,False,False,False
+70170,"Dacryocystography, nasolacrimal duct, radiological supervision and interpretation",1.99,XXX,35/65,False,False,False,False,False
+70190,Radiologic examination; optic foramina,1.63,XXX,40/60,False,False,False,False,False
+70200,"Radiologic examination; orbits, complete, minimum of 4 views",2.07,XXX,40/60,False,False,False,False,False
+70210,"Radiologic examination, sinuses, paranasal, less than 3 views",1.4,XXX,40/60,False,False,False,False,False
+70220,"Radiologic examination, sinuses, paranasal, complete, minimum of 3 views",2.3,XXX,40/60,False,False,False,False,False
+70240,"Radiologic examination, sella turcica",1.4,XXX,40/60,False,False,False,False,False
+70250,"Radiologic examination, skull; less than 4 views",1.66,XXX,40/60,False,False,False,False,False
+70260,"Radiologic examination, skull; complete, minimum of 4 views",2.3,XXX,40/60,False,False,False,False,False
+70300,"Radiologic examination, teeth; single view",0.48,XXX,40/60,False,False,False,False,False
+70310,"Radiologic examination, teeth; partial examination, less than full mouth",0.92,XXX,40/60,False,False,False,False,False
+70320,"Radiologic examination, teeth; complete, full mouth",1.73,XXX,40/60,False,False,False,False,False
+70328,"Radiologic examination, temporomandibular joint, open and closed mouth; unilat- eral",2.09,XXX,40/60,False,False,False,False,False
+70330,"Radiologic examination, temporomandibular joint, open and closed mouth; bilat- eral",3.06,XXX,40/60,False,False,False,False,False
+70332,"Temporomandibular joint arthrography, radiological supervision and interpretation",4.77,XXX,35/65,False,False,False,False,False
+70336,"Magnetic resonance (eg, proton) imaging, temporomandibular joint(s)",16.43,XXX,20/80,False,False,False,False,False
+70350,"Cephalogram, orthodontic",1.53,XXX,40/60,False,False,False,False,False
+70355,"Orthopantogram (eg, panoramic x-ray)",1.5,XXX,40/60,False,False,False,False,False
+70360,"Radiologic examination; neck, soft tissue",1.58,XXX,40/60,False,False,False,False,False
+70370,"Radiologic examination; pharynx or larynx, including fluoroscopy and/or magnifi- cation technique",3.49,XXX,40/60,False,False,False,False,False
+70371,Complex dynamic pharyngeal and speech evaluation by cine or video recording,6.07,XXX,40/60,False,False,False,False,False
+70380,"Radiologic examination, salivary gland for calculus",1.91,XXX,40/60,False,False,False,False,False
+70390,"Sialography, radiological supervision and interpretation",3.88,XXX,35/65,False,False,False,False,False
+70450,"Computed tomography, head or brain; without contrast material",8.61,XXX,25/75,False,False,False,False,False
+70460,"Computed tomography, head or brain; with contrast material(s)",9.91,XXX,25/75,False,False,False,False,False
+70470,"Computed tomography, head or brain; without contrast material, followed by con- trast material(s) and further sections",11.89,XXX,25/75,False,False,False,False,False
+70480,"Computed tomography, orbit, sella, or posterior fossa or outer, middle, or inner ear; without contrast material",9.36,XXX,25/75,False,False,False,False,False
+70481,"Computed tomography, orbit, sella, or posterior fossa or outer, middle, or inner ear; with contrast material(s)",10.78,XXX,25/75,False,False,False,False,False
+70482,"Computed tomography, orbit, sella, or posterior fossa or outer, middle, or inner ear; without contrast material, followed by contrast material(s) and further sections",12.92,XXX,25/75,False,False,False,False,False
+70486,"Computed tomography, maxillofacial area; without contrast material",9.11,XXX,25/75,False,False,False,False,False
+70487,"Computed tomography, maxillofacial area; with contrast material(s)",10.48,XXX,25/75,False,False,False,False,False
+71111,2.42,XXX,,40/60,False,False,False,False,False
+71120,1.48,XXX,40/60,,False,False,False,False,False
+71130,1.79,XXX,,40/60,False,False,False,False,False
+71250,11.00,XXX,,25/75,False,False,False,False,False
+71260,12.64,XXX,,25/75,False,False,False,False,False
+71270,15.20,,XXX,25/75,False,False,False,False,False
+71275,18.61,XXX,,25/75,False,False,False,False,False
+71550,21.01,XXX,,20/80,False,False,False,False,False
+71551,24.15,,XXX,20/80,False,False,False,False,False
+71552,28.99,,XXX,20/80,False,False,False,False,False
+71555,21.37,XXX,,20/80,False,False,False,False,False
+72020,,1.28,XXX,40/60,False,False,False,False,False
+72040,,1.82,XXX,40/60,False,False,False,False,False
+72050,,2.32,XXX,40/60,False,False,False,False,False
+72052,,2.75,XXX,40/60,False,False,False,False,False
+72070,,1.76,XXX,40/60,False,False,False,False,False
+72072,1.89,,XXX,40/60,False,False,False,False,False
+72074,,2.17,XXX,40/60,False,False,False,False,False
+72080,1.84,,XXX,40/60,False,False,False,False,False
+72081,,1.61,XXX,35/65,False,False,False,False,False
+72082,,2.60,XXX,26/74,False,False,False,False,False
+72083,3.13,,XXX,25/75,False,False,False,False,False
+72084,3.64,,XXX,25/75,False,False,False,False,False
+72100,,1.66,XXX,40/60,False,False,False,False,False
+72110,,2.42,XXX,40/60,False,False,False,False,False
+72114,,3.06,XXX,40/60,False,False,False,False,False
+72120,2.37,,XXX,40/60,False,False,False,False,False
+72125,11.00,,XXX,25/75,False,False,False,False,False
+72126,12.64,,XXX,25/75,False,False,False,False,False
+72127,15.20,,XXX,25/75,False,False,False,False,False
+72128,11.00,,XXX,25/75,False,False,False,False,False
+72129,12.64,,XXX,25/75,False,False,False,False,False
+72130,15.20,,XXX,25/75,False,False,False,False,False
+72131,11.00,,XXX,25/75,False,False,False,False,False
+72132,12.64,,XXX,25/75,False,False,False,False,False
+72133,15.20,,XXX,25/75,False,False,False,False,False
+"Radiologic examination; acromioclavicular joints, bilateral, with or without weighted distraction",,,XXX 40/60,,False,False,False,False,False
+"Radiologic examination; humerus, minimum of 2 views",,,XXX,40/60,False,False,False,False,False
+"Radiologic examination, elbow; 2 views",,,XXX,40/60,False,False,False,False,False
+"Radiologic examination, elbow; complete, minimum of 3 views",,,XXX,40/60,False,False,False,False,False
+"Radiologic examination, elbow, arthrography, radiological supervision and inter- pretation",,,XXX,35/65,False,False,False,False,False
+"Radiologic examination; forearm, 2 views",,,XXX,40/60,False,False,False,False,False
+"Radiologic examination; upper extremity, infant, minimum of 2 views",,,XXX,40/60,False,False,False,False,False
+"Radiologic examination, wrist; 2 views",,,XXX,40/60,False,False,False,False,False
+"Radiologic examination, wrist; complete, minimum of 3 views",,,XXX,40/60,False,False,False,False,False
+"Radiologic examination, wrist, arthrography, radiological supervision and interpre- tation",,,XXX,35/65,False,False,False,False,False
+"Radiologic examination, hand; 2 views",,,XXX,40/60,False,False,False,False,False
+"Radiologic examination, hand; minimum of 3 views",,,XXX,40/60,False,False,False,False,False
+"Radiologic examination, finger(s), minimum of 2 views",,,XXX,40/60,False,False,False,False,False
+"Computed tomography, upper extremity; without contrast material",,,XXX,25/75,False,False,False,False,False
+"Computed tomography, upper extremity; with contrast material(s)",,,XXX,25/75,False,False,False,False,False
+"Computed tomography, upper extremity; without contrast material, followed by contrast material(s) and further sections",,,XXX,25/75,False,False,False,False,False
+"Computed tomographic angiography, upper extremity, with contrast material(s), including noncontrast images, if performed, and image postprocessing",,,XXX,25/75,False,False,False,False,False
+"Magnetic resonance (eg, proton) imaging, upper extremity, other than joint; with- out contrast material(s)",,,XXX,20/80,False,False,False,False,False
+"Magnetic resonance (eg, proton) imaging, upper extremity, other than joint; with contrast material(s)",,,XXX,20/80,False,False,False,False,False
+"Magnetic resonance (eg, proton) imaging, upper extremity, other than joint; with- out contrast material(s), followed by contrast material(s) and further sequences",,,XXX,20/80,False,False,False,False,False
+"Magnetic resonance (eg, proton) imaging, any joint of upper extremity; without contrast material(s)",,,XXX,20/80,False,False,False,False,False
+"Magnetic resonance (eg, proton) imaging, any joint of upper extremity; with con- trast material(s)",,,XXX,20/80,False,False,False,False,False
+"Magnetic resonance (eg, proton) imaging, any joint of upper extremity; without contrast material(s), followed by contrast material(s) and further sequences",,,XXX,20/80,False,False,False,False,False
+"Magnetic resonance angiography, upper extremity, with or without contrast mate- rial(s)",,,XXX,20/80,False,False,False,False,False
+"Radiologic examination, hip, unilateral, with pelvis when performed; 1 view",,,XXX,32/68,False,False,False,False,False
+"Radiologic examination, hip, unilateral, with pelvis when performed; 2-3 views",,,XXX,27/73,False,False,False,False,False
+"Radiologic examination, hip, unilateral, with pelvis when performed; minimum of views",,,XXX,28/72,False,False,False,False,False
+"Radiologic examination, hips, bilateral, with pelvis when performed; 2 views",,,XXX,30/70,False,False,False,False,False
+"Radiologic examination, hips, bilateral, with pelvis when performed; 3-4 views",,,XXX,31/69,False,False,False,False,False
+"Radiologic examination, hips, bilateral, with pelvis when performed; minimum of views",,,XXX,29/71,False,False,False,False,False
+"Radiologic examination, hip, arthrography, radiological supervision and interpreta- tion",,,XXX,35/65,False,False,False,False,False
+"Radiologic examination, femur; 1 view",,,XXX,30/70,False,False,False,False,False
+"Radiologic examination, femur; minimum 2 views",,,XXX,29/71,False,False,False,False,False
+"Radiologic examination, knee; 1 or 2 views",,,XXX,40/60,False,False,False,False,False
+"Radiologic examination, knee; 3 views",,,XXX,40/60,False,False,False,False,False
+"Radiologic examination, knee; complete, 4 or more views",,,XXX,40/60,False,False,False,False,False
+74182,"Magnetic resonance (eg, proton) imaging, abdomen; with contrast material(s)",19.58,XXX,20/80,False,False,False,False,False
+74183,"Magnetic resonance (eg, proton) imaging, abdomen; without contrast material(s), followed by with contrast material(s) and further sequences",23.49,XXX,20/80,False,False,False,False,False
+74185,"Magnetic resonance angiography, abdomen, with or without contrast material(s)",20.46,XXX,20/80,False,False,False,False,False
+74190,"Peritoneogram (eg, after injection of air or contrast), radiological supervision and interpretation",2.04,XXX,35/65,False,False,False,False,False
+74210,Radiologic examination; pharynx and/or cervical esophagus,2.52,XXX,40/60,False,False,False,False,False
+74220,Radiologic examination; esophagus,2.63,XXX,40/60,False,False,False,False,False
+74230,"Swallowing function, with cineradiography/videoradiography",3.19,XXX,40/60,False,False,False,False,False
+74235,"Removal of foreign body(s), esophageal, with use of balloon catheter, radiological supervision and interpretation",6.38,XXX,35/65,False,False,False,False,False
+74240,"Radiologic examination, gastrointestinal tract, upper; with or without delayed images, without KUB",3.52,XXX,40/60,False,False,False,False,False
+74241,"Radiologic examination, gastrointestinal tract, upper; with or without delayed images, with KUB",3.54,XXX,40/60,False,False,False,False,False
+74245,"Radiologic examination, gastrointestinal tract, upper; with small intestine, includes multiple serial images",5.74,XXX,40/60,False,False,False,False,False
+74246,"Radiological examination, gastrointestinal tract, upper, air contrast, with specific high density barium, effervescent agent, with or without glucagon; with or without delayed images, without KUB",3.77,XXX,40/60,False,False,False,False,False
+74247,"Radiological examination, gastrointestinal tract, upper, air contrast, with specific high density barium, effervescent agent, with or without glucagon; with or without delayed images, with KUB",3.95,XXX,40/60,False,False,False,False,False
+74249,"Radiological examination, gastrointestinal tract, upper, air contrast, with specific high density barium, effervescent agent, with or without glucagon; with small intestine follow-through",5.87,XXX,40/60,False,False,False,False,False
+74250,"Radiologic examination, small intestine, includes multiple serial images;",2.93,XXX,40/60,False,False,False,False,False
+74251,"Radiologic examination, small intestine, includes multiple serial images; via enteroclysis tube",3.39,XXX,40/60,False,False,False,False,False
+74260,"Duodenography, hypotonic",3.42,XXX,40/60,False,False,False,False,False
+74261,"Computed tomographic (CT) colonography, diagnostic, including image postpro- cessing; without contrast material",13.4,XXX,21/79,False,False,False,False,False
+74262,"Computed tomographic (CT) colonography, diagnostic, including image postpro- cessing; with contrast material(s) including non-contrast images, if performed",15.19,XXX,18/82,False,False,False,False,False
+74263,"Computed tomographic (CT) colonography, screening, including image postpro- cessing",16.08,XXX,16/84,False,False,False,False,False
+74270,"Radiologic examination, colon; contrast (eg, barium) enema, with or without KUB",4.13,XXX,40/60,False,False,False,False,False
+74280,"Radiologic examination, colon; air contrast with specific high density barium, with or without glucagon",5.41,XXX,40/60,False,False,False,False,False
+74283,"Therapeutic enema, contrast or air, for reduction of intussusception or other intra- luminal obstruction (eg, meconium ileus)",6.22,XXX,40/60,False,False,False,False,False
+74290,"Cholecystography, oral contrast",2.12,XXX,40/60,False,False,False,False,False
+74300,"Cholangiography and/or pancreatography; intraoperative, radiological supervision and interpretation",2.55,XXX,35/65,False,False,False,False,False
+74301,"Cholangiography and/or pancreatography; additional set intraoperative, radiologi- cal supervision and interpretation (List separately in addition to code for primary procedure)",1.45,ZZZ,35/65,False,False,False,False,False
+74328,"Endoscopic catheterization of the biliary ductal system, radiological supervision and interpretation",7.06,XXX,35/65,False,False,False,False,False
+74329,"Endoscopic catheterization of the pancreatic ductal system, radiological supervi- sion and interpretation",7.04,XXX,35/65,False,False,False,False,False
+74330,"Combined endoscopic catheterization of the biliary and pancreatic ductal sys- tems, radiological supervision and interpretation",7.47,XXX,35/65,False,False,False,False,False
+74340,"Introduction of long gastrointestinal tube (eg, Miller-Abbott), including multiple flu- oroscopies and images, radiological supervision and interpretation",3.83,XXX,35/65,False,False,False,False,False
+75574,"Computed tomographic angiography, heart, coronary arteries and bypass grafts (when present), with contrast material, including 3D image postprocessing (including evaluation of cardiac structure and morphology, assessment of cardiac function, and evaluation of venous structures, if performed)",22.34,XXX,20/80,False,False,False,False,False
+75600,"Aortography, thoracic, without serialography, radiological supervision and inter- pretation",16.54,XXX,10/90,False,False,False,False,False
+75605,"Aortography, thoracic, by serialography, radiological supervision and interpreta- tion",19.22,XXX,15/85,False,False,False,False,False
+75625,"Aortography, abdominal, by serialography, radiological supervision and interpre- tation",19.37,XXX,15/85,False,False,False,False,False
+75630,"Aortography, abdominal plus bilateral iliofemoral lower extremity, catheter, by serialography, radiological supervision and interpretation",20.45,XXX,15/85,False,False,False,False,False
+75635,"Computed tomographic angiography, abdominal aorta and bilateral iliofemoral lower extremity runoff, with contrast material(s), including noncontrast images, if performed, and image postprocessing",42.99,XXX,25/75,False,False,False,False,False
+75705,"Angiography, spinal, selective, radiological supervision and interpretation",18.62,XXX,20/80,False,False,False,False,False
+75710,"Angiography, extremity, unilateral, radiological supervision and interpretation",16.79,XXX,15/85,False,False,False,False,False
+75716,"Angiography, extremity, bilateral, radiological supervision and interpretation",20.76,XXX,15/85,False,False,False,False,False
+75726,"Angiography, visceral, selective or supraselective (with or without flush aorto- gram), radiological supervision and interpretation",20.58,XXX,15/85,False,False,False,False,False
+75731,"Angiography, adrenal, unilateral, selective, radiological supervision and interpre- tation",11.42,XXX,15/85,False,False,False,False,False
+75733,"Angiography, adrenal, bilateral, selective, radiological supervision and interpreta- tion",15.63,XXX,15/85,False,False,False,False,False
+75736,"Angiography, pelvic, selective or supraselective, radiological supervision and interpretation",19.51,XXX,15/85,False,False,False,False,False
+75741,"Angiography, pulmonary, unilateral, selective, radiological supervision and inter- pretation",19.17,XXX,15/85,False,False,False,False,False
+75743,"Angiography, pulmonary, bilateral, selective, radiological supervision and inter- pretation",20.16,XXX,15/85,False,False,False,False,False
+75746,"Angiography, pulmonary, by nonselective catheter or venous injection, radiologi- cal supervision and interpretation",16.52,XXX,15/85,False,False,False,False,False
+75756,"Angiography, internal mammary, radiological supervision and interpretation",18.75,XXX,15/85,False,False,False,False,False
+75774,"Angiography, selective, each additional vessel studied after basic examination, radiological supervision and interpretation (List separately in addition to code for primary procedure)",4.05,ZZZ,10/90,False,False,False,False,False
+75801,"Lymphangiography, extremity only, unilateral, radiological supervision and inter- pretation",10.07,XXX,20/80,False,False,False,False,False
+75803,"Lymphangiography, extremity only, bilateral, radiological supervision and interpre- tation",12.14,XXX,20/80,False,False,False,False,False
+75805,"Lymphangiography, pelvic/abdominal, unilateral, radiological supervision and interpretation",13.08,XXX,20/80,False,False,False,False,False
+75807,"Lymphangiography, pelvic/abdominal, bilateral, radiological supervision and inter- pretation",14.03,XXX,20/80,False,False,False,False,False
+75809,"Shuntogram for investigation of previously placed indwelling nonvascular shunt (eg, LeVeen shunt, ventriculoperitoneal shunt, indwelling infusion pump), radiolog- ical supervision and interpretation",4.34,XXX,35/65,False,False,False,False,False
+75810,"Splenoportography, radiological supervision and interpretation",19.44,XXX,15/85,False,False,False,False,False
+75820,"Venography, extremity, unilateral, radiological supervision and interpretation",4.59,XXX,35/65,False,False,False,False,False
+75822,"Venography, extremity, bilateral, radiological supervision and interpretation",6.91,XXX,35/65,False,False,False,False,False
+75825,"Venography, caval, inferior, with serialography, radiological supervision and inter- pretation",19.44,XXX,15/85,False,False,False,False,False
+76001,"Fluoroscopy, physician or other qualified health care professional time more than 1 hour, assisting a nonradiologic physician or other qualified health care profes- sional (eg, nephrostolithotomy, ERCP, bronchoscopy, transbronchial biopsy)",6.59,XXX,35/65,False,False,False,False,False
+76010,"Radiologic examination from nose to rectum for foreign body, single view, child",1.45,XXX,35/65,False,False,False,False,False
+76080,"Radiologic examination, abscess, fistula or sinus tract study, radiological supervi- sion and interpretation",2.35,XXX,35/65,False,False,False,False,False
+76098,"Radiological examination, surgical specimen",1.15,XXX,40/60,False,False,False,False,False
+76100,"Radiologic examination, single plane body section (eg, tomography), other than with urography",3.32,XXX,40/60,False,False,False,False,False
+76101,"Radiologic examination, complex motion (ie, hypercycloidal) body section (eg, mastoid polytomography), other than with urography; unilateral",4.08,XXX,40/60,False,False,False,False,False
+76102,"Radiologic examination, complex motion (ie, hypercycloidal) body section (eg, mastoid polytomography), other than with urography; bilateral",5.36,XXX,40/60,False,False,False,False,False
+76120,"Cineradiography/videoradiography, except where specifically included",2.81,XXX,40/60,False,False,False,False,False
+76125,Cineradiography/videoradiography to complement routine examination (List sepa- rately in addition to code for primary procedure),2.30,ZZZ,40/60,False,False,False,False,False
+76140,"Consultation on X-ray examination made elsewhere, written report",,XXX,,False,False,False,False,True
+76376,"3D rendering with interpretation and reporting of computed tomography, magnetic resonance imaging, ultrasound, or other tomographic modality with image post- processing under concurrent supervision; not requiring image postprocessing on an independent workstation",4.40,XXX,15/85,False,False,False,False,False
+76377,"3D rendering with interpretation and reporting of computed tomography, magnetic resonance imaging, ultrasound, or other tomographic modality with image post- processing under concurrent supervision; requiring image postprocessing on an independent workstation",5.65,XXX,44/56,False,False,False,False,False
+76380,"Computed tomography, limited or localized follow-up study",6.61,XXX,26/74,False,False,False,False,False
+76390,Magnetic resonance spectroscopy,15.42,XXX,14/86,False,False,False,False,False
+76496,"Unlisted fluoroscopic procedure (eg, diagnostic, interventional)",,XXX,,False,False,False,False,True
+76497,"Unlisted computed tomography procedure (eg, diagnostic, interventional)",,XXX,,False,False,False,False,True
+76498,"Unlisted magnetic resonance procedure (eg, diagnostic, interventional)",,XXX,,False,False,False,False,True
+76499,Unlisted diagnostic radiographic procedure,,XXX,,False,False,False,False,True
+76506,"Echoencephalography, real time with image documentation (gray scale) (for determination of ventricular size, delineation of cerebral contents, and detection of fluid masses or other intracranial abnormalities), including A-mode encepha- lography as secondary component where indicated",4.44,XXX,45/55,False,False,False,False,False
+76510,"Ophthalmic ultrasound, diagnostic; B-scan and quantitative A-scan performed during the same patient encounter",6.63,XXX,50/50,False,False,False,False,False
+76511,"Ophthalmic ultrasound, diagnostic; quantitative A-scan only",4.85,XXX,45/55,False,False,False,False,False
+76512,"Ophthalmic ultrasound, diagnostic; B-scan (with or without superimposed non-quantitative A-scan)",5.36,XXX,45/55,False,False,False,False,False
+76513,"Ophthalmic ultrasound, diagnostic; anterior segment ultrasound, immersion (water bath) B-scan or high resolution biomicroscopy",5.10,XXX,40/60,False,False,False,False,False
+76514,"Ophthalmic ultrasound, diagnostic; corneal pachymetry, unilateral or bilateral (determination of corneal thickness)",0.87,XXX,45/55,False,False,False,False,False
+76516,"Ophthalmic biometry by ultrasound echography, A-scan;",5.10,XXX,45/55,False,False,False,False,False
+76519,"Ophthalmic biometry by ultrasound echography, A-scan; with intraocular lens power calculation",5.10,XXX,45/55,False,False,False,False,False
+76529,Ophthalmic ultrasonic foreign body localization,4.59,XXX,45/55,False,False,False,False,False
+76536,"Ultrasound, soft tissues of head and neck (eg, thyroid, parathyroid, parotid), real time with image documentation",4.05,XXX,45/55,False,False,False,False,False
+76604,"Ultrasound, chest (includes mediastinum), real time with image documentation",5.10,XXX,45/55,False,False,False,False,False
+76641,"Ultrasound, breast, unilateral, real time with image documentation, including axilla when performed; complete",4.51,XXX,34/66,False,False,False,False,False
+,"Doppler echocardiography, fetal, pulsed wave and/or continuous wave with spec- tral display; complete",3.83,XXX,45/55,False,False,False,False,False
+,"Doppler echocardiography, fetal, pulsed wave and/or continuous wave with spec- tral display; follow-up or repeat study",2.30,XXX,45/55,False,False,False,False,False
+76830,"Ultrasound, transvaginal",5.10,XXX,45/55,False,False,False,False,False
+,"Saline infusion sonohysterography (SIS), including color flow Doppler, when per- formed",5.89,XXX,45/55,False,False,False,False,False
+,"Ultrasound, pelvic (nonobstetric), real time with image documentation; complete",4.46,XXX,45/55,False,False,False,False,False
+,"Ultrasound, pelvic (nonobstetric), real time with image documentation; limited or follow-up (eg, for follicles)",4.08,XXX,45/55,False,False,False,False,False
+,"Ultrasound, scrotum and contents",3.83,XXX,45/55,False,False,False,False,False
+,"Ultrasound, transrectal;",5.46,XXX,45/55,False,False,False,False,False
+,"Ultrasound, transrectal; prostate volume study for brachytherapy treatment plan- ning (separate procedure)",4.59,XXX,45/55,False,False,False,False,False
+,"Ultrasound, complete joint (ie, joint space and peri-articular soft tissue structures) real-time with image documentation",4.46,XXX,25/75,False,False,False,False,False
+,"Ultrasound, limited, joint or other nonvascular extremity structure(s) (eg, joint space, peri-articular tendon[s], muscle[s], nerve[s], other soft tissue structure[s], or soft tissue mass[es]), real-time with image documentation",1.28,XXX,69/31,False,False,False,False,False
+,"Ultrasound, infant hips, real time with imaging documentation; dynamic (requiring physician or other qualified health care professional manipulation)",4.59,XXX,45/55,False,False,False,False,False
+,"Ultrasound, infant hips, real time with imaging documentation; limited, static (not requiring physician or other qualified health care professional manipulation)",4.02,XXX,45/55,False,False,False,False,False
+,"Ultrasonic guidance for pericardiocentesis, imaging supervision and interpreta- tion",3.83,XXX,45/55,False,False,False,False,False
+,"Ultrasonic guidance for endomyocardial biopsy, imaging supervision and interpre- tation",4.41,YYY,45/55,False,False,False,False,False
+,"Ultrasound guided compression repair of arterial pseudoaneurysm or arteriove- nous fistulae (includes diagnostic ultrasound evaluation, compression of lesion and imaging)",13.54,XXX,20/80,False,False,False,False,False
+,"Ultrasound guidance for vascular access requiring ultrasound evaluation of potential access sites, documentation of selected vessel patency, concurrent realtime ultrasound visualization of vascular needle entry, with permanent record- ing and reporting (List separately in addition to code for primary procedure)",1.51,ZZZ,20/80,False,False,False,False,False
+,"Ultrasound guidance for, and monitoring of, parenchymal tissue ablation",4.49,YYY,20/80,False,False,False,False,False
+,"Ultrasonic guidance for intrauterine fetal transfusion or cordocentesis, imaging supervision and interpretation",3.70,XXX,45/55,False,False,False,False,False
+,"Ultrasonic guidance for needle placement (eg, biopsy, aspiration, injection, local- ization device), imaging supervision and interpretation",4.97,XXX,45/55,False,False,False,False,False
+,"Ultrasonic guidance for chorionic villus sampling, imaging supervision and inter- pretation",3.70,XXX,45/55,False,False,False,False,False
+,"Ultrasonic guidance for amniocentesis, imaging supervision and interpretation",4.13,XXX,45/55,False,False,False,False,False
+,"Ultrasonic guidance for aspiration of ova, imaging supervision and interpretation",4.72,XXX,45/55,False,False,False,False,False
+76965,Ultrasonic guidance for interstitial radioelement application,4.59,XXX,45/55,False,False,False,False,False
+,Ultrasound study follow-up (specify),2.99,XXX,45/55,False,False,False,False,False
+,"Gastrointestinal endoscopic ultrasound, supervision and interpretation",6.68,XXX,45/55,False,False,False,False,False
+,"Ultrasound bone density measurement and interpretation, peripheral site(s), any method",2.09,XXX,31/69,False,False,False,False,False
+76998,"Ultrasonic guidance, intraoperative",2.79,XXX,,False,False,False,False,False
+,"Unlisted ultrasound procedure (eg, diagnostic, interventional)",,XXX,,False,False,False,False,True
+77085,"Dual-energy X-ray absorptiometry (DXA), bone density study, 1 or more sites; axial skeleton (eg, hips, pelvis, spine), including vertebral fracture assessment",2.37,XXX,27/73,False,False,False,False,False
+77086,Vertebral fracture assessment via dual-energy X-ray absorptiometry (DXA),1.76,XXX,23/77,False,False,False,False,False
+Therapeutic radiology treatment planning; simple,,6.68,XXX,,False,False,False,False,False
+Therapeutic radiology treatment planning; intermediate,,8.75,XXX,,False,False,False,False,False
+Therapeutic radiology treatment planning; complex,,11.93,XXX,,False,False,False,False,False
+Therapeutic radiology simulation-aided field setting; simple,,11.35,XXX,30/70,False,False,False,False,False
+Therapeutic radiology simulation-aided field setting; intermediate,16.65,,XXX,30/70,False,False,False,False,False
+Therapeutic radiology simulation-aided field setting; complex,21.32,,XXX,30/70,False,False,False,False,False
+Respiratory motion management simulation (List separately in addition to code primary,for procedure),19.87,ZZZ,22/78,False,False,False,False,False
+"3-dimensional radiotherapy plan, including dose-volume histograms",,26.83,XXX,30/70,False,False,False,False,False
+"Unlisted procedure, therapeutic radiology",clinical treatment planning,,XXX,,False,False,False,False,True
+"Basic radiation dosimetry calculation, central axis depth dose calculation, TDF, NSD, gap calculation, off axis factor, tissue inhomogeneity factors, calculation of non-ionizing radiation surface and depth dose, as required during course of ment, only when prescribed",treat- by the treating physician,4.56,XXX,50/50,False,False,False,False,False
+"Intensity modulated radiotherapy plan, including dose-volume histograms for get and critical structure partial tolerance specifications",tar-,8.21,XXX,55/45,False,False,False,False,False
+77306,"Teletherapy isodose plan; simple (1 or 2 unmodified ports directed to a single area of interest), includes basic dosimetry calculation(s)",6.36,XXX,48/52,False,False,False,False,False
+77307,"Teletherapy isodose plan; complex (multiple treatment areas, tangential ports, the use of wedges, blocking, rotational beam, or special beam considerations), includes basic dosimetry calculation(s)",7.14,XXX,55/45,False,False,False,False,False
+,"Brachytherapy isodose plan; simple (calculation[s] made from 1 to 4 sources, or remote afterloading brachytherapy, 1 channel), includes basic dosimetry calcula- tion(s)",5.10,XXX,45/55,False,False,False,False,False
+,"Brachytherapy isodose plan; intermediate (calculation[s] made from 5 to 10 sources, or remote afterloading brachytherapy, 2-12 channels), includes basic dosimetry calculation(s)",7.65,XXX,45/55,False,False,False,False,False
+"Brachytherapy isodose plan; complex (calculation[s] made from over 10 or remote afterloading brachytherapy, over 12 channels), includes basic","sources, dosimetry calculation(s)",10.84,XXX,50/50,False,False,False,False,False
+"Special teletherapy port plan, particles, hemibody, total body",,8.52,XXX,35/65,False,False,False,False,False
+"Special dosimetry (eg, TLD, microdosimetry) (specify), only when prescribed by the",treating physician,3.03,XXX,80/20,False,False,False,False,False
+"Treatment devices, design and construction; simple (simple block, simple",bolus),4.08,XXX,50/50,False,False,False,False,False
+"Treatment devices, design and construction; intermediate (multiple blocks, stents, bite blocks, special bolus)",,5.00,XXX,50/50,False,False,False,False,False
+"Treatment devices, design and construction; complex (irregular blocks, special shields, compensators, wedges, molds or casts)",9.64,,XXX,45/55,False,False,False,False,False
+"Continuing medical physics consultation, including assessment of treatment parameters, quality assurance of dose delivery, and review of patient treatment documentation in support of the radiation oncologist, reported per week of ther- apy",,3.37,XXX,0/100,False,False,False,False,False
+"Multi-leaf collimator (MLC) device(s) for intensity modulated radiation therapy (IMRT), design and construction per IMRT plan",12.11,,XXX,47/53,False,False,False,False,False
+Special,medical radiation physics consultation,5.25,XXX,0/100,False,False,False,False,False
+"Radiation treatment delivery, stereotactic radiosurgery (SRS), complete course of treatment of cranial lesion(s) consisting of 1 session; multi-source Cobalt 60 based",,40.65,XXX,0/100,False,False,False,False,False
+"Radiation treatment delivery, stereotactic radiosurgery (SRS), complete course of treatment of cranial lesion(s) consisting of 1 session; linear accelerator based",30.86,,XXX,0/100,False,False,False,False,False
+"Stereotactic body radiation therapy, treatment delivery, per fraction to 1 or more lesions, including image guidance, entire course not to exceed 5 fractions",57.54,,XXX,0/100,False,False,False,False,False
+"Remote afterloading high dose rate radionuclide interstitial or intracavitary brachytherapy, includes basic dosimetry, when performed; 2-12 channels",,,XXX,29/71,False,False,False,False,False
+"Remote afterloading high dose rate radionuclide interstitial or intracavitary brachytherapy, includes basic dosimetry, when performed; over 12 channels",,,XXX,30/70,False,False,False,False,False
+"Interstitial radiation source application, complex, includes supervision, handling, loading of radiation source, when performed",,,000,80/20,False,False,False,False,False
+Surface application of low dose rate radionuclide source,,,000,80/20,False,False,False,False,False
+"Supervision, handling, loading of radiation source",,,XXX,80/20,False,False,False,False,False
+"Unlisted procedure, clinical brachytherapy",,,XXX,,False,False,False,False,False
+"Thyroid uptake, single or multiple quantitative measurement(s) (including stimula- tion, suppression, or discharge, when performed)",,,XXX,11/89,False,False,False,False,False
+"Thyroid imaging (including vascular flow, when performed);",,,XXX,9/91,False,False,False,False,False
+"Thyroid imaging (including vascular flow, when performed); with single or multiple uptake(s) quantitative measurement(s) (including stimulation, suppression, or dis- charge, when performed)",,,XXX,10/90,False,False,False,False,False
+"Thyroid carcinoma metastases imaging; limited area (eg, neck and chest only)",,,XXX,30/70,False,False,False,False,False
+"Thyroid carcinoma metastases imaging; with additional studies (eg, urinary recov- ery)",,,XXX,30/70,False,False,False,False,False
+Thyroid carcinoma metastases imaging; whole body,,,XXX,30/70,False,False,False,False,False
+Thyroid carcinoma metastases uptake (List separately in addition to code for mary procedure),,,ZZZ,30/70,False,False,False,False,False
+"Parathyroid planar imaging (including subtraction, when performed);",,,XXX,30/70,False,False,False,False,False
+78071,,,XXX,16/84,False,False,False,False,False
+"Parathyroid planar imaging (including subtraction, when performed); with tomo- graphic (SPECT), and concurrently acquired computed tomography (CT) for ana- tomical localization",,,XXX,18/82,False,False,False,False,False
+"Adrenal imaging, cortex and/or medulla",,,XXX,30/70,False,False,False,False,False
+"Unlisted endocrine procedure, diagnostic nuclear medicine",,,XXX,,False,False,False,False,False
+Bone marrow imaging; limited area,,,XXX,25/75,False,False,False,False,False
+Bone marrow imaging; multiple areas,,,XXX,25/75,False,False,False,False,False
+Bone marrow imaging; whole body,,,XXX,25/75,False,False,False,False,False
+"Plasma volume, radiopharmaceutical volume-dilution technique (separate proce- dure); single sampling",,,XXX,25/75,False,False,False,False,False
+"Plasma volume, radiopharmaceutical volume-dilution technique (separate proce- dure); multiple samplings",,,XXX,25/75,False,False,False,False,False
+Red cell volume determination (separate procedure); single sampling,,,XXX,25/75,False,False,False,False,False
+Red cell volume determination (separate procedure); multiple samplings,,,XXX,25/75,False,False,False,False,False
+"Whole blood volume determination, including separate measurement of plasma volume and red cell volume (radiopharmaceutical volume-dilution technique)",,,XXX,25/75,False,False,False,False,False
+Red cell survival study;,,,XXX,25/75,False,False,False,False,False
+"Red cell survival study; differential organ/tissue kinetics (eg, splenic and/or hepatic sequestration)",,,XXX,25/75,False,False,False,False,False
+"Labeled red cell sequestration, differential organ/tissue (eg, splenic and/or hepatic)",,,XXX,25/75,False,False,False,False,False
+"Spleen imaging only, with or without vascular flow",,,XXX,25/75,False,False,False,False,False
+Platelet survival study,,,XXX,25/75,False,False,False,False,False
+Lymphatics and lymph nodes imaging,,,XXX,25/75,False,False,False,False,False
+"Unlisted hematopoietic, reticuloendothelial and lymphatic procedure, diagnostic nuclear medicine",,,XXX,,False,False,False,False,False
+Liver imaging; static only,,,XXX,25/75,False,False,False,False,False
+Liver imaging; with vascular flow,,,XXX,25/75,False,False,False,False,False
+78452,"Myocardial perfusion imaging, tomographic (SPECT) (including attenuation cor- rection, qualitative or quantitative wall motion, ejection fraction by first pass or gated technique, additional quantification, when performed); multiple studies, at rest and/or stress (exercise or pharmacologic) and/or redistribution and/or rest reinjection",14.28,XXX,21/79,False,False,False,False,False
+78453,"Myocardial perfusion imaging, planar (including qualitative or quantitative wall motion, ejection fraction by first pass or gated technique, additional quantification, when performed); single study, at rest or stress (exercise or pharmacologic)",7.40,XXX,15/85,False,False,False,False,False
+78454,"Myocardial perfusion imaging, planar (including qualitative or quantitative wall motion, ejection fraction by first pass or gated technique, additional quantification, when performed); multiple studies, at rest and/or stress (exercise or pharmaco- logic) and/or redistribution and/or rest reinjection",7.27,XXX,34/66,False,False,False,False,False
+78456,"Acute venous thrombosis imaging, peptide",12.37,XXX,13/87,False,False,False,False,False
+78457,"Venous thrombosis imaging, venogram; unilateral",5.25,XXX,30/70,False,False,False,False,False
+78458,"Venous thrombosis imaging, venogram; bilateral",8.19,XXX,30/70,False,False,False,False,False
+78459,"Myocardial imaging, positron emission tomography (PET), metabolic evaluation",5.89,XXX,30/70,False,False,False,False,False
+78466,"Myocardial imaging, infarct avid, planar; qualitative or quantitative",7.93,XXX,30/70,False,False,False,False,False
+78468,"Myocardial imaging, infarct avid, planar; with ejection fraction by first pass tech- nique",7.27,XXX,30/70,False,False,False,False,False
+78469,"Myocardial imaging, infarct avid, planar; tomographic SPECT with or without quantification",8.49,XXX,20/80,False,False,False,False,False
+78472,"Cardiac blood pool imaging, gated equilibrium; planar, single study at rest or stress (exercise and/or pharmacologic), wall motion study plus ejection fraction, with or without additional quantitative processing",8.31,XXX,30/70,False,False,False,False,False
+78473,"Cardiac blood pool imaging, gated equilibrium; multiple studies, wall motion study plus ejection fraction, at rest and stress (exercise and/or pharmacologic), with or without additional quantification",14.97,XXX,30/70,False,False,False,False,False
+78481,"Cardiac blood pool imaging (planar), first pass technique; single study, at rest or with stress (exercise and/or pharmacologic), wall motion study plus ejection frac- tion, with or without quantification",8.80,XXX,30/70,False,False,False,False,False
+78483,"Cardiac blood pool imaging (planar), first pass technique; multiple studies, at rest and with stress (exercise and/or pharmacologic), wall motion study plus ejection fraction, with or without quantification",18.11,XXX,30/70,False,False,False,False,False
+78491,"Myocardial imaging, positron emission tomography (PET), perfusion; single study at rest or stress",17.01,XXX,16/84,False,False,False,False,False
+78492,"Myocardial imaging, positron emission tomography (PET), perfusion; multiple studies at rest and/or stress",21.45,XXX,16/84,False,False,False,False,False
+78494,"Cardiac blood pool imaging, gated equilibrium, SPECT, at rest, wall motion study plus ejection fraction, with or without quantitative processing",14.13,XXX,30/70,False,False,False,False,False
+78496,"Cardiac blood pool imaging, gated equilibrium, single study, at rest, with right ven- tricular ejection fraction by first pass technique (List separately in addition to code for primary procedure)",2.78,ZZZ,30/70,False,False,False,False,False
+78499,"Unlisted cardiovascular procedure, diagnostic nuclear medicine",,XXX,,False,False,False,False,True
+78579,"Pulmonary ventilation imaging (eg, aerosol or gas)",7.51,XXX,13/87,False,False,False,False,False
+78580,"Pulmonary perfusion imaging (eg, particulate)",6.43,XXX,25/75,False,False,False,False,False
+78582,"Pulmonary ventilation (eg, aerosol or gas) and perfusion imaging",13.84,XXX,16/84,False,False,False,False,False
+78597,"Quantitative differential pulmonary perfusion, including imaging when performed",8.46,XXX,17/83,False,False,False,False,False
+78598,"Quantitative differential pulmonary perfusion and ventilation (eg, aerosol or gas), including imaging when performed",12.99,XXX,13/87,False,False,False,False,False
+78599,"Unlisted respiratory procedure, diagnostic nuclear medicine",,XXX,25/75,False,False,False,False,True
+78600,"Brain imaging, less than 4 static views;",5.05,XXX,25/75,False,False,False,False,False
+78601,"Brain imaging, less than 4 static views; with vascular flow",6.38,XXX,25/75,False,False,False,False,False
+78605,"Brain imaging, minimum 4 static views;",6.25,XXX,25/75,False,False,False,False,False
+78606,"Brain imaging, minimum 4 static views; with vascular flow",7.17,XXX,25/75,False,False,False,False,False
+78814,"Positron emission tomography (PET) with concurrently acquired computed tomog- raphy (CT) for attenuation correction and anatomical localization imaging; limited area (eg, chest, head/neck)",21.42,XXX,12/88,False,False,False,False,False
+78815,Positron emission tomography (PET) with concurrently acquired computed tomog- raphy (CT) for attenuation correction and anatomical localization imaging; skull base to mid-thigh,23.58,XXX,12/88,False,False,False,False,False
+78816,Positron emission tomography (PET) with concurrently acquired computed tomog- raphy (CT) for attenuation correction and anatomical localization imaging; whole body,24.22,XXX,12/88,False,False,False,False,False
+78999,"Unlisted miscellaneous procedure, diagnostic nuclear medicine",,XXX,,False,False,False,False,True
+79005,"Radiopharmaceutical therapy, by oral administration",8.62,XXX,45/55,False,False,False,False,False
+79101,"Radiopharmaceutical therapy, by intravenous administration",8.98,XXX,60/40,False,False,False,False,False
+79200,"Radiopharmaceutical therapy, by intracavitary administration",9.08,XXX,50/50,False,False,False,False,False
+79300,"Radiopharmaceutical therapy, by interstitial radioactive colloid administration",5.25,XXX,60/40,False,False,False,False,False
+79403,"Radiopharmaceutical therapy, radiolabeled monoclonal antibody by intravenous infusion",10.20,XXX,60/40,False,False,False,False,False
+79440,"Radiopharmaceutical therapy, by intra-articular administration",7.65,XXX,60/40,False,False,False,False,False
+79445,"Radiopharmaceutical therapy, by intra-arterial particulate administration",8.62,XXX,55/45,False,False,False,False,False
+79999,"Radiopharmaceutical therapy, unlisted procedure",,XXX,,False,False,False,False,True

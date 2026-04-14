@@ -1,0 +1,37 @@
+Code,Description,Basic Unit
+01462,"Anesthesia for all closed procedures on lower leg, ankle, and foot",3
+01464,Anesthesia for arthroscopic procedures of ankle and/or foot,3
+01470,"Anesthesia for procedures on nerves, muscles, tendons, and fascia of lower leg, ankle, and foot; not other- wise specified",3
+01472,"Anesthesia for procedures on nerves, muscles, tendons, and fascia of lower leg, ankle, and foot; repair of ruptured Achilles tendon, with or without graft",5
+01474,"Anesthesia for procedures on nerves, muscles, tendons, and fascia of lower leg, ankle, and foot; gastroc- nemius recession (eg, S trayer procedure)",5
+01480,"Anesthesia for open procedures on bones of lower leg, ankle, and foot; not otherwise specified",3
+01482,"Anesthesia for open procedures on bones of lower leg, ankle, and foot; radical resection (including below knee amputation)",4
+01484,"Anesthesia for open procedures on bones of lower leg, ankle, and foot; osteotomy or osteoplasty of tibia and/or fibula",4
+01486,"Anesthesia for open procedures on bones of lower leg, ankle, and foot; total ankle replacement",7
+01490,"Anesthesia for lower leg cast application, removal, or repair",3
+01500,"Anesthesia for procedures on arteries of lower leg, including bypass graft; not otherwise specified",8
+01502,"Anesthesia for procedures on arteries of lower leg, including bypass graft; embolectomy, direct or with catheter",6
+01520,Anesthesia for procedures on veins of lower leg; not otherwise specified,3
+01522,"Anesthesia for procedures on veins of lower leg; venous thrombectomy, direct or with catheter",5
+01610,"Anesthesia for all procedures on nerves, muscles, tendons, fascia, and bursae of shoulder and axilla",5
+01620,"Anesthesia for all closed procedures on humeral head and neck, sternoclavicular joint, acromioclavicular joint, and shoulder joint",4
+01622,Anesthesia for diagnostic arthroscopic procedures of shoulder joint,4
+01630,"Anesthesia for open or surgical arthroscopic procedures on humeral head and neck, sternoclavicular joint, acromioclavicular joint, and shoulder joint; not otherwise specified",5
+01634,"Anesthesia for open or surgical arthroscopic procedures on humeral head and neck, sternoclavicular joint, acromioclavicular joint, and shoulder joint; shoulder disarticulation",9
+01636,"Anesthesia for open or surgical arthroscopic procedures on humeral head and neck, sternoclavicular joint, acromioclavicular joint, and shoulder joint; interthoracoscapular (forequarter) amputation",15
+01638,"Anesthesia for open or surgical arthroscopic procedures on humeral head and neck, sternoclavicular joint, acromioclavicular joint, and shoulder joint; total shoulder replacement",10
+01650,Anesthesia for procedures on arteries of shoulder and axilla; not otherwise specified,6
+01652,Anesthesia for procedures on arteries of shoulder and axilla; axillary-brachial aneurysm,10
+01654,Anesthesia for procedures on arteries of shoulder and axilla; bypass graft,8
+01656,Anesthesia for procedures on arteries of shoulder and axilla; axillary-femoral bypass graft,10
+01670,Anesthesia for all procedures on veins of shoulder and axilla,4
+01680,"Anesthesia for shoulder cast application, removal or repair, not otherwise specified",3
+01710,"Anesthesia for procedures on nerves, muscles, tendons, fascia, and bursae of upper arm and elbow; not otherwise specified",3
+01712,"Anesthesia for procedures on nerves, muscles, tendons, fascia, and bursae of upper arm and elbow; tenot- omy, elbow to shoulder, open",5
+01714,"Anesthesia for procedures on nerves, muscles, tendons, fascia, and bursae of upper arm and elbow; teno- plasty, elbow to shoulder",5
+01716,"Anesthesia for procedures on nerves, muscles, tendons, fascia, and bursae of upper arm and elbow; teno- desis, rupture of long tendon of biceps",5
+01730,Anesthesia for all closed procedures on humerus and elbow,3
+01732,Anesthesia for diagnostic arthroscopic procedures of elbow joint,3
+01740,Anesthesia for open or surgical arthroscopic procedures of the elbow; not otherwise specified,4
+01742,Anesthesia for open or surgical arthroscopic procedures of the elbow; osteotomy of humerus,5
+01744,Anesthesia for open or surgical arthroscopic procedures of the elbow; repair of nonunion or malunion of humerus,5

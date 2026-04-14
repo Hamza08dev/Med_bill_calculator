@@ -1,0 +1,79 @@
+Code,Description,Relative Value,FUD,PC/TC Split,schedule
+70100,"Radiologic examination, mandible; partial, less than 4 views",1.15,XXX,40/60,chiropractic
+70110,"Radiologic examination, mandible; complete, minimum of 4 views",1.94,XXX,40/60,chiropractic
+70120,"Radiologic examination, mastoids; less than 3 views per side",1.15,XXX,40/60,chiropractic
+70130,"Radiologic examination, mastoids; complete, minimum of 3 views per side",2.17,XXX,40/60,chiropractic
+70134,"Radiologic examination, internal auditory meati, complete",2.50,XXX,40/60,chiropractic
+70140,"Radiologic examination, facial bones; less than 3 views",1.66,XXX,40/60,chiropractic
+70150,"Radiologic examination, facial bones; complete, minimum of 3 views",2.04,XXX,40/60,chiropractic
+70160,"Radiologic examination, nasal bones, complete, minimum of 3 views",1.28,XXX,40/60,chiropractic
+70170,"Dacryocystography, nasolacrimal duct, radiological supervision and interpretation",1.99,XXX,35/65,chiropractic
+70190,Radiologic examination; optic foramina,1.63,XXX,40/60,chiropractic
+70200,"Radiologic examination; orbits, complete, minimum of 4 views",2.07,XXX,40/60,chiropractic
+70210,"Radiologic examination, sinuses, paranasal, less than 3 views",1.40,XXX,40/60,chiropractic
+70220,"Radiologic examination, sinuses, paranasal, complete, minimum of 3 views",2.30,XXX,40/60,chiropractic
+70240,"Radiologic examination, sella turcica",1.40,XXX,40/60,chiropractic
+70250,"Radiologic examination, skull; less than 4 views",1.66,XXX,40/60,chiropractic
+70260,"Radiologic examination, skull; complete, minimum of 4 views",2.30,XXX,40/60,chiropractic
+70328,"Radiologic examination, temporomandibular joint, open and closed mouth; unilateral",2.09,XXX,40/60,chiropractic
+70330,"Radiologic examination, temporomandibular joint, open and closed mouth; bilateral",3.06,XXX,40/60,chiropractic
+71100,"Radiologic examination, ribs, unilateral; 2 views",1.68,XXX,40/60,chiropractic
+71101,"Radiologic examination, ribs, unilateral; including posteroanterior chest, minimum of 3 views",1.94,XXX,40/60,chiropractic
+71110,"Radiologic examination, ribs, bilateral; 3 views",2.04,XXX,40/60,chiropractic
+71111,"Radiologic examination, ribs, bilateral; including posteroanterior chest, minimum of 4 views",2.42,XXX,40/60,chiropractic
+71120,"Radiologic examination; sternum, minimum of 2 views",1.48,XXX,40/60,chiropractic
+71130,"Radiologic examination; sternoclavicular joint or joints, minimum of 3 views",1.79,XXX,40/60,chiropractic
+72020,"Radiologic examination, spine, single view, specify level",1.28,XXX,40/60,chiropractic
+72040,"Radiologic examination, spine, cervical; 2 or 3 views",1.82,XXX,40/60,chiropractic
+72050,"Radiologic examination, spine, cervical; 4 or 5 views",2.32,XXX,40/60,chiropractic
+72052,"Radiologic examination, spine, cervical; 6 or more views",2.75,XXX,40/60,chiropractic
+72070,"Radiologic examination, spine; thoracic, 2 views",1.76,XXX,40/60,chiropractic
+72072,"Radiologic examination, spine; thoracic, 3 views",1.89,XXX,40/60,chiropractic
+72074,"Radiologic examination, spine; thoracic, minimum of 4 views",2.17,XXX,40/60,chiropractic
+72080,"Radiologic examination, spine; thoracolumbar junction, minimum of 2 views",1.84,XXX,40/60,chiropractic
+72081,"Radiologic examination, spine, entire thoracic and lumbar, including skull, cervical and sacral spine if performed (eg, scoliosis evaluation); one view",1.61,XXX,35/65,chiropractic
+72082,"Radiologic examination, spine, entire thoracic and lumbar, including skull, cervical and sacral spine if performed (eg, scoliosis evaluation); 2 or 3 views",2.60,XXX,26/74,chiropractic
+72083,"Radiologic examination, spine, entire thoracic and lumbar, including skull, cervical and sacral spine if performed (eg, scoliosis evaluation); 4 or 5 views",3.13,XXX,25/75,chiropractic
+72084,"Radiologic examination, spine, entire thoracic and lumbar, including skull, cervical and sacral spine if performed (eg, scoliosis evaluation); minimum of 6 views",3.64,XXX,25/75,chiropractic
+72100,"Radiologic examination, spine, lumbosacral; 2 or 3 views",1.66,XXX,40/60,chiropractic
+72110,"Radiologic examination, spine, lumbosacral; minimum of 4 views",2.42,XXX,40/60,chiropractic
+72114,"Radiologic examination, spine, lumbosacral; complete, including bending views, minimum of 6 views",3.06,XXX,40/60,chiropractic
+72170,"Radiologic examination, pelvis; 1 or 2 views",1.45,XXX,40/60,chiropractic
+72190,"Radiologic examination, pelvis; complete, minimum of 3 views",1.84,XXX,40/60,chiropractic
+72200,"Radiologic examination, sacroiliac joints; less than 3 views",1.53,XXX,40/60,chiropractic
+72220,"Radiologic examination, sacrum and coccyx, minimum of 2 views",1.56,XXX,40/60,chiropractic
+73000,"Radiologic examination; clavicle, complete",1.58,XXX,40/60,chiropractic
+73010,"Radiologic examination; scapula, complete",1.66,XXX,40/60,chiropractic
+73020,"Radiologic examination, shoulder; 1 view",1.40,XXX,40/60,chiropractic
+73030,"Radiologic examination, shoulder, complete, minimum of 2 views",1.79,XXX,40/60,chiropractic
+73050,"Radiologic examination; acromioclavicular joints, bilateral, with or without weighted distraction",1.58,XXX,40/60,chiropractic
+73060,"Radiologic examination; humerus, minimum of 2 views",1.48,XXX,40/60,chiropractic
+73070,"Radiologic examination, elbow, 2 views",1.33,XXX,40/60,chiropractic
+73080,"Radiologic examination, elbow; complete, minimum of 3 views",1.48,XXX,40/60,chiropractic
+73090,"Radiologic examination; forearm, 2 views",1.28,XXX,40/60,chiropractic
+73100,"Radiologic examination, wrist, 2 views",1.17,XXX,40/60,chiropractic
+73110,"Radiologic examination, wrist, complete, minimum of 3 views",1.33,XXX,40/60,chiropractic
+73120,"Radiologic examination, hand; 2 views",1.20,XXX,40/60,chiropractic
+73130,"Radiologic examination, hand; minimum of 3 views",1.33,XXX,40/60,chiropractic
+73140,"Radiologic examination, finger(s), minimum of 2 views",1.01,XXX,40/60,chiropractic
+73501,"Radiologic examination, hip, unilateral, with pelvis when performed; 1 view",1.25,XXX,32/68,chiropractic
+73502,"Radiologic examination, hip, unilateral, with pelvis when performed; 2-3 views",1.73,XXX,27/73,chiropractic
+73503,"Radiologic examination, hip, unilateral, with pelvis when performed; minimum of 4 views",2.15,XXX,28/72,chiropractic
+73521,"Radiologic examination, hips, bilateral, with pelvis when performed; 2 views",1.56,XXX,30/70,chiropractic
+73522,"Radiologic examination, hips, bilateral, with pelvis when performed; 3-4 views",2.04,XXX,31/69,chiropractic
+73523,"Radiologic examination, hips, bilateral, with pelvis when performed; minimum of 5 views",2.36,XXX,29/71,chiropractic
+73551,"Radiologic examination, femur; 1 view",1.17,XXX,30/70,chiropractic
+73552,"Radiologic examination, femur, minimum 2 views",1.37,XXX,29/71,chiropractic
+73560,"Radiologic examination, knee; 1 or 2 views",1.40,XXX,40/60,chiropractic
+73562,"Radiologic examination, knee; 3 views",1.66,XXX,40/60,chiropractic
+73564,"Radiologic examination, knee; complete, 4 or more views",1.86,XXX,40/60,chiropractic
+73565,"Radiologic examination, knee; both knees, standing, anteroposterior",1.40,XXX,40/60,chiropractic
+73590,"Radiologic examination; tibia and fibula, 2 views",1.53,XXX,40/60,chiropractic
+73600,"Radiologic examination, ankle; 2 views",1.38,XXX,40/60,chiropractic
+73610,"Radiologic examination, ankle; complete, minimum of 3 views",1.48,XXX,40/60,chiropractic
+73620,"Radiologic examination, foot; 2 views",1.43,XXX,40/60,chiropractic
+73630,"Radiologic examination, foot; complete, minimum of 3 views",1.48,XXX,40/60,chiropractic
+73650,"Radiologic examination; calcaneus, minimum of 2 views",1.28,XXX,40/60,chiropractic
+73660,"Radiologic examination; toe(s), minimum of 2 views",1.12,XXX,40/60,chiropractic
+76080,"Radiologic examination, abscess, fistula or sinus tract study, radiological supervision and interpretation",2.35,XXX,35/65,chiropractic
+76999,"Unlisted ultrasound procedure (eg, diagnostic, interventional)",BR,XXX,,chiropractic

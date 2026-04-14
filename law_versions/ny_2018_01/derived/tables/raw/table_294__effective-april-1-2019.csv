@@ -1,0 +1,34 @@
+,Code Description,Relative Value,FUD,PC/TC Split
+86941,Hemolysins and agglutinins; incubated,13.55 XXX,,0/100
+86945,"Irradiation of blood product, each unit",18.48,XXX,0/100
+86950,Leukocyte transfusion,33.89,XXX,0/100
+86960,"Volume reduction of blood or blood product (eg, red blood cells or platelets), each unit",12.32 XXX,,0/100
+86965,Pooling of platelets or other blood products,8.63 XXX,,0/100
+86970,"Pretreatment of RBCs for use in RBC antibody detection, identification, and/or compatibility testing; incubation with chemical agents or drugs, each",9.86,XXX,0/100
+86971,"Pretreatment of RBCs for use in RBC antibody detection, identification, and/or compatibility testing; incubation with enzymes, each",9.86 XXX,,0/100
+86972,"Pretreatment of RBCs for use in RBC antibody detection, identification, and/or compatibility testing; by density gradient separation",9.24,XXX,0/100
+86975,"Pretreatment of serum for use in RBC antibody identification; incubation with drugs, each",6.16,XXX,0/100
+86976,Pretreatment of serum for use in RBC antibody identification; by dilution,4.93,XXX,0/100
+86977,"Pretreatment of serum for use in RBC antibody identification; incubation with inhibitors, each",6.16,XXX,0/100
+86978,"Pretreatment of serum for use in RBC antibody identification; by differential red cell absorption using patient RBCs or RBCs of known phenotype, each absorption",13.55,XXX,0/100
+86985,"Splitting of blood or blood products, each unit",12.94,XXX,0/100
+86999,Unlisted transfusion medicine procedure,BR,XXX,
+87003,"Animal inoculation, small animal, with observation and dissection",24.64,XXX,0/100
+87015,"Concentration (any type), for infectious agents",12.94,XXX,0/100
+87040,"Culture, bacterial; blood, aerobic, with isolation and presumptive identification of isolates (includes anaerobic culture, if appropriate)",17.25,XXX,0/100
+87045,"Culture, bacterial; stool, aerobic, with isolation and preliminary examination (eg, KIA, LIA), Salmonella and Shigella species",17.25,XXX,0/100
+87046,"Culture, bacterial; stool, aerobic, additional pathogens, isolation and presumptive identification of isolates, each plate",17.25,XXX,0/100
+87070,"Culture, bacterial; any other source except urine, blood or stool, aerobic, with iso- lation and presumptive identification of isolates",16.64,XXX,0/100
+87071,"Culture, bacterial; quantitative, aerobic with isolation and presumptive identifica- tion of isolates, any source except urine, blood or stool",17.25,XXX,0/100
+87073,"Culture, bacterial; quantitative, anaerobic with isolation and presumptive identifi- cation of isolates, any source except urine, blood or stool",19.10,XXX,0/100
+87075,"Culture, bacterial; any source, except blood, anaerobic with isolation and pre- sumptive identification of isolates",19.10,XXX,0/100
+87076,"Culture, bacterial; anaerobic isolate, additional methods required for definitive identification, each isolate",19.10,XXX,0/100
+87077,"Culture, bacterial; aerobic isolate, additional methods required for definitive iden- tification, each isolate",19.10,XXX,0/100
+87081,"Culture, presumptive, pathogenic organisms, screening only;",9.86,XXX,0/100
+87084,"Culture, presumptive, pathogenic organisms, screening only; with colony estima- tion from density chart",12.32,XXX,0/100
+87086,"Culture, bacterial; quantitative colony count, urine",15.40,XXX,0/100
+87088,"Culture, bacterial; with isolation and presumptive identification of each isolate, urine",14.79,XXX,0/100
+87101,"Culture, fungi (mold or yeast) isolation, with presumptive identification of isolates; skin, hair, or nail",12.94,XXX,0/100
+87102,"Culture, fungi (mold or yeast) isolation, with presumptive identification of isolates; other source (except blood)",16.02,XXX,0/100
+87103,"Culture, fungi (mold or yeast) isolation, with presumptive identification of isolates; blood",18.48,XXX,0/100
+87106,"Culture, fungi, definitive identification, each organism; yeast",16.63,XXX,0/100

@@ -1,0 +1,10 @@
+# configs/providers.yaml
+providers:
+  medical:
+    aliases: ["medical", "physician", "provider fee schedules"]
+  chiropractic:
+    aliases: ["chiropractic", "chiropractor"]
+  podiatry:
+    aliases: ["podiatry", "podiatrist"]
+  behavioural:
+    aliases: ["behavioral", "behavioural", "behavioral health"]

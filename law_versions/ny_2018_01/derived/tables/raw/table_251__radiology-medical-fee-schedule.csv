@@ -1,0 +1,31 @@
+,Code,Description,Relative Value,FUD,PC/TC Split
+,76001,"Fluoroscopy, physician or other qualified health care professional time more than 1 hour, assisting a nonradiologic physician or other qualified health care profes- sional (eg, nephrostolithotomy, ERCP, bronchoscopy, transbronchial biopsy)",6.59,XXX,35/65
+,76010,"Radiologic examination from nose to rectum for foreign body, single view, child",1.45,XXX,35/65
+,76080,"Radiologic examination, abscess, fistula or sinus tract study, radiological supervi- sion and interpretation",2.35,XXX,35/65
+,76098,"Radiological examination, surgical specimen",1.15,XXX,40/60
+,76100,"Radiologic examination, single plane body section (eg, tomography), other than with urography",3.32,XXX,40/60
+,76101,"Radiologic examination, complex motion (ie, hypercycloidal) body section (eg, mastoid polytomography), other than with urography; unilateral",4.08,XXX,40/60
+,76102,"Radiologic examination, complex motion (ie, hypercycloidal) body section (eg, mastoid polytomography), other than with urography; bilateral",5.36,XXX,40/60
+,76120,"Cineradiography/videoradiography, except where specifically included",2.81,XXX,40/60
+,76125,Cineradiography/videoradiography to complement routine examination (List sepa- rately in addition to code for primary procedure),2.30,ZZZ,40/60
+,76140,"Consultation on X-ray examination made elsewhere, written report",BR,XXX,
+,76376,"3D rendering with interpretation and reporting of computed tomography, magnetic resonance imaging, ultrasound, or other tomographic modality with image post- processing under concurrent supervision; not requiring image postprocessing on an independent workstation",4.40,XXX,15/85
+,76377,"3D rendering with interpretation and reporting of computed tomography, magnetic resonance imaging, ultrasound, or other tomographic modality with image post- processing under concurrent supervision; requiring image postprocessing on an independent workstation",5.65,XXX,44/56
+,76380,"Computed tomography, limited or localized follow-up study",6.61,XXX,26/74
+,76390,Magnetic resonance spectroscopy,15.42,XXX,14/86
+,76496,"Unlisted fluoroscopic procedure (eg, diagnostic, interventional)",BR,XXX,
+,76497,"Unlisted computed tomography procedure (eg, diagnostic, interventional)",BR,XXX,
+,76498,"Unlisted magnetic resonance procedure (eg, diagnostic, interventional)",BR,XXX,
+,76499,Unlisted diagnostic radiographic procedure,BR,XXX,
+,76506,"Echoencephalography, real time with image documentation (gray scale) (for determination of ventricular size, delineation of cerebral contents, and detection of fluid masses or other intracranial abnormalities), including A-mode encepha- lography as secondary component where indicated",4.44,XXX,45/55
+,76510,"Ophthalmic ultrasound, diagnostic; B-scan and quantitative A-scan performed during the same patient encounter",6.63,XXX,50/50
+,76511,"Ophthalmic ultrasound, diagnostic; quantitative A-scan only",4.85,XXX,45/55
+,76512,"Ophthalmic ultrasound, diagnostic; B-scan (with or without superimposed non-quantitative A-scan)",5.36,XXX,45/55
+,76513,"Ophthalmic ultrasound, diagnostic; anterior segment ultrasound, immersion (water bath) B-scan or high resolution biomicroscopy",5.10,XXX,40/60
+,76514,"Ophthalmic ultrasound, diagnostic; corneal pachymetry, unilateral or bilateral (determination of corneal thickness)",0.87,XXX,45/55
+,76516,"Ophthalmic biometry by ultrasound echography, A-scan;",5.10,XXX,45/55
+,76519,"Ophthalmic biometry by ultrasound echography, A-scan; with intraocular lens power calculation",5.10,XXX,45/55
+,76529,Ophthalmic ultrasonic foreign body localization,4.59,XXX,45/55
+,76536,"Ultrasound, soft tissues of head and neck (eg, thyroid, parathyroid, parotid), real time with image documentation",4.05,XXX,45/55
+,76604,"Ultrasound, chest (includes mediastinum), real time with image documentation",5.10,XXX,45/55
+,76641,"Ultrasound, breast, unilateral, real time with image documentation, including axilla when performed; complete",4.51,XXX,34/66

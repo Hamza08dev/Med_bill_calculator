@@ -1,0 +1,277 @@
+Code,Description,Basic Unit,schedule
+100,"Anesthesia for procedures on salivary glands, including biopsy",5.0,medical
+102,Anesthesia for procedures involving plastic repair of cleft lip,6.0,medical
+103,"Anesthesia for reconstructive procedures of eyelid (eg, blepharoplasty, ptosis surgery)",5.0,medical
+104,Anesthesia for electroconvulsive therapy,4.0,medical
+120,"Anesthesia for procedures on external, middle, and inner ear including biopsy; not otherwise specified",5.0,medical
+124,"Anesthesia for procedures on external, middle, and inner ear including biopsy; otoscopy",4.0,medical
+126,"Anesthesia for procedures on external, middle, and inner ear including biopsy tympanotomy",4.0,medical
+140,Anesthesia for procedures on eye; not otherwise specified,5.0,medical
+142,Anesthesia for procedures on eye; lens surgery,4.0,medical
+144,Anesthesia for procedures on eye; corneal transplant,6.0,medical
+145,Anesthesia for procedures on eye; vitreoretinal surgery,6.0,medical
+147,Anesthesia for procedures on eye; iridectomy,6.0,medical
+148,Anesthesia for procedures on eye; ophthalmoscopy,4.0,medical
+160,Anesthesia for procedures on nose and accessory sinuses; not otherwise specified,5.0,medical
+162,Anesthesia for procedures on nose and accessory sinuses; radical surgery.,7.0,medical
+164,"Anesthesia for procedures on nose and accessory sinuses; biopsy, soft tissue",4.0,medical
+170,"Anesthesia for intraoral procedures, including biopsy; not otherwise specified",5.0,medical
+172,"Anesthesia for intraoral procedures, including biopsy; repair of cleft palate",6.0,medical
+174,"Anesthesia for intraoral procedures, including biopsy; excision of retropharyngeal tumor",6.0,medical
+176,"Anesthesia for intraoral procedures, including biopsy; radical surgery",7.0,medical
+190,Anesthesia for procedures on facial bones or skull; not otherwise specified,5.0,medical
+192,Anesthesia for procedures on facial bones or skull; radical surgery (including prognathism),7.0,medical
+210,Anesthesia for intracranial procedures; not otherwise specified,11.0,medical
+211,Anesthesia for intracranial procedures; craniotomy or craniectomy for evacuation of hematoma,10.0,medical
+212,Anesthesia for intracranial procedures; subdural taps,5.0,medical
+214,"Anesthesia for intracranial procedures; burr holes, including ventriculography",9.0,medical
+215,"Anesthesia for intracranial procedures; cranioplasty or elevation of depressed skull fracture, extradural (simple or compound)",9.0,medical
+216,Anesthesia for intracranial procedures; vascular procedures,15.0,medical
+218,Anesthesia for intracranial procedures; procedures in sitting position,13.0,medical
+220,Anesthesia for intracranial procedures; cerebrospinal fluid shunting procedures,10.0,medical
+222,Anesthesia for intracranial procedures; electrocoagulation of intracranial nerve,6.0,medical
+300,"Anesthesia for all procedures on the integumentary system, muscles and nerves of head, neck, and posterior trunk, not otherwise specified",5.0,medical
+320,"Anesthesia for all procedures on esophagus, thyroid, larynx, trachea and lymphatic system of neck; not otherwise specified, age 1 year or older",6.0,medical
+322,"Anesthesia for all procedures on esophagus, thyroid, larynx, trachea and lymphatic system of neck; needle biopsy of thyroid",3.0,medical
+326,Anesthesia for all procedures on the larynx and trachea in children younger than 1 year of age,8.0,medical
+350,Anesthesia for procedures on major vessels of neck; not otherwise specified,10.0,medical
+352,"Anesthesia for procedures on major vessels of neck, simple ligation",5.0,medical
+400,"Anesthesia for procedures on the integumentary system on the extremities, anterior trunk and perineum; not otherwise specified",3.0,medical
+402,"Anesthesia for procedures on the integumentary system on the extremities, anterior trunk and perineum; reconstructive procedures on breast (eg, reduction or augmentation mammoplasty, muscle flaps)",5.0,medical
+404,"Anesthesia for procedures on the integumentary system on the extremities, anterior trunk and perineum; radical or modified radical procedures on breast",5.0,medical
+406,"Anesthesia for procedures on the integumentary system on the extremities, anterior trunk and perineum; radical or modified radical procedures on breast with internal mammary node dissection",13.0,medical
+410,"Anesthesia for procedures on the integumentary system on the extremities, anterior trunk and perineum; electrical conversion of arrhythmias",4.0,medical
+450,Anesthesia for procedures on clavicle and scapula; not otherwise specified,5.0,medical
+454,Anesthesia for procedures on clavicle and scapula; biopsy of clavicle,3.0,medical
+470,Anesthesia for partial rib resection; not otherwise specified,6.0,medical
+472,Anesthesia for partial rib resection; thoracoplasty (any type),10.0,medical
+474,"Anesthesia for partial rib resection; radical procedures (eg, pectus excavatum)",13.0,medical
+500,Anesthesia for all procedures on esophagus,15.0,medical
+520,Anesthesia for closed chest procedures; (including bronchoscopy) not otherwise specified,6.0,medical
+522,Anesthesia for closed chest procedures; needle biopsy of pleura,4.0,medical
+524,Anesthesia for closed chest procedures; pneumocentesis,4.0,medical
+528,Anesthesia for closed chest procedures; mediastinoscopy and diagnostic thoracoscopy not utilizing 1 lung ventilation,8.0,medical
+529,Anesthesia for closed chest procedures; mediastinoscopy and diagnostic thoracoscopy utilizing 1 lung ventilation,11.0,medical
+530,Anesthesia for permanent transvenous pacemaker insertion,4.0,medical
+532,Anesthesia for access to central venous circulation,4.0,medical
+534,Anesthesia for transvenous insertion or replacement of pacing cardioverterdefibrillator-,7.0,medical
+537,Anesthesia for cardiac electrophysiologic procedures including radiofrequency ablation,10.0,medical
+539,Anesthesia for tracheobronchial reconstruction,18.0,medical
+540,"Anesthesia for thoracotomy procedures involving lungs, pleura, diaphragm, and mediastinum (including surgical thoracoscopy); not otherwise specified",12.0,medical
+541,"Anesthesia for thoracotomy procedures involving lungs, pleura, diaphragm, and mediastinum (including surgical thoracoscopy); utilizing 1 lung ventilation",15.0,medical
+542,"Anesthesia for thoracotomy procedures involving lungs, pleura, diaphragm, and mediastinum (including surgical thoracoscopy); decortication",15.0,medical
+546,"Anesthesia for thoracotomy procedures involving lungs, pleura, diaphragm, and mediastinum (including surgical thoracoscopy); pulmonary resection with thoracoplasty",15.0,medical
+548,"Anesthesia for thoracotomy procedures involving lungs, pleura, diaphragm, and mediastinum (including surgical thoracoscopy); intrathoracic procedures on the trachea and bronchi",17.0,medical
+550,Anesthesia for sternal debridement,10.0,medical
+560,"Anesthesia for procedures on heart, pericardial sac, and great vessels of chest; without pump oxygenator",15.0,medical
+561,"Anesthesia for procedures on heart, pericardial sac, and great vessels of chest, with pump oxygenator, younger than 1 year of age",25.0,medical
+562,"Anesthesia for procedures on heart, pericardial sac, and great vessels of chest, with pump oxygenator, age 1 year or older, for all noncoronary bypass procedures (eg, valve procedures) or for re-operation for coronary bypass more than 1 month after original operation",20.0,medical
+563,"Anesthesia for procedures on heart, pericardial sac, and great vessels of chest, with pump oxygenator with hypothermic circulatory arrest",25.0,medical
+566,Anesthesia for direct coronary artery bypass grafting; without pump oxygenator,25.0,medical
+567,Anesthesia for direct coronary artery bypass grafting; with pump oxygenator,18.0,medical
+580,Anesthesia for heart transplant or heart/lung transplant,20.0,medical
+600,Anesthesia for procedures on cervical spine and cord; not otherwise specified,10.0,medical
+604,Anesthesia for procedures on cervical spine and cord; procedures with patient in the sitting position,13.0,medical
+620,"Anesthesia for procedures on thoracic spine and cord, not otherwise specified",10.0,medical
+625,"Anesthesia for procedures on the thoracic spine and cord, via an anterior transthoracic approach; not utilizing 1 lung ventilation",13.0,medical
+626,"Anesthesia for procedures on the thoracic spine and cord, via an anterior transthoracic approach; utilizing 1 lung ventilation",15.0,medical
+630,Anesthesia for procedures in lumbar region; not otherwise specified,8.0,medical
+632,Anesthesia for procedures in lumbar region; lumbar sympathectomy,7.0,medical
+635,Anesthesia for procedures in lumbar region; diagnostic or therapeutic lumbar puncture,4.0,medical
+640,"Anesthesia for manipulation of the spine or for closed procedures on the cervical, thoracic or lumbar spine",3.0,medical
+670,"Anesthesia for extensive spine and spinal cord procedures (eg, spinal instrumentation or vascular procedures)",13.0,medical
+700,Anesthesia for procedures on upper anterior abdominal wall; not otherwise specified,4.0,medical
+702,Anesthesia for procedures on upper anterior abdominal wall; percutaneous liver biopsy,4.0,medical
+730,Anesthesia for procedures on upper posterior abdominal wall,5.0,medical
+731,"Anesthesia for upper gastrointestinal endoscopic procedures, endoscope introduced proximal to duodenum; not otherwise specified",5.0,medical
+732,"Anesthesia for upper gastrointestinal endoscopic procedures, endoscope introduced proximal to duodenum; endoscopic retrograde cholangiopancreatography (ERCP)",6.0,medical
+750,Anesthesia for hernia repairs in upper abdomen; not otherwise specified,4.0,medical
+752,Anesthesia for hernia repairs in upper abdomen; lumbar and ventral (incisional) hernias and/or wound dehiscence,6.0,medical
+754,"Anesthesia for hernia repairs in upper abdomen, omphalocele",7.0,medical
+756,Anesthesia for hernia repairs in upper abdomen; transabdominal repair of diaphragmatic hernia,7.0,medical
+770,Anesthesia for all procedures on major abdominal blood vessels,15.0,medical
+790,Anesthesia for intraperitoneal procedures in upper abdomen including laparoscopy; not otherwise specified,7.0,medical
+792,Anesthesia for intraperitoneal procedures in upper abdomen including laparoscopy; partial hepatectomy or management of liver hemorrhage (excluding liver biopsy),13.0,medical
+794,"Anesthesia for intraperitoneal procedures in upper abdomen including laparoscopy; pancreatectomy, partial or total (eg, Whipple procedure)",8.0,medical
+796,"Anesthesia for intraperitoneal procedures in upper abdomen including laparoscopy, liver transplant (recipient)",30.0,medical
+797,Anesthesia for intraperitoneal procedures in upper abdomen including laparoscopy; gastric restrictive procedure for morbid obesity,11.0,medical
+800,Anesthesia for procedures on lower anterior abdominal wall; not otherwise specified,4.0,medical
+802,Anesthesia for procedures on lower anterior abdominal wall; panniculectomy,5.0,medical
+811,"Anesthesia for lower intestinal endoscopic procedures, endoscope introduced distal to duodenum; not otherwise specified",4.0,medical
+812,"Anesthesia for lower intestinal endoscopic procedures, endoscope introduced distal to duodenum; screening colonoscopy",4.0,medical
+813,"Anesthesia for combined upper and lower gastrointestinal endoscopic procedures, endoscope introduced both proximal to and distal to the duodenum",5.0,medical
+820,Anesthesia for procedures on lower posterior abdominal wall,5.0,medical
+830,Anesthesia for hernia repairs in lower abdomen; not otherwise specified,4.0,medical
+832,Anesthesia for hernia repairs in lower abdomen; ventral and incisional hernias,6.0,medical
+834,"Anesthesia for hernia repairs in the lower abdomen not otherwise specified, younger than 1 year of age",5.0,medical
+836,"Anesthesia for hernia repairs in the lower abdomen not otherwise specified, infants younger than 37 weeks gestational age at birth and younger than 50 weeks gestational age at time of surgery",6.0,medical
+840,Anesthesia for intraperitoneal procedures in lower abdomen including laparoscopy; not otherwise specified,6.0,medical
+842,Anesthesia for intraperitoneal procedures in lower abdomen including laparoscopy; amniocentesis,4.0,medical
+844,Anesthesia for intraperitoneal procedures in lower abdomen including laparoscopy; abdominoperineal resection,7.0,medical
+846,Anesthesia for intraperitoneal procedures in lower abdomen including laparoscopy; radical hysterectomy,8.0,medical
+848,Anesthesia for intraperitoneal procedures in lower abdomen including laparoscopy; pelvic exenteration,8.0,medical
+851,Anesthesia for intraperitoneal procedures in lower abdomen including laparoscopy; tubal ligation/transection,6.0,medical
+860,"Anesthesia for extraperitoneal procedures in lower abdomen, including urinary tract; not otherwise specified",6.0,medical
+862,"Anesthesia for extraperitoneal procedures in lower abdomen, including urinary tract; renal procedures, including upper one-third of ureter, or donor nephrectomy",7.0,medical
+864,"Anesthesia for extraperitoneal procedures in lower abdomen, including urinary tract; total cystectomy",8.0,medical
+865,"Anesthesia for extraperitoneal procedures in lower abdomen, including urinary tract; radical prostatectomy (suprapubic, retropubic)",7.0,medical
+866,"Anesthesia for extraperitoneal procedures in lower abdomen, including urinary tract; adrenalectomy",10.0,medical
+868,"Anesthesia for extraperitoneal procedures in lower abdomen, including urinary tract; renal transplant (recipient)",10.0,medical
+870,"Anesthesia for extraperitoneal procedures in lower abdomen, including urinary tract; cystolithotomy",5.0,medical
+872,"Anesthesia for lithotripsy, extracorporeal shock wave; with water bath",7.0,medical
+873,"Anesthesia for lithotripsy, extracorporeal shock wave; without water bath",5.0,medical
+880,Anesthesia for procedures on major lower abdominal vessels; not otherwise specified,15.0,medical
+882,Anesthesia for procedures on major lower abdominal vessels; inferior vena cava ligation,10.0,medical
+902,Anesthesia for; anorectal procedure,5.0,medical
+904,"Anesthesia for, radical perineal procedure",7.0,medical
+906,Anesthesia for; vulvectomy,4.0,medical
+908,"Anesthesia for, perineal prostatectomy",6.0,medical
+910,Anesthesia for transurethral procedures (including urethrocystoscopy); not otherwise specified,3.0,medical
+912,Anesthesia for transurethral procedures (including urethrocystoscopy); transurethral resection of bladder tumor(s),5.0,medical
+914,Anesthesia for transurethral procedures (including urethrocystoscopy); transurethral resection of prostate,5.0,medical
+916,Anesthesia for transurethral procedures (including urethrocystoscopy); post-transurethral resection bleeding,5.0,medical
+918,"Anesthesia for transurethral procedures (including urethrocystoscopy); with fragmentation, manipulation and/or removal of ureteral calculus",5.0,medical
+920,Anesthesia for procedures on male genitalia (including open urethral procedures); not otherwise specified,3.0,medical
+921,"Anesthesia for procedures on male genitalia (including open urethral procedures); vasectomy, unilateral or bilateral",3.0,medical
+922,Anesthesia for procedures on male genitalia (including open urethral procedures); seminal vesicles,6.0,medical
+924,"Anesthesia for procedures on male genitalia (including open urethral procedures); undescended testis, unilateral or bilateral",4.0,medical
+926,"Anesthesia for procedures on male genitalia (including open urethral procedures); radical orchiectomy, inguinal",4.0,medical
+928,"Anesthesia for procedures on male genitalia (including open urethral procedures); radical orchiectomy, abdominal",6.0,medical
+930,"Anesthesia for procedures on male genitalia (including open urethral procedures); orchiopexy, unilateral or bilateral",4.0,medical
+932,Anesthesia for procedures on male genitalia (including open urethral procedures); complete amputation of penis,4.0,medical
+934,Anesthesia for procedures on male genitalia (including open urethral procedures); radical amputation of penis with bilateral inguinal lymphadenectomy,6.0,medical
+936,Anesthesia for procedures on male genitalia (including open urethral procedures); radical amputation of penis with bilateral inguinal and iliac lymphadenectomy,8.0,medical
+938,Anesthesia for procedures on male genitalia (including open urethral procedures); insertion of penile prosthesis (perineal approach),4.0,medical
+940,"Anesthesia for vaginal procedures (including biopsy of labia, vagina, cervix or endometrium); not otherwise specified",3.0,medical
+942,"Anesthesia for vaginal procedures (including biopsy of labia, vagina, cervix or endometrium); colpotomy, vaginectomy, colporrhaphy, and open urethral procedures",4.0,medical
+944,"Anesthesia for vaginal procedures (including biopsy of labia, vagina, cervix or endometrium); vaginal hysterectomy",6.0,medical
+948,"Anesthesia for vaginal procedures (including biopsy of labia, vagina, cervix or endometrium); cervical cerclage",4.0,medical
+950,"Anesthesia for vaginal procedures (including biopsy of labia, vagina, cervix or endometrium); culdoscopy",5.0,medical
+952,"Anesthesia for vaginal procedures (including biopsy of labia, vagina, cervix or endometrium); hysteroscopy and/or hysterosalpingography",4.0,medical
+1112,"Anesthesia for bone marrow aspiration and/or biopsy, anterior or posterior iliac crest",5.0,medical
+1120,Anesthesia for procedures on bony pelvis,6.0,medical
+1130,Anesthesia for body cast application or revision,3.0,medical
+1140,Anesthesia for interpelviabdominal (hindquarter) amputation,15.0,medical
+1150,"Anesthesia for radical procedures for tumor of pelvis, except hindquarter amputation",10.0,medical
+1160,Anesthesia for closed procedures involving symphysis pubis or sacroiliac joint,4.0,medical
+1170,Anesthesia for open procedures involving symphysis pubis or sacroiliac joint,8.0,medical
+1173,Anesthesia for open repair of fracture disruption of pelvis or column fracture involving acetabulum,12.0,medical
+1200,Anesthesia for all closed procedures involving hip joint,4.0,medical
+1202,Anesthesia for arthroscopic procedures of hip joint,4.0,medical
+1210,Anesthesia for open procedures involving hip joint; not otherwise specified,6.0,medical
+1212,Anesthesia for open procedures involving hip joint; hip disarticulation,10.0,medical
+1214,Anesthesia for open procedures involving hip joint; total hip arthroplasty,8.0,medical
+1215,Anesthesia for open procedures involving hip joint; revision of total hip arthroplasty,10.0,medical
+1220,Anesthesia for all closed procedures involving upper two-thirds of femur,4.0,medical
+1230,"Anesthesia for open procedures involving upper two-thirds of femur, not otherwise specified",6.0,medical
+1232,Anesthesia for open procedures involving upper two-thirds of femur; amputation,5.0,medical
+1234,"Anesthesia for open procedures involving upper two-thirds of femur, radical resection",8.0,medical
+1250,"Anesthesia for all procedures on nerves, muscles, tendons, fascia, and bursae of upper leg",4.0,medical
+1260,"Anesthesia for all procedures involving veins of upper leg, including exploration",3.0,medical
+1270,"Anesthesia for procedures involving arteries of upper leg, including bypass graft; not otherwise specified",8.0,medical
+1272,"Anesthesia for procedures involving arteries of upper leg, including bypass graft; femoral artery ligation",4.0,medical
+1274,"Anesthesia for procedures involving arteries of upper leg, including bypass graft; femoral artery embolectomy",6.0,medical
+1320,"Anesthesia for all procedures on nerves, muscles, tendons, fascia, and bursae of knee and/or popliteal area",4.0,medical
+1340,Anesthesia for all closed procedures on lower one-third of femur,4.0,medical
+1360,Anesthesia for all open procedures on lower one-third of femur,5.0,medical
+1380,Anesthesia for all closed procedures on knee joint,3.0,medical
+1382,Anesthesia for diagnostic arthroscopic procedures of knee joint,3.0,medical
+1390,"Anesthesia for all closed procedures on upper ends of tibia, fibula, and/or patella",3.0,medical
+1392,"Anesthesia for all open procedures on upper ends of tibia, fibula, and/or patella",4.0,medical
+1400,Anesthesia for open or surgical arthroscopic procedures on knee joint; not otherwise specified,4.0,medical
+1402,Anesthesia for open or surgical arthroscopic procedures on knee joint; total knee arthroplasty,7.0,medical
+1404,Anesthesia for open or surgical arthroscopic procedures on knee joint; disarticulation at knee,5.0,medical
+1420,"Anesthesia for all cast applications, removal, or repair involving knee joint",3.0,medical
+1430,Anesthesia for procedures on veins of knee and popliteal area; not otherwise specified,3.0,medical
+1432,Anesthesia for procedures on veins of knee and popliteal area; arteriovenous fistula,6.0,medical
+1440,Anesthesia for procedures on arteries of knee and popliteal area; not otherwise specified,8.0,medical
+1442,"Anesthesia for procedures on arteries of knee and popliteal area; popliteal thromboendarterectomy, with or without patch graft",8.0,medical
+1444,Anesthesia for procedures on arteries of knee and popliteal area; popliteal excision and graft or repair for occlusion or aneurysm,8.0,medical
+1462,"Anesthesia for all closed procedures on lower leg, ankle, and foot",3.0,medical
+1464,Anesthesia for arthroscopic procedures of ankle and/or foot,3.0,medical
+1470,"Anesthesia for procedures on nerves, muscles, tendons, and fascia of lower leg, ankle, and foot; not otherwise specified",3.0,medical
+1472,"Anesthesia for procedures on nerves, muscles, tendons, and fascia of lower leg, ankle, and foot; repair of ruptured Achilles tendon, with or without graft",5.0,medical
+1474,"Anesthesia for procedures on nerves, muscles, tendons, and fascia of lower leg, ankle, and foot; gastrocnemius recession (eg, Strayer procedure)",5.0,medical
+1480,"Anesthesia for open procedures on bones of lower leg, ankle, and foot; not otherwise specified",3.0,medical
+1482,"Anesthesia for open procedures on bones of lower leg, ankle, and foot, radical resection (including below knee amputation)",4.0,medical
+1484,"Anesthesia for open procedures on bones of lower leg, ankle, and foot, osteotomy or osteoplasty of tibia and/or fibula",4.0,medical
+1486,"Anesthesia for open procedures on bones of lower leg, ankle, and foot, total ankle replacement",7.0,medical
+1490,"Anesthesia for lower leg cast application, removal, or repair",3.0,medical
+1500,"Anesthesia for procedures on arteries of lower leg, including bypass graft, not otherwise specified",8.0,medical
+1502,"Anesthesia for procedures on arteries of lower leg, including bypass graft, embolectomy, direct or with catheter",6.0,medical
+1520,Anesthesia for procedures on veins of lower leg; not otherwise specified,3.0,medical
+1522,"Anesthesia for procedures on veins of lower leg; venous thrombectomy, direct or with catheter",5.0,medical
+1610,"Anesthesia for all procedures on nerves, muscles, tendons, fascia, and bursae of shoulder and axilla",5.0,medical
+1620,"Anesthesia for all closed procedures on humeral head and neck, sternoclavicular joint, acromioclavicular joint, and shoulder joint",4.0,medical
+1622,Anesthesia for diagnostic arthroscopic procedures of shoulder joint,4.0,medical
+1630,"Anesthesia for open or surgical arthroscopic procedures on humeral head and neck, sternoclavicular joint, acromioclavicular joint, and shoulder joint; not otherwise specified",5.0,medical
+1634,"Anesthesia for open or surgical arthroscopic procedures on humeral head and neck, sternoclavicular joint, acromioclavicular joint, and shoulder joint; shoulder disarticulation",9.0,medical
+1636,"Anesthesia for open or surgical arthroscopic procedures on humeral head and neck, sternoclavicular joint, acromioclavicular joint, and shoulder joint; interthoracoscapular (forequarter) amputation",15.0,medical
+1638,"Anesthesia for open or surgical arthroscopic procedures on humeral head and neck, sternoclavicular joint, acromioclavicular joint, and shoulder joint; total shoulder replacement",10.0,medical
+1650,Anesthesia for procedures on arteries of shoulder and axilla; not otherwise specified,6.0,medical
+1652,Anesthesia for procedures on arteries of shoulder and axilla; axillary-brachial aneurysm,10.0,medical
+1654,Anesthesia for procedures on arteries of shoulder and axilla; bypass graft,8.0,medical
+1656,Anesthesia for procedures on arteries of shoulder and axilla; axillary-femoral bypass graft,10.0,medical
+1670,Anesthesia for all procedures on veins of shoulder and axilla,4.0,medical
+1680,"Anesthesia for shoulder cast application, removal or repair, not otherwise specified",3.0,medical
+1710,"Anesthesia for procedures on nerves, muscles, tendons, fascia, and bursae of upper arm and elbow; not otherwise specified",3.0,medical
+1712,"Anesthesia for procedures on nerves, muscles, tendons, fascia, and bursae of upper arm and elbow; tenotomy, elbow to shoulder, open",5.0,medical
+1714,"Anesthesia for procedures on nerves, muscles, tendons, fascia, and bursae of upper arm and elbow; tenoplasty, elbow to shoulder",5.0,medical
+1716,"Anesthesia for procedures on nerves, muscles, tendons, fascia, and bursae of upper arm and elbow; tenodesis, rupture of long tendon of biceps",5.0,medical
+1730,Anesthesia for all closed procedures on humerus and elbow,3.0,medical
+1732,Anesthesia for diagnostic arthroscopic procedures of elbow joint,3.0,medical
+1740,Anesthesia for open or surgical arthroscopic procedures of the elbow; not otherwise specified,4.0,medical
+1742,Anesthesia for open or surgical arthroscopic procedures of the elbow; osteotomy of humerus,5.0,medical
+1744,Anesthesia for open or surgical arthroscopic procedures of the elbow; repair of nonunion or malunion of humerus,5.0,medical
+1756,Anesthesia for open or surgical arthroscopic procedures of the elbow; radical procedures,6.0,medical
+1758,"Anesthesia for open or surgical arthroscopic procedures of the elbow, excision of cyst or tumor of humerus",5.0,medical
+1760,Anesthesia for open or surgical arthroscopic procedures of the elbow total elbow replacement,7.0,medical
+1770,Anesthesia for procedures on arteries of upper arm and elbow; not otherwise specified,6.0,medical
+1772,Anesthesia for procedures on arteries of upper arm and elbow; embolectomy,6.0,medical
+1780,Anesthesia for procedures on veins of upper arm and elbow; not otherwise specified,3.0,medical
+1782,Anesthesia for procedures on veins of upper arm and elbow; phleborrhaphy,4.0,medical
+1810,"Anesthesia for all procedures on nerves, muscles, tendons, fascia, and bursae of forearm, wrist, and hand",3.0,medical
+1820,"Anesthesia for all closed procedures on radius, ulna, wrist, or hand bones",3.0,medical
+1829,Anesthesia for diagnostic arthroscopic procedures on the wrist,3.0,medical
+1830,"Anesthesia for open or surgical arthroscopic/endoscopic procedures on distal radius, distal ulna, wrist, or hand joints; not otherwise specified",3.0,medical
+1832,"Anesthesia for open or surgical arthroscopic/endoscopic procedures on distal radius, distal ulna, wrist, or hand joints; total wrist replacement",6.0,medical
+1840,"Anesthesia for procedures on arteries of forearm, wrist, and hand; not otherwise specified",6.0,medical
+1842,"Anesthesia for procedures on arteries of forearm, wrist, and hand; embolectomy",6.0,medical
+1844,"Anesthesia for vascular shunt, or shunt revision, any type (eg, dialysis)",6.0,medical
+1850,"Anesthesia for procedures on veins of forearm, wrist, and hand; not otherwise specified",3.0,medical
+1852,"Anesthesia for procedures on veins of forearm, wrist, and hand; phleborrhaphy",4.0,medical
+1860,"Anesthesia for forearm, wrist, or hand cast application, removal, or repair",3.0,medical
+1916,Anesthesia for diagnostic arteriography/venography,5.0,medical
+1920,Anesthesia for cardiac catheterization including coronary angiography and ventriculography (not to include Swan-Ganz catheter),7.0,medical
+1922,Anesthesia for non-invasive imaging or radiation therapy,7.0,medical
+1924,Anesthesia for therapeutic interventional radiological procedures involving the arterial system; not otherwise specified,6.0,medical
+1925,Anesthesia for therapeutic interventional radiological procedures involving the arterial system; carotid or coronary,8.0,medical
+1926,"Anesthesia for therapeutic interventional radiological procedures involving the arterial system; intracranial, intracardiac, or aortic",10.0,medical
+1930,Anesthesia for therapeutic interventional radiological procedures involving the venous/lymphatic system (not to include access to the central circulation); not otherwise specified,5.0,medical
+1931,"Anesthesia for therapeutic interventional radiological procedures involving the venous/lymphatic system (not to include access to the central circulation); intrahepatic or portal circulation (eg, transvenous intrahepatic portosystemic shunt[s] [TIPS])",7.0,medical
+1932,Anesthesia for therapeutic interventional radiological procedures involving the venous/lymphatic system (not to include access to the central circulation); intrathoracic or jugular,7.0,medical
+1933,Anesthesia for therapeutic interventional radiological procedures involving the venous/lymphatic system (not to include access to the central circulation); intracranial,8.0,medical
+1935,Anesthesia for percutaneous image guided procedures on the spine and spinal cord; diagnostic,5.0,medical
+1936,Anesthesia for percutaneous image guided procedures on the spine and spinal cord; therapeutic,5.0,medical
+1951,"Anesthesia for second- and third-degree burn excision or debridement with or without skin grafting, any site, for total body surface area (TBSA) treated during anesthesia and surgery; less than 4% total body surface area",3.0,medical
+1952,"Anesthesia for second- and third-degree burn excision or debridement with or without skin grafting, any site, for total body surface area (TBSA) treated during anesthesia and surgery; between 4% and 9% of total body surface area",5.0,medical
+1953,"Anesthesia for second- and third-degree burn excision or debridement with or without skin grafting, any site, for total body surface area (TBSA) treated during anesthesia and surgery, each additional 9% total body surface area or part thereof (List separately in addition to code for primary procedure)",1.0,medical
+1958,Anesthesia for external cephalic version procedure,5.0,medical
+1960,Anesthesia for vaginal delivery only,5.0,medical
+1961,Anesthesia for cesarean delivery only,7.0,medical
+1962,Anesthesia for urgent hysterectomy following delivery,8.0,medical
+1963,Anesthesia for cesarean hysterectomy without any labor analgesia/anesthesia care,10.0,medical
+1965,Anesthesia for incomplete or missed abortion procedures,4.0,medical
+1966,Anesthesia for induced abortion procedures,4.0,medical
+1967,Neuraxial labor analgesia/anesthesia for planned vaginal delivery (this includes any repeat subarachnoid needle placement and drug injection and/or any necessary replacement of an epidural catheter during labor),5.0,medical
+1968,Anesthesia for cesarean delivery following neuraxial labor analgesia/anesthesia (List separately in addition to code for primary procedure performed),3.0,medical
+1969,Anesthesia for cesarean hysterectomy following neuraxial labor analgesia/anesthesia (List separately in addition to code for primary procedure performed),5.0,medical
+1990,Physiological support for harvesting of organ(s) from braindead -patient,7.0,medical
+1991,Anesthesia for diagnostic or therapeutic nerve blocks and injections (when block or injection is performed by a different physician or other qualified health care professional); other than the prone position,3.0,medical
+1992,Anesthesia for diagnostic or therapeutic nerve blocks and injections (when block or injection is performed by a different physician or other qualified health care professional); prone position,5.0,medical
+1996,Daily hospital management of epidural or subarachnoid continuous drug administration,3.0,medical
+1999,Unlisted anesthesia procedure(s),0.0,medical
+99100,"Anesthesia for patient of extreme age, younger than 1 year and older than 70 (List separately in addition to code for primary anesthesia procedure)",1.0,medical
+99116,Anesthesia complicated by utilization of total body hypothermia (List separately in addition to code for primary anesthesia procedure),5.0,medical
+99135,Anesthesia complicated by utilization of controlled hypotension (List separately in addition to code for primary anesthesia procedure),5.0,medical
+99140,Anesthesia complicated by emergency conditions (specify) (List separately in addition to code for primary anesthesia procedure),2.0,medical

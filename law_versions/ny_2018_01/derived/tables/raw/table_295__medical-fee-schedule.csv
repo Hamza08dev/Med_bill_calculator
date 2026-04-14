@@ -1,0 +1,33 @@
+Code,Description,Relative Value,FUD,PC/TC Split
+87107,"Culture, fungi, definitive identification, each organism; mold",16.63,XXX,0/100
+87109,"Culture, mycoplasma, any source",35.43,XXX,0/100
+87110,"Culture, chlamydia, any source",24.64,XXX,0/100
+87116,"Culture, tubercle or other acid-fast bacilli (eg, TB, AFB, mycobacteria) any source, with isolation and presumptive identification of isolates",19.72,XXX,0/100
+87118,"Culture, mycobacterial, definitive identification, each isolate",16.02,XXX,0/100
+87140,"Culture, typing; immunofluorescent method, each antiserum",9.86,XXX,0/100
+87143,"Culture, typing; gas liquid chromatography (GLC) or high pressure liquid chroma- tography (HPLC) method",23.41,XXX,0/100
+87147,"Culture, typing; immunologic method, other than immunofluorescence (eg, aggluti- nation grouping), per antiserum",8.63,XXX,0/100
+87149,"Culture, typing; identification by nucleic acid (DNA or RNA) probe, direct probe technique, per culture or isolate, each organism probed",24.64,XXX,0/100
+87150,"Culture, typing; identification by nucleic acid (DNA or RNA) probe, amplified probe technique, per culture or isolate, each organism probed",24.64,XXX,0/100
+87152,"Culture, typing; identification by pulse field gel typing",8.63,XXX,0/100
+87153,"Culture, typing; identification by nucleic acid sequencing method, each isolate (eg, sequencing of the 16S rRNA gene)",25.88,XXX,0/100
+87158,"Culture, typing; other methods",8.32,XXX,0/100
+87164,"Dark field examination, any source (eg, penile, vaginal, oral, skin); includes speci- men collection",18.48,XXX,80/20
+87166,"Dark field examination, any source (eg, penile, vaginal, oral, skin); without collec- tion",15.4,XXX,0/100
+87168,Macroscopic examination; arthropod,4.93,XXX,0/100
+87169,Macroscopic examination; parasite,4.93,XXX,0/100
+87172,"Pinworm exam (eg, cellophane tape prep)",4.93,XXX,0/100
+87176,"Homogenization, tissue, for culture",11.09,XXX,0/100
+87177,"Ova and parasites, direct smears, concentration and identification",18.48,XXX,0/100
+87181,"Susceptibility studies, antimicrobial agent; agar dilution method, per agent (eg, antibiotic gradient strip)",10.47,XXX,0/100
+87184,"Susceptibility studies, antimicrobial agent; disk method, per plate (12 or fewer agents)",12.32,XXX,0/100
+87185,"Susceptibility studies, antimicrobial agent; enzyme detection (eg, beta lactamase), per enzyme",12.32,XXX,0/100
+87186,"Susceptibility studies, antimicrobial agent; microdilution or agar dilution (minimum inhibitory concentration [MIC] or breakpoint), each multi-antimicrobial, per plate",14.17,XXX,0/100
+87187,"Susceptibility studies, antimicrobial agent; microdilution or agar dilution, minimum lethal concentration (MLC), each plate (List separately in addition to code for pri- mary procedure)",14.17,XXX,0/100
+87188,"Susceptibility studies, antimicrobial agent; macrobroth dilution method, each agent",14.17,XXX,0/100
+87190,"Susceptibility studies, antimicrobial agent; mycobacteria, proportion method, each agent",9.24,XXX,0/100
+87197,Serum bactericidal titer (Schlichter test),19.72,XXX,0/100
+87205,"Smear, primary source with interpretation; Gram or Giemsa stain for bacteria, fungi, or cell types",8.01,XXX,0/100
+87206,"Smear, primary source with interpretation; fluorescent and/or acid fast stain for bacteria, fungi, parasites, viruses or cell types",14.17,XXX,0/100
+87207,"Smear, primary source with interpretation; special stain for inclusion bodies or parasites (eg, malaria, coccidia, microsporidia, trypanosomes, herpes viruses)",16.02,XXX,0/100
+87209,"Smear, primary source with interpretation; complex special stain (eg, trichrome, iron hemotoxylin) for ova and parasites",8.01,XXX,0/100

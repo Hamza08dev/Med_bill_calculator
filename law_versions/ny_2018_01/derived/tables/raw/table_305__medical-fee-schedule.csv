@@ -1,0 +1,36 @@
+,Code,Description,Relative Value,FUD,PC/TC Split
+,88248,"Chromosome analysis for breakage syndromes; baseline breakage, score 50-100 cells, count 20 cells, 2 karyotypes (eg, for ataxia telangiectasia, Fanconi anemia, fragile X)",166.35,XXX,0/100
+,88249,"Chromosome analysis for breakage syndromes; score 100 cells, clastogen stress (eg, diepoxybutane, mitomycin C, ionizing radiation, UV radiation)",184.83,XXX,0/100
+,88261,"Chromosome analysis; count 5 cells, 1 karyotype, with banding",144.78,XXX,0/100
+,88262,"Chromosome analysis; count 15-20 cells, 2 karyotypes, with banding",215.64,XXX,0/100
+,88263,"Chromosome analysis; count 45 cells for mosaicism, 2 karyotypes, with banding",221.80,XXX,0/100
+,88264,Chromosome analysis; analyze 20-25 cells,184.83,XXX,0/100
+,88267,"Chromosome analysis, amniotic fluid or chorionic villus, count 15 cells, 1 karyo- type, with banding",243.36,XXX,0/100
+,88269,"Chromosome analysis, in situ for amniotic fluid cells, count cells from 6-12 colo- nies, 1 karyotype, with banding",213.79,XXX,0/100
+,88271,"Molecular cytogenetics; DNA probe, each (eg, FISH)",27.99,XXX,0/100
+,88272,"Molecular cytogenetics; chromosomal in situ hybridization, analyze 3-5 cells (eg, for derivatives and markers)",34.91,XXX,0/100
+,88273,"Molecular cytogenetics; chromosomal in situ hybridization, analyze 10-30 cells (eg, for microdeletions)",42.15,XXX,0/100
+,88274,"Molecular cytogenetics; interphase in situ hybridization, analyze 25-99 cells",45.61,XXX,0/100
+,88275,"Molecular cytogenetics; interphase in situ hybridization, analyze 100-300 cells",52.53,XXX,0/100
+,88280,"Chromosome analysis; additional karyotypes, each study",70.24,XXX,0/100
+,88283,"Chromosome analysis; additional specialized banding technique (eg, NOR, C-banding)",55.45,XXX,0/100
+,88285,"Chromosome analysis; additional cells counted, each study",64.69,XXX,0/100
+,88289,Chromosome analysis; additional high resolution study,46.21,XXX,0/100
+,88291,"Cytogenetics and molecular cytogenetics, interpretation and report",24.64,XXX,
+,88299,Unlisted cytogenetic study,BR,XXX,
+,88300,"Level I - Surgical pathology, gross examination only",17.25,XXX,70/30
+,88302,"Level II - Surgical pathology, gross and microscopic examination",33.89,XXX,60/40
+,88304,"Level III - Surgical pathology, gross and microscopic examination",44.36,XXX,60/40
+,88305,"Level IV - Surgical pathology, gross and microscopic examination",64.07,XXX,70/30
+,88307,"Level V - Surgical pathology, gross and microscopic examination",102.89,XXX,75/25
+,88309,"Level VI - Surgical pathology, gross and microscopic examination",142.94,XXX,75/25
++,88311,Decalcification procedure (List separately in addition to code for surgical pathol- ogy examination),16.63,XXX,80/20
+,88312,"Special stain including interpretation and report; Group I for microorganisms (eg, acid fast, methenamine silver)",24.64,XXX,80/20
+,88313,"Special stain including interpretation and report; Group II, all other (eg, iron, tri- chrome), except stain for microorganisms, stains for enzyme constituents, or immunocytochemistry and immunohistochemistry",18.48,XXX,80/20
++,88314,Special stain including interpretation and report; histochemical stain on frozen tis- sue block (List separately in addition to code for primary procedure),33.89,XXX,70/30
+,88319,"Special stain including interpretation and report; Group III, for enzyme constitu- ents",41.89,XXX,80/20
+,88321,Consultation and report on referred slides prepared elsewhere,55.45,XXX,
+,88323,Consultation and report on referred material requiring preparation of slides,64.69,XXX,80/20
+,88325,"Consultation, comprehensive, with review of records and specimens, with report on referred material",86.25,XXX,
+,88329,Pathology consultation during surgery;,40.66,XXX,
+,88331,"Pathology consultation during surgery; first tissue block, with frozen section(s), single specimen",78.24,XXX,75/25

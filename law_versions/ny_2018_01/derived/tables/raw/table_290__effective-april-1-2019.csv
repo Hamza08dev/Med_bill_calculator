@@ -1,0 +1,42 @@
+Code,Description,Relative Value,FUD,PC/TC Split
+86352,"Cellular function assay involving stimulation (eg, mitogen or antigen) and detec- tion of biomarker (eg, ATP)",177.71,XXX,0/100
+86353,"Lymphocyte transformation, mitogen (phytomitogen) or antigen induced blasto- genesis",86.25,XXX,0/100
+86355,"B cells, total count",40.05,XXX,0/100
+86356,"Mononuclear cell antigen, quantitative (eg, flow cytometry), not otherwise speci- fied, each antigen",30.81,XXX,0/100
+86357,"Natural killer (NK) cells, total count",40.05,XXX,0/100
+86359,T cells; total count,40.66,XXX,0/100
+86360,"T cells; absolute CD4 and CD8 count, including ratio",61.61,XXX,0/100
+86361,T cells; absolute CD4 count,51.14,XXX,0/100
+86367,"Stem cells (ie, CD34), total count",40.05,XXX,0/100
+86376,"Microsomal antibodies (eg, thyroid or liver-kidney), each",25.88,XXX,0/100
+86382,"Neutralization test, viral",28.34,XXX,0/100
+86384,Nitroblue tetrazolium dye test (NTD),21.56,XXX,0/100
+86386,"Nuclear Matrix Protein 22 (NMP22), qualitative",20.76,XXX,0/100
+86403,"Particle agglutination; screen, each antibody",9.86,XXX,0/100
+86406,"Particle agglutination; titer, each antibody",11.40,XXX,0/100
+86430,Rheumatoid factor; qualitative,11.71,XXX,0/100
+86431,Rheumatoid factor; quantitative,13.55,XXX,0/100
+86480,"Tuberculosis test, cell mediated immunity antigen response measurement;gamma interferon",20.33,XXX,0/100
+86481,"Tuberculosis test, cell mediated immunity antigen response measurement; enu- meration of gamma interferon-producing T-cells in cell suspension",20.33,XXX,0/100
+86485,Skin test; candida,9.24,XXX,0/100
+86486,"Skin test; unlisted antigen, each",6.16,XXX,0/100
+86490,Skin test; coccidioidomycosis,8.63,XXX,0/100
+86510,Skin test; histoplasmosis,9.24,XXX,0/100
+86580,"Skin test; tuberculosis, intradermal",8.01,XXX,0/100
+86590,"Streptokinase, antibody",11.09,XXX,0/100
+86592,"Syphilis test, non-treponemal antibody; qualitative (eg, VDRL, RPR, ART)",8.01,XXX,0/100
+86593,"Syphilis test, non-treponemal antibody; quantitative",8.63,XXX,0/100
+86602,Antibody; actinomyces,24.64,XXX,0/100
+86603,Antibody; adenovirus,24.64,XXX,0/100
+86606,Antibody; Aspergillus,27.11,XXX,0/100
+86609,"Antibody; bacterium, not elsewhere specified",33.89,XXX,0/100
+86611,Antibody; Bartonella,27.72,XXX,0/100
+86612,Antibody; Blastomyces,27.11,XXX,0/100
+86615,Antibody; Bordetella,30.81,XXX,0/100
+86617,"Antibody; Borrelia burgdorferi (Lyme disease) confirmatory test (eg, Western Blot or immunoblot)",32.65,XXX,0/100
+86618,Antibody; Borrelia burgdorferi (Lyme disease),30.81,XXX,0/100
+86619,Antibody; Borrelia (relapsing fever),24.64,XXX,0/100
+86622,Antibody; Brucella,18.48,XXX,0/100
+86625,Antibody; Campylobacter,30.81,XXX,0/100
+86628,Antibody; Candida,29.57,XXX,0/100
+86631 86632,"Antibody; Chlamydia Antibody; Chlamydia, IgM",21.56 24.03,XXX XXX,0/100 0/100

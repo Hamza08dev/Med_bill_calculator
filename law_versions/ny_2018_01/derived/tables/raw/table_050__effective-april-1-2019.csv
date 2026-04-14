@@ -1,0 +1,35 @@
+Code,Description,Basic Unit
+00860,"Anesthesia for extraperitoneal procedures in lower abdomen, including urinary tract; not otherwise speci- fied",6
+00862,"Anesthesia for extraperitoneal procedures in lower abdomen, including urinary tract; renal procedures, including upper one-third of ureter, or donor nephrectomy",7
+00864,"Anesthesia for extraperitoneal procedures in lower abdomen, including urinary tract; total cystectomy",8
+00865,"Anesthesia for extraperitoneal procedures in lower abdomen, including urinary tract; radical prostatec- tomy (suprapubic, retropubic)",7
+00866,"Anesthesia for extraperitoneal procedures in lower abdomen, including urinary tract; adrenalectomy",10
+00868,"Anesthesia for extraperitoneal procedures in lower abdomen, including urinary tract; renal transplant (recipient)",10
+00870,"Anesthesia for extraperitoneal procedures in lower abdomen, including urinary tract; cystolithotomy",5
+00872,"Anesthesia for lithotripsy, extracorporeal shock wave; with water bath",7
+00873,"Anesthesia for lithotripsy, extracorporeal shock wave; without water bath",5
+00880,Anesthesia for procedures on major lower abdominal vessels; not otherwise specified,15
+00882,Anesthesia for procedures on major lower abdominal vessels; inferior vena cava ligation,10
+00902,Anesthesia for; anorectal procedure,5
+00904,Anesthesia for; radical perineal procedure,7
+00906,Anesthesia for; vulvectomy,4
+00908,Anesthesia for; perineal prostatectomy,6
+00910,Anesthesia for transurethral procedures (including urethrocystoscopy); not otherwise specified,3
+00912,Anesthesia for transurethral procedures (including urethrocystoscopy); transurethral resection of bladder tumor(s),5
+00914,Anesthesia for transurethral procedures (including urethrocystoscopy); transurethral resection of prostate,5
+00916,Anesthesia for transurethral procedures (including urethrocystoscopy); post-transurethral resection bleeding,5
+00918,"Anesthesia for transurethral procedures (including urethrocystoscopy); with fragmentation, manipulation and/or removal of ureteral calculus",5
+00920,Anesthesia for procedures on male genitalia (including open urethral procedures); not otherwise specified,3
+00921,"Anesthesia for procedures on male genitalia (including open urethral procedures); vasectomy, unilateral or bilateral",3
+00922,Anesthesia for procedures on male genitalia (including open urethral procedures); seminal vesicles,6
+00924,"Anesthesia for procedures on male genitalia (including open urethral procedures); undescended testis, unilateral or bilateral",4
+00926,"Anesthesia for procedures on male genitalia (including open urethral procedures); radical orchiectomy, inguinal",4
+00928,"Anesthesia for procedures on male genitalia (including open urethral procedures); radical orchiectomy, abdominal",6
+00930,"Anesthesia for procedures on male genitalia (including open urethral procedures); orchiopexy, unilateral or bilateral",4
+00932,Anesthesia for procedures on male genitalia (including open urethral procedures); complete amputation of penis,4
+00934,Anesthesia for procedures on male genitalia (including open urethral procedures); radical amputation of penis with bilateral inguinal lymphadenectomy,6
+00936,Anesthesia for procedures on male genitalia (including open urethral procedures); radical amputation of penis with bilateral inguinal and iliac lymphadenectomy,8
+00938,Anesthesia for procedures on male genitalia (including open urethral procedures); insertion of penile pros- thesis (perineal approach),4
+00940,"Anesthesia for vaginal procedures (including biopsy of labia, vagina, cervix or endometrium); not otherwise specified",3
+00942,"Anesthesia for vaginal procedures (including biopsy of labia, vagina, cervix or endometrium); colpotomy, vaginectomy, colporrhaphy, and open urethral procedures",4
+00944,"Anesthesia for vaginal procedures (including biopsy of labia, vagina, cervix or endometrium); vaginal hys- terectomy",6
